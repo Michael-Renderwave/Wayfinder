@@ -1,0 +1,10017 @@
+{
+ "built": "2026-09-10",
+ "total_countries": 197,
+ "countries": [
+  {
+   "name": "Antigua and Barbuda",
+   "canonical": "Antigua and Barbuda",
+   "aliases": [
+    "Antigua",
+    "Barbuda",
+    "Antigua & Barbuda"
+   ],
+   "capital": "St. John's",
+   "top_destinations": [
+    "St. John's",
+    "Barbuda",
+    "English Harbour",
+    "Falmouth"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Argentina",
+   "canonical": "Argentina",
+   "aliases": [
+    "Argentine"
+   ],
+   "capital": "Buenos Aires",
+   "top_destinations": [
+    "Buenos Aires",
+    "Patagonia",
+    "Iguazú Falls",
+    "Mendoza",
+    "Bariloche",
+    "Salta"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Bahamas",
+   "canonical": "Bahamas",
+   "aliases": [
+    "The Bahamas",
+    "New Providence"
+   ],
+   "capital": "Nassau",
+   "top_destinations": [
+    "Nassau",
+    "Paradise Island",
+    "Exumas",
+    "Andros",
+    "Harbour Island"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Barbados",
+   "canonical": "Barbados",
+   "aliases": [
+    "Bajan"
+   ],
+   "capital": "Bridgetown",
+   "top_destinations": [
+    "Bridgetown",
+    "Holetown",
+    "Sandy Bay",
+    "Christ Church"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Belize",
+   "canonical": "Belize",
+   "aliases": [
+    "Belizean"
+   ],
+   "capital": "Belmopan",
+   "top_destinations": [
+    "Belmopan",
+    "San Ignacio",
+    "Caye Caulker",
+    "Ambergris Caye",
+    "Blue Hole"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Bolivia",
+   "canonical": "Bolivia",
+   "aliases": [
+    "Bolivian"
+   ],
+   "capital": "La Paz",
+   "top_destinations": [
+    "La Paz",
+    "Salar de Uyuni",
+    "Sucre",
+    "Potosí",
+    "Lake Titicaca"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Brazil",
+   "canonical": "Brazil",
+   "aliases": [
+    "Brazilian"
+   ],
+   "capital": "Brasília",
+   "top_destinations": [
+    "Brasília",
+    "Rio de Janeiro",
+    "São Paulo",
+    "Salvador",
+    "Manaus",
+    "Florianópolis"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Canada",
+   "canonical": "Canada",
+   "aliases": [
+    "Canadian"
+   ],
+   "capital": "Ottawa",
+   "top_destinations": [
+    "Ottawa",
+    "Vancouver",
+    "Toronto",
+    "Banff & Jasper",
+    "Montreal",
+    "Quebec City"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Cayman Islands",
+   "canonical": "Cayman Islands",
+   "aliases": [
+    "Cayman",
+    "Cayman Islands",
+    "CIs"
+   ],
+   "capital": "George Town",
+   "top_destinations": [
+    "George Town",
+    "Seven Mile Beach",
+    "West Point",
+    "St. Regis"
+   ],
+   "continent": "americas",
+   "source": "manual addition 2026-09-16: British Overseas Territory (KY); capital George Town",
+   "url": "https://en.wikipedia.org/wiki/Cayman_Islands"
+  },
+  {
+   "name": "Chile",
+   "canonical": "Chile",
+   "aliases": [
+    "Chilean"
+   ],
+   "capital": "Santiago",
+   "top_destinations": [
+    "Santiago",
+    "Atacama",
+    "Valparaíso",
+    "Torres del Paine",
+    "Easter Island",
+    "Puerto Natales"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Colombia",
+   "canonical": "Colombia",
+   "aliases": [
+    "Colombian"
+   ],
+   "capital": "Bogotá",
+   "top_destinations": [
+    "Bogotá",
+    "Cartagena",
+    "Medellín",
+    "San Andrés",
+    "Salento",
+    "Tayrona"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Costa Rica",
+   "canonical": "Costa Rica",
+   "aliases": [
+    "Tica"
+   ],
+   "capital": "San José",
+   "top_destinations": [
+    "San José",
+    "Manuel Antonio",
+    "Arenal",
+    "Monteverde",
+    "Tortuguero",
+    "Tamarindo"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Cuba",
+   "canonical": "Cuba",
+   "aliases": [
+    "Cuban"
+   ],
+   "capital": "Havana",
+   "top_destinations": [
+    "Havana",
+    "Varadero",
+    "Trinidad",
+    "Santiago de Cuba",
+    "Viñales"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Dominica",
+   "canonical": "Dominica",
+   "aliases": [
+    "Dominica (island)",
+    "WDOM"
+   ],
+   "capital": "Roseau",
+   "top_destinations": [
+    "Roseau",
+    "Soufrière",
+    "Morne Bruce",
+    "Windsor waterfall"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Dominican Republic",
+   "canonical": "Dominican Republic",
+   "aliases": [
+    "DR",
+    "Dominican"
+   ],
+   "capital": "Santo Domingo",
+   "top_destinations": [
+    "Santo Domingo",
+    "Punta Cana",
+    "Cap Cana",
+    "Samaná",
+    "Saona Island"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Ecuador",
+   "canonical": "Ecuador",
+   "aliases": [
+    "Ecuadorean"
+   ],
+   "capital": "Quito",
+   "top_destinations": [
+    "Quito",
+    "Guayaquil",
+    "Galápagos",
+    "Baños",
+    "Cotopaxi"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "El Salvador",
+   "canonical": "El Salvador",
+   "aliases": [
+    "Salvadoran"
+   ],
+   "capital": "San Salvador",
+   "top_destinations": [
+    "San Salvador",
+    "Surf City",
+    "Santa Ana",
+    "Lake Ilopango",
+    "San Miguel"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Guatemala",
+   "canonical": "Guatemala",
+   "aliases": [
+    "Guatemalan"
+   ],
+   "capital": "Guatemala City",
+   "top_destinations": [
+    "Guatemala City",
+    "Antigua",
+    "Lake Atitlán",
+    "Tikal",
+    "Quetzaltenango",
+    "Flores"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Grenada",
+   "canonical": "Grenada",
+   "aliases": [
+    "The Spice Island"
+   ],
+   "capital": "St. George's",
+   "top_destinations": [
+    "St. George's",
+    "Grand Anse",
+    "Carenage",
+    "Carriacou"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Guyana",
+   "canonical": "Guyana",
+   "aliases": [
+    "Guyanese"
+   ],
+   "capital": "Georgetown",
+   "top_destinations": [
+    "Georgetown",
+    "Kaieteur Falls",
+    "Kaieteur National Park",
+    "Rupununi Savanna"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Haiti",
+   "canonical": "Haiti",
+   "aliases": [
+    "Haitian"
+   ],
+   "capital": "Port-au-Prince",
+   "top_destinations": [
+    "Port-au-Prince",
+    "Jacmel",
+    "Les Cayes",
+    "Île de la Tortue"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Honduras",
+   "canonical": "Honduras",
+   "aliases": [
+    "Honduran"
+   ],
+   "capital": "Tegucigalpa",
+   "top_destinations": [
+    "Tegucigalpa",
+    "Roatán",
+    "La Ceiba",
+    "Copán",
+    "Bay Islands"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Jamaica",
+   "canonical": "Jamaica",
+   "aliases": [
+    "Jamaican"
+   ],
+   "capital": "Kingston",
+   "top_destinations": [
+    "Kingston",
+    "Montego Bay",
+    "Ocho Rios",
+    "Negril",
+    "Port Antonio",
+    "Blue Mountains"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Mexico",
+   "canonical": "Mexico",
+   "aliases": [
+    "Mexican"
+   ],
+   "capital": "Mexico City",
+   "top_destinations": [
+    "Mexico City",
+    "Cancún",
+    "Oaxaca",
+    "Tulum",
+    "Los Cabos",
+    "Guanajuato"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Nicaragua",
+   "canonical": "Nicaragua",
+   "aliases": [
+    "Nicaraguan"
+   ],
+   "capital": "Managua",
+   "top_destinations": [
+    "Managua",
+    "León",
+    "Granada",
+    "Ometepe Island",
+    "San Juan del Sur",
+    "Masaya"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Panama",
+   "canonical": "Panama",
+   "aliases": [
+    "Panamanian"
+   ],
+   "capital": "Panama City",
+   "top_destinations": [
+    "Panama City",
+    "Bocas del Toro",
+    "San Blas",
+    "Boquete",
+    "Santa Catalina"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Paraguay",
+   "canonical": "Paraguay",
+   "aliases": [
+    "Paraguayan"
+   ],
+   "capital": "Asunción",
+   "top_destinations": [
+    "Asunción",
+    "Ciudad del Este",
+    "Encarnación",
+    "Itaipú"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Peru",
+   "canonical": "Peru",
+   "aliases": [
+    "Peruvian"
+   ],
+   "capital": "Lima",
+   "top_destinations": [
+    "Lima",
+    "Cusco",
+    "Machu Picchu",
+    "Arequipa",
+    "Lake Titicaca",
+    "Huacachina"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Saint Kitts and Nevis",
+   "canonical": "Saint Kitts and Nevis",
+   "aliases": [
+    "Saint Kitts",
+    "St. Kitts",
+    "Nevis",
+    "St. Kitts and Nevis"
+   ],
+   "capital": "Basseterre",
+   "top_destinations": [
+    "Basseterre",
+    "St. Kitts",
+    "Nevis",
+    "Red Hook"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Saint Lucia",
+   "canonical": "Saint Lucia",
+   "aliases": [
+    "St. Lucia",
+    "Lucian"
+   ],
+   "capital": "Castries",
+   "top_destinations": [
+    "Castries",
+    "Soufrière",
+    "Anse Raymond",
+    "Rodney Bay",
+    "Gros Islet"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Saint Vincent and the Grenadines",
+   "canonical": "Saint Vincent and the Grenadines",
+   "aliases": [
+    "Saint Vincent",
+    "St. Vincent",
+    "The Grenadines",
+    "SVG"
+   ],
+   "capital": "Kingstown",
+   "top_destinations": [
+    "Kingstown",
+    "St. Vincent",
+    "Bequia",
+    "Union Island",
+    "Canouan"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Suriname",
+   "canonical": "Suriname",
+   "aliases": [
+    "Surinamese"
+   ],
+   "capital": "Paramaribo",
+   "top_destinations": [
+    "Paramaribo",
+    "Central Suriname Nature Reserve",
+    "Kootstreek",
+    "Marowijne River"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Trinidad and Tobago",
+   "canonical": "Trinidad and Tobago",
+   "aliases": [
+    "Trinidad",
+    "Tobago",
+    "Trini"
+   ],
+   "capital": "Port of Spain",
+   "top_destinations": [
+    "Port of Spain",
+    "Tobago",
+    "Arima"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "United States",
+   "canonical": "United States",
+   "aliases": [
+    "USA",
+    "US",
+    "United States of America",
+    "America"
+   ],
+   "capital": "Washington, D.C.",
+   "top_destinations": [
+    "Washington",
+    "New York",
+    "Los Angeles",
+    "Miami",
+    "Orlando",
+    "Las Vegas"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Uruguay",
+   "canonical": "Uruguay",
+   "aliases": [
+    "Uruguayan"
+   ],
+   "capital": "Montevideo",
+   "top_destinations": [
+    "Montevideo",
+    "Punta del Este",
+    "Colonia del Sacramento",
+    "Punta del Diablo"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Venezuela",
+   "canonical": "Venezuela",
+   "aliases": [
+    "Venezuelan"
+   ],
+   "capital": "Caracas",
+   "top_destinations": [
+    "Caracas",
+    "Los Roques",
+    "Canaima",
+    "Mérida",
+    "Margarita Island"
+   ],
+   "continent": "americas",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Albania",
+   "canonical": "Albania",
+   "aliases": [
+    "Albanian"
+   ],
+   "capital": "Tirana",
+   "top_destinations": [
+    "Tirana",
+    "Durrës",
+    "Berat",
+    "Gjirokastër",
+    "Ksamil",
+    "Butrint"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Andorra",
+   "canonical": "Andorra",
+   "aliases": [
+    "Principality of Andorra"
+   ],
+   "capital": "Andorra la Vella",
+   "top_destinations": [
+    "Andorra la Vella",
+    "Soldeu",
+    "Pal",
+    "Escaldes-Engordany"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Austria",
+   "canonical": "Austria",
+   "aliases": [
+    "Austrian"
+   ],
+   "capital": "Vienna",
+   "top_destinations": [
+    "Vienna",
+    "Salzburg",
+    "Innsbruck",
+    "Hallstatt",
+    "Graz",
+    "Lake Wolfgang"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Belarus",
+   "canonical": "Belarus",
+   "aliases": [
+    "Byelorussia"
+   ],
+   "capital": "Minsk",
+   "top_destinations": [
+    "Minsk",
+    "Brest",
+    "Mir",
+    "Nesvizh"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Belgium",
+   "canonical": "Belgium",
+   "aliases": [
+    "Belgian"
+   ],
+   "capital": "Brussels",
+   "top_destinations": [
+    "Brussels",
+    "Bruges",
+    "Ghent",
+    "Antwerp",
+    "Ardennes"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Bosnia and Herzegovina",
+   "canonical": "Bosnia and Herzegovina",
+   "aliases": [
+    "Bosnia",
+    "Bosnia & Herzegovina",
+    "Bosnia-Herzegovina"
+   ],
+   "capital": "Sarajevo",
+   "top_destinations": [
+    "Sarajevo",
+    "Mostar",
+    "Blagaj",
+    "Jajce",
+    "Una valley"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Bulgaria",
+   "canonical": "Bulgaria",
+   "aliases": [
+    "Bulgarian"
+   ],
+   "capital": "Sofia",
+   "top_destinations": [
+    "Sofia",
+    "Plovdiv",
+    "Varna",
+    "Black Sea coast",
+    "Rila",
+    "Pirin mountains"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Croatia",
+   "canonical": "Croatia",
+   "aliases": [
+    "Croatian"
+   ],
+   "capital": "Zagreb",
+   "top_destinations": [
+    "Zagreb",
+    "Dubrovnik",
+    "Split",
+    "Zadar",
+    "Plitvice Lakes",
+    "Istria"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Cyprus",
+   "canonical": "Cyprus",
+   "aliases": [
+    "Cypriot"
+   ],
+   "capital": "Nicosia",
+   "top_destinations": [
+    "Nicosia",
+    "Paphos",
+    "Limassol",
+    "Larnaca",
+    "Troodos",
+    "Ayia Napa"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Czechia",
+   "canonical": "Czechia",
+   "aliases": [
+    "Czech Republic",
+    "Czech"
+   ],
+   "capital": "Prague",
+   "top_destinations": [
+    "Prague",
+    "Český Krumlov",
+    "Karlštejn",
+    "Brno",
+    "spa towns"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Denmark",
+   "canonical": "Denmark",
+   "aliases": [
+    "Danish"
+   ],
+   "capital": "Copenhagen",
+   "top_destinations": [
+    "Copenhagen",
+    "Aarhus",
+    "Odense",
+    "Bornholm",
+    "Wadden coast"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Estonia",
+   "canonical": "Estonia",
+   "aliases": [
+    "Estonian"
+   ],
+   "capital": "Tallinn",
+   "top_destinations": [
+    "Tallinn",
+    "Saaremaa",
+    "Pärnu",
+    "Lahemaa"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Finland",
+   "canonical": "Finland",
+   "aliases": [
+    "Finnish"
+   ],
+   "capital": "Helsinki",
+   "top_destinations": [
+    "Helsinki",
+    "Lapland",
+    "Åland islands",
+    "Tampere",
+    "thousand lakes"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "France",
+   "canonical": "France",
+   "aliases": [
+    "French"
+   ],
+   "capital": "Paris",
+   "top_destinations": [
+    "Paris",
+    "Côte d'Azur",
+    "Marseille & Provence",
+    "Dordogne",
+    "Normandy",
+    "Alps"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Germany",
+   "canonical": "Germany",
+   "aliases": [
+    "German"
+   ],
+   "capital": "Berlin",
+   "top_destinations": [
+    "Berlin",
+    "Munich",
+    "Rhine valley",
+    "Bavarian Alps",
+    "Hamburg",
+    "Black Forest"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Greece",
+   "canonical": "Greece",
+   "aliases": [
+    "Greek"
+   ],
+   "capital": "Athens",
+   "top_destinations": [
+    "Athens",
+    "Santorini",
+    "Crete",
+    "Mykonos",
+    "Meteora",
+    "Corfu"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Hungary",
+   "canonical": "Hungary",
+   "aliases": [
+    "Hungarian"
+   ],
+   "capital": "Budapest",
+   "top_destinations": [
+    "Budapest",
+    "Lake Balaton",
+    "Aggtelek caves",
+    "Visegrád",
+    "Tokaj wine region"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Ireland",
+   "canonical": "Ireland",
+   "aliases": [
+    "Irish",
+    "Republic of Ireland"
+   ],
+   "capital": "Dublin",
+   "top_destinations": [
+    "Dublin",
+    "Cliffs of Moher",
+    "Ring of Kerry",
+    "Dingle",
+    "Wild Atlantic Way",
+    "Aran Islands"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Iceland",
+   "canonical": "Iceland",
+   "aliases": [
+    "Icelandic"
+   ],
+   "capital": "Reykjavík",
+   "top_destinations": [
+    "Reykjavík",
+    "Golden Circle",
+    "south coast",
+    "Westfjords",
+    "highlands",
+    "Snæfellsnes"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Italy",
+   "canonical": "Italy",
+   "aliases": [
+    "Italian"
+   ],
+   "capital": "Rome",
+   "top_destinations": [
+    "Rome",
+    "Florence",
+    "Venice",
+    "Amalfi Coast",
+    "Sicily",
+    "Tuscany"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Latvia",
+   "canonical": "Latvia",
+   "aliases": [
+    "Latvian"
+   ],
+   "capital": "Riga",
+   "top_destinations": [
+    "Riga",
+    "Sigulda",
+    "Curonian Lagoon",
+    "Jurmala"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Liechtenstein",
+   "canonical": "Liechtenstein",
+   "aliases": [
+    "Principality of Liechtenstein"
+   ],
+   "capital": "Vaduz",
+   "top_destinations": [
+    "Vaduz",
+    "Malbun",
+    "Schaan",
+    "Rhine valley"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Lithuania",
+   "canonical": "Lithuania",
+   "aliases": [
+    "Lithuanian"
+   ],
+   "capital": "Vilnius",
+   "top_destinations": [
+    "Vilnius",
+    "Curonian Spit",
+    "Trakai",
+    "Kaunas"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Luxembourg",
+   "canonical": "Luxembourg",
+   "aliases": [
+    "Grand Duchy of Luxembourg"
+   ],
+   "capital": "Luxembourg City",
+   "top_destinations": [
+    "Luxembourg City",
+    "Mullerthalz",
+    "Vianden",
+    "Clervaux"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Malta",
+   "canonical": "Malta",
+   "aliases": [
+    "Maltese"
+   ],
+   "capital": "Valletta",
+   "top_destinations": [
+    "Valletta",
+    "Sliema",
+    "Blue Lagoon",
+    "Mdina",
+    "Gozo"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Moldova",
+   "canonical": "Moldova",
+   "aliases": [
+    "Moldovan"
+   ],
+   "capital": "Chisinau",
+   "top_destinations": [
+    "Chisinau",
+    "Orheiul Vechi",
+    "Soroca",
+    "Cricova wine caves"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Monaco",
+   "canonical": "Monaco",
+   "aliases": [
+    "Principality of Monaco"
+   ],
+   "capital": "Monaco",
+   "top_destinations": [
+    "Monaco",
+    "Monte Carlo",
+    "Monaco-Ville",
+    "Larvotto",
+    "Menton"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Montenegro",
+   "canonical": "Montenegro",
+   "aliases": [
+    "Montenegrin"
+   ],
+   "capital": "Podgorica",
+   "top_destinations": [
+    "Podgorica",
+    "Kotor",
+    "Budva",
+    "Sveti Stefan",
+    "Durmitor National Park",
+    "Perast"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Netherlands",
+   "canonical": "Netherlands",
+   "aliases": [
+    "Dutch",
+    "Holland"
+   ],
+   "capital": "Amsterdam",
+   "top_destinations": [
+    "Amsterdam",
+    "Utrecht",
+    "Delft",
+    "Zaanse Schans",
+    "Veluwe",
+    "Wadden Sea"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "North Macedonia",
+   "canonical": "North Macedonia",
+   "aliases": [
+    "Macedonia"
+   ],
+   "capital": "Skopje",
+   "top_destinations": [
+    "Skopje",
+    "Lake Ohrid",
+    "Matka canyon",
+    "Galicica"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Norway",
+   "canonical": "Norway",
+   "aliases": [
+    "Norwegian"
+   ],
+   "capital": "Oslo",
+   "top_destinations": [
+    "Oslo",
+    "fjords",
+    "Lofoten",
+    "Tromso",
+    "Stavanger"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Poland",
+   "canonical": "Poland",
+   "aliases": [
+    "Polish"
+   ],
+   "capital": "Warsaw",
+   "top_destinations": [
+    "Warsaw",
+    "Krakow",
+    "Tatra Mountains",
+    "Wroclaw",
+    "Gdansk",
+    "Baltyk coast"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Portugal",
+   "canonical": "Portugal",
+   "aliases": [
+    "Portuguese"
+   ],
+   "capital": "Lisbon",
+   "top_destinations": [
+    "Lisbon",
+    "Porto",
+    "Algarve",
+    "Madeira",
+    "Azores",
+    "Evora"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Romania",
+   "canonical": "Romania",
+   "aliases": [
+    "Romanian"
+   ],
+   "capital": "Bucharest",
+   "top_destinations": [
+    "Bucharest",
+    "Transylvania",
+    "Danube Delta",
+    "Carpathians",
+    "Sibiu"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Russia",
+   "canonical": "Russia",
+   "aliases": [
+    "Russian",
+    "Russian Federation"
+   ],
+   "capital": "Moscow",
+   "top_destinations": [
+    "Moscow",
+    "St. Petersburg",
+    "Golden Ring",
+    "Baikal",
+    "Karelia"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "San Marino",
+   "canonical": "San Marino",
+   "aliases": [
+    "Republic of San Marino"
+   ],
+   "capital": "City of San Marino",
+   "top_destinations": [
+    "City of San Marino",
+    "Titano",
+    "Borgo Maggiore"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Serbia",
+   "canonical": "Serbia",
+   "aliases": [
+    "Serbian"
+   ],
+   "capital": "Belgrade",
+   "top_destinations": [
+    "Belgrade",
+    "Danube",
+    "Fruška Gora",
+    "Sremska Karlovca",
+    "castles"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Slovakia",
+   "canonical": "Slovakia",
+   "aliases": [
+    "Slovak"
+   ],
+   "capital": "Bratislava",
+   "top_destinations": [
+    "Bratislava",
+    "Tatra Mountains",
+    "castles",
+    "wine region"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Slovenia",
+   "canonical": "Slovenia",
+   "aliases": [
+    "Slovenian"
+   ],
+   "capital": "Ljubljana",
+   "top_destinations": [
+    "Ljubljana",
+    "Lake Bled",
+    "Soča valley",
+    "Piran",
+    "castles"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Spain",
+   "canonical": "Spain",
+   "aliases": [
+    "Spanish"
+   ],
+   "capital": "Madrid",
+   "top_destinations": [
+    "Madrid",
+    "Barcelona",
+    "Andalusia",
+    "Costa del Sol",
+    "Basque",
+    "Balearic"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Sweden",
+   "canonical": "Sweden",
+   "aliases": [
+    "Swedish"
+   ],
+   "capital": "Stockholm",
+   "top_destinations": [
+    "Stockholm",
+    "Gothenburg",
+    "Lapland",
+    "island of Gotland",
+    "Uppsala"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Switzerland",
+   "canonical": "Switzerland",
+   "aliases": [
+    "Swiss",
+    "Confederation"
+   ],
+   "capital": "Bern",
+   "top_destinations": [
+    "Bern",
+    "Zurich",
+    "Geneva",
+    "Alps",
+    "Lucerne",
+    "Basel"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Ukraine",
+   "canonical": "Ukraine",
+   "aliases": [
+    "Ukrainian"
+   ],
+   "capital": "Kyiv",
+   "top_destinations": [
+    "Kyiv",
+    "Lviv",
+    "Crimea",
+    "Carpathians"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "United Kingdom",
+   "canonical": "United Kingdom",
+   "aliases": [
+    "UK",
+    "Britain",
+    "Great Britain",
+    "England",
+    "Scotland",
+    "Wales"
+   ],
+   "capital": "London",
+   "top_destinations": [
+    "London",
+    "Edinburgh",
+    "Lake District",
+    "Cornwall",
+    "Scottish Highlands",
+    "Wales"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Kosovo",
+   "canonical": "Kosovo",
+   "aliases": [
+    "Republic of Kosovo"
+   ],
+   "capital": "Pristina",
+   "top_destinations": [
+    "Pristina",
+    "Prizren",
+    "Gjakova",
+    "Dukagjini highlands",
+    "Uroševac"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Vatican City",
+   "canonical": "Vatican City",
+   "aliases": [
+    "Vatican",
+    "Vatican City State",
+    "the Vatican"
+   ],
+   "capital": "Vatican City",
+   "top_destinations": [
+    "Vatican City",
+    "St. Peter's Basilica",
+    "Vatican Museums",
+    "Sistine Chapel",
+    "St. Peter's Square"
+   ],
+   "continent": "europe",
+   "source": "",
+   "url": ""
+  },
+  {
+   "name": "Algeria",
+   "canonical": "Algeria",
+   "aliases": [],
+   "capital": "Algiers",
+   "top_destinations": [
+    "Algiers",
+    "Annaba",
+    "Batna",
+    "Bechar",
+    "Constantine",
+    "Oran"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Algeria"
+  },
+  {
+   "name": "Angola",
+   "canonical": "Angola",
+   "aliases": [],
+   "capital": "Luanda",
+   "top_destinations": [
+    "Luanda",
+    "Benguela",
+    "Cabinda",
+    "Huambo",
+    "Lobito",
+    "M'banza-Kongo"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Angola"
+  },
+  {
+   "name": "Benin",
+   "canonical": "Benin",
+   "aliases": [],
+   "capital": "Porto-Novo",
+   "top_destinations": [
+    "Porto-Novo",
+    "Abomey",
+    "Cotonou",
+    "Grand-Popo",
+    "Malanville",
+    "Natitingou"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Benin"
+  },
+  {
+   "name": "Botswana",
+   "canonical": "Botswana",
+   "aliases": [],
+   "capital": "Gaborone",
+   "top_destinations": [
+    "Gaborone",
+    "Francistown",
+    "Ghanzi",
+    "Gweta",
+    "Kanye",
+    "Kasane"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Botswana"
+  },
+  {
+   "name": "Burkina Faso",
+   "canonical": "Burkina Faso",
+   "aliases": [],
+   "capital": "Ouagadougou",
+   "top_destinations": [
+    "Ouagadougou",
+    "Banfora",
+    "Bobo-Dioulasso",
+    "Dédougou",
+    "Gaoua",
+    "Koudougou"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Burkina%20Faso"
+  },
+  {
+   "name": "Burundi",
+   "canonical": "Burundi",
+   "aliases": [],
+   "capital": "Gitega",
+   "top_destinations": [
+    "Gitega",
+    "Bujumbura",
+    "Bururi",
+    "Cibitoke",
+    "Kabezi",
+    "Bururi Forest Natural Reserve"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Burundi"
+  },
+  {
+   "name": "Cabo Verde",
+   "canonical": "Cabo Verde",
+   "aliases": [
+    "Cape Verde"
+   ],
+   "capital": "Praia",
+   "top_destinations": [
+    "Praia"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Cabo%20Verde"
+  },
+  {
+   "name": "Cameroon",
+   "canonical": "Cameroon",
+   "aliases": [],
+   "capital": "Yaoundé",
+   "top_destinations": [
+    "Yaoundé",
+    "Bafoussam",
+    "Bamenda",
+    "Buea",
+    "Douala",
+    "Garoua"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Cameroon"
+  },
+  {
+   "name": "Central African Republic",
+   "canonical": "Central African Republic",
+   "aliases": [
+    "CAR"
+   ],
+   "capital": "Bangui",
+   "top_destinations": [
+    "Bangui",
+    "Bambari",
+    "Bangassou",
+    "Birao",
+    "Bouar",
+    "Bria"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Central%20African%20Republic"
+  },
+  {
+   "name": "Chad",
+   "canonical": "Chad",
+   "aliases": [],
+   "capital": "N'Djamena",
+   "top_destinations": [
+    "N'Djamena",
+    "Moundou",
+    "Abéché",
+    "Faya",
+    "Saharan Chad",
+    "Sahelian Chad"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Chad"
+  },
+  {
+   "name": "Comoros",
+   "canonical": "Comoros",
+   "aliases": [],
+   "capital": "Moroni, Comoros",
+   "top_destinations": [
+    "Moroni",
+    "Nioumachoua",
+    "Mount Karthala",
+    "Grand Comore",
+    "Moheli",
+    "Anjouan"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Comoros"
+  },
+  {
+   "name": "Congo (Republic)",
+   "canonical": "Congo (Republic)",
+   "aliases": [
+    "Republic of the Congo",
+    "Congo-Brazzaville",
+    "Congo"
+   ],
+   "capital": "Brazzaville",
+   "top_destinations": [
+    "Brazzaville",
+    "Pointe-Noire_",
+    "Dolisie",
+    "Mossendjo",
+    "Djambala",
+    "Owando"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Republic%20of%20the%20Congo"
+  },
+  {
+   "name": "Côte d'Ivoire",
+   "canonical": "Cote d'Ivoire",
+   "aliases": [
+    "Ivory Coast"
+   ],
+   "capital": "Yamoussoukro",
+   "top_destinations": [
+    "Yamoussoukro",
+    "Abidjan",
+    "Korhogo",
+    "Bouaké",
+    "San Pedro",
+    "Grand-Bassam"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/C%C3%B4te%20d%27Ivoire"
+  },
+  {
+   "name": "DR Congo",
+   "canonical": "DR Congo",
+   "aliases": [
+    "Democratic Republic of the Congo",
+    "DRC",
+    "Congo-Kinshasa"
+   ],
+   "capital": "Kinshasa",
+   "top_destinations": [
+    "Kinshasa",
+    "Bukavu",
+    "Goma",
+    "Kananga",
+    "Kisangani",
+    "Kindu"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Democratic%20Republic%20of%20the%20Congo"
+  },
+  {
+   "name": "Djibouti",
+   "canonical": "Djibouti",
+   "aliases": [],
+   "capital": "Djibouti City",
+   "top_destinations": [
+    "Djibouti City",
+    "Djibouti"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Djibouti"
+  },
+  {
+   "name": "Egypt",
+   "canonical": "Egypt",
+   "aliases": [],
+   "capital": "Cairo",
+   "top_destinations": [
+    "Cairo",
+    "Lower Egypt",
+    "Middle Egypt",
+    "Upper Egypt",
+    "Western Desert",
+    "Red Sea Coast"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Egypt"
+  },
+  {
+   "name": "Equatorial Guinea",
+   "canonical": "Equatorial Guinea",
+   "aliases": [],
+   "capital": "Malabo",
+   "top_destinations": [
+    "Malabo",
+    "Acalayong",
+    "Bata",
+    "Ciudad de la Paz",
+    "Kogo",
+    "Luba"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Equatorial%20Guinea"
+  },
+  {
+   "name": "Eritrea",
+   "canonical": "Eritrea",
+   "aliases": [],
+   "capital": "Asmara",
+   "top_destinations": [
+    "Asmara",
+    "Keren",
+    "Massawa",
+    "Senafe",
+    "Nakfa"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Eritrea"
+  },
+  {
+   "name": "Eswatini",
+   "canonical": "Eswatini",
+   "aliases": [
+    "Swaziland"
+   ],
+   "capital": "Mbabane",
+   "top_destinations": [
+    "Mbabane",
+    "Lobamba",
+    "Manzini",
+    "Mkhaya Game Reserve",
+    "Hlane Royal National Park",
+    "Malolotja Nature Reserve"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Eswatini"
+  },
+  {
+   "name": "Ethiopia",
+   "canonical": "Ethiopia",
+   "aliases": [],
+   "capital": "Addis Ababa",
+   "top_destinations": [
+    "Addis Ababa",
+    "Adama",
+    "Axum",
+    "Bahir Dar",
+    "Dire Dawa",
+    "Gondar"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Ethiopia"
+  },
+  {
+   "name": "Gabon",
+   "canonical": "Gabon",
+   "aliases": [],
+   "capital": "Libreville",
+   "top_destinations": [
+    "Libreville",
+    "Franceville",
+    "Gamba",
+    "Mayumba",
+    "Port-Gentil",
+    "Ivindo National Park"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Gabon"
+  },
+  {
+   "name": "Gambia",
+   "canonical": "Gambia",
+   "aliases": [],
+   "capital": "Banjul",
+   "top_destinations": [
+    "Banjul",
+    "Bintang",
+    "Brikama",
+    "Brufut",
+    "Gunjur",
+    "Janjanbureh"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Gambia"
+  },
+  {
+   "name": "Ghana",
+   "canonical": "Ghana",
+   "aliases": [],
+   "capital": "Accra",
+   "top_destinations": [
+    "Accra",
+    "Cape Coast",
+    "Koforidua",
+    "Kumasi",
+    "Obuasi",
+    "Sekondi-Takoradi"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Ghana"
+  },
+  {
+   "name": "Guinea",
+   "canonical": "Guinea",
+   "aliases": [],
+   "capital": "Conakry",
+   "top_destinations": [
+    "Conakry",
+    "Dalaba",
+    "Kankan",
+    "Kindia",
+    "Koundara",
+    "Labé"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Guinea"
+  },
+  {
+   "name": "Guinea-Bissau",
+   "canonical": "Guinea-Bissau",
+   "aliases": [],
+   "capital": "Bissau",
+   "top_destinations": [
+    "Bissau",
+    "Bafatá",
+    "Bolama",
+    "Buba",
+    "Bubaque",
+    "Cacheu"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Guinea-Bissau"
+  },
+  {
+   "name": "Kenya",
+   "canonical": "Kenya",
+   "aliases": [],
+   "capital": "Nairobi",
+   "top_destinations": [
+    "Nairobi",
+    "Mombasa",
+    "Kisumu",
+    "Lamu",
+    "Lodwar",
+    "Malindi"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Kenya"
+  },
+  {
+   "name": "Lesotho",
+   "canonical": "Lesotho",
+   "aliases": [],
+   "capital": "Maseru",
+   "top_destinations": [
+    "Maseru",
+    "Leribe",
+    "Mafeteng",
+    "Mohale's Hoek",
+    "Mokhotlong",
+    "Qacha's Nek"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Lesotho"
+  },
+  {
+   "name": "Liberia",
+   "canonical": "Liberia",
+   "aliases": [],
+   "capital": "Monrovia",
+   "top_destinations": [
+    "Monrovia",
+    "Robertsport",
+    "Harper",
+    "Paynesville"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Liberia"
+  },
+  {
+   "name": "Libya",
+   "canonical": "Libya",
+   "aliases": [],
+   "capital": "Tripoli, Libya",
+   "top_destinations": [
+    "Tripoli",
+    "Benghazi",
+    "Ghadamis",
+    "Sabha",
+    "Shahhat",
+    "Sirte"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Libya"
+  },
+  {
+   "name": "Madagascar",
+   "canonical": "Madagascar",
+   "aliases": [],
+   "capital": "Antananarivo",
+   "top_destinations": [
+    "Antananarivo",
+    "Antananarivo Province",
+    "Antsiranana Province",
+    "Fianarantsoa Province",
+    "Mahajanga Province",
+    "Toamasina Province"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Madagascar"
+  },
+  {
+   "name": "Malawi",
+   "canonical": "Malawi",
+   "aliases": [],
+   "capital": "Lilongwe",
+   "top_destinations": [
+    "Lilongwe",
+    "Blantyre",
+    "Mzuzu",
+    "Karonga",
+    "Mangochi",
+    "Nkhotakota"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Malawi"
+  },
+  {
+   "name": "Mali",
+   "canonical": "Mali",
+   "aliases": [],
+   "capital": "Bamako",
+   "top_destinations": [
+    "Bamako",
+    "Gao",
+    "Kayes",
+    "Kidal",
+    "Mopti",
+    "Ségou"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Mali"
+  },
+  {
+   "name": "Mauritania",
+   "canonical": "Mauritania",
+   "aliases": [],
+   "capital": "Nouakchott",
+   "top_destinations": [
+    "Nouakchott",
+    "Atar",
+    "Chinguetti",
+    "Nouadhibou",
+    "Tichit",
+    "Coastal Mauritania"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Mauritania"
+  },
+  {
+   "name": "Mauritius",
+   "canonical": "Mauritius",
+   "aliases": [],
+   "capital": "Port Louis",
+   "top_destinations": [
+    "Port Louis",
+    "Curepipe",
+    "Quatre Bornes",
+    "Vacoas-Phoenix",
+    "Blue Bay",
+    "Chamarel"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Mauritius"
+  },
+  {
+   "name": "Morocco",
+   "canonical": "Morocco",
+   "aliases": [],
+   "capital": "Rabat",
+   "top_destinations": [
+    "Rabat",
+    "Agadir",
+    "Casablanca",
+    "Fez",
+    "Marrakech",
+    "Meknes"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Morocco"
+  },
+  {
+   "name": "Mozambique",
+   "canonical": "Mozambique",
+   "aliases": [],
+   "capital": "Maputo",
+   "top_destinations": [
+    "Maputo",
+    "Beira",
+    "Ilha de Mozambique",
+    "Inhambane",
+    "Nampula",
+    "Pemba"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Mozambique"
+  },
+  {
+   "name": "Namibia",
+   "canonical": "Namibia",
+   "aliases": [],
+   "capital": "Windhoek",
+   "top_destinations": [
+    "Windhoek",
+    "Gobabis",
+    "Katima Mulilo",
+    "Keetmanshoop",
+    "Lüderitz",
+    "Mariental"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Namibia"
+  },
+  {
+   "name": "Niger",
+   "canonical": "Niger",
+   "aliases": [],
+   "capital": "Niamey",
+   "top_destinations": [
+    "Niamey",
+    "Agadez",
+    "Ayorou",
+    "Diffa",
+    "Dosso",
+    "Maradi"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Niger"
+  },
+  {
+   "name": "Nigeria",
+   "canonical": "Nigeria",
+   "aliases": [],
+   "capital": "Abuja",
+   "top_destinations": [
+    "Abuja",
+    "Benin City",
+    "Calabar",
+    "Enugu",
+    "Ibadan",
+    "Kano"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Nigeria"
+  },
+  {
+   "name": "Rwanda",
+   "canonical": "Rwanda",
+   "aliases": [],
+   "capital": "Kigali",
+   "top_destinations": [
+    "Kigali",
+    "Gicumbi",
+    "Gisenyi",
+    "Butare",
+    "Kabuga",
+    "Kibeho"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Rwanda"
+  },
+  {
+   "name": "São Tomé and Príncipe",
+   "canonical": "Sao Tome and Principe",
+   "aliases": [
+    "Sao Tome and Principe"
+   ],
+   "capital": "São Tomé",
+   "top_destinations": [
+    "São Tomé"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Sao%20Tome%20and%20Principe"
+  },
+  {
+   "name": "Senegal",
+   "canonical": "Senegal",
+   "aliases": [],
+   "capital": "Dakar",
+   "top_destinations": [
+    "Dakar",
+    "Saint-Louis",
+    "Thiès",
+    "Kaolack",
+    "Ziguinchor",
+    "Tambacounda"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Senegal"
+  },
+  {
+   "name": "Seychelles",
+   "canonical": "Seychelles",
+   "aliases": [],
+   "capital": "Victoria, Seychelles",
+   "top_destinations": [
+    "Victoria",
+    "Beau Vallon",
+    "Morne Seychellois National Park",
+    "Mahé",
+    "Praslin",
+    "La Digue"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Seychelles"
+  },
+  {
+   "name": "Sierra Leone",
+   "canonical": "Sierra Leone",
+   "aliases": [],
+   "capital": "Freetown",
+   "top_destinations": [
+    "Freetown",
+    "Bonthe",
+    "Kenema",
+    "Koidu",
+    "Makeni",
+    "Magburaka"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Sierra%20Leone"
+  },
+  {
+   "name": "Somalia",
+   "canonical": "Somalia",
+   "aliases": [],
+   "capital": "Mogadishu",
+   "top_destinations": [
+    "Mogadishu",
+    "Kismayo",
+    "Galkacyo",
+    "Las Khorey",
+    "Southern Somalia",
+    "Galmudug"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Somalia"
+  },
+  {
+   "name": "South Africa",
+   "canonical": "South Africa",
+   "aliases": [],
+   "capital": "Pretoria",
+   "top_destinations": [
+    "Pretoria",
+    "Cape Town",
+    "Bloemfontein",
+    "Durban",
+    "Johannesburg",
+    "Kimberley"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/South%20Africa"
+  },
+  {
+   "name": "South Sudan",
+   "canonical": "South Sudan",
+   "aliases": [],
+   "capital": "Juba",
+   "top_destinations": [
+    "Juba",
+    "Aweil",
+    "Bentiu",
+    "Malakal",
+    "Nimule",
+    "Rumbek"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/South%20Sudan"
+  },
+  {
+   "name": "Sudan",
+   "canonical": "Sudan",
+   "aliases": [],
+   "capital": "Khartoum",
+   "top_destinations": [
+    "Khartoum",
+    "Abyei",
+    "El-Obeid",
+    "Kassala",
+    "Nyala",
+    "Port Sudan"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Sudan"
+  },
+  {
+   "name": "Tanzania",
+   "canonical": "Tanzania",
+   "aliases": [],
+   "capital": "Dodoma",
+   "top_destinations": [
+    "Dodoma",
+    "Arusha",
+    "Dar es Salaam",
+    "Kigoma",
+    "Mbeya",
+    "Morogoro"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Tanzania"
+  },
+  {
+   "name": "Togo",
+   "canonical": "Togo",
+   "aliases": [],
+   "capital": "Lomé",
+   "top_destinations": [
+    "Lomé",
+    "Aneho",
+    "Badou",
+    "Kara",
+    "Kpalimé"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Togo"
+  },
+  {
+   "name": "Tunisia",
+   "canonical": "Tunisia",
+   "aliases": [],
+   "capital": "Tunis",
+   "top_destinations": [
+    "Tunis",
+    "Gabes",
+    "Kairouan",
+    "El Kef",
+    "Mahdia",
+    "Monastir"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Tunisia"
+  },
+  {
+   "name": "Uganda",
+   "canonical": "Uganda",
+   "aliases": [],
+   "capital": "Kampala",
+   "top_destinations": [
+    "Kampala",
+    "Arua",
+    "Entebbe",
+    "Jinja",
+    "Fort Portal",
+    "Gulu"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Uganda"
+  },
+  {
+   "name": "Zambia",
+   "canonical": "Zambia",
+   "aliases": [],
+   "capital": "Lusaka",
+   "top_destinations": [
+    "Lusaka",
+    "Chingola",
+    "Chipata",
+    "Kabwe",
+    "Kasama",
+    "Kitwe"
+   ],
+   "continent": "africa",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Zambia"
+  },
+  {
+   "name": "Zimbabwe",
+   "canonical": "Zimbabwe",
+   "aliases": [],
+   "capital": "Harare",
+   "top_destinations": [
+    "Harare",
+    "Harare{{efn"
+   ],
+   "continent": "africa",
+   "source": "Wikipedia (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Zimbabwe"
+  },
+  {
+   "name": "Afghanistan",
+   "canonical": "Afghanistan",
+   "aliases": [],
+   "capital": "Kabul",
+   "top_destinations": [
+    "Kabul",
+    "Balkh",
+    "Bamiyan",
+    "Ghazni",
+    "Herat",
+    "Jalalabad"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Afghanistan"
+  },
+  {
+   "name": "Armenia",
+   "canonical": "Armenia",
+   "aliases": [],
+   "capital": "Yerevan",
+   "top_destinations": [
+    "Yerevan",
+    "Alaverdi",
+    "Dilijan",
+    "Echmiadzin",
+    "Goris",
+    "Gyumri"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Armenia"
+  },
+  {
+   "name": "Azerbaijan",
+   "canonical": "Azerbaijan",
+   "aliases": [],
+   "capital": "Baku",
+   "top_destinations": [
+    "Baku"
+   ],
+   "continent": "asia",
+   "source": "Wikipedia (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Azerbaijan"
+  },
+  {
+   "name": "Bahrain",
+   "canonical": "Bahrain",
+   "aliases": [],
+   "capital": "Manama",
+   "top_destinations": [
+    "Manama",
+    "Hamad Town",
+    "Isa Town",
+    "Muharraq",
+    "Riffa",
+    "Sitrah"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Bahrain"
+  },
+  {
+   "name": "Bangladesh",
+   "canonical": "Bangladesh",
+   "aliases": [],
+   "capital": "Dhaka",
+   "top_destinations": [
+    "Dhaka",
+    "Barisal",
+    "Chittagong",
+    "Jessore",
+    "Khulna",
+    "Mymensingh"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Bangladesh"
+  },
+  {
+   "name": "Bhutan",
+   "canonical": "Bhutan",
+   "aliases": [],
+   "capital": "Thimphu",
+   "top_destinations": [
+    "Thimphu",
+    "Jakar",
+    "Mongar",
+    "Paro",
+    "Punakha",
+    "Phuentsholing"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Bhutan"
+  },
+  {
+   "name": "Brunei",
+   "canonical": "Brunei",
+   "aliases": [],
+   "capital": "Bandar Seri Begawan",
+   "top_destinations": [
+    "Bandar Seri Begawan",
+    "Bangar",
+    "Kuala Belait",
+    "Muara",
+    "Seria",
+    "Tutong"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Brunei"
+  },
+  {
+   "name": "Cambodia",
+   "canonical": "Cambodia",
+   "aliases": [],
+   "capital": "Phnom Penh",
+   "top_destinations": [
+    "Phnom Penh",
+    "Banlung",
+    "Battambang",
+    "Kampot",
+    "Koh Kong",
+    "Kampong Thom"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Cambodia"
+  },
+  {
+   "name": "China",
+   "canonical": "China",
+   "aliases": [],
+   "capital": "Beijing",
+   "top_destinations": [
+    "Beijing",
+    "Chengdu",
+    "Guangzhou",
+    "Hangzhou",
+    "Harbin",
+    "Kashgar"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/China"
+  },
+  {
+   "name": "Timor-Leste",
+   "canonical": "Timor-Leste",
+   "aliases": [
+    "East Timor"
+   ],
+   "capital": "Dili",
+   "top_destinations": [
+    "Dili"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/East%20Timor"
+  },
+  {
+   "name": "Georgia",
+   "canonical": "Georgia",
+   "aliases": [],
+   "capital": "Tbilisi",
+   "top_destinations": [
+    "Tbilisi"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Georgia"
+  },
+  {
+   "name": "India",
+   "canonical": "India",
+   "aliases": [],
+   "capital": "New Delhi",
+   "top_destinations": [
+    "New Delhi",
+    "Delhi",
+    "Bangalore",
+    "Chennai",
+    "Hyderabad",
+    "Jaipur"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/India"
+  },
+  {
+   "name": "Indonesia",
+   "canonical": "Indonesia",
+   "aliases": [],
+   "capital": "Jakarta",
+   "top_destinations": [
+    "Jakarta",
+    "Bandung",
+    "Banjarmasin",
+    "Jayapura",
+    "Kuta",
+    "Makassar"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Indonesia"
+  },
+  {
+   "name": "Iran",
+   "canonical": "Iran",
+   "aliases": [],
+   "capital": "Tehran",
+   "top_destinations": [
+    "Tehran",
+    "Hamedan",
+    "Isfahan",
+    "Kerman",
+    "Mashad",
+    "Qom"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Iran"
+  },
+  {
+   "name": "Iraq",
+   "canonical": "Iraq",
+   "aliases": [],
+   "capital": "Baghdad",
+   "top_destinations": [
+    "Baghdad",
+    "Ar Rutba",
+    "Basra",
+    "Dahuk",
+    "Erbil",
+    "Fallujah"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Iraq"
+  },
+  {
+   "name": "Israel",
+   "canonical": "Israel",
+   "aliases": [],
+   "capital": "Jerusalem (de facto)",
+   "top_destinations": [
+    "Jerusalem",
+    "Tel Aviv",
+    "Akko",
+    "Beer Sheva",
+    "Eilat",
+    "Haifa"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Israel"
+  },
+  {
+   "name": "Japan",
+   "canonical": "Japan",
+   "aliases": [],
+   "capital": "Tokyo",
+   "top_destinations": [
+    "Tokyo",
+    "Hiroshima",
+    "Kanazawa",
+    "Kyoto",
+    "Nagasaki",
+    "Nara"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Japan"
+  },
+  {
+   "name": "Jordan",
+   "canonical": "Jordan",
+   "aliases": [],
+   "capital": "Amman",
+   "top_destinations": [
+    "Amman",
+    "Aqaba",
+    "Irbid",
+    "Jerash",
+    "Kerak",
+    "Madaba"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Jordan"
+  },
+  {
+   "name": "Kazakhstan",
+   "canonical": "Kazakhstan",
+   "aliases": [],
+   "capital": "Astana",
+   "top_destinations": [
+    "Astana",
+    "Almaty",
+    "Aktobe",
+    "Atyrau",
+    "Pavlodar",
+    "Semey"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Kazakhstan"
+  },
+  {
+   "name": "North Korea",
+   "canonical": "North Korea",
+   "aliases": [
+    "Korea (North)"
+   ],
+   "capital": "Pyongyang",
+   "top_destinations": [
+    "Pyongyang"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Korea%20%28North%29"
+  },
+  {
+   "name": "South Korea",
+   "canonical": "South Korea",
+   "aliases": [
+    "Korea (South)"
+   ],
+   "capital": "Seoul",
+   "top_destinations": [
+    "Seoul",
+    "Busan",
+    "Chuncheon",
+    "Daegu",
+    "Daejeon",
+    "Gwangju"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/South%20Korea"
+  },
+  {
+   "name": "Kuwait",
+   "canonical": "Kuwait",
+   "aliases": [],
+   "capital": "Kuwait City",
+   "top_destinations": [
+    "Kuwait City",
+    "Jahra",
+    "Ahmadi",
+    "Hawalli",
+    "Farwaniya",
+    "Mubarak al-Kabeer"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Kuwait"
+  },
+  {
+   "name": "Kyrgyzstan",
+   "canonical": "Kyrgyzstan",
+   "aliases": [],
+   "capital": "Bishkek",
+   "top_destinations": [
+    "Bishkek",
+    "Arslanbob",
+    "Balykchy",
+    "Jalal-Abad",
+    "Karakol",
+    "Kochkor"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Kyrgyzstan"
+  },
+  {
+   "name": "Laos",
+   "canonical": "Laos",
+   "aliases": [],
+   "capital": "Vientiane",
+   "top_destinations": [
+    "Vientiane",
+    "Huay Xai",
+    "Luang Namtha",
+    "Luang Prabang",
+    "Muang Xay",
+    "Pakbeng"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Laos"
+  },
+  {
+   "name": "Lebanon",
+   "canonical": "Lebanon",
+   "aliases": [],
+   "capital": "Beirut",
+   "top_destinations": [
+    "Beirut",
+    "Tripoli",
+    "Sidon",
+    "Tyre",
+    "Byblos",
+    "Jounieh"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Lebanon"
+  },
+  {
+   "name": "Malaysia",
+   "canonical": "Malaysia",
+   "aliases": [],
+   "capital": "Kuala Lumpur",
+   "top_destinations": [
+    "Kuala Lumpur",
+    "George Town",
+    "Malacca",
+    "Ipoh",
+    "Johor Bahru",
+    "Kuantan"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Malaysia"
+  },
+  {
+   "name": "Maldives",
+   "canonical": "Maldives",
+   "aliases": [],
+   "capital": "Malé",
+   "top_destinations": [
+    "Malé",
+    "Addu",
+    "Fuvahmulah",
+    "Kulhudhuffushi",
+    "Lhaviyani",
+    "Raa"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Maldives"
+  },
+  {
+   "name": "Mongolia",
+   "canonical": "Mongolia",
+   "aliases": [],
+   "capital": "Ulaanbaatar",
+   "top_destinations": [
+    "Ulaanbaatar",
+    "Choibalsan",
+    "Erdenet",
+    "Hovd",
+    "Karakorum",
+    "Ölgii"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Mongolia"
+  },
+  {
+   "name": "Myanmar",
+   "canonical": "Myanmar",
+   "aliases": [],
+   "capital": "Naypyidaw",
+   "top_destinations": [
+    "Naypyidaw",
+    "Bago",
+    "Kawthaung",
+    "Mandalay",
+    "Mawlamyine",
+    "Pyin U Lwin"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Myanmar"
+  },
+  {
+   "name": "Nepal",
+   "canonical": "Nepal",
+   "aliases": [],
+   "capital": "Kathmandu",
+   "top_destinations": [
+    "Kathmandu",
+    "Bhaktapur",
+    "Biratnagar",
+    "Janakpur",
+    "Namche Bazaar",
+    "Nepalgunj"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Nepal"
+  },
+  {
+   "name": "Oman",
+   "canonical": "Oman",
+   "aliases": [],
+   "capital": "Muscat",
+   "top_destinations": [
+    "Muscat",
+    "Bahla",
+    "Buraimi",
+    "Ibra",
+    "Matrah",
+    "Nizwa"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Oman"
+  },
+  {
+   "name": "Pakistan",
+   "canonical": "Pakistan",
+   "aliases": [],
+   "capital": "Islamabad",
+   "top_destinations": [
+    "Islamabad",
+    "Faisalabad",
+    "Karachi",
+    "Lahore",
+    "Multan",
+    "Muzaffarabad"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Pakistan"
+  },
+  {
+   "name": "Palestine",
+   "canonical": "Palestine",
+   "aliases": [],
+   "capital": "Jerusalem (de facto)",
+   "top_destinations": [
+    "Jerusalem"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Palestine"
+  },
+  {
+   "name": "Philippines",
+   "canonical": "Philippines",
+   "aliases": [],
+   "capital": "Manila",
+   "top_destinations": [
+    "Manila",
+    "Metro Manila",
+    "Bacolod",
+    "Baguio",
+    "Cagayan de Oro",
+    "Cebu City"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Philippines"
+  },
+  {
+   "name": "Qatar",
+   "canonical": "Qatar",
+   "aliases": [],
+   "capital": "Doha",
+   "top_destinations": [
+    "Doha",
+    "Al Khor",
+    "Al Shamal",
+    "Al Shahaniyah",
+    "Al Wakrah",
+    "Dukhan"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Qatar"
+  },
+  {
+   "name": "Saudi Arabia",
+   "canonical": "Saudi Arabia",
+   "aliases": [],
+   "capital": "Riyadh",
+   "top_destinations": [
+    "Riyadh",
+    "Abha",
+    "Dhahran",
+    "Jeddah",
+    "Jubail",
+    "Mecca"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Saudi%20Arabia"
+  },
+  {
+   "name": "Singapore",
+   "canonical": "Singapore",
+   "aliases": [],
+   "capital": "Singapore",
+   "top_destinations": [
+    "Singapore",
+    "Singapore/Riverside",
+    "Singapore/Orchard",
+    "Singapore/Marina Bay",
+    "Singapore/Bugis",
+    "Singapore/Chinatown"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Singapore"
+  },
+  {
+   "name": "Sri Lanka",
+   "canonical": "Sri Lanka",
+   "aliases": [],
+   "capital": "Colombo",
+   "top_destinations": [
+    "Colombo",
+    "Sri Jayawardenapura Kotte",
+    "Anuradhapura",
+    "Batticaloa",
+    "Galle",
+    "Jaffna"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Sri%20Lanka"
+  },
+  {
+   "name": "Syria",
+   "canonical": "Syria",
+   "aliases": [],
+   "capital": "Damascus",
+   "top_destinations": [
+    "Damascus",
+    "Aleppo",
+    "Deir ez-Zor",
+    "Hama",
+    "Homs",
+    "Latakia"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Syria"
+  },
+  {
+   "name": "Tajikistan",
+   "canonical": "Tajikistan",
+   "aliases": [],
+   "capital": "Dushanbe",
+   "top_destinations": [
+    "Dushanbe",
+    "Qurghonteppa",
+    "Isfara",
+    "Istaravshan",
+    "Khorugh",
+    "Khujand"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Tajikistan"
+  },
+  {
+   "name": "Thailand",
+   "canonical": "Thailand",
+   "aliases": [],
+   "capital": "Bangkok",
+   "top_destinations": [
+    "Bangkok",
+    "Ayutthaya",
+    "Chiang Mai",
+    "Chiang Rai",
+    "Hat Yai",
+    "Kanchanaburi"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Thailand"
+  },
+  {
+   "name": "Türkiye",
+   "canonical": "Turkiye",
+   "aliases": [
+    "Turkey"
+   ],
+   "capital": "Ankara",
+   "top_destinations": [
+    "Ankara",
+    "Aegean Turkey",
+    "Black Sea Turkey",
+    "Central Anatolia",
+    "Eastern Anatolia",
+    "Marmara"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Turkey"
+  },
+  {
+   "name": "Turkmenistan",
+   "canonical": "Turkmenistan",
+   "aliases": [],
+   "capital": "Ashgabat",
+   "top_destinations": [
+    "Ashgabat",
+    "Balkanabat",
+    "Daşoguz",
+    "Mary",
+    "Türkmenabat",
+    "Turkmenbashi"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Turkmenistan"
+  },
+  {
+   "name": "United Arab Emirates",
+   "canonical": "United Arab Emirates",
+   "aliases": [
+    "UAE"
+   ],
+   "capital": "Abu Dhabi",
+   "top_destinations": [
+    "Abu Dhabi",
+    "Dubai",
+    "Sharjah",
+    "Ajman",
+    "Umm al Quwain",
+    "Ras al Khaimah"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/United%20Arab%20Emirates"
+  },
+  {
+   "name": "Uzbekistan",
+   "canonical": "Uzbekistan",
+   "aliases": [],
+   "capital": "Tashkent",
+   "top_destinations": [
+    "Tashkent",
+    "Andijan",
+    "Bukhara",
+    "Khiva",
+    "Namangan",
+    "Nukus"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Uzbekistan"
+  },
+  {
+   "name": "Vietnam",
+   "canonical": "Vietnam",
+   "aliases": [],
+   "capital": "Hanoi",
+   "top_destinations": [
+    "Hanoi",
+    "Ho Chi Minh City",
+    "Da Nang",
+    "Da Lat",
+    "Haiphong",
+    "Hoi An"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Vietnam"
+  },
+  {
+   "name": "Yemen",
+   "canonical": "Yemen",
+   "aliases": [],
+   "capital": "Sanaa",
+   "top_destinations": [
+    "Sanaa",
+    "Sana'a",
+    "Aden",
+    "Al Hudayda",
+    "Al Mukalla",
+    "Ibb"
+   ],
+   "continent": "asia",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Yemen"
+  },
+  {
+   "name": "Australia",
+   "canonical": "Australia",
+   "aliases": [],
+   "capital": "Canberra",
+   "top_destinations": [
+    "Canberra",
+    "Adelaide",
+    "Brisbane",
+    "Cairns",
+    "Darwin",
+    "Hobart"
+   ],
+   "continent": "oceania",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Australia"
+  },
+  {
+   "name": "New Zealand",
+   "canonical": "New Zealand",
+   "aliases": [],
+   "capital": "Wellington",
+   "top_destinations": [
+    "Wellington",
+    "North Island",
+    "South Island",
+    "Stewart Island",
+    "Chatham Islands",
+    "New Zealand Subantarctic Islands"
+   ],
+   "continent": "oceania",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/New%20Zealand"
+  },
+  {
+   "name": "Fiji",
+   "canonical": "Fiji",
+   "aliases": [],
+   "capital": "Suva",
+   "top_destinations": [
+    "Suva",
+    "Lautoka",
+    "Levuka",
+    "Nadi",
+    "Nausori",
+    "Taveuni"
+   ],
+   "continent": "oceania",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Fiji"
+  },
+  {
+   "name": "Papua New Guinea",
+   "canonical": "Papua New Guinea",
+   "aliases": [
+    "PNG"
+   ],
+   "capital": "Port Moresby",
+   "top_destinations": [
+    "Port Moresby",
+    "Alotau",
+    "Goroka",
+    "Lae",
+    "Madang",
+    "Mount Hagen"
+   ],
+   "continent": "oceania",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Papua%20New%20Guinea"
+  },
+  {
+   "name": "Samoa",
+   "canonical": "Samoa",
+   "aliases": [],
+   "capital": "Apia",
+   "top_destinations": [
+    "Apia",
+    "Upolu",
+    "Savaii"
+   ],
+   "continent": "oceania",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Samoa"
+  },
+  {
+   "name": "Tonga",
+   "canonical": "Tonga",
+   "aliases": [],
+   "capital": "Nukuʻalofa",
+   "top_destinations": [
+    "Nukuʻalofa",
+    "Tongatapu",
+    "ʻEua",
+    "Vava'u",
+    "Ha'apai",
+    "Niuas"
+   ],
+   "continent": "oceania",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Tonga"
+  },
+  {
+   "name": "Cook Islands",
+   "canonical": "Cook Islands",
+   "aliases": [],
+   "capital": "Avarua",
+   "top_destinations": [
+    "Avarua",
+    "Suwarrow National Park",
+    "Northern Cook Islands",
+    "Southern Cook Islands"
+   ],
+   "continent": "oceania",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Cook%20Islands"
+  },
+  {
+   "name": "Kiribati",
+   "canonical": "Kiribati",
+   "aliases": [],
+   "capital": "Tarawa",
+   "top_destinations": [
+    "Tarawa",
+    "Gilbert Islands",
+    "Line Islands",
+    "Phoenix Islands"
+   ],
+   "continent": "oceania",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Kiribati"
+  },
+  {
+   "name": "Marshall Islands",
+   "canonical": "Marshall Islands",
+   "aliases": [],
+   "capital": "Majuro",
+   "top_destinations": [
+    "Majuro",
+    "Kwajalein",
+    "Ebeye",
+    "Ralik",
+    "Ratak"
+   ],
+   "continent": "oceania",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Marshall%20Islands"
+  },
+  {
+   "name": "Micronesia",
+   "canonical": "Micronesia",
+   "aliases": [
+    "Federated States of Micronesia"
+   ],
+   "capital": "Palikir",
+   "top_destinations": [
+    "Palikir",
+    "Hagåtña",
+    "Kolonia",
+    "Koror",
+    "Majuro",
+    "Melekeok"
+   ],
+   "continent": "oceania",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Micronesia"
+  },
+  {
+   "name": "Nauru",
+   "canonical": "Nauru",
+   "aliases": [],
+   "capital": "Yaren (de facto)",
+   "top_destinations": [
+    "Yaren"
+   ],
+   "continent": "oceania",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Nauru"
+  },
+  {
+   "name": "Palau",
+   "canonical": "Palau",
+   "aliases": [],
+   "capital": "Ngerulmud",
+   "top_destinations": [
+    "Ngerulmud",
+    "Melekeok",
+    "Koror",
+    "Babeldaob",
+    "Rock Islands"
+   ],
+   "continent": "oceania",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Palau"
+  },
+  {
+   "name": "Solomon Islands",
+   "canonical": "Solomon Islands",
+   "aliases": [],
+   "capital": "Honiara",
+   "top_destinations": [
+    "Honiara",
+    "Guadalcanal",
+    "New Georgia Islands",
+    "Rennell and Bellona",
+    "Santa Cruz Islands"
+   ],
+   "continent": "oceania",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Solomon%20Islands"
+  },
+  {
+   "name": "Tuvalu",
+   "canonical": "Tuvalu",
+   "aliases": [],
+   "capital": "Funafuti",
+   "top_destinations": [
+    "Funafuti",
+    "Fongafale"
+   ],
+   "continent": "oceania",
+   "source": "Wikivoyage (CC BY-SA 4.0)",
+   "url": "https://en.wikivoyage.org/wiki/Tuvalu"
+  }
+ ],
+ "cities": {
+  "st. john's": {
+   "name": "St. John's",
+   "country": "Antigua and Barbuda"
+  },
+  "barbuda": {
+   "name": "Barbuda",
+   "country": "Antigua and Barbuda"
+  },
+  "english harbour": {
+   "name": "English Harbour",
+   "country": "Antigua and Barbuda"
+  },
+  "falmouth": {
+   "name": "Falmouth",
+   "country": "Antigua and Barbuda"
+  },
+  "buenos aires": {
+   "name": "Buenos Aires",
+   "country": "Argentina"
+  },
+  "patagonia": {
+   "name": "Patagonia",
+   "country": "Argentina"
+  },
+  "iguazu falls": {
+   "name": "Iguazú Falls",
+   "country": "Argentina"
+  },
+  "mendoza": {
+   "name": "Mendoza",
+   "country": "Argentina"
+  },
+  "bariloche": {
+   "name": "Bariloche",
+   "country": "Argentina"
+  },
+  "salta": {
+   "name": "Salta",
+   "country": "Argentina"
+  },
+  "nassau": {
+   "name": "Nassau",
+   "country": "Bahamas"
+  },
+  "paradise island": {
+   "name": "Paradise Island",
+   "country": "Bahamas"
+  },
+  "exumas": {
+   "name": "Exumas",
+   "country": "Bahamas"
+  },
+  "andros": {
+   "name": "Andros",
+   "country": "Bahamas"
+  },
+  "harbour island": {
+   "name": "Harbour Island",
+   "country": "Bahamas"
+  },
+  "bridgetown": {
+   "name": "Bridgetown",
+   "country": "Barbados"
+  },
+  "holetown": {
+   "name": "Holetown",
+   "country": "Barbados"
+  },
+  "sandy bay": {
+   "name": "Sandy Bay",
+   "country": "Barbados"
+  },
+  "christ church": {
+   "name": "Christ Church",
+   "country": "Barbados"
+  },
+  "belmopan": {
+   "name": "Belmopan",
+   "country": "Belize"
+  },
+  "san ignacio": {
+   "name": "San Ignacio",
+   "country": "Belize"
+  },
+  "caye caulker": {
+   "name": "Caye Caulker",
+   "country": "Belize"
+  },
+  "ambergris caye": {
+   "name": "Ambergris Caye",
+   "country": "Belize"
+  },
+  "blue hole": {
+   "name": "Blue Hole",
+   "country": "Belize"
+  },
+  "la paz": {
+   "name": "La Paz",
+   "country": "Bolivia"
+  },
+  "salar de uyuni": {
+   "name": "Salar de Uyuni",
+   "country": "Bolivia"
+  },
+  "sucre": {
+   "name": "Sucre",
+   "country": "Bolivia"
+  },
+  "potosi": {
+   "name": "Potosí",
+   "country": "Bolivia"
+  },
+  "lake titicaca": {
+   "name": "Lake Titicaca",
+   "country": "Bolivia"
+  },
+  "brasilia": {
+   "name": "Brasília",
+   "country": "Brazil"
+  },
+  "rio de janeiro": {
+   "name": "Rio de Janeiro",
+   "country": "Brazil"
+  },
+  "sao paulo": {
+   "name": "São Paulo",
+   "country": "Brazil"
+  },
+  "salvador": {
+   "name": "Salvador",
+   "country": "Brazil"
+  },
+  "manaus": {
+   "name": "Manaus",
+   "country": "Brazil"
+  },
+  "florianopolis": {
+   "name": "Florianópolis",
+   "country": "Brazil"
+  },
+  "foz do iguacu": {
+   "name": "Foz do Iguaçu",
+   "country": "Brazil"
+  },
+  "ouro preto": {
+   "name": "Ouro Preto",
+   "country": "Brazil"
+  },
+  "ottawa": {
+   "name": "Ottawa",
+   "country": "Canada"
+  },
+  "vancouver": {
+   "name": "Vancouver",
+   "country": "Canada"
+  },
+  "toronto": {
+   "name": "Toronto",
+   "country": "Canada"
+  },
+  "banff & jasper": {
+   "name": "Banff & Jasper",
+   "country": "Canada"
+  },
+  "montreal": {
+   "name": "Montreal",
+   "country": "Canada"
+  },
+  "quebec city": {
+   "name": "Quebec City",
+   "country": "Canada"
+  },
+  "niagara falls": {
+   "name": "Niagara Falls",
+   "country": "Canada"
+  },
+  "halifax": {
+   "name": "Halifax",
+   "country": "Canada"
+  },
+  "santiago": {
+   "name": "Santiago",
+   "country": "Chile"
+  },
+  "atacama": {
+   "name": "Atacama",
+   "country": "Chile"
+  },
+  "valparaiso": {
+   "name": "Valparaíso",
+   "country": "Chile"
+  },
+  "torres del paine": {
+   "name": "Torres del Paine",
+   "country": "Chile"
+  },
+  "easter island": {
+   "name": "Easter Island",
+   "country": "Chile"
+  },
+  "puerto natales": {
+   "name": "Puerto Natales",
+   "country": "Chile"
+  },
+  "bogota": {
+   "name": "Bogotá",
+   "country": "Colombia"
+  },
+  "cartagena": {
+   "name": "Cartagena",
+   "country": "Colombia"
+  },
+  "medellin": {
+   "name": "Medellín",
+   "country": "Colombia"
+  },
+  "san andres": {
+   "name": "San Andrés",
+   "country": "Colombia"
+  },
+  "salento": {
+   "name": "Salento",
+   "country": "Colombia"
+  },
+  "tayrona": {
+   "name": "Tayrona",
+   "country": "Colombia"
+  },
+  "san jose": {
+   "name": "San José",
+   "country": "Costa Rica"
+  },
+  "manuel antonio": {
+   "name": "Manuel Antonio",
+   "country": "Costa Rica"
+  },
+  "arenal": {
+   "name": "Arenal",
+   "country": "Costa Rica"
+  },
+  "monteverde": {
+   "name": "Monteverde",
+   "country": "Costa Rica"
+  },
+  "tortuguero": {
+   "name": "Tortuguero",
+   "country": "Costa Rica"
+  },
+  "tamarindo": {
+   "name": "Tamarindo",
+   "country": "Costa Rica"
+  },
+  "osa peninsula": {
+   "name": "Osa Peninsula",
+   "country": "Costa Rica"
+  },
+  "havana": {
+   "name": "Havana",
+   "country": "Cuba"
+  },
+  "varadero": {
+   "name": "Varadero",
+   "country": "Cuba"
+  },
+  "trinidad": {
+   "name": "Trinidad",
+   "country": "Cuba"
+  },
+  "santiago de cuba": {
+   "name": "Santiago de Cuba",
+   "country": "Cuba"
+  },
+  "vinales": {
+   "name": "Viñales",
+   "country": "Cuba"
+  },
+  "roseau": {
+   "name": "Roseau",
+   "country": "Dominica"
+  },
+  "soufriere": {
+   "name": "Soufrière",
+   "country": "Dominica"
+  },
+  "morne bruce": {
+   "name": "Morne Bruce",
+   "country": "Dominica"
+  },
+  "windsor waterfall": {
+   "name": "Windsor waterfall",
+   "country": "Dominica"
+  },
+  "santo domingo": {
+   "name": "Santo Domingo",
+   "country": "Dominican Republic"
+  },
+  "punta cana": {
+   "name": "Punta Cana",
+   "country": "Dominican Republic"
+  },
+  "cap cana": {
+   "name": "Cap Cana",
+   "country": "Dominican Republic"
+  },
+  "samana": {
+   "name": "Samaná",
+   "country": "Dominican Republic"
+  },
+  "saona island": {
+   "name": "Saona Island",
+   "country": "Dominican Republic"
+  },
+  "quito": {
+   "name": "Quito",
+   "country": "Ecuador"
+  },
+  "guayaquil": {
+   "name": "Guayaquil",
+   "country": "Ecuador"
+  },
+  "galapagos": {
+   "name": "Galápagos",
+   "country": "Ecuador"
+  },
+  "banos": {
+   "name": "Baños",
+   "country": "Ecuador"
+  },
+  "cotopaxi": {
+   "name": "Cotopaxi",
+   "country": "Ecuador"
+  },
+  "san salvador": {
+   "name": "San Salvador",
+   "country": "El Salvador"
+  },
+  "surf city": {
+   "name": "Surf City",
+   "country": "El Salvador"
+  },
+  "santa ana": {
+   "name": "Santa Ana",
+   "country": "El Salvador"
+  },
+  "lake ilopango": {
+   "name": "Lake Ilopango",
+   "country": "El Salvador"
+  },
+  "san miguel": {
+   "name": "San Miguel",
+   "country": "El Salvador"
+  },
+  "guatemala city": {
+   "name": "Guatemala City",
+   "country": "Guatemala"
+  },
+  "antigua": {
+   "name": "Antigua",
+   "country": "Guatemala"
+  },
+  "lake atitlan": {
+   "name": "Lake Atitlán",
+   "country": "Guatemala"
+  },
+  "tikal": {
+   "name": "Tikal",
+   "country": "Guatemala"
+  },
+  "quetzaltenango": {
+   "name": "Quetzaltenango",
+   "country": "Guatemala"
+  },
+  "flores": {
+   "name": "Flores",
+   "country": "Guatemala"
+  },
+  "st. george's": {
+   "name": "St. George's",
+   "country": "Grenada"
+  },
+  "grand anse": {
+   "name": "Grand Anse",
+   "country": "Grenada"
+  },
+  "carenage": {
+   "name": "Carenage",
+   "country": "Grenada"
+  },
+  "carriacou": {
+   "name": "Carriacou",
+   "country": "Grenada"
+  },
+  "georgetown": {
+   "name": "Georgetown",
+   "country": "Guyana"
+  },
+  "kaieteur falls": {
+   "name": "Kaieteur Falls",
+   "country": "Guyana"
+  },
+  "kaieteur national park": {
+   "name": "Kaieteur National Park",
+   "country": "Guyana"
+  },
+  "rupununi savanna": {
+   "name": "Rupununi Savanna",
+   "country": "Guyana"
+  },
+  "port-au-prince": {
+   "name": "Port-au-Prince",
+   "country": "Haiti"
+  },
+  "jacmel": {
+   "name": "Jacmel",
+   "country": "Haiti"
+  },
+  "les cayes": {
+   "name": "Les Cayes",
+   "country": "Haiti"
+  },
+  "ile de la tortue": {
+   "name": "Île de la Tortue",
+   "country": "Haiti"
+  },
+  "tegucigalpa": {
+   "name": "Tegucigalpa",
+   "country": "Honduras"
+  },
+  "roatan": {
+   "name": "Roatán",
+   "country": "Honduras"
+  },
+  "la ceiba": {
+   "name": "La Ceiba",
+   "country": "Honduras"
+  },
+  "copan": {
+   "name": "Copán",
+   "country": "Honduras"
+  },
+  "bay islands": {
+   "name": "Bay Islands",
+   "country": "Honduras"
+  },
+  "kingston": {
+   "name": "Kingston",
+   "country": "Jamaica"
+  },
+  "montego bay": {
+   "name": "Montego Bay",
+   "country": "Jamaica"
+  },
+  "ocho rios": {
+   "name": "Ocho Rios",
+   "country": "Jamaica"
+  },
+  "negril": {
+   "name": "Negril",
+   "country": "Jamaica"
+  },
+  "port antonio": {
+   "name": "Port Antonio",
+   "country": "Jamaica"
+  },
+  "blue mountains": {
+   "name": "Blue Mountains",
+   "country": "Jamaica"
+  },
+  "mexico city": {
+   "name": "Mexico City",
+   "country": "Mexico"
+  },
+  "cancun": {
+   "name": "Cancún",
+   "country": "Mexico"
+  },
+  "oaxaca": {
+   "name": "Oaxaca",
+   "country": "Mexico"
+  },
+  "tulum": {
+   "name": "Tulum",
+   "country": "Mexico"
+  },
+  "los cabos": {
+   "name": "Los Cabos",
+   "country": "Mexico"
+  },
+  "guanajuato": {
+   "name": "Guanajuato",
+   "country": "Mexico"
+  },
+  "chichen itza": {
+   "name": "Chichén Itzá",
+   "country": "Mexico"
+  },
+  "puerto vallarta": {
+   "name": "Puerto Vallarta",
+   "country": "Mexico"
+  },
+  "guadalajara": {
+   "name": "Guadalajara",
+   "country": "Mexico"
+  },
+  "managua": {
+   "name": "Managua",
+   "country": "Nicaragua"
+  },
+  "leon": {
+   "name": "León",
+   "country": "Nicaragua"
+  },
+  "granada": {
+   "name": "Granada",
+   "country": "Nicaragua"
+  },
+  "ometepe island": {
+   "name": "Ometepe Island",
+   "country": "Nicaragua"
+  },
+  "san juan del sur": {
+   "name": "San Juan del Sur",
+   "country": "Nicaragua"
+  },
+  "masaya": {
+   "name": "Masaya",
+   "country": "Nicaragua"
+  },
+  "panama city": {
+   "name": "Panama City",
+   "country": "Panama"
+  },
+  "bocas del toro": {
+   "name": "Bocas del Toro",
+   "country": "Panama"
+  },
+  "san blas": {
+   "name": "San Blas",
+   "country": "Panama"
+  },
+  "boquete": {
+   "name": "Boquete",
+   "country": "Panama"
+  },
+  "santa catalina": {
+   "name": "Santa Catalina",
+   "country": "Panama"
+  },
+  "asuncion": {
+   "name": "Asunción",
+   "country": "Paraguay"
+  },
+  "ciudad del este": {
+   "name": "Ciudad del Este",
+   "country": "Paraguay"
+  },
+  "encarnacion": {
+   "name": "Encarnación",
+   "country": "Paraguay"
+  },
+  "itaipu": {
+   "name": "Itaipú",
+   "country": "Paraguay"
+  },
+  "lima": {
+   "name": "Lima",
+   "country": "Peru"
+  },
+  "cusco": {
+   "name": "Cusco",
+   "country": "Peru"
+  },
+  "machu picchu": {
+   "name": "Machu Picchu",
+   "country": "Peru"
+  },
+  "arequipa": {
+   "name": "Arequipa",
+   "country": "Peru"
+  },
+  "huacachina": {
+   "name": "Huacachina",
+   "country": "Peru"
+  },
+  "amazonas": {
+   "name": "Amazonas",
+   "country": "Peru"
+  },
+  "basseterre": {
+   "name": "Basseterre",
+   "country": "Saint Kitts and Nevis"
+  },
+  "st. kitts": {
+   "name": "St. Kitts",
+   "country": "Saint Kitts and Nevis"
+  },
+  "nevis": {
+   "name": "Nevis",
+   "country": "Saint Kitts and Nevis"
+  },
+  "red hook": {
+   "name": "Red Hook",
+   "country": "Saint Kitts and Nevis"
+  },
+  "castries": {
+   "name": "Castries",
+   "country": "Saint Lucia"
+  },
+  "anse raymond": {
+   "name": "Anse Raymond",
+   "country": "Saint Lucia"
+  },
+  "rodney bay": {
+   "name": "Rodney Bay",
+   "country": "Saint Lucia"
+  },
+  "gros islet": {
+   "name": "Gros Islet",
+   "country": "Saint Lucia"
+  },
+  "kingstown": {
+   "name": "Kingstown",
+   "country": "Saint Vincent and the Grenadines"
+  },
+  "st. vincent": {
+   "name": "St. Vincent",
+   "country": "Saint Vincent and the Grenadines"
+  },
+  "bequia": {
+   "name": "Bequia",
+   "country": "Saint Vincent and the Grenadines"
+  },
+  "union island": {
+   "name": "Union Island",
+   "country": "Saint Vincent and the Grenadines"
+  },
+  "canouan": {
+   "name": "Canouan",
+   "country": "Saint Vincent and the Grenadines"
+  },
+  "paramaribo": {
+   "name": "Paramaribo",
+   "country": "Suriname"
+  },
+  "central suriname nature reserve": {
+   "name": "Central Suriname Nature Reserve",
+   "country": "Suriname"
+  },
+  "kootstreek": {
+   "name": "Kootstreek",
+   "country": "Suriname"
+  },
+  "marowijne river": {
+   "name": "Marowijne River",
+   "country": "Suriname"
+  },
+  "port of spain": {
+   "name": "Port of Spain",
+   "country": "Trinidad and Tobago"
+  },
+  "tobago": {
+   "name": "Tobago",
+   "country": "Trinidad and Tobago"
+  },
+  "arima": {
+   "name": "Arima",
+   "country": "Trinidad and Tobago"
+  },
+  "washington": {
+   "name": "Washington",
+   "country": "United States"
+  },
+  "new york": {
+   "name": "New York",
+   "country": "United States"
+  },
+  "los angeles": {
+   "name": "Los Angeles",
+   "country": "United States"
+  },
+  "miami": {
+   "name": "Miami",
+   "country": "United States"
+  },
+  "orlando": {
+   "name": "Orlando",
+   "country": "United States"
+  },
+  "las vegas": {
+   "name": "Las Vegas",
+   "country": "United States"
+  },
+  "san francisco": {
+   "name": "San Francisco",
+   "country": "United States"
+  },
+  "new orleans": {
+   "name": "New Orleans",
+   "country": "United States"
+  },
+  "pittsburgh": {
+   "name": "Pittsburgh",
+   "country": "United States"
+  },
+  "chicago": {
+   "name": "Chicago",
+   "country": "United States"
+  },
+  "yellowstone": {
+   "name": "Yellowstone",
+   "country": "United States"
+  },
+  "nashville": {
+   "name": "Nashville",
+   "country": "United States"
+  },
+  "hawaii": {
+   "name": "Hawaii",
+   "country": "United States"
+  },
+  "montevideo": {
+   "name": "Montevideo",
+   "country": "Uruguay"
+  },
+  "punta del este": {
+   "name": "Punta del Este",
+   "country": "Uruguay"
+  },
+  "colonia del sacramento": {
+   "name": "Colonia del Sacramento",
+   "country": "Uruguay"
+  },
+  "punta del diablo": {
+   "name": "Punta del Diablo",
+   "country": "Uruguay"
+  },
+  "caracas": {
+   "name": "Caracas",
+   "country": "Venezuela"
+  },
+  "los roques": {
+   "name": "Los Roques",
+   "country": "Venezuela"
+  },
+  "canaima": {
+   "name": "Canaima",
+   "country": "Venezuela"
+  },
+  "merida": {
+   "name": "Mérida",
+   "country": "Venezuela"
+  },
+  "margarita island": {
+   "name": "Margarita Island",
+   "country": "Venezuela"
+  },
+  "tirana": {
+   "name": "Tirana",
+   "country": "Albania"
+  },
+  "durres": {
+   "name": "Durrës",
+   "country": "Albania"
+  },
+  "berat": {
+   "name": "Berat",
+   "country": "Albania"
+  },
+  "gjirokaster": {
+   "name": "Gjirokastër",
+   "country": "Albania"
+  },
+  "ksamil": {
+   "name": "Ksamil",
+   "country": "Albania"
+  },
+  "butrint": {
+   "name": "Butrint",
+   "country": "Albania"
+  },
+  "andorra la vella": {
+   "name": "Andorra la Vella",
+   "country": "Andorra"
+  },
+  "soldeu": {
+   "name": "Soldeu",
+   "country": "Andorra"
+  },
+  "pal": {
+   "name": "Pal",
+   "country": "Andorra"
+  },
+  "escaldes-engordany": {
+   "name": "Escaldes-Engordany",
+   "country": "Andorra"
+  },
+  "vienna": {
+   "name": "Vienna",
+   "country": "Austria"
+  },
+  "salzburg": {
+   "name": "Salzburg",
+   "country": "Austria"
+  },
+  "innsbruck": {
+   "name": "Innsbruck",
+   "country": "Austria"
+  },
+  "hallstatt": {
+   "name": "Hallstatt",
+   "country": "Austria"
+  },
+  "graz": {
+   "name": "Graz",
+   "country": "Austria"
+  },
+  "lake wolfgang": {
+   "name": "Lake Wolfgang",
+   "country": "Austria"
+  },
+  "minsk": {
+   "name": "Minsk",
+   "country": "Belarus"
+  },
+  "brest": {
+   "name": "Brest",
+   "country": "Belarus"
+  },
+  "mir": {
+   "name": "Mir",
+   "country": "Belarus"
+  },
+  "nesvizh": {
+   "name": "Nesvizh",
+   "country": "Belarus"
+  },
+  "brussels": {
+   "name": "Brussels",
+   "country": "Belgium"
+  },
+  "bruges": {
+   "name": "Bruges",
+   "country": "Belgium"
+  },
+  "ghent": {
+   "name": "Ghent",
+   "country": "Belgium"
+  },
+  "antwerp": {
+   "name": "Antwerp",
+   "country": "Belgium"
+  },
+  "ardennes": {
+   "name": "Ardennes",
+   "country": "Belgium"
+  },
+  "sarajevo": {
+   "name": "Sarajevo",
+   "country": "Bosnia and Herzegovina"
+  },
+  "mostar": {
+   "name": "Mostar",
+   "country": "Bosnia and Herzegovina"
+  },
+  "blagaj": {
+   "name": "Blagaj",
+   "country": "Bosnia and Herzegovina"
+  },
+  "jajce": {
+   "name": "Jajce",
+   "country": "Bosnia and Herzegovina"
+  },
+  "una valley": {
+   "name": "Una valley",
+   "country": "Bosnia and Herzegovina"
+  },
+  "sofia": {
+   "name": "Sofia",
+   "country": "Bulgaria"
+  },
+  "plovdiv": {
+   "name": "Plovdiv",
+   "country": "Bulgaria"
+  },
+  "varna": {
+   "name": "Varna",
+   "country": "Bulgaria"
+  },
+  "black sea coast": {
+   "name": "Black Sea coast",
+   "country": "Bulgaria"
+  },
+  "rila": {
+   "name": "Rila",
+   "country": "Bulgaria"
+  },
+  "pirin mountains": {
+   "name": "Pirin mountains",
+   "country": "Bulgaria"
+  },
+  "zagreb": {
+   "name": "Zagreb",
+   "country": "Croatia"
+  },
+  "dubrovnik": {
+   "name": "Dubrovnik",
+   "country": "Croatia"
+  },
+  "split": {
+   "name": "Split",
+   "country": "Croatia"
+  },
+  "zadar": {
+   "name": "Zadar",
+   "country": "Croatia"
+  },
+  "plitvice lakes": {
+   "name": "Plitvice Lakes",
+   "country": "Croatia"
+  },
+  "istria": {
+   "name": "Istria",
+   "country": "Croatia"
+  },
+  "hvar": {
+   "name": "Hvar",
+   "country": "Croatia"
+  },
+  "korcula": {
+   "name": "Korčula",
+   "country": "Croatia"
+  },
+  "nicosia": {
+   "name": "Nicosia",
+   "country": "Cyprus"
+  },
+  "paphos": {
+   "name": "Paphos",
+   "country": "Cyprus"
+  },
+  "limassol": {
+   "name": "Limassol",
+   "country": "Cyprus"
+  },
+  "larnaca": {
+   "name": "Larnaca",
+   "country": "Cyprus"
+  },
+  "troodos": {
+   "name": "Troodos",
+   "country": "Cyprus"
+  },
+  "ayia napa": {
+   "name": "Ayia Napa",
+   "country": "Cyprus"
+  },
+  "prague": {
+   "name": "Prague",
+   "country": "Czechia"
+  },
+  "cesky krumlov": {
+   "name": "Český Krumlov",
+   "country": "Czechia"
+  },
+  "karlstejn": {
+   "name": "Karlštejn",
+   "country": "Czechia"
+  },
+  "brno": {
+   "name": "Brno",
+   "country": "Czechia"
+  },
+  "spa towns": {
+   "name": "spa towns",
+   "country": "Czechia"
+  },
+  "copenhagen": {
+   "name": "Copenhagen",
+   "country": "Denmark"
+  },
+  "aarhus": {
+   "name": "Aarhus",
+   "country": "Denmark"
+  },
+  "odense": {
+   "name": "Odense",
+   "country": "Denmark"
+  },
+  "bornholm": {
+   "name": "Bornholm",
+   "country": "Denmark"
+  },
+  "wadden coast": {
+   "name": "Wadden coast",
+   "country": "Denmark"
+  },
+  "tallinn": {
+   "name": "Tallinn",
+   "country": "Estonia"
+  },
+  "saaremaa": {
+   "name": "Saaremaa",
+   "country": "Estonia"
+  },
+  "parnu": {
+   "name": "Pärnu",
+   "country": "Estonia"
+  },
+  "lahemaa": {
+   "name": "Lahemaa",
+   "country": "Estonia"
+  },
+  "helsinki": {
+   "name": "Helsinki",
+   "country": "Finland"
+  },
+  "lapland": {
+   "name": "Lapland",
+   "country": "Finland"
+  },
+  "aland islands": {
+   "name": "Åland islands",
+   "country": "Finland"
+  },
+  "tampere": {
+   "name": "Tampere",
+   "country": "Finland"
+  },
+  "thousand lakes": {
+   "name": "thousand lakes",
+   "country": "Finland"
+  },
+  "paris": {
+   "name": "Paris",
+   "country": "France"
+  },
+  "cote d'azur": {
+   "name": "Côte d'Azur",
+   "country": "France"
+  },
+  "marseille & provence": {
+   "name": "Marseille & Provence",
+   "country": "France"
+  },
+  "dordogne": {
+   "name": "Dordogne",
+   "country": "France"
+  },
+  "normandy": {
+   "name": "Normandy",
+   "country": "France"
+  },
+  "alps": {
+   "name": "Alps",
+   "country": "France"
+  },
+  "berlin": {
+   "name": "Berlin",
+   "country": "Germany"
+  },
+  "munich": {
+   "name": "Munich",
+   "country": "Germany"
+  },
+  "rhine valley": {
+   "name": "Rhine valley",
+   "country": "Germany"
+  },
+  "bavarian alps": {
+   "name": "Bavarian Alps",
+   "country": "Germany"
+  },
+  "hamburg": {
+   "name": "Hamburg",
+   "country": "Germany"
+  },
+  "black forest": {
+   "name": "Black Forest",
+   "country": "Germany"
+  },
+  "saxon switzerland": {
+   "name": "Saxon Switzerland",
+   "country": "Germany"
+  },
+  "athens": {
+   "name": "Athens",
+   "country": "Greece"
+  },
+  "santorini": {
+   "name": "Santorini",
+   "country": "Greece"
+  },
+  "crete": {
+   "name": "Crete",
+   "country": "Greece"
+  },
+  "mykonos": {
+   "name": "Mykonos",
+   "country": "Greece"
+  },
+  "meteora": {
+   "name": "Meteora",
+   "country": "Greece"
+  },
+  "corfu": {
+   "name": "Corfu",
+   "country": "Greece"
+  },
+  "peloponnese": {
+   "name": "Peloponnese",
+   "country": "Greece"
+  },
+  "budapest": {
+   "name": "Budapest",
+   "country": "Hungary"
+  },
+  "lake balaton": {
+   "name": "Lake Balaton",
+   "country": "Hungary"
+  },
+  "aggtelek caves": {
+   "name": "Aggtelek caves",
+   "country": "Hungary"
+  },
+  "visegrad": {
+   "name": "Visegrád",
+   "country": "Hungary"
+  },
+  "tokaj wine region": {
+   "name": "Tokaj wine region",
+   "country": "Hungary"
+  },
+  "dublin": {
+   "name": "Dublin",
+   "country": "Ireland"
+  },
+  "cliffs of moher": {
+   "name": "Cliffs of Moher",
+   "country": "Ireland"
+  },
+  "ring of kerry": {
+   "name": "Ring of Kerry",
+   "country": "Ireland"
+  },
+  "dingle": {
+   "name": "Dingle",
+   "country": "Ireland"
+  },
+  "wild atlantic way": {
+   "name": "Wild Atlantic Way",
+   "country": "Ireland"
+  },
+  "aran islands": {
+   "name": "Aran Islands",
+   "country": "Ireland"
+  },
+  "cork": {
+   "name": "Cork",
+   "country": "Ireland"
+  },
+  "reykjavik": {
+   "name": "Reykjavík",
+   "country": "Iceland"
+  },
+  "golden circle": {
+   "name": "Golden Circle",
+   "country": "Iceland"
+  },
+  "south coast": {
+   "name": "south coast",
+   "country": "Iceland"
+  },
+  "westfjords": {
+   "name": "Westfjords",
+   "country": "Iceland"
+  },
+  "highlands": {
+   "name": "highlands",
+   "country": "Iceland"
+  },
+  "snæfellsnes": {
+   "name": "Snæfellsnes",
+   "country": "Iceland"
+  },
+  "rome": {
+   "name": "Rome",
+   "country": "Italy"
+  },
+  "florence": {
+   "name": "Florence",
+   "country": "Italy"
+  },
+  "venice": {
+   "name": "Venice",
+   "country": "Italy"
+  },
+  "amalfi coast": {
+   "name": "Amalfi Coast",
+   "country": "Italy"
+  },
+  "sicily": {
+   "name": "Sicily",
+   "country": "Italy"
+  },
+  "tuscany": {
+   "name": "Tuscany",
+   "country": "Italy"
+  },
+  "lake como": {
+   "name": "Lake Como",
+   "country": "Italy"
+  },
+  "riga": {
+   "name": "Riga",
+   "country": "Latvia"
+  },
+  "sigulda": {
+   "name": "Sigulda",
+   "country": "Latvia"
+  },
+  "curonian lagoon": {
+   "name": "Curonian Lagoon",
+   "country": "Latvia"
+  },
+  "jurmala": {
+   "name": "Jurmala",
+   "country": "Latvia"
+  },
+  "vaduz": {
+   "name": "Vaduz",
+   "country": "Liechtenstein"
+  },
+  "malbun": {
+   "name": "Malbun",
+   "country": "Liechtenstein"
+  },
+  "schaan": {
+   "name": "Schaan",
+   "country": "Liechtenstein"
+  },
+  "vilnius": {
+   "name": "Vilnius",
+   "country": "Lithuania"
+  },
+  "curonian spit": {
+   "name": "Curonian Spit",
+   "country": "Lithuania"
+  },
+  "trakai": {
+   "name": "Trakai",
+   "country": "Lithuania"
+  },
+  "kaunas": {
+   "name": "Kaunas",
+   "country": "Lithuania"
+  },
+  "luxembourg city": {
+   "name": "Luxembourg City",
+   "country": "Luxembourg"
+  },
+  "mullerthalz": {
+   "name": "Mullerthalz",
+   "country": "Luxembourg"
+  },
+  "vianden": {
+   "name": "Vianden",
+   "country": "Luxembourg"
+  },
+  "clervaux": {
+   "name": "Clervaux",
+   "country": "Luxembourg"
+  },
+  "valletta": {
+   "name": "Valletta",
+   "country": "Malta"
+  },
+  "sliema": {
+   "name": "Sliema",
+   "country": "Malta"
+  },
+  "blue lagoon": {
+   "name": "Blue Lagoon",
+   "country": "Malta"
+  },
+  "mdina": {
+   "name": "Mdina",
+   "country": "Malta"
+  },
+  "gozo": {
+   "name": "Gozo",
+   "country": "Malta"
+  },
+  "chisinau": {
+   "name": "Chisinau",
+   "country": "Moldova"
+  },
+  "orheiul vechi": {
+   "name": "Orheiul Vechi",
+   "country": "Moldova"
+  },
+  "soroca": {
+   "name": "Soroca",
+   "country": "Moldova"
+  },
+  "cricova wine caves": {
+   "name": "Cricova wine caves",
+   "country": "Moldova"
+  },
+  "monaco": {
+   "name": "Monaco",
+   "country": "Monaco"
+  },
+  "monte carlo": {
+   "name": "Monte Carlo",
+   "country": "Monaco"
+  },
+  "monaco-ville": {
+   "name": "Monaco-Ville",
+   "country": "Monaco"
+  },
+  "larvotto": {
+   "name": "Larvotto",
+   "country": "Monaco"
+  },
+  "menton": {
+   "name": "Menton",
+   "country": "Monaco"
+  },
+  "podgorica": {
+   "name": "Podgorica",
+   "country": "Montenegro"
+  },
+  "kotor": {
+   "name": "Kotor",
+   "country": "Montenegro"
+  },
+  "budva": {
+   "name": "Budva",
+   "country": "Montenegro"
+  },
+  "sveti stefan": {
+   "name": "Sveti Stefan",
+   "country": "Montenegro"
+  },
+  "durmitor national park": {
+   "name": "Durmitor National Park",
+   "country": "Montenegro"
+  },
+  "perast": {
+   "name": "Perast",
+   "country": "Montenegro"
+  },
+  "amsterdam": {
+   "name": "Amsterdam",
+   "country": "Netherlands"
+  },
+  "utrecht": {
+   "name": "Utrecht",
+   "country": "Netherlands"
+  },
+  "delft": {
+   "name": "Delft",
+   "country": "Netherlands"
+  },
+  "zaanse schans": {
+   "name": "Zaanse Schans",
+   "country": "Netherlands"
+  },
+  "veluwe": {
+   "name": "Veluwe",
+   "country": "Netherlands"
+  },
+  "wadden sea": {
+   "name": "Wadden Sea",
+   "country": "Netherlands"
+  },
+  "skopje": {
+   "name": "Skopje",
+   "country": "North Macedonia"
+  },
+  "lake ohrid": {
+   "name": "Lake Ohrid",
+   "country": "North Macedonia"
+  },
+  "matka canyon": {
+   "name": "Matka canyon",
+   "country": "North Macedonia"
+  },
+  "galicica": {
+   "name": "Galicica",
+   "country": "North Macedonia"
+  },
+  "oslo": {
+   "name": "Oslo",
+   "country": "Norway"
+  },
+  "fjords": {
+   "name": "fjords",
+   "country": "Norway"
+  },
+  "lofoten": {
+   "name": "Lofoten",
+   "country": "Norway"
+  },
+  "tromso": {
+   "name": "Tromso",
+   "country": "Norway"
+  },
+  "stavanger": {
+   "name": "Stavanger",
+   "country": "Norway"
+  },
+  "warsaw": {
+   "name": "Warsaw",
+   "country": "Poland"
+  },
+  "krakow": {
+   "name": "Krakow",
+   "country": "Poland"
+  },
+  "tatra mountains": {
+   "name": "Tatra Mountains",
+   "country": "Poland"
+  },
+  "wroclaw": {
+   "name": "Wroclaw",
+   "country": "Poland"
+  },
+  "gdansk": {
+   "name": "Gdansk",
+   "country": "Poland"
+  },
+  "baltyk coast": {
+   "name": "Baltyk coast",
+   "country": "Poland"
+  },
+  "lisbon": {
+   "name": "Lisbon",
+   "country": "Portugal"
+  },
+  "porto": {
+   "name": "Porto",
+   "country": "Portugal"
+  },
+  "algarve": {
+   "name": "Algarve",
+   "country": "Portugal"
+  },
+  "madeira": {
+   "name": "Madeira",
+   "country": "Portugal"
+  },
+  "azores": {
+   "name": "Azores",
+   "country": "Portugal"
+  },
+  "evora": {
+   "name": "Evora",
+   "country": "Portugal"
+  },
+  "sintra": {
+   "name": "Sintra",
+   "country": "Portugal"
+  },
+  "bucharest": {
+   "name": "Bucharest",
+   "country": "Romania"
+  },
+  "transylvania": {
+   "name": "Transylvania",
+   "country": "Romania"
+  },
+  "danube delta": {
+   "name": "Danube Delta",
+   "country": "Romania"
+  },
+  "carpathians": {
+   "name": "Carpathians",
+   "country": "Romania"
+  },
+  "sibiu": {
+   "name": "Sibiu",
+   "country": "Romania"
+  },
+  "moscow": {
+   "name": "Moscow",
+   "country": "Russia"
+  },
+  "st. petersburg": {
+   "name": "St. Petersburg",
+   "country": "Russia"
+  },
+  "golden ring": {
+   "name": "Golden Ring",
+   "country": "Russia"
+  },
+  "baikal": {
+   "name": "Baikal",
+   "country": "Russia"
+  },
+  "karelia": {
+   "name": "Karelia",
+   "country": "Russia"
+  },
+  "city of san marino": {
+   "name": "City of San Marino",
+   "country": "San Marino"
+  },
+  "titano": {
+   "name": "Titano",
+   "country": "San Marino"
+  },
+  "borgo maggiore": {
+   "name": "Borgo Maggiore",
+   "country": "San Marino"
+  },
+  "belgrade": {
+   "name": "Belgrade",
+   "country": "Serbia"
+  },
+  "danube": {
+   "name": "Danube",
+   "country": "Serbia"
+  },
+  "fruska gora": {
+   "name": "Fruška Gora",
+   "country": "Serbia"
+  },
+  "sremska karlovca": {
+   "name": "Sremska Karlovca",
+   "country": "Serbia"
+  },
+  "castles": {
+   "name": "castles",
+   "country": "Serbia"
+  },
+  "bratislava": {
+   "name": "Bratislava",
+   "country": "Slovakia"
+  },
+  "wine region": {
+   "name": "wine region",
+   "country": "Slovakia"
+  },
+  "ljubljana": {
+   "name": "Ljubljana",
+   "country": "Slovenia"
+  },
+  "lake bled": {
+   "name": "Lake Bled",
+   "country": "Slovenia"
+  },
+  "soca valley": {
+   "name": "Soča valley",
+   "country": "Slovenia"
+  },
+  "piran": {
+   "name": "Piran",
+   "country": "Slovenia"
+  },
+  "madrid": {
+   "name": "Madrid",
+   "country": "Spain"
+  },
+  "barcelona": {
+   "name": "Barcelona",
+   "country": "Spain"
+  },
+  "andalusia": {
+   "name": "Andalusia",
+   "country": "Spain"
+  },
+  "costa del sol": {
+   "name": "Costa del Sol",
+   "country": "Spain"
+  },
+  "basque": {
+   "name": "Basque",
+   "country": "Spain"
+  },
+  "balearic": {
+   "name": "Balearic",
+   "country": "Spain"
+  },
+  "galicia": {
+   "name": "Galicia",
+   "country": "Spain"
+  },
+  "stockholm": {
+   "name": "Stockholm",
+   "country": "Sweden"
+  },
+  "gothenburg": {
+   "name": "Gothenburg",
+   "country": "Sweden"
+  },
+  "island of gotland": {
+   "name": "island of Gotland",
+   "country": "Sweden"
+  },
+  "uppsala": {
+   "name": "Uppsala",
+   "country": "Sweden"
+  },
+  "bern": {
+   "name": "Bern",
+   "country": "Switzerland"
+  },
+  "zurich": {
+   "name": "Zurich",
+   "country": "Switzerland"
+  },
+  "geneva": {
+   "name": "Geneva",
+   "country": "Switzerland"
+  },
+  "lucerne": {
+   "name": "Lucerne",
+   "country": "Switzerland"
+  },
+  "basel": {
+   "name": "Basel",
+   "country": "Switzerland"
+  },
+  "lakes": {
+   "name": "lakes",
+   "country": "Switzerland"
+  },
+  "kyiv": {
+   "name": "Kyiv",
+   "country": "Ukraine"
+  },
+  "lviv": {
+   "name": "Lviv",
+   "country": "Ukraine"
+  },
+  "crimea": {
+   "name": "Crimea",
+   "country": "Ukraine"
+  },
+  "london": {
+   "name": "London",
+   "country": "United Kingdom"
+  },
+  "edinburgh": {
+   "name": "Edinburgh",
+   "country": "United Kingdom"
+  },
+  "lake district": {
+   "name": "Lake District",
+   "country": "United Kingdom"
+  },
+  "cornwall": {
+   "name": "Cornwall",
+   "country": "United Kingdom"
+  },
+  "scottish highlands": {
+   "name": "Scottish Highlands",
+   "country": "United Kingdom"
+  },
+  "wales": {
+   "name": "Wales",
+   "country": "United Kingdom"
+  },
+  "cotswolds": {
+   "name": "Cotswolds",
+   "country": "United Kingdom"
+  },
+  "pristina": {
+   "name": "Pristina",
+   "country": "Kosovo"
+  },
+  "prizren": {
+   "name": "Prizren",
+   "country": "Kosovo"
+  },
+  "gjakova": {
+   "name": "Gjakova",
+   "country": "Kosovo"
+  },
+  "dukagjini highlands": {
+   "name": "Dukagjini highlands",
+   "country": "Kosovo"
+  },
+  "urosevac": {
+   "name": "Uroševac",
+   "country": "Kosovo"
+  },
+  "vatican city": {
+   "name": "Vatican City",
+   "country": "Vatican City"
+  },
+  "st. peter's basilica": {
+   "name": "St. Peter's Basilica",
+   "country": "Vatican City"
+  },
+  "vatican museums": {
+   "name": "Vatican Museums",
+   "country": "Vatican City"
+  },
+  "sistine chapel": {
+   "name": "Sistine Chapel",
+   "country": "Vatican City"
+  },
+  "st. peter's square": {
+   "name": "St. Peter's Square",
+   "country": "Vatican City"
+  },
+  "algiers": {
+   "name": "Algiers",
+   "country": "Algeria"
+  },
+  "annaba": {
+   "name": "Annaba",
+   "country": "Algeria"
+  },
+  "batna": {
+   "name": "Batna",
+   "country": "Algeria"
+  },
+  "bechar": {
+   "name": "Bechar",
+   "country": "Algeria"
+  },
+  "constantine": {
+   "name": "Constantine",
+   "country": "Algeria"
+  },
+  "oran": {
+   "name": "Oran",
+   "country": "Algeria"
+  },
+  "setif": {
+   "name": "Sétif",
+   "country": "Algeria"
+  },
+  "tamanrasset": {
+   "name": "Tamanrasset",
+   "country": "Algeria"
+  },
+  "timimoun": {
+   "name": "Timimoun",
+   "country": "Algeria"
+  },
+  "central algeria": {
+   "name": "Central Algeria",
+   "country": "Algeria"
+  },
+  "northeast algeria": {
+   "name": "Northeast Algeria",
+   "country": "Algeria"
+  },
+  "northwest algeria": {
+   "name": "Northwest Algeria",
+   "country": "Algeria"
+  },
+  "luanda": {
+   "name": "Luanda",
+   "country": "Angola"
+  },
+  "benguela": {
+   "name": "Benguela",
+   "country": "Angola"
+  },
+  "cabinda": {
+   "name": "Cabinda",
+   "country": "Angola"
+  },
+  "huambo": {
+   "name": "Huambo",
+   "country": "Angola"
+  },
+  "lobito": {
+   "name": "Lobito",
+   "country": "Angola"
+  },
+  "m'banza-kongo": {
+   "name": "M'banza-Kongo",
+   "country": "Angola"
+  },
+  "lubango": {
+   "name": "Lubango",
+   "country": "Angola"
+  },
+  "cangandala national park": {
+   "name": "Cangandala National Park",
+   "country": "Angola"
+  },
+  "floresta do maiombe": {
+   "name": "Floresta do Maiombe",
+   "country": "Angola"
+  },
+  "great escarpment": {
+   "name": "Great Escarpment",
+   "country": "Angola"
+  },
+  "iona national park": {
+   "name": "Iona National Park",
+   "country": "Angola"
+  },
+  "kalandula falls": {
+   "name": "Kalandula Falls",
+   "country": "Angola"
+  },
+  "porto-novo": {
+   "name": "Porto-Novo",
+   "country": "Benin"
+  },
+  "abomey": {
+   "name": "Abomey",
+   "country": "Benin"
+  },
+  "cotonou": {
+   "name": "Cotonou",
+   "country": "Benin"
+  },
+  "grand-popo": {
+   "name": "Grand-Popo",
+   "country": "Benin"
+  },
+  "malanville": {
+   "name": "Malanville",
+   "country": "Benin"
+  },
+  "natitingou": {
+   "name": "Natitingou",
+   "country": "Benin"
+  },
+  "ouidah": {
+   "name": "Ouidah",
+   "country": "Benin"
+  },
+  "parakou": {
+   "name": "Parakou",
+   "country": "Benin"
+  },
+  "northern benin": {
+   "name": "Northern Benin",
+   "country": "Benin"
+  },
+  "southern benin": {
+   "name": "Southern Benin",
+   "country": "Benin"
+  },
+  "gaborone": {
+   "name": "Gaborone",
+   "country": "Botswana"
+  },
+  "francistown": {
+   "name": "Francistown",
+   "country": "Botswana"
+  },
+  "ghanzi": {
+   "name": "Ghanzi",
+   "country": "Botswana"
+  },
+  "gweta": {
+   "name": "Gweta",
+   "country": "Botswana"
+  },
+  "kanye": {
+   "name": "Kanye",
+   "country": "Botswana"
+  },
+  "kasane": {
+   "name": "Kasane",
+   "country": "Botswana"
+  },
+  "maun": {
+   "name": "Maun",
+   "country": "Botswana"
+  },
+  "nata": {
+   "name": "Nata",
+   "country": "Botswana"
+  },
+  "tsabong": {
+   "name": "Tsabong",
+   "country": "Botswana"
+  },
+  "okavango delta": {
+   "name": "Okavango Delta",
+   "country": "Botswana"
+  },
+  "central kalahari game reserve": {
+   "name": "Central Kalahari Game Reserve",
+   "country": "Botswana"
+  },
+  "chobe national park": {
+   "name": "Chobe National Park",
+   "country": "Botswana"
+  },
+  "ouagadougou": {
+   "name": "Ouagadougou",
+   "country": "Burkina Faso"
+  },
+  "banfora": {
+   "name": "Banfora",
+   "country": "Burkina Faso"
+  },
+  "bobo-dioulasso": {
+   "name": "Bobo-Dioulasso",
+   "country": "Burkina Faso"
+  },
+  "dedougou": {
+   "name": "Dédougou",
+   "country": "Burkina Faso"
+  },
+  "gaoua": {
+   "name": "Gaoua",
+   "country": "Burkina Faso"
+  },
+  "koudougou": {
+   "name": "Koudougou",
+   "country": "Burkina Faso"
+  },
+  "ouahigouya": {
+   "name": "Ouahigouya",
+   "country": "Burkina Faso"
+  },
+  "fada n'gourma": {
+   "name": "Fada N'gourma",
+   "country": "Burkina Faso"
+  },
+  "volta delta": {
+   "name": "Volta Delta",
+   "country": "Burkina Faso"
+  },
+  "black volta region": {
+   "name": "Black Volta Region",
+   "country": "Burkina Faso"
+  },
+  "east burkina faso": {
+   "name": "East Burkina Faso",
+   "country": "Burkina Faso"
+  },
+  "north burkina faso": {
+   "name": "North Burkina Faso",
+   "country": "Burkina Faso"
+  },
+  "gitega": {
+   "name": "Gitega",
+   "country": "Burundi"
+  },
+  "bujumbura": {
+   "name": "Bujumbura",
+   "country": "Burundi"
+  },
+  "bururi": {
+   "name": "Bururi",
+   "country": "Burundi"
+  },
+  "cibitoke": {
+   "name": "Cibitoke",
+   "country": "Burundi"
+  },
+  "kabezi": {
+   "name": "Kabezi",
+   "country": "Burundi"
+  },
+  "bururi forest natural reserve": {
+   "name": "Bururi Forest Natural Reserve",
+   "country": "Burundi"
+  },
+  "kibira national park": {
+   "name": "Kibira National Park",
+   "country": "Burundi"
+  },
+  "rusizi national park": {
+   "name": "Rusizi National Park",
+   "country": "Burundi"
+  },
+  "praia": {
+   "name": "Praia",
+   "country": "Cabo Verde"
+  },
+  "yaounde": {
+   "name": "Yaoundé",
+   "country": "Cameroon"
+  },
+  "bafoussam": {
+   "name": "Bafoussam",
+   "country": "Cameroon"
+  },
+  "bamenda": {
+   "name": "Bamenda",
+   "country": "Cameroon"
+  },
+  "buea": {
+   "name": "Buea",
+   "country": "Cameroon"
+  },
+  "douala": {
+   "name": "Douala",
+   "country": "Cameroon"
+  },
+  "garoua": {
+   "name": "Garoua",
+   "country": "Cameroon"
+  },
+  "limbe": {
+   "name": "Limbe",
+   "country": "Cameroon"
+  },
+  "ngaoundere": {
+   "name": "Ngaoundere",
+   "country": "Cameroon"
+  },
+  "adamaoua": {
+   "name": "Adamaoua",
+   "country": "Cameroon"
+  },
+  "coastal cameroon": {
+   "name": "Coastal Cameroon",
+   "country": "Cameroon"
+  },
+  "northern cameroon": {
+   "name": "Northern Cameroon",
+   "country": "Cameroon"
+  },
+  "northwest highlands": {
+   "name": "Northwest Highlands",
+   "country": "Cameroon"
+  },
+  "bangui": {
+   "name": "Bangui",
+   "country": "Central African Republic"
+  },
+  "bambari": {
+   "name": "Bambari",
+   "country": "Central African Republic"
+  },
+  "bangassou": {
+   "name": "Bangassou",
+   "country": "Central African Republic"
+  },
+  "birao": {
+   "name": "Birao",
+   "country": "Central African Republic"
+  },
+  "bouar": {
+   "name": "Bouar",
+   "country": "Central African Republic"
+  },
+  "bria": {
+   "name": "Bria",
+   "country": "Central African Republic"
+  },
+  "kaga-bandoro": {
+   "name": "Kaga-Bandoro",
+   "country": "Central African Republic"
+  },
+  "mbaiki": {
+   "name": "Mbaiki",
+   "country": "Central African Republic"
+  },
+  "n'djamena": {
+   "name": "N'Djamena",
+   "country": "Chad"
+  },
+  "moundou": {
+   "name": "Moundou",
+   "country": "Chad"
+  },
+  "abeche": {
+   "name": "Abéché",
+   "country": "Chad"
+  },
+  "faya": {
+   "name": "Faya",
+   "country": "Chad"
+  },
+  "saharan chad": {
+   "name": "Saharan Chad",
+   "country": "Chad"
+  },
+  "sahelian chad": {
+   "name": "Sahelian Chad",
+   "country": "Chad"
+  },
+  "soudanian chad": {
+   "name": "Soudanian Chad",
+   "country": "Chad"
+  },
+  "moroni": {
+   "name": "Moroni",
+   "country": "Comoros"
+  },
+  "nioumachoua": {
+   "name": "Nioumachoua",
+   "country": "Comoros"
+  },
+  "mount karthala": {
+   "name": "Mount Karthala",
+   "country": "Comoros"
+  },
+  "grand comore": {
+   "name": "Grand Comore",
+   "country": "Comoros"
+  },
+  "moheli": {
+   "name": "Moheli",
+   "country": "Comoros"
+  },
+  "anjouan": {
+   "name": "Anjouan",
+   "country": "Comoros"
+  },
+  "brazzaville": {
+   "name": "Brazzaville",
+   "country": "Congo (Republic)"
+  },
+  "pointe-noire_": {
+   "name": "Pointe-Noire_",
+   "country": "Congo (Republic)"
+  },
+  "dolisie": {
+   "name": "Dolisie",
+   "country": "Congo (Republic)"
+  },
+  "mossendjo": {
+   "name": "Mossendjo",
+   "country": "Congo (Republic)"
+  },
+  "djambala": {
+   "name": "Djambala",
+   "country": "Congo (Republic)"
+  },
+  "owando": {
+   "name": "Owando",
+   "country": "Congo (Republic)"
+  },
+  "ouesso": {
+   "name": "Ouésso",
+   "country": "Congo (Republic)"
+  },
+  "ile mbamou": {
+   "name": "Ile Mbamou",
+   "country": "Congo (Republic)"
+  },
+  "lesio louna gorilla reserve": {
+   "name": "Lesio Louna Gorilla Reserve",
+   "country": "Congo (Republic)"
+  },
+  "odzala-kokoua national park": {
+   "name": "Odzala-Kokoua National Park",
+   "country": "Congo (Republic)"
+  },
+  "nouabale-ndoki national park": {
+   "name": "Nouabalé-Ndoki National Park",
+   "country": "Congo (Republic)"
+  },
+  "yamoussoukro": {
+   "name": "Yamoussoukro",
+   "country": "Cote d'Ivoire"
+  },
+  "abidjan": {
+   "name": "Abidjan",
+   "country": "Cote d'Ivoire"
+  },
+  "korhogo": {
+   "name": "Korhogo",
+   "country": "Cote d'Ivoire"
+  },
+  "bouake": {
+   "name": "Bouaké",
+   "country": "Cote d'Ivoire"
+  },
+  "san pedro": {
+   "name": "San Pedro",
+   "country": "Cote d'Ivoire"
+  },
+  "grand-bassam": {
+   "name": "Grand-Bassam",
+   "country": "Cote d'Ivoire"
+  },
+  "lagunes": {
+   "name": "Lagunes",
+   "country": "Cote d'Ivoire"
+  },
+  "northern savanna": {
+   "name": "Northern Savanna",
+   "country": "Cote d'Ivoire"
+  },
+  "southwestern forests": {
+   "name": "Southwestern Forests",
+   "country": "Cote d'Ivoire"
+  },
+  "eastern plantations": {
+   "name": "Eastern Plantations",
+   "country": "Cote d'Ivoire"
+  },
+  "kinshasa": {
+   "name": "Kinshasa",
+   "country": "DR Congo"
+  },
+  "bukavu": {
+   "name": "Bukavu",
+   "country": "DR Congo"
+  },
+  "goma": {
+   "name": "Goma",
+   "country": "DR Congo"
+  },
+  "kananga": {
+   "name": "Kananga",
+   "country": "DR Congo"
+  },
+  "kisangani": {
+   "name": "Kisangani",
+   "country": "DR Congo"
+  },
+  "kindu": {
+   "name": "Kindu",
+   "country": "DR Congo"
+  },
+  "lubumbashi": {
+   "name": "Lubumbashi",
+   "country": "DR Congo"
+  },
+  "matadi": {
+   "name": "Matadi",
+   "country": "DR Congo"
+  },
+  "mbandaka": {
+   "name": "Mbandaka",
+   "country": "DR Congo"
+  },
+  "mbuji-mayi": {
+   "name": "Mbuji-Mayi",
+   "country": "DR Congo"
+  },
+  "western drc": {
+   "name": "Western DRC",
+   "country": "DR Congo"
+  },
+  "katanga": {
+   "name": "Katanga",
+   "country": "DR Congo"
+  },
+  "djibouti city": {
+   "name": "Djibouti City",
+   "country": "Djibouti"
+  },
+  "djibouti": {
+   "name": "Djibouti",
+   "country": "Djibouti"
+  },
+  "cairo": {
+   "name": "Cairo",
+   "country": "Egypt"
+  },
+  "lower egypt": {
+   "name": "Lower Egypt",
+   "country": "Egypt"
+  },
+  "middle egypt": {
+   "name": "Middle Egypt",
+   "country": "Egypt"
+  },
+  "upper egypt": {
+   "name": "Upper Egypt",
+   "country": "Egypt"
+  },
+  "western desert": {
+   "name": "Western Desert",
+   "country": "Egypt"
+  },
+  "red sea coast": {
+   "name": "Red Sea Coast",
+   "country": "Egypt"
+  },
+  "sinai": {
+   "name": "Sinai",
+   "country": "Egypt"
+  },
+  "malabo": {
+   "name": "Malabo",
+   "country": "Equatorial Guinea"
+  },
+  "acalayong": {
+   "name": "Acalayong",
+   "country": "Equatorial Guinea"
+  },
+  "bata": {
+   "name": "Bata",
+   "country": "Equatorial Guinea"
+  },
+  "ciudad de la paz": {
+   "name": "Ciudad de la Paz",
+   "country": "Equatorial Guinea"
+  },
+  "kogo": {
+   "name": "Kogo",
+   "country": "Equatorial Guinea"
+  },
+  "luba": {
+   "name": "Luba",
+   "country": "Equatorial Guinea"
+  },
+  "ebibeyin": {
+   "name": "Ebibeyin",
+   "country": "Equatorial Guinea"
+  },
+  "mongomo": {
+   "name": "Mongomo",
+   "country": "Equatorial Guinea"
+  },
+  "monte alen national park": {
+   "name": "Monte Alén National Park",
+   "country": "Equatorial Guinea"
+  },
+  "annobon": {
+   "name": "Annobón",
+   "country": "Equatorial Guinea"
+  },
+  "rio muni": {
+   "name": "Río Muni",
+   "country": "Equatorial Guinea"
+  },
+  "bioko": {
+   "name": "Bioko",
+   "country": "Equatorial Guinea"
+  },
+  "asmara": {
+   "name": "Asmara",
+   "country": "Eritrea"
+  },
+  "keren": {
+   "name": "Keren",
+   "country": "Eritrea"
+  },
+  "massawa": {
+   "name": "Massawa",
+   "country": "Eritrea"
+  },
+  "senafe": {
+   "name": "Senafe",
+   "country": "Eritrea"
+  },
+  "nakfa": {
+   "name": "Nakfa",
+   "country": "Eritrea"
+  },
+  "mbabane": {
+   "name": "Mbabane",
+   "country": "Eswatini"
+  },
+  "lobamba": {
+   "name": "Lobamba",
+   "country": "Eswatini"
+  },
+  "manzini": {
+   "name": "Manzini",
+   "country": "Eswatini"
+  },
+  "mkhaya game reserve": {
+   "name": "Mkhaya Game Reserve",
+   "country": "Eswatini"
+  },
+  "hlane royal national park": {
+   "name": "Hlane Royal National Park",
+   "country": "Eswatini"
+  },
+  "malolotja nature reserve": {
+   "name": "Malolotja Nature Reserve",
+   "country": "Eswatini"
+  },
+  "mantenga nature reserve": {
+   "name": "Mantenga Nature Reserve",
+   "country": "Eswatini"
+  },
+  "mlilwane wildlife sanctuary": {
+   "name": "Mlilwane Wildlife Sanctuary",
+   "country": "Eswatini"
+  },
+  "mlawula nature reserve": {
+   "name": "Mlawula Nature Reserve",
+   "country": "Eswatini"
+  },
+  "addis ababa": {
+   "name": "Addis Ababa",
+   "country": "Ethiopia"
+  },
+  "adama": {
+   "name": "Adama",
+   "country": "Ethiopia"
+  },
+  "axum": {
+   "name": "Axum",
+   "country": "Ethiopia"
+  },
+  "bahir dar": {
+   "name": "Bahir Dar",
+   "country": "Ethiopia"
+  },
+  "dire dawa": {
+   "name": "Dire Dawa",
+   "country": "Ethiopia"
+  },
+  "gondar": {
+   "name": "Gondar",
+   "country": "Ethiopia"
+  },
+  "harar": {
+   "name": "Harar",
+   "country": "Ethiopia"
+  },
+  "lalibela": {
+   "name": "Lalibela",
+   "country": "Ethiopia"
+  },
+  "mekele": {
+   "name": "Mekele",
+   "country": "Ethiopia"
+  },
+  "wolaita sodo": {
+   "name": "Wolaita Sodo",
+   "country": "Ethiopia"
+  },
+  "abijatta shalla lakes national park": {
+   "name": "Abijatta Shalla Lakes National Park",
+   "country": "Ethiopia"
+  },
+  "bale mountains national park": {
+   "name": "Bale Mountains National Park",
+   "country": "Ethiopia"
+  },
+  "libreville": {
+   "name": "Libreville",
+   "country": "Gabon"
+  },
+  "franceville": {
+   "name": "Franceville",
+   "country": "Gabon"
+  },
+  "gamba": {
+   "name": "Gamba",
+   "country": "Gabon"
+  },
+  "mayumba": {
+   "name": "Mayumba",
+   "country": "Gabon"
+  },
+  "port-gentil": {
+   "name": "Port-Gentil",
+   "country": "Gabon"
+  },
+  "ivindo national park": {
+   "name": "Ivindo National Park",
+   "country": "Gabon"
+  },
+  "loango national park": {
+   "name": "Loango National Park",
+   "country": "Gabon"
+  },
+  "lope national park": {
+   "name": "Lopé National Park",
+   "country": "Gabon"
+  },
+  "banjul": {
+   "name": "Banjul",
+   "country": "Gambia"
+  },
+  "bintang": {
+   "name": "Bintang",
+   "country": "Gambia"
+  },
+  "brikama": {
+   "name": "Brikama",
+   "country": "Gambia"
+  },
+  "brufut": {
+   "name": "Brufut",
+   "country": "Gambia"
+  },
+  "gunjur": {
+   "name": "Gunjur",
+   "country": "Gambia"
+  },
+  "janjanbureh": {
+   "name": "Janjanbureh",
+   "country": "Gambia"
+  },
+  "juffureh": {
+   "name": "Juffureh",
+   "country": "Gambia"
+  },
+  "serekunda": {
+   "name": "Serekunda",
+   "country": "Gambia"
+  },
+  "tanji": {
+   "name": "Tanji",
+   "country": "Gambia"
+  },
+  "yundum": {
+   "name": "Yundum",
+   "country": "Gambia"
+  },
+  "accra": {
+   "name": "Accra",
+   "country": "Ghana"
+  },
+  "cape coast": {
+   "name": "Cape Coast",
+   "country": "Ghana"
+  },
+  "koforidua": {
+   "name": "Koforidua",
+   "country": "Ghana"
+  },
+  "kumasi": {
+   "name": "Kumasi",
+   "country": "Ghana"
+  },
+  "obuasi": {
+   "name": "Obuasi",
+   "country": "Ghana"
+  },
+  "sekondi-takoradi": {
+   "name": "Sekondi-Takoradi",
+   "country": "Ghana"
+  },
+  "sunyani": {
+   "name": "Sunyani",
+   "country": "Ghana"
+  },
+  "tamale": {
+   "name": "Tamale",
+   "country": "Ghana"
+  },
+  "tema": {
+   "name": "Tema",
+   "country": "Ghana"
+  },
+  "ghanaian coastal plain": {
+   "name": "Ghanaian Coastal Plain",
+   "country": "Ghana"
+  },
+  "ashanti-kwahu": {
+   "name": "Ashanti-Kwahu",
+   "country": "Ghana"
+  },
+  "volta basin": {
+   "name": "Volta Basin",
+   "country": "Ghana"
+  },
+  "conakry": {
+   "name": "Conakry",
+   "country": "Guinea"
+  },
+  "dalaba": {
+   "name": "Dalaba",
+   "country": "Guinea"
+  },
+  "kankan": {
+   "name": "Kankan",
+   "country": "Guinea"
+  },
+  "kindia": {
+   "name": "Kindia",
+   "country": "Guinea"
+  },
+  "koundara": {
+   "name": "Koundara",
+   "country": "Guinea"
+  },
+  "labe": {
+   "name": "Labé",
+   "country": "Guinea"
+  },
+  "guinee maritime": {
+   "name": "Guinee Maritime",
+   "country": "Guinea"
+  },
+  "moyenne guinee": {
+   "name": "Moyenne Guinee",
+   "country": "Guinea"
+  },
+  "haute guinee": {
+   "name": "Haute Guinee",
+   "country": "Guinea"
+  },
+  "guinee forestiere": {
+   "name": "Guinee Forestiere",
+   "country": "Guinea"
+  },
+  "bissau": {
+   "name": "Bissau",
+   "country": "Guinea-Bissau"
+  },
+  "bafata": {
+   "name": "Bafatá",
+   "country": "Guinea-Bissau"
+  },
+  "bolama": {
+   "name": "Bolama",
+   "country": "Guinea-Bissau"
+  },
+  "buba": {
+   "name": "Buba",
+   "country": "Guinea-Bissau"
+  },
+  "bubaque": {
+   "name": "Bubaque",
+   "country": "Guinea-Bissau"
+  },
+  "cacheu": {
+   "name": "Cacheu",
+   "country": "Guinea-Bissau"
+  },
+  "catio": {
+   "name": "Catió",
+   "country": "Guinea-Bissau"
+  },
+  "farim": {
+   "name": "Farim",
+   "country": "Guinea-Bissau"
+  },
+  "gabu": {
+   "name": "Gabú",
+   "country": "Guinea-Bissau"
+  },
+  "nairobi": {
+   "name": "Nairobi",
+   "country": "Kenya"
+  },
+  "mombasa": {
+   "name": "Mombasa",
+   "country": "Kenya"
+  },
+  "kisumu": {
+   "name": "Kisumu",
+   "country": "Kenya"
+  },
+  "lamu": {
+   "name": "Lamu",
+   "country": "Kenya"
+  },
+  "lodwar": {
+   "name": "Lodwar",
+   "country": "Kenya"
+  },
+  "malindi": {
+   "name": "Malindi",
+   "country": "Kenya"
+  },
+  "meru": {
+   "name": "Meru",
+   "country": "Kenya"
+  },
+  "nakuru": {
+   "name": "Nakuru",
+   "country": "Kenya"
+  },
+  "mtwapa": {
+   "name": "Mtwapa",
+   "country": "Kenya"
+  },
+  "northern rift valley": {
+   "name": "Northern Rift Valley",
+   "country": "Kenya"
+  },
+  "southern rift valley": {
+   "name": "Southern Rift Valley",
+   "country": "Kenya"
+  },
+  "coastal kenya": {
+   "name": "Coastal Kenya",
+   "country": "Kenya"
+  },
+  "maseru": {
+   "name": "Maseru",
+   "country": "Lesotho"
+  },
+  "leribe": {
+   "name": "Leribe",
+   "country": "Lesotho"
+  },
+  "mafeteng": {
+   "name": "Mafeteng",
+   "country": "Lesotho"
+  },
+  "mohale's hoek": {
+   "name": "Mohale's Hoek",
+   "country": "Lesotho"
+  },
+  "mokhotlong": {
+   "name": "Mokhotlong",
+   "country": "Lesotho"
+  },
+  "qacha's nek": {
+   "name": "Qacha's Nek",
+   "country": "Lesotho"
+  },
+  "quthing": {
+   "name": "Quthing",
+   "country": "Lesotho"
+  },
+  "teyateyaneng": {
+   "name": "Teyateyaneng",
+   "country": "Lesotho"
+  },
+  "thaba-tseka": {
+   "name": "Thaba-Tseka",
+   "country": "Lesotho"
+  },
+  "monrovia": {
+   "name": "Monrovia",
+   "country": "Liberia"
+  },
+  "robertsport": {
+   "name": "Robertsport",
+   "country": "Liberia"
+  },
+  "harper": {
+   "name": "Harper",
+   "country": "Liberia"
+  },
+  "paynesville": {
+   "name": "Paynesville",
+   "country": "Liberia"
+  },
+  "tripoli": {
+   "name": "Tripoli",
+   "country": "Libya"
+  },
+  "benghazi": {
+   "name": "Benghazi",
+   "country": "Libya"
+  },
+  "ghadamis": {
+   "name": "Ghadamis",
+   "country": "Libya"
+  },
+  "sabha": {
+   "name": "Sabha",
+   "country": "Libya"
+  },
+  "shahhat": {
+   "name": "Shahhat",
+   "country": "Libya"
+  },
+  "sirte": {
+   "name": "Sirte",
+   "country": "Libya"
+  },
+  "tobruk": {
+   "name": "Tobruk",
+   "country": "Libya"
+  },
+  "zuwara": {
+   "name": "Zuwara",
+   "country": "Libya"
+  },
+  "misrata": {
+   "name": "Misrata",
+   "country": "Libya"
+  },
+  "antananarivo": {
+   "name": "Antananarivo",
+   "country": "Madagascar"
+  },
+  "antananarivo province": {
+   "name": "Antananarivo Province",
+   "country": "Madagascar"
+  },
+  "antsiranana province": {
+   "name": "Antsiranana Province",
+   "country": "Madagascar"
+  },
+  "fianarantsoa province": {
+   "name": "Fianarantsoa Province",
+   "country": "Madagascar"
+  },
+  "mahajanga province": {
+   "name": "Mahajanga Province",
+   "country": "Madagascar"
+  },
+  "toamasina province": {
+   "name": "Toamasina Province",
+   "country": "Madagascar"
+  },
+  "toliara province": {
+   "name": "Toliara Province",
+   "country": "Madagascar"
+  },
+  "lilongwe": {
+   "name": "Lilongwe",
+   "country": "Malawi"
+  },
+  "blantyre": {
+   "name": "Blantyre",
+   "country": "Malawi"
+  },
+  "mzuzu": {
+   "name": "Mzuzu",
+   "country": "Malawi"
+  },
+  "karonga": {
+   "name": "Karonga",
+   "country": "Malawi"
+  },
+  "mangochi": {
+   "name": "Mangochi",
+   "country": "Malawi"
+  },
+  "nkhotakota": {
+   "name": "Nkhotakota",
+   "country": "Malawi"
+  },
+  "zomba": {
+   "name": "Zomba",
+   "country": "Malawi"
+  },
+  "northern malawi": {
+   "name": "Northern Malawi",
+   "country": "Malawi"
+  },
+  "central malawi": {
+   "name": "Central Malawi",
+   "country": "Malawi"
+  },
+  "southern malawi": {
+   "name": "Southern Malawi",
+   "country": "Malawi"
+  },
+  "bamako": {
+   "name": "Bamako",
+   "country": "Mali"
+  },
+  "gao": {
+   "name": "Gao",
+   "country": "Mali"
+  },
+  "kayes": {
+   "name": "Kayes",
+   "country": "Mali"
+  },
+  "kidal": {
+   "name": "Kidal",
+   "country": "Mali"
+  },
+  "mopti": {
+   "name": "Mopti",
+   "country": "Mali"
+  },
+  "segou": {
+   "name": "Ségou",
+   "country": "Mali"
+  },
+  "sikasso": {
+   "name": "Sikasso",
+   "country": "Mali"
+  },
+  "timbuktu": {
+   "name": "Timbuktu",
+   "country": "Mali"
+  },
+  "koulikoro": {
+   "name": "Koulikoro",
+   "country": "Mali"
+  },
+  "nouakchott": {
+   "name": "Nouakchott",
+   "country": "Mauritania"
+  },
+  "atar": {
+   "name": "Atar",
+   "country": "Mauritania"
+  },
+  "chinguetti": {
+   "name": "Chinguetti",
+   "country": "Mauritania"
+  },
+  "nouadhibou": {
+   "name": "Nouadhibou",
+   "country": "Mauritania"
+  },
+  "tichit": {
+   "name": "Tichit",
+   "country": "Mauritania"
+  },
+  "coastal mauritania": {
+   "name": "Coastal Mauritania",
+   "country": "Mauritania"
+  },
+  "sahelian mauritania": {
+   "name": "Sahelian Mauritania",
+   "country": "Mauritania"
+  },
+  "saharan mauritania": {
+   "name": "Saharan Mauritania",
+   "country": "Mauritania"
+  },
+  "port louis": {
+   "name": "Port Louis",
+   "country": "Mauritius"
+  },
+  "curepipe": {
+   "name": "Curepipe",
+   "country": "Mauritius"
+  },
+  "quatre bornes": {
+   "name": "Quatre Bornes",
+   "country": "Mauritius"
+  },
+  "vacoas-phoenix": {
+   "name": "Vacoas-Phoenix",
+   "country": "Mauritius"
+  },
+  "blue bay": {
+   "name": "Blue Bay",
+   "country": "Mauritius"
+  },
+  "chamarel": {
+   "name": "Chamarel",
+   "country": "Mauritius"
+  },
+  "grand bay": {
+   "name": "Grand Bay",
+   "country": "Mauritius"
+  },
+  "flic en flac": {
+   "name": "Flic en Flac",
+   "country": "Mauritius"
+  },
+  "mahebourg": {
+   "name": "Mahébourg",
+   "country": "Mauritius"
+  },
+  "pamplemousses": {
+   "name": "Pamplemousses",
+   "country": "Mauritius"
+  },
+  "tamarin": {
+   "name": "Tamarin",
+   "country": "Mauritius"
+  },
+  "triolet": {
+   "name": "Triolet",
+   "country": "Mauritius"
+  },
+  "rabat": {
+   "name": "Rabat",
+   "country": "Morocco"
+  },
+  "agadir": {
+   "name": "Agadir",
+   "country": "Morocco"
+  },
+  "casablanca": {
+   "name": "Casablanca",
+   "country": "Morocco"
+  },
+  "fez": {
+   "name": "Fez",
+   "country": "Morocco"
+  },
+  "marrakech": {
+   "name": "Marrakech",
+   "country": "Morocco"
+  },
+  "meknes": {
+   "name": "Meknes",
+   "country": "Morocco"
+  },
+  "ouarzazate": {
+   "name": "Ouarzazate",
+   "country": "Morocco"
+  },
+  "tangier": {
+   "name": "Tangier",
+   "country": "Morocco"
+  },
+  "tetouan": {
+   "name": "Tetouan",
+   "country": "Morocco"
+  },
+  "high atlas": {
+   "name": "High Atlas",
+   "country": "Morocco"
+  },
+  "merzouga": {
+   "name": "Merzouga",
+   "country": "Morocco"
+  },
+  "m'hamid": {
+   "name": "M'Hamid",
+   "country": "Morocco"
+  },
+  "maputo": {
+   "name": "Maputo",
+   "country": "Mozambique"
+  },
+  "beira": {
+   "name": "Beira",
+   "country": "Mozambique"
+  },
+  "ilha de mozambique": {
+   "name": "Ilha de Mozambique",
+   "country": "Mozambique"
+  },
+  "inhambane": {
+   "name": "Inhambane",
+   "country": "Mozambique"
+  },
+  "nampula": {
+   "name": "Nampula",
+   "country": "Mozambique"
+  },
+  "pemba": {
+   "name": "Pemba",
+   "country": "Mozambique"
+  },
+  "chimoio": {
+   "name": "Chimoio",
+   "country": "Mozambique"
+  },
+  "northern mozambique": {
+   "name": "Northern Mozambique",
+   "country": "Mozambique"
+  },
+  "central mozambique": {
+   "name": "Central Mozambique",
+   "country": "Mozambique"
+  },
+  "southern mozambique": {
+   "name": "Southern Mozambique",
+   "country": "Mozambique"
+  },
+  "windhoek": {
+   "name": "Windhoek",
+   "country": "Namibia"
+  },
+  "gobabis": {
+   "name": "Gobabis",
+   "country": "Namibia"
+  },
+  "katima mulilo": {
+   "name": "Katima Mulilo",
+   "country": "Namibia"
+  },
+  "keetmanshoop": {
+   "name": "Keetmanshoop",
+   "country": "Namibia"
+  },
+  "luderitz": {
+   "name": "Lüderitz",
+   "country": "Namibia"
+  },
+  "mariental": {
+   "name": "Mariental",
+   "country": "Namibia"
+  },
+  "opuwo": {
+   "name": "Opuwo",
+   "country": "Namibia"
+  },
+  "rundu": {
+   "name": "Rundu",
+   "country": "Namibia"
+  },
+  "swakopmund": {
+   "name": "Swakopmund",
+   "country": "Namibia"
+  },
+  "caprivi": {
+   "name": "Caprivi",
+   "country": "Namibia"
+  },
+  "kavango": {
+   "name": "Kavango",
+   "country": "Namibia"
+  },
+  "four-o region": {
+   "name": "Four-O region",
+   "country": "Namibia"
+  },
+  "niamey": {
+   "name": "Niamey",
+   "country": "Niger"
+  },
+  "agadez": {
+   "name": "Agadez",
+   "country": "Niger"
+  },
+  "ayorou": {
+   "name": "Ayorou",
+   "country": "Niger"
+  },
+  "diffa": {
+   "name": "Diffa",
+   "country": "Niger"
+  },
+  "dosso": {
+   "name": "Dosso",
+   "country": "Niger"
+  },
+  "maradi": {
+   "name": "Maradi",
+   "country": "Niger"
+  },
+  "zinder": {
+   "name": "Zinder",
+   "country": "Niger"
+  },
+  "northern niger": {
+   "name": "Northern Niger",
+   "country": "Niger"
+  },
+  "southern niger": {
+   "name": "Southern Niger",
+   "country": "Niger"
+  },
+  "southwestern niger": {
+   "name": "Southwestern Niger",
+   "country": "Niger"
+  },
+  "abuja": {
+   "name": "Abuja",
+   "country": "Nigeria"
+  },
+  "benin city": {
+   "name": "Benin City",
+   "country": "Nigeria"
+  },
+  "calabar": {
+   "name": "Calabar",
+   "country": "Nigeria"
+  },
+  "enugu": {
+   "name": "Enugu",
+   "country": "Nigeria"
+  },
+  "ibadan": {
+   "name": "Ibadan",
+   "country": "Nigeria"
+  },
+  "kano": {
+   "name": "Kano",
+   "country": "Nigeria"
+  },
+  "lagos city": {
+   "name": "Lagos City",
+   "country": "Nigeria"
+  },
+  "osogbo": {
+   "name": "Osogbo",
+   "country": "Nigeria"
+  },
+  "port harcourt": {
+   "name": "Port Harcourt",
+   "country": "Nigeria"
+  },
+  "agbokim waterfalls": {
+   "name": "Agbokim Waterfalls",
+   "country": "Nigeria"
+  },
+  "chad basin national park": {
+   "name": "Chad Basin National Park",
+   "country": "Nigeria"
+  },
+  "cross river national park": {
+   "name": "Cross River National Park",
+   "country": "Nigeria"
+  },
+  "kigali": {
+   "name": "Kigali",
+   "country": "Rwanda"
+  },
+  "gicumbi": {
+   "name": "Gicumbi",
+   "country": "Rwanda"
+  },
+  "gisenyi": {
+   "name": "Gisenyi",
+   "country": "Rwanda"
+  },
+  "butare": {
+   "name": "Butare",
+   "country": "Rwanda"
+  },
+  "kabuga": {
+   "name": "Kabuga",
+   "country": "Rwanda"
+  },
+  "kibeho": {
+   "name": "Kibeho",
+   "country": "Rwanda"
+  },
+  "kibungo": {
+   "name": "Kibungo",
+   "country": "Rwanda"
+  },
+  "kibuye": {
+   "name": "Kibuye",
+   "country": "Rwanda"
+  },
+  "muhanga": {
+   "name": "Muhanga",
+   "country": "Rwanda"
+  },
+  "musanze": {
+   "name": "Musanze",
+   "country": "Rwanda"
+  },
+  "ngororero": {
+   "name": "Ngororero",
+   "country": "Rwanda"
+  },
+  "nyamata": {
+   "name": "Nyamata",
+   "country": "Rwanda"
+  },
+  "sao tome": {
+   "name": "São Tomé",
+   "country": "Sao Tome and Principe"
+  },
+  "dakar": {
+   "name": "Dakar",
+   "country": "Senegal"
+  },
+  "saint-louis": {
+   "name": "Saint-Louis",
+   "country": "Senegal"
+  },
+  "thies": {
+   "name": "Thiès",
+   "country": "Senegal"
+  },
+  "kaolack": {
+   "name": "Kaolack",
+   "country": "Senegal"
+  },
+  "ziguinchor": {
+   "name": "Ziguinchor",
+   "country": "Senegal"
+  },
+  "tambacounda": {
+   "name": "Tambacounda",
+   "country": "Senegal"
+  },
+  "touba": {
+   "name": "Touba",
+   "country": "Senegal"
+  },
+  "kafountine": {
+   "name": "Kafountine",
+   "country": "Senegal"
+  },
+  "kedougou": {
+   "name": "Kédougou",
+   "country": "Senegal"
+  },
+  "cap vert-thies": {
+   "name": "Cap Vert-Thies",
+   "country": "Senegal"
+  },
+  "central senegal": {
+   "name": "Central Senegal",
+   "country": "Senegal"
+  },
+  "northern senegal": {
+   "name": "Northern Senegal",
+   "country": "Senegal"
+  },
+  "victoria": {
+   "name": "Victoria",
+   "country": "Seychelles"
+  },
+  "beau vallon": {
+   "name": "Beau Vallon",
+   "country": "Seychelles"
+  },
+  "morne seychellois national park": {
+   "name": "Morne Seychellois National Park",
+   "country": "Seychelles"
+  },
+  "mahe": {
+   "name": "Mahé",
+   "country": "Seychelles"
+  },
+  "praslin": {
+   "name": "Praslin",
+   "country": "Seychelles"
+  },
+  "la digue": {
+   "name": "La Digue",
+   "country": "Seychelles"
+  },
+  "silhouette island": {
+   "name": "Silhouette Island",
+   "country": "Seychelles"
+  },
+  "aldabra": {
+   "name": "Aldabra",
+   "country": "Seychelles"
+  },
+  "freetown": {
+   "name": "Freetown",
+   "country": "Sierra Leone"
+  },
+  "bonthe": {
+   "name": "Bonthe",
+   "country": "Sierra Leone"
+  },
+  "kenema": {
+   "name": "Kenema",
+   "country": "Sierra Leone"
+  },
+  "koidu": {
+   "name": "Koidu",
+   "country": "Sierra Leone"
+  },
+  "makeni": {
+   "name": "Makeni",
+   "country": "Sierra Leone"
+  },
+  "magburaka": {
+   "name": "Magburaka",
+   "country": "Sierra Leone"
+  },
+  "mogadishu": {
+   "name": "Mogadishu",
+   "country": "Somalia"
+  },
+  "kismayo": {
+   "name": "Kismayo",
+   "country": "Somalia"
+  },
+  "galkacyo": {
+   "name": "Galkacyo",
+   "country": "Somalia"
+  },
+  "las khorey": {
+   "name": "Las Khorey",
+   "country": "Somalia"
+  },
+  "southern somalia": {
+   "name": "Southern Somalia",
+   "country": "Somalia"
+  },
+  "galmudug": {
+   "name": "Galmudug",
+   "country": "Somalia"
+  },
+  "puntland": {
+   "name": "Puntland",
+   "country": "Somalia"
+  },
+  "somaliland": {
+   "name": "Somaliland",
+   "country": "Somalia"
+  },
+  "gedo": {
+   "name": "Gedo",
+   "country": "Somalia"
+  },
+  "pretoria": {
+   "name": "Pretoria",
+   "country": "South Africa"
+  },
+  "cape town": {
+   "name": "Cape Town",
+   "country": "South Africa"
+  },
+  "bloemfontein": {
+   "name": "Bloemfontein",
+   "country": "South Africa"
+  },
+  "durban": {
+   "name": "Durban",
+   "country": "South Africa"
+  },
+  "johannesburg": {
+   "name": "Johannesburg",
+   "country": "South Africa"
+  },
+  "kimberley": {
+   "name": "Kimberley",
+   "country": "South Africa"
+  },
+  "polokwane": {
+   "name": "Polokwane",
+   "country": "South Africa"
+  },
+  "upington": {
+   "name": "Upington",
+   "country": "South Africa"
+  },
+  "gauteng": {
+   "name": "Gauteng",
+   "country": "South Africa"
+  },
+  "western cape": {
+   "name": "Western Cape",
+   "country": "South Africa"
+  },
+  "eastern cape": {
+   "name": "Eastern Cape",
+   "country": "South Africa"
+  },
+  "northern cape": {
+   "name": "Northern Cape",
+   "country": "South Africa"
+  },
+  "juba": {
+   "name": "Juba",
+   "country": "South Sudan"
+  },
+  "aweil": {
+   "name": "Aweil",
+   "country": "South Sudan"
+  },
+  "bentiu": {
+   "name": "Bentiu",
+   "country": "South Sudan"
+  },
+  "malakal": {
+   "name": "Malakal",
+   "country": "South Sudan"
+  },
+  "nimule": {
+   "name": "Nimule",
+   "country": "South Sudan"
+  },
+  "rumbek": {
+   "name": "Rumbek",
+   "country": "South Sudan"
+  },
+  "wau": {
+   "name": "Wau",
+   "country": "South Sudan"
+  },
+  "yei": {
+   "name": "Yei",
+   "country": "South Sudan"
+  },
+  "bahr el ghazal": {
+   "name": "Bahr el Ghazal",
+   "country": "South Sudan"
+  },
+  "equatoria": {
+   "name": "Equatoria",
+   "country": "South Sudan"
+  },
+  "greater upper nile": {
+   "name": "Greater Upper Nile",
+   "country": "South Sudan"
+  },
+  "khartoum": {
+   "name": "Khartoum",
+   "country": "Sudan"
+  },
+  "abyei": {
+   "name": "Abyei",
+   "country": "Sudan"
+  },
+  "el-obeid": {
+   "name": "El-Obeid",
+   "country": "Sudan"
+  },
+  "kassala": {
+   "name": "Kassala",
+   "country": "Sudan"
+  },
+  "nyala": {
+   "name": "Nyala",
+   "country": "Sudan"
+  },
+  "port sudan": {
+   "name": "Port Sudan",
+   "country": "Sudan"
+  },
+  "atbara": {
+   "name": "Atbara",
+   "country": "Sudan"
+  },
+  "central sudan": {
+   "name": "Central Sudan",
+   "country": "Sudan"
+  },
+  "darfur": {
+   "name": "Darfur",
+   "country": "Sudan"
+  },
+  "eastern sudan": {
+   "name": "Eastern Sudan",
+   "country": "Sudan"
+  },
+  "kurdufan": {
+   "name": "Kurdufan",
+   "country": "Sudan"
+  },
+  "northern sudan": {
+   "name": "Northern Sudan",
+   "country": "Sudan"
+  },
+  "dodoma": {
+   "name": "Dodoma",
+   "country": "Tanzania"
+  },
+  "arusha": {
+   "name": "Arusha",
+   "country": "Tanzania"
+  },
+  "dar es salaam": {
+   "name": "Dar es Salaam",
+   "country": "Tanzania"
+  },
+  "kigoma": {
+   "name": "Kigoma",
+   "country": "Tanzania"
+  },
+  "mbeya": {
+   "name": "Mbeya",
+   "country": "Tanzania"
+  },
+  "morogoro": {
+   "name": "Morogoro",
+   "country": "Tanzania"
+  },
+  "moshi": {
+   "name": "Moshi",
+   "country": "Tanzania"
+  },
+  "mtwara": {
+   "name": "Mtwara",
+   "country": "Tanzania"
+  },
+  "mwanza": {
+   "name": "Mwanza",
+   "country": "Tanzania"
+  },
+  "central tanzania": {
+   "name": "Central Tanzania",
+   "country": "Tanzania"
+  },
+  "northeast tanzania": {
+   "name": "Northeast Tanzania",
+   "country": "Tanzania"
+  },
+  "northwest tanzania": {
+   "name": "Northwest Tanzania",
+   "country": "Tanzania"
+  },
+  "lome": {
+   "name": "Lomé",
+   "country": "Togo"
+  },
+  "aneho": {
+   "name": "Aneho",
+   "country": "Togo"
+  },
+  "badou": {
+   "name": "Badou",
+   "country": "Togo"
+  },
+  "kara": {
+   "name": "Kara",
+   "country": "Togo"
+  },
+  "kpalime": {
+   "name": "Kpalimé",
+   "country": "Togo"
+  },
+  "tunis": {
+   "name": "Tunis",
+   "country": "Tunisia"
+  },
+  "gabes": {
+   "name": "Gabes",
+   "country": "Tunisia"
+  },
+  "kairouan": {
+   "name": "Kairouan",
+   "country": "Tunisia"
+  },
+  "el kef": {
+   "name": "El Kef",
+   "country": "Tunisia"
+  },
+  "mahdia": {
+   "name": "Mahdia",
+   "country": "Tunisia"
+  },
+  "monastir": {
+   "name": "Monastir",
+   "country": "Tunisia"
+  },
+  "sfax": {
+   "name": "Sfax",
+   "country": "Tunisia"
+  },
+  "sousse": {
+   "name": "Sousse",
+   "country": "Tunisia"
+  },
+  "douz": {
+   "name": "Douz",
+   "country": "Tunisia"
+  },
+  "northern tunisia": {
+   "name": "Northern Tunisia",
+   "country": "Tunisia"
+  },
+  "central coastal tunisia": {
+   "name": "Central Coastal Tunisia",
+   "country": "Tunisia"
+  },
+  "saharan tunisia": {
+   "name": "Saharan Tunisia",
+   "country": "Tunisia"
+  },
+  "kampala": {
+   "name": "Kampala",
+   "country": "Uganda"
+  },
+  "arua": {
+   "name": "Arua",
+   "country": "Uganda"
+  },
+  "entebbe": {
+   "name": "Entebbe",
+   "country": "Uganda"
+  },
+  "jinja": {
+   "name": "Jinja",
+   "country": "Uganda"
+  },
+  "fort portal": {
+   "name": "Fort Portal",
+   "country": "Uganda"
+  },
+  "gulu": {
+   "name": "Gulu",
+   "country": "Uganda"
+  },
+  "mbarara": {
+   "name": "Mbarara",
+   "country": "Uganda"
+  },
+  "kabale": {
+   "name": "Kabale",
+   "country": "Uganda"
+  },
+  "kisoro": {
+   "name": "Kisoro",
+   "country": "Uganda"
+  },
+  "central uganda": {
+   "name": "Central Uganda",
+   "country": "Uganda"
+  },
+  "eastern uganda": {
+   "name": "Eastern Uganda",
+   "country": "Uganda"
+  },
+  "northern uganda": {
+   "name": "Northern Uganda",
+   "country": "Uganda"
+  },
+  "lusaka": {
+   "name": "Lusaka",
+   "country": "Zambia"
+  },
+  "chingola": {
+   "name": "Chingola",
+   "country": "Zambia"
+  },
+  "chipata": {
+   "name": "Chipata",
+   "country": "Zambia"
+  },
+  "kabwe": {
+   "name": "Kabwe",
+   "country": "Zambia"
+  },
+  "kasama": {
+   "name": "Kasama",
+   "country": "Zambia"
+  },
+  "kitwe": {
+   "name": "Kitwe",
+   "country": "Zambia"
+  },
+  "livingstone": {
+   "name": "Livingstone",
+   "country": "Zambia"
+  },
+  "ndola": {
+   "name": "Ndola",
+   "country": "Zambia"
+  },
+  "mongu": {
+   "name": "Mongu",
+   "country": "Zambia"
+  },
+  "central zambia": {
+   "name": "Central Zambia",
+   "country": "Zambia"
+  },
+  "copperbelt": {
+   "name": "Copperbelt",
+   "country": "Zambia"
+  },
+  "eastern zambia": {
+   "name": "Eastern Zambia",
+   "country": "Zambia"
+  },
+  "harare": {
+   "name": "Harare",
+   "country": "Zimbabwe"
+  },
+  "harare{{efn": {
+   "name": "Harare{{efn",
+   "country": "Zimbabwe"
+  },
+  "kabul": {
+   "name": "Kabul",
+   "country": "Afghanistan"
+  },
+  "balkh": {
+   "name": "Balkh",
+   "country": "Afghanistan"
+  },
+  "bamiyan": {
+   "name": "Bamiyan",
+   "country": "Afghanistan"
+  },
+  "ghazni": {
+   "name": "Ghazni",
+   "country": "Afghanistan"
+  },
+  "herat": {
+   "name": "Herat",
+   "country": "Afghanistan"
+  },
+  "jalalabad": {
+   "name": "Jalalabad",
+   "country": "Afghanistan"
+  },
+  "kandahar": {
+   "name": "Kandahar",
+   "country": "Afghanistan"
+  },
+  "kunduz": {
+   "name": "Kunduz",
+   "country": "Afghanistan"
+  },
+  "mazar-e sharif": {
+   "name": "Mazar-e Sharif",
+   "country": "Afghanistan"
+  },
+  "west afghanistan": {
+   "name": "West Afghanistan",
+   "country": "Afghanistan"
+  },
+  "east afghanistan": {
+   "name": "East Afghanistan",
+   "country": "Afghanistan"
+  },
+  "northwest afghanistan": {
+   "name": "Northwest Afghanistan",
+   "country": "Afghanistan"
+  },
+  "yerevan": {
+   "name": "Yerevan",
+   "country": "Armenia"
+  },
+  "alaverdi": {
+   "name": "Alaverdi",
+   "country": "Armenia"
+  },
+  "dilijan": {
+   "name": "Dilijan",
+   "country": "Armenia"
+  },
+  "echmiadzin": {
+   "name": "Echmiadzin",
+   "country": "Armenia"
+  },
+  "goris": {
+   "name": "Goris",
+   "country": "Armenia"
+  },
+  "gyumri": {
+   "name": "Gyumri",
+   "country": "Armenia"
+  },
+  "jermuk": {
+   "name": "Jermuk",
+   "country": "Armenia"
+  },
+  "tsaghkadzor": {
+   "name": "Tsaghkadzor",
+   "country": "Armenia"
+  },
+  "vanadzor": {
+   "name": "Vanadzor",
+   "country": "Armenia"
+  },
+  "central armenia": {
+   "name": "Central Armenia",
+   "country": "Armenia"
+  },
+  "lake sevan region": {
+   "name": "Lake Sevan Region",
+   "country": "Armenia"
+  },
+  "northern armenia": {
+   "name": "Northern Armenia",
+   "country": "Armenia"
+  },
+  "baku": {
+   "name": "Baku",
+   "country": "Azerbaijan"
+  },
+  "manama": {
+   "name": "Manama",
+   "country": "Bahrain"
+  },
+  "hamad town": {
+   "name": "Hamad Town",
+   "country": "Bahrain"
+  },
+  "isa town": {
+   "name": "Isa Town",
+   "country": "Bahrain"
+  },
+  "muharraq": {
+   "name": "Muharraq",
+   "country": "Bahrain"
+  },
+  "riffa": {
+   "name": "Riffa",
+   "country": "Bahrain"
+  },
+  "sitrah": {
+   "name": "Sitrah",
+   "country": "Bahrain"
+  },
+  "dhaka": {
+   "name": "Dhaka",
+   "country": "Bangladesh"
+  },
+  "barisal": {
+   "name": "Barisal",
+   "country": "Bangladesh"
+  },
+  "chittagong": {
+   "name": "Chittagong",
+   "country": "Bangladesh"
+  },
+  "jessore": {
+   "name": "Jessore",
+   "country": "Bangladesh"
+  },
+  "khulna": {
+   "name": "Khulna",
+   "country": "Bangladesh"
+  },
+  "mymensingh": {
+   "name": "Mymensingh",
+   "country": "Bangladesh"
+  },
+  "rajshahi": {
+   "name": "Rajshahi",
+   "country": "Bangladesh"
+  },
+  "rangpur": {
+   "name": "Rangpur",
+   "country": "Bangladesh"
+  },
+  "sylhet": {
+   "name": "Sylhet",
+   "country": "Bangladesh"
+  },
+  "bagerhat": {
+   "name": "Bagerhat",
+   "country": "Bangladesh"
+  },
+  "cox's bazar": {
+   "name": "Cox's Bazar",
+   "country": "Bangladesh"
+  },
+  "padna meghna river estuarine": {
+   "name": "Padna Meghna River Estuarine",
+   "country": "Bangladesh"
+  },
+  "thimphu": {
+   "name": "Thimphu",
+   "country": "Bhutan"
+  },
+  "jakar": {
+   "name": "Jakar",
+   "country": "Bhutan"
+  },
+  "mongar": {
+   "name": "Mongar",
+   "country": "Bhutan"
+  },
+  "paro": {
+   "name": "Paro",
+   "country": "Bhutan"
+  },
+  "punakha": {
+   "name": "Punakha",
+   "country": "Bhutan"
+  },
+  "phuentsholing": {
+   "name": "Phuentsholing",
+   "country": "Bhutan"
+  },
+  "samdrup jongkhar": {
+   "name": "Samdrup Jongkhar",
+   "country": "Bhutan"
+  },
+  "trashigang": {
+   "name": "Trashigang",
+   "country": "Bhutan"
+  },
+  "trongsa": {
+   "name": "Trongsa",
+   "country": "Bhutan"
+  },
+  "jigme dorji national park": {
+   "name": "Jigme Dorji National Park",
+   "country": "Bhutan"
+  },
+  "jigme singye wangchuck national park": {
+   "name": "Jigme Singye Wangchuck National Park",
+   "country": "Bhutan"
+  },
+  "royal manas national park": {
+   "name": "Royal Manas National Park",
+   "country": "Bhutan"
+  },
+  "bandar seri begawan": {
+   "name": "Bandar Seri Begawan",
+   "country": "Brunei"
+  },
+  "bangar": {
+   "name": "Bangar",
+   "country": "Brunei"
+  },
+  "kuala belait": {
+   "name": "Kuala Belait",
+   "country": "Brunei"
+  },
+  "muara": {
+   "name": "Muara",
+   "country": "Brunei"
+  },
+  "seria": {
+   "name": "Seria",
+   "country": "Brunei"
+  },
+  "tutong": {
+   "name": "Tutong",
+   "country": "Brunei"
+  },
+  "bangar#see": {
+   "name": "Bangar#See",
+   "country": "Brunei"
+  },
+  "phnom penh": {
+   "name": "Phnom Penh",
+   "country": "Cambodia"
+  },
+  "banlung": {
+   "name": "Banlung",
+   "country": "Cambodia"
+  },
+  "battambang": {
+   "name": "Battambang",
+   "country": "Cambodia"
+  },
+  "kampot": {
+   "name": "Kampot",
+   "country": "Cambodia"
+  },
+  "koh kong": {
+   "name": "Koh Kong",
+   "country": "Cambodia"
+  },
+  "kampong thom": {
+   "name": "Kampong Thom",
+   "country": "Cambodia"
+  },
+  "kratie": {
+   "name": "Kratie",
+   "country": "Cambodia"
+  },
+  "siem reap": {
+   "name": "Siem Reap",
+   "country": "Cambodia"
+  },
+  "sihanoukville": {
+   "name": "Sihanoukville",
+   "country": "Cambodia"
+  },
+  "angkor archaeological park": {
+   "name": "Angkor Archaeological Park",
+   "country": "Cambodia"
+  },
+  "bokor national park": {
+   "name": "Bokor National Park",
+   "country": "Cambodia"
+  },
+  "kampong cham": {
+   "name": "Kampong Cham",
+   "country": "Cambodia"
+  },
+  "beijing": {
+   "name": "Beijing",
+   "country": "China"
+  },
+  "chengdu": {
+   "name": "Chengdu",
+   "country": "China"
+  },
+  "guangzhou": {
+   "name": "Guangzhou",
+   "country": "China"
+  },
+  "hangzhou": {
+   "name": "Hangzhou",
+   "country": "China"
+  },
+  "harbin": {
+   "name": "Harbin",
+   "country": "China"
+  },
+  "kashgar": {
+   "name": "Kashgar",
+   "country": "China"
+  },
+  "nanjing": {
+   "name": "Nanjing",
+   "country": "China"
+  },
+  "shanghai": {
+   "name": "Shanghai",
+   "country": "China"
+  },
+  "xi'an": {
+   "name": "Xi'an",
+   "country": "China"
+  },
+  "northwest china": {
+   "name": "Northwest China",
+   "country": "China"
+  },
+  "north china": {
+   "name": "North China",
+   "country": "China"
+  },
+  "northeast china": {
+   "name": "Northeast China",
+   "country": "China"
+  },
+  "dili": {
+   "name": "Dili",
+   "country": "Timor-Leste"
+  },
+  "tbilisi": {
+   "name": "Tbilisi",
+   "country": "Georgia"
+  },
+  "new delhi": {
+   "name": "New Delhi",
+   "country": "India"
+  },
+  "delhi": {
+   "name": "Delhi",
+   "country": "India"
+  },
+  "bangalore": {
+   "name": "Bangalore",
+   "country": "India"
+  },
+  "chennai": {
+   "name": "Chennai",
+   "country": "India"
+  },
+  "hyderabad": {
+   "name": "Hyderabad",
+   "country": "India"
+  },
+  "jaipur": {
+   "name": "Jaipur",
+   "country": "India"
+  },
+  "kolkata": {
+   "name": "Kolkata",
+   "country": "India"
+  },
+  "mumbai": {
+   "name": "Mumbai",
+   "country": "India"
+  },
+  "shimla": {
+   "name": "Shimla",
+   "country": "India"
+  },
+  "varanasi": {
+   "name": "Varanasi",
+   "country": "India"
+  },
+  "himalayan north": {
+   "name": "Himalayan North",
+   "country": "India"
+  },
+  "plains": {
+   "name": "Plains",
+   "country": "India"
+  },
+  "western india": {
+   "name": "Western India",
+   "country": "India"
+  },
+  "jakarta": {
+   "name": "Jakarta",
+   "country": "Indonesia"
+  },
+  "bandung": {
+   "name": "Bandung",
+   "country": "Indonesia"
+  },
+  "banjarmasin": {
+   "name": "Banjarmasin",
+   "country": "Indonesia"
+  },
+  "jayapura": {
+   "name": "Jayapura",
+   "country": "Indonesia"
+  },
+  "kuta": {
+   "name": "Kuta",
+   "country": "Indonesia"
+  },
+  "makassar": {
+   "name": "Makassar",
+   "country": "Indonesia"
+  },
+  "medan": {
+   "name": "Medan",
+   "country": "Indonesia"
+  },
+  "palembang": {
+   "name": "Palembang",
+   "country": "Indonesia"
+  },
+  "yogyakarta": {
+   "name": "Yogyakarta",
+   "country": "Indonesia"
+  },
+  "baliem valley": {
+   "name": "Baliem Valley",
+   "country": "Indonesia"
+  },
+  "borobudur": {
+   "name": "Borobudur",
+   "country": "Indonesia"
+  },
+  "bromo-tengger-semeru national park": {
+   "name": "Bromo-Tengger-Semeru National Park",
+   "country": "Indonesia"
+  },
+  "tehran": {
+   "name": "Tehran",
+   "country": "Iran"
+  },
+  "hamedan": {
+   "name": "Hamedan",
+   "country": "Iran"
+  },
+  "isfahan": {
+   "name": "Isfahan",
+   "country": "Iran"
+  },
+  "kerman": {
+   "name": "Kerman",
+   "country": "Iran"
+  },
+  "mashad": {
+   "name": "Mashad",
+   "country": "Iran"
+  },
+  "qom": {
+   "name": "Qom",
+   "country": "Iran"
+  },
+  "shiraz": {
+   "name": "Shiraz",
+   "country": "Iran"
+  },
+  "tabriz": {
+   "name": "Tabriz",
+   "country": "Iran"
+  },
+  "yazd": {
+   "name": "Yazd",
+   "country": "Iran"
+  },
+  "alamut": {
+   "name": "Alamut",
+   "country": "Iran"
+  },
+  "dizin": {
+   "name": "Dizin",
+   "country": "Iran"
+  },
+  "kish island": {
+   "name": "Kish Island",
+   "country": "Iran"
+  },
+  "baghdad": {
+   "name": "Baghdad",
+   "country": "Iraq"
+  },
+  "ar rutba": {
+   "name": "Ar Rutba",
+   "country": "Iraq"
+  },
+  "basra": {
+   "name": "Basra",
+   "country": "Iraq"
+  },
+  "dahuk": {
+   "name": "Dahuk",
+   "country": "Iraq"
+  },
+  "erbil": {
+   "name": "Erbil",
+   "country": "Iraq"
+  },
+  "fallujah": {
+   "name": "Fallujah",
+   "country": "Iraq"
+  },
+  "karbala": {
+   "name": "Karbala",
+   "country": "Iraq"
+  },
+  "kirkuk": {
+   "name": "Kirkuk",
+   "country": "Iraq"
+  },
+  "mosul": {
+   "name": "Mosul",
+   "country": "Iraq"
+  },
+  "northwestern iraq": {
+   "name": "Northwestern Iraq",
+   "country": "Iraq"
+  },
+  "baghdad belts": {
+   "name": "Baghdad Belts",
+   "country": "Iraq"
+  },
+  "iraqi desert": {
+   "name": "Iraqi Desert",
+   "country": "Iraq"
+  },
+  "jerusalem": {
+   "name": "Jerusalem",
+   "country": "Israel"
+  },
+  "tel aviv": {
+   "name": "Tel Aviv",
+   "country": "Israel"
+  },
+  "akko": {
+   "name": "Akko",
+   "country": "Israel"
+  },
+  "beer sheva": {
+   "name": "Beer Sheva",
+   "country": "Israel"
+  },
+  "eilat": {
+   "name": "Eilat",
+   "country": "Israel"
+  },
+  "haifa": {
+   "name": "Haifa",
+   "country": "Israel"
+  },
+  "nazareth": {
+   "name": "Nazareth",
+   "country": "Israel"
+  },
+  "safed": {
+   "name": "Safed",
+   "country": "Israel"
+  },
+  "tiberias": {
+   "name": "Tiberias",
+   "country": "Israel"
+  },
+  "carmel range": {
+   "name": "Carmel Range",
+   "country": "Israel"
+  },
+  "israeli coastal plain": {
+   "name": "Israeli Coastal Plain",
+   "country": "Israel"
+  },
+  "jerusalem hills": {
+   "name": "Jerusalem Hills",
+   "country": "Israel"
+  },
+  "tokyo": {
+   "name": "Tokyo",
+   "country": "Japan"
+  },
+  "hiroshima": {
+   "name": "Hiroshima",
+   "country": "Japan"
+  },
+  "kanazawa": {
+   "name": "Kanazawa",
+   "country": "Japan"
+  },
+  "kyoto": {
+   "name": "Kyoto",
+   "country": "Japan"
+  },
+  "nagasaki": {
+   "name": "Nagasaki",
+   "country": "Japan"
+  },
+  "nara": {
+   "name": "Nara",
+   "country": "Japan"
+  },
+  "osaka": {
+   "name": "Osaka",
+   "country": "Japan"
+  },
+  "sapporo": {
+   "name": "Sapporo",
+   "country": "Japan"
+  },
+  "sendai": {
+   "name": "Sendai",
+   "country": "Japan"
+  },
+  "miyajima": {
+   "name": "Miyajima",
+   "country": "Japan"
+  },
+  "mount fuji": {
+   "name": "Mount Fuji",
+   "country": "Japan"
+  },
+  "mount koya": {
+   "name": "Mount Koya",
+   "country": "Japan"
+  },
+  "amman": {
+   "name": "Amman",
+   "country": "Jordan"
+  },
+  "aqaba": {
+   "name": "Aqaba",
+   "country": "Jordan"
+  },
+  "irbid": {
+   "name": "Irbid",
+   "country": "Jordan"
+  },
+  "jerash": {
+   "name": "Jerash",
+   "country": "Jordan"
+  },
+  "kerak": {
+   "name": "Kerak",
+   "country": "Jordan"
+  },
+  "madaba": {
+   "name": "Madaba",
+   "country": "Jordan"
+  },
+  "salt": {
+   "name": "Salt",
+   "country": "Jordan"
+  },
+  "northern jordan": {
+   "name": "Northern Jordan",
+   "country": "Jordan"
+  },
+  "king's highway": {
+   "name": "King's Highway",
+   "country": "Jordan"
+  },
+  "southern desert": {
+   "name": "Southern Desert",
+   "country": "Jordan"
+  },
+  "eastern desert": {
+   "name": "Eastern Desert",
+   "country": "Jordan"
+  },
+  "astana": {
+   "name": "Astana",
+   "country": "Kazakhstan"
+  },
+  "almaty": {
+   "name": "Almaty",
+   "country": "Kazakhstan"
+  },
+  "aktobe": {
+   "name": "Aktobe",
+   "country": "Kazakhstan"
+  },
+  "atyrau": {
+   "name": "Atyrau",
+   "country": "Kazakhstan"
+  },
+  "pavlodar": {
+   "name": "Pavlodar",
+   "country": "Kazakhstan"
+  },
+  "semey": {
+   "name": "Semey",
+   "country": "Kazakhstan"
+  },
+  "shymkent": {
+   "name": "Shymkent",
+   "country": "Kazakhstan"
+  },
+  "turkestan": {
+   "name": "Turkestan",
+   "country": "Kazakhstan"
+  },
+  "ust-kamenogorsk": {
+   "name": "Ust-Kamenogorsk",
+   "country": "Kazakhstan"
+  },
+  "almaty province": {
+   "name": "Almaty Province",
+   "country": "Kazakhstan"
+  },
+  "kazakhstani north": {
+   "name": "Kazakhstani North",
+   "country": "Kazakhstan"
+  },
+  "kazakh desert": {
+   "name": "Kazakh Desert",
+   "country": "Kazakhstan"
+  },
+  "pyongyang": {
+   "name": "Pyongyang",
+   "country": "North Korea"
+  },
+  "seoul": {
+   "name": "Seoul",
+   "country": "South Korea"
+  },
+  "busan": {
+   "name": "Busan",
+   "country": "South Korea"
+  },
+  "chuncheon": {
+   "name": "Chuncheon",
+   "country": "South Korea"
+  },
+  "daegu": {
+   "name": "Daegu",
+   "country": "South Korea"
+  },
+  "daejeon": {
+   "name": "Daejeon",
+   "country": "South Korea"
+  },
+  "gwangju": {
+   "name": "Gwangju",
+   "country": "South Korea"
+  },
+  "gyeongju": {
+   "name": "Gyeongju",
+   "country": "South Korea"
+  },
+  "incheon": {
+   "name": "Incheon",
+   "country": "South Korea"
+  },
+  "jeonju": {
+   "name": "Jeonju",
+   "country": "South Korea"
+  },
+  "seoraksan national park": {
+   "name": "Seoraksan National Park",
+   "country": "South Korea"
+  },
+  "andong": {
+   "name": "Andong",
+   "country": "South Korea"
+  },
+  "ansan": {
+   "name": "Ansan",
+   "country": "South Korea"
+  },
+  "kuwait city": {
+   "name": "Kuwait City",
+   "country": "Kuwait"
+  },
+  "jahra": {
+   "name": "Jahra",
+   "country": "Kuwait"
+  },
+  "ahmadi": {
+   "name": "Ahmadi",
+   "country": "Kuwait"
+  },
+  "hawalli": {
+   "name": "Hawalli",
+   "country": "Kuwait"
+  },
+  "farwaniya": {
+   "name": "Farwaniya",
+   "country": "Kuwait"
+  },
+  "mubarak al-kabeer": {
+   "name": "Mubarak al-Kabeer",
+   "country": "Kuwait"
+  },
+  "shuwaikh": {
+   "name": "Shuwaikh",
+   "country": "Kuwait"
+  },
+  "farwaniyah": {
+   "name": "Farwaniyah",
+   "country": "Kuwait"
+  },
+  "salmiya": {
+   "name": "Salmiya",
+   "country": "Kuwait"
+  },
+  "rai": {
+   "name": "Rai",
+   "country": "Kuwait"
+  },
+  "bishkek": {
+   "name": "Bishkek",
+   "country": "Kyrgyzstan"
+  },
+  "arslanbob": {
+   "name": "Arslanbob",
+   "country": "Kyrgyzstan"
+  },
+  "balykchy": {
+   "name": "Balykchy",
+   "country": "Kyrgyzstan"
+  },
+  "jalal-abad": {
+   "name": "Jalal-Abad",
+   "country": "Kyrgyzstan"
+  },
+  "karakol": {
+   "name": "Karakol",
+   "country": "Kyrgyzstan"
+  },
+  "kochkor": {
+   "name": "Kochkor",
+   "country": "Kyrgyzstan"
+  },
+  "naryn": {
+   "name": "Naryn",
+   "country": "Kyrgyzstan"
+  },
+  "osh": {
+   "name": "Osh",
+   "country": "Kyrgyzstan"
+  },
+  "talas": {
+   "name": "Talas",
+   "country": "Kyrgyzstan"
+  },
+  "bishkek and the northwest": {
+   "name": "Bishkek and the Northwest",
+   "country": "Kyrgyzstan"
+  },
+  "issyk kul and the tian shan": {
+   "name": "Issyk Kul and the Tian Shan",
+   "country": "Kyrgyzstan"
+  },
+  "ferghana valley": {
+   "name": "Ferghana Valley",
+   "country": "Kyrgyzstan"
+  },
+  "vientiane": {
+   "name": "Vientiane",
+   "country": "Laos"
+  },
+  "huay xai": {
+   "name": "Huay Xai",
+   "country": "Laos"
+  },
+  "luang namtha": {
+   "name": "Luang Namtha",
+   "country": "Laos"
+  },
+  "luang prabang": {
+   "name": "Luang Prabang",
+   "country": "Laos"
+  },
+  "muang xay": {
+   "name": "Muang Xay",
+   "country": "Laos"
+  },
+  "pakbeng": {
+   "name": "Pakbeng",
+   "country": "Laos"
+  },
+  "pakse": {
+   "name": "Pakse",
+   "country": "Laos"
+  },
+  "savannakhet": {
+   "name": "Savannakhet",
+   "country": "Laos"
+  },
+  "tha khaek": {
+   "name": "Tha Khaek",
+   "country": "Laos"
+  },
+  "northern laos": {
+   "name": "Northern Laos",
+   "country": "Laos"
+  },
+  "central laos": {
+   "name": "Central Laos",
+   "country": "Laos"
+  },
+  "southern laos": {
+   "name": "Southern Laos",
+   "country": "Laos"
+  },
+  "beirut": {
+   "name": "Beirut",
+   "country": "Lebanon"
+  },
+  "sidon": {
+   "name": "Sidon",
+   "country": "Lebanon"
+  },
+  "tyre": {
+   "name": "Tyre",
+   "country": "Lebanon"
+  },
+  "byblos": {
+   "name": "Byblos",
+   "country": "Lebanon"
+  },
+  "jounieh": {
+   "name": "Jounieh",
+   "country": "Lebanon"
+  },
+  "jezzine": {
+   "name": "Jezzine",
+   "country": "Lebanon"
+  },
+  "zahle": {
+   "name": "Zahle",
+   "country": "Lebanon"
+  },
+  "bekaa": {
+   "name": "Bekaa",
+   "country": "Lebanon"
+  },
+  "mount lebanon": {
+   "name": "Mount Lebanon",
+   "country": "Lebanon"
+  },
+  "north lebanon": {
+   "name": "North Lebanon",
+   "country": "Lebanon"
+  },
+  "south lebanon": {
+   "name": "South Lebanon",
+   "country": "Lebanon"
+  },
+  "kuala lumpur": {
+   "name": "Kuala Lumpur",
+   "country": "Malaysia"
+  },
+  "george town": {
+   "name": "George Town",
+   "country": "Cayman Islands"
+  },
+  "malacca": {
+   "name": "Malacca",
+   "country": "Malaysia"
+  },
+  "ipoh": {
+   "name": "Ipoh",
+   "country": "Malaysia"
+  },
+  "johor bahru": {
+   "name": "Johor Bahru",
+   "country": "Malaysia"
+  },
+  "kuantan": {
+   "name": "Kuantan",
+   "country": "Malaysia"
+  },
+  "kota kinabalu": {
+   "name": "Kota Kinabalu",
+   "country": "Malaysia"
+  },
+  "kuching": {
+   "name": "Kuching",
+   "country": "Malaysia"
+  },
+  "miri": {
+   "name": "Miri",
+   "country": "Malaysia"
+  },
+  "cameron highlands": {
+   "name": "Cameron Highlands",
+   "country": "Malaysia"
+  },
+  "perhentian islands": {
+   "name": "Perhentian Islands",
+   "country": "Malaysia"
+  },
+  "taman negara": {
+   "name": "Taman Negara",
+   "country": "Malaysia"
+  },
+  "male": {
+   "name": "Malé",
+   "country": "Maldives"
+  },
+  "addu": {
+   "name": "Addu",
+   "country": "Maldives"
+  },
+  "fuvahmulah": {
+   "name": "Fuvahmulah",
+   "country": "Maldives"
+  },
+  "kulhudhuffushi": {
+   "name": "Kulhudhuffushi",
+   "country": "Maldives"
+  },
+  "lhaviyani": {
+   "name": "Lhaviyani",
+   "country": "Maldives"
+  },
+  "raa": {
+   "name": "Raa",
+   "country": "Maldives"
+  },
+  "baa": {
+   "name": "Baa",
+   "country": "Maldives"
+  },
+  "kaafu": {
+   "name": "Kaafu",
+   "country": "Maldives"
+  },
+  "alifu": {
+   "name": "Alifu",
+   "country": "Maldives"
+  },
+  "vaavu": {
+   "name": "Vaavu",
+   "country": "Maldives"
+  },
+  "meemu": {
+   "name": "Meemu",
+   "country": "Maldives"
+  },
+  "faafu": {
+   "name": "Faafu",
+   "country": "Maldives"
+  },
+  "ulaanbaatar": {
+   "name": "Ulaanbaatar",
+   "country": "Mongolia"
+  },
+  "choibalsan": {
+   "name": "Choibalsan",
+   "country": "Mongolia"
+  },
+  "erdenet": {
+   "name": "Erdenet",
+   "country": "Mongolia"
+  },
+  "hovd": {
+   "name": "Hovd",
+   "country": "Mongolia"
+  },
+  "karakorum": {
+   "name": "Karakorum",
+   "country": "Mongolia"
+  },
+  "olgii": {
+   "name": "Ölgii",
+   "country": "Mongolia"
+  },
+  "ondorkhaan": {
+   "name": "Öndörkhaan",
+   "country": "Mongolia"
+  },
+  "tsetserleg": {
+   "name": "Tsetserleg",
+   "country": "Mongolia"
+  },
+  "khogno khan national park": {
+   "name": "Khogno Khan National Park",
+   "country": "Mongolia"
+  },
+  "altai tavan bogd national park": {
+   "name": "Altai Tavan Bogd National Park",
+   "country": "Mongolia"
+  },
+  "gun-galuut nature reserve": {
+   "name": "Gun-Galuut Nature Reserve",
+   "country": "Mongolia"
+  },
+  "naypyidaw": {
+   "name": "Naypyidaw",
+   "country": "Myanmar"
+  },
+  "bago": {
+   "name": "Bago",
+   "country": "Myanmar"
+  },
+  "kawthaung": {
+   "name": "Kawthaung",
+   "country": "Myanmar"
+  },
+  "mandalay": {
+   "name": "Mandalay",
+   "country": "Myanmar"
+  },
+  "mawlamyine": {
+   "name": "Mawlamyine",
+   "country": "Myanmar"
+  },
+  "pyin u lwin": {
+   "name": "Pyin U Lwin",
+   "country": "Myanmar"
+  },
+  "taunggyi": {
+   "name": "Taunggyi",
+   "country": "Myanmar"
+  },
+  "twante": {
+   "name": "Twante",
+   "country": "Myanmar"
+  },
+  "yangon": {
+   "name": "Yangon",
+   "country": "Myanmar"
+  },
+  "bagan": {
+   "name": "Bagan",
+   "country": "Myanmar"
+  },
+  "inle lake": {
+   "name": "Inle Lake",
+   "country": "Myanmar"
+  },
+  "kengtung": {
+   "name": "Kengtung",
+   "country": "Myanmar"
+  },
+  "kathmandu": {
+   "name": "Kathmandu",
+   "country": "Nepal"
+  },
+  "bhaktapur": {
+   "name": "Bhaktapur",
+   "country": "Nepal"
+  },
+  "biratnagar": {
+   "name": "Biratnagar",
+   "country": "Nepal"
+  },
+  "janakpur": {
+   "name": "Janakpur",
+   "country": "Nepal"
+  },
+  "namche bazaar": {
+   "name": "Namche Bazaar",
+   "country": "Nepal"
+  },
+  "nepalgunj": {
+   "name": "Nepalgunj",
+   "country": "Nepal"
+  },
+  "patan": {
+   "name": "Patan",
+   "country": "Nepal"
+  },
+  "pokhara": {
+   "name": "Pokhara",
+   "country": "Nepal"
+  },
+  "himalayas": {
+   "name": "Himalayas",
+   "country": "Nepal"
+  },
+  "kathmandu valley": {
+   "name": "Kathmandu Valley",
+   "country": "Nepal"
+  },
+  "middle hills": {
+   "name": "Middle Hills",
+   "country": "Nepal"
+  },
+  "western tarai": {
+   "name": "Western Tarai",
+   "country": "Nepal"
+  },
+  "muscat": {
+   "name": "Muscat",
+   "country": "Oman"
+  },
+  "bahla": {
+   "name": "Bahla",
+   "country": "Oman"
+  },
+  "buraimi": {
+   "name": "Buraimi",
+   "country": "Oman"
+  },
+  "ibra": {
+   "name": "Ibra",
+   "country": "Oman"
+  },
+  "matrah": {
+   "name": "Matrah",
+   "country": "Oman"
+  },
+  "nizwa": {
+   "name": "Nizwa",
+   "country": "Oman"
+  },
+  "salalah": {
+   "name": "Salalah",
+   "country": "Oman"
+  },
+  "sohar": {
+   "name": "Sohar",
+   "country": "Oman"
+  },
+  "sur": {
+   "name": "Sur",
+   "country": "Oman"
+  },
+  "northern oman": {
+   "name": "Northern Oman",
+   "country": "Oman"
+  },
+  "central coastal oman": {
+   "name": "Central Coastal Oman",
+   "country": "Oman"
+  },
+  "dhofar": {
+   "name": "Dhofar",
+   "country": "Oman"
+  },
+  "islamabad": {
+   "name": "Islamabad",
+   "country": "Pakistan"
+  },
+  "faisalabad": {
+   "name": "Faisalabad",
+   "country": "Pakistan"
+  },
+  "karachi": {
+   "name": "Karachi",
+   "country": "Pakistan"
+  },
+  "lahore": {
+   "name": "Lahore",
+   "country": "Pakistan"
+  },
+  "multan": {
+   "name": "Multan",
+   "country": "Pakistan"
+  },
+  "muzaffarabad": {
+   "name": "Muzaffarabad",
+   "country": "Pakistan"
+  },
+  "peshawar": {
+   "name": "Peshawar",
+   "country": "Pakistan"
+  },
+  "quetta": {
+   "name": "Quetta",
+   "country": "Pakistan"
+  },
+  "sialkot": {
+   "name": "Sialkot",
+   "country": "Pakistan"
+  },
+  "gilgit-baltistan": {
+   "name": "Gilgit-Baltistan",
+   "country": "Pakistan"
+  },
+  "khyber pakhtunkhwa": {
+   "name": "Khyber Pakhtunkhwa",
+   "country": "Pakistan"
+  },
+  "azad kashmir": {
+   "name": "Azad Kashmir",
+   "country": "Pakistan"
+  },
+  "manila": {
+   "name": "Manila",
+   "country": "Philippines"
+  },
+  "metro manila": {
+   "name": "Metro Manila",
+   "country": "Philippines"
+  },
+  "bacolod": {
+   "name": "Bacolod",
+   "country": "Philippines"
+  },
+  "baguio": {
+   "name": "Baguio",
+   "country": "Philippines"
+  },
+  "cagayan de oro": {
+   "name": "Cagayan de Oro",
+   "country": "Philippines"
+  },
+  "cebu city": {
+   "name": "Cebu City",
+   "country": "Philippines"
+  },
+  "davao": {
+   "name": "Davao",
+   "country": "Philippines"
+  },
+  "tagbilaran": {
+   "name": "Tagbilaran",
+   "country": "Philippines"
+  },
+  "vigan": {
+   "name": "Vigan",
+   "country": "Philippines"
+  },
+  "zamboanga city": {
+   "name": "Zamboanga City",
+   "country": "Philippines"
+  },
+  "luzon": {
+   "name": "Luzon",
+   "country": "Philippines"
+  },
+  "visayas": {
+   "name": "Visayas",
+   "country": "Philippines"
+  },
+  "mindanao": {
+   "name": "Mindanao",
+   "country": "Philippines"
+  },
+  "doha": {
+   "name": "Doha",
+   "country": "Qatar"
+  },
+  "al khor": {
+   "name": "Al Khor",
+   "country": "Qatar"
+  },
+  "al shamal": {
+   "name": "Al Shamal",
+   "country": "Qatar"
+  },
+  "al shahaniyah": {
+   "name": "Al Shahaniyah",
+   "country": "Qatar"
+  },
+  "al wakrah": {
+   "name": "Al Wakrah",
+   "country": "Qatar"
+  },
+  "dukhan": {
+   "name": "Dukhan",
+   "country": "Qatar"
+  },
+  "mesaieed": {
+   "name": "Mesaieed",
+   "country": "Qatar"
+  },
+  "umm salal mohammed": {
+   "name": "Umm Salal Mohammed",
+   "country": "Qatar"
+  },
+  "riyadh": {
+   "name": "Riyadh",
+   "country": "Saudi Arabia"
+  },
+  "abha": {
+   "name": "Abha",
+   "country": "Saudi Arabia"
+  },
+  "dhahran": {
+   "name": "Dhahran",
+   "country": "Saudi Arabia"
+  },
+  "jeddah": {
+   "name": "Jeddah",
+   "country": "Saudi Arabia"
+  },
+  "jubail": {
+   "name": "Jubail",
+   "country": "Saudi Arabia"
+  },
+  "mecca": {
+   "name": "Mecca",
+   "country": "Saudi Arabia"
+  },
+  "medina": {
+   "name": "Medina",
+   "country": "Saudi Arabia"
+  },
+  "najran": {
+   "name": "Najran",
+   "country": "Saudi Arabia"
+  },
+  "ta'if": {
+   "name": "Ta'if",
+   "country": "Saudi Arabia"
+  },
+  "asir": {
+   "name": "Asir",
+   "country": "Saudi Arabia"
+  },
+  "eastern province": {
+   "name": "Eastern Province",
+   "country": "Saudi Arabia"
+  },
+  "hejaz": {
+   "name": "Hejaz",
+   "country": "Saudi Arabia"
+  },
+  "singapore": {
+   "name": "Singapore",
+   "country": "Singapore"
+  },
+  "singapore/riverside": {
+   "name": "Singapore/Riverside",
+   "country": "Singapore"
+  },
+  "singapore/orchard": {
+   "name": "Singapore/Orchard",
+   "country": "Singapore"
+  },
+  "singapore/marina bay": {
+   "name": "Singapore/Marina Bay",
+   "country": "Singapore"
+  },
+  "singapore/bugis": {
+   "name": "Singapore/Bugis",
+   "country": "Singapore"
+  },
+  "singapore/chinatown": {
+   "name": "Singapore/Chinatown",
+   "country": "Singapore"
+  },
+  "singapore/little india": {
+   "name": "Singapore/Little India",
+   "country": "Singapore"
+  },
+  "singapore/sentosa and harbourfront": {
+   "name": "Singapore/Sentosa and Harbourfront",
+   "country": "Singapore"
+  },
+  "singapore/east coast": {
+   "name": "Singapore/East Coast",
+   "country": "Singapore"
+  },
+  "singapore/north and west": {
+   "name": "Singapore/North and West",
+   "country": "Singapore"
+  },
+  "singapore/balestier": {
+   "name": "Singapore/Balestier",
+   "country": "Singapore"
+  },
+  "colombo": {
+   "name": "Colombo",
+   "country": "Sri Lanka"
+  },
+  "sri jayawardenapura kotte": {
+   "name": "Sri Jayawardenapura Kotte",
+   "country": "Sri Lanka"
+  },
+  "anuradhapura": {
+   "name": "Anuradhapura",
+   "country": "Sri Lanka"
+  },
+  "batticaloa": {
+   "name": "Batticaloa",
+   "country": "Sri Lanka"
+  },
+  "galle": {
+   "name": "Galle",
+   "country": "Sri Lanka"
+  },
+  "jaffna": {
+   "name": "Jaffna",
+   "country": "Sri Lanka"
+  },
+  "kandy": {
+   "name": "Kandy",
+   "country": "Sri Lanka"
+  },
+  "negombo": {
+   "name": "Negombo",
+   "country": "Sri Lanka"
+  },
+  "nuwara eliya": {
+   "name": "Nuwara Eliya",
+   "country": "Sri Lanka"
+  },
+  "arugam bay": {
+   "name": "Arugam Bay",
+   "country": "Sri Lanka"
+  },
+  "sigiriya": {
+   "name": "Sigiriya",
+   "country": "Sri Lanka"
+  },
+  "horton plains": {
+   "name": "Horton Plains",
+   "country": "Sri Lanka"
+  },
+  "damascus": {
+   "name": "Damascus",
+   "country": "Syria"
+  },
+  "aleppo": {
+   "name": "Aleppo",
+   "country": "Syria"
+  },
+  "deir ez-zor": {
+   "name": "Deir ez-Zor",
+   "country": "Syria"
+  },
+  "hama": {
+   "name": "Hama",
+   "country": "Syria"
+  },
+  "homs": {
+   "name": "Homs",
+   "country": "Syria"
+  },
+  "latakia": {
+   "name": "Latakia",
+   "country": "Syria"
+  },
+  "tartous": {
+   "name": "Tartous",
+   "country": "Syria"
+  },
+  "raqqa": {
+   "name": "Raqqa",
+   "country": "Syria"
+  },
+  "qamishli": {
+   "name": "Qamishli",
+   "country": "Syria"
+  },
+  "al-hasakah": {
+   "name": "Al-Hasakah",
+   "country": "Syria"
+  },
+  "northwestern syria": {
+   "name": "Northwestern Syria",
+   "country": "Syria"
+  },
+  "hauran": {
+   "name": "Hauran",
+   "country": "Syria"
+  },
+  "dushanbe": {
+   "name": "Dushanbe",
+   "country": "Tajikistan"
+  },
+  "qurghonteppa": {
+   "name": "Qurghonteppa",
+   "country": "Tajikistan"
+  },
+  "isfara": {
+   "name": "Isfara",
+   "country": "Tajikistan"
+  },
+  "istaravshan": {
+   "name": "Istaravshan",
+   "country": "Tajikistan"
+  },
+  "khorugh": {
+   "name": "Khorugh",
+   "country": "Tajikistan"
+  },
+  "khujand": {
+   "name": "Khujand",
+   "country": "Tajikistan"
+  },
+  "konibodom": {
+   "name": "Konibodom",
+   "country": "Tajikistan"
+  },
+  "kulob": {
+   "name": "Kulob",
+   "country": "Tajikistan"
+  },
+  "panjakent": {
+   "name": "Panjakent",
+   "country": "Tajikistan"
+  },
+  "karategin": {
+   "name": "Karategin",
+   "country": "Tajikistan"
+  },
+  "khatlon": {
+   "name": "Khatlon",
+   "country": "Tajikistan"
+  },
+  "bangkok": {
+   "name": "Bangkok",
+   "country": "Thailand"
+  },
+  "ayutthaya": {
+   "name": "Ayutthaya",
+   "country": "Thailand"
+  },
+  "chiang mai": {
+   "name": "Chiang Mai",
+   "country": "Thailand"
+  },
+  "chiang rai": {
+   "name": "Chiang Rai",
+   "country": "Thailand"
+  },
+  "hat yai": {
+   "name": "Hat Yai",
+   "country": "Thailand"
+  },
+  "kanchanaburi": {
+   "name": "Kanchanaburi",
+   "country": "Thailand"
+  },
+  "nakhon ratchasima": {
+   "name": "Nakhon Ratchasima",
+   "country": "Thailand"
+  },
+  "pattaya": {
+   "name": "Pattaya",
+   "country": "Thailand"
+  },
+  "sukhothai": {
+   "name": "Sukhothai",
+   "country": "Thailand"
+  },
+  "khao sok national park": {
+   "name": "Khao Sok National Park",
+   "country": "Thailand"
+  },
+  "khao yai national park": {
+   "name": "Khao Yai National Park",
+   "country": "Thailand"
+  },
+  "ko chang": {
+   "name": "Ko Chang",
+   "country": "Thailand"
+  },
+  "ankara": {
+   "name": "Ankara",
+   "country": "Turkiye"
+  },
+  "aegean turkey": {
+   "name": "Aegean Turkey",
+   "country": "Turkiye"
+  },
+  "black sea turkey": {
+   "name": "Black Sea Turkey",
+   "country": "Turkiye"
+  },
+  "central anatolia": {
+   "name": "Central Anatolia",
+   "country": "Turkiye"
+  },
+  "eastern anatolia": {
+   "name": "Eastern Anatolia",
+   "country": "Turkiye"
+  },
+  "marmara": {
+   "name": "Marmara",
+   "country": "Turkiye"
+  },
+  "mediterranean turkey": {
+   "name": "Mediterranean Turkey",
+   "country": "Turkiye"
+  },
+  "southeastern anatolia": {
+   "name": "Southeastern Anatolia",
+   "country": "Turkiye"
+  },
+  "ashgabat": {
+   "name": "Ashgabat",
+   "country": "Turkmenistan"
+  },
+  "balkanabat": {
+   "name": "Balkanabat",
+   "country": "Turkmenistan"
+  },
+  "dasoguz": {
+   "name": "Daşoguz",
+   "country": "Turkmenistan"
+  },
+  "mary": {
+   "name": "Mary",
+   "country": "Turkmenistan"
+  },
+  "turkmenabat": {
+   "name": "Türkmenabat",
+   "country": "Turkmenistan"
+  },
+  "turkmenbashi": {
+   "name": "Turkmenbashi",
+   "country": "Turkmenistan"
+  },
+  "ahal province": {
+   "name": "Ahal Province",
+   "country": "Turkmenistan"
+  },
+  "balkan province": {
+   "name": "Balkan Province",
+   "country": "Turkmenistan"
+  },
+  "dashoguz province": {
+   "name": "Dashoguz Province",
+   "country": "Turkmenistan"
+  },
+  "lebap province": {
+   "name": "Lebap Province",
+   "country": "Turkmenistan"
+  },
+  "mary province": {
+   "name": "Mary Province",
+   "country": "Turkmenistan"
+  },
+  "abu dhabi": {
+   "name": "Abu Dhabi",
+   "country": "United Arab Emirates"
+  },
+  "dubai": {
+   "name": "Dubai",
+   "country": "United Arab Emirates"
+  },
+  "sharjah": {
+   "name": "Sharjah",
+   "country": "United Arab Emirates"
+  },
+  "ajman": {
+   "name": "Ajman",
+   "country": "United Arab Emirates"
+  },
+  "umm al quwain": {
+   "name": "Umm al Quwain",
+   "country": "United Arab Emirates"
+  },
+  "ras al khaimah": {
+   "name": "Ras al Khaimah",
+   "country": "United Arab Emirates"
+  },
+  "fujairah": {
+   "name": "Fujairah",
+   "country": "United Arab Emirates"
+  },
+  "al ain": {
+   "name": "Al Ain",
+   "country": "United Arab Emirates"
+  },
+  "hatta": {
+   "name": "Hatta",
+   "country": "United Arab Emirates"
+  },
+  "khor fakkan": {
+   "name": "Khor Fakkan",
+   "country": "United Arab Emirates"
+  },
+  "liwa oasis": {
+   "name": "Liwa Oasis",
+   "country": "United Arab Emirates"
+  },
+  "ruwais": {
+   "name": "Ruwais",
+   "country": "United Arab Emirates"
+  },
+  "tashkent": {
+   "name": "Tashkent",
+   "country": "Uzbekistan"
+  },
+  "andijan": {
+   "name": "Andijan",
+   "country": "Uzbekistan"
+  },
+  "bukhara": {
+   "name": "Bukhara",
+   "country": "Uzbekistan"
+  },
+  "khiva": {
+   "name": "Khiva",
+   "country": "Uzbekistan"
+  },
+  "namangan": {
+   "name": "Namangan",
+   "country": "Uzbekistan"
+  },
+  "nukus": {
+   "name": "Nukus",
+   "country": "Uzbekistan"
+  },
+  "samarkand": {
+   "name": "Samarkand",
+   "country": "Uzbekistan"
+  },
+  "shakhrisabz": {
+   "name": "Shakhrisabz",
+   "country": "Uzbekistan"
+  },
+  "termez": {
+   "name": "Termez",
+   "country": "Uzbekistan"
+  },
+  "northern uzbekistan": {
+   "name": "Northern Uzbekistan",
+   "country": "Uzbekistan"
+  },
+  "samarkand through bukhara": {
+   "name": "Samarkand through Bukhara",
+   "country": "Uzbekistan"
+  },
+  "hanoi": {
+   "name": "Hanoi",
+   "country": "Vietnam"
+  },
+  "ho chi minh city": {
+   "name": "Ho Chi Minh City",
+   "country": "Vietnam"
+  },
+  "da nang": {
+   "name": "Da Nang",
+   "country": "Vietnam"
+  },
+  "da lat": {
+   "name": "Da Lat",
+   "country": "Vietnam"
+  },
+  "haiphong": {
+   "name": "Haiphong",
+   "country": "Vietnam"
+  },
+  "hoi an": {
+   "name": "Hoi An",
+   "country": "Vietnam"
+  },
+  "hue": {
+   "name": "Hue",
+   "country": "Vietnam"
+  },
+  "nha trang": {
+   "name": "Nha Trang",
+   "country": "Vietnam"
+  },
+  "vinh": {
+   "name": "Vinh",
+   "country": "Vietnam"
+  },
+  "northern vietnam": {
+   "name": "Northern Vietnam",
+   "country": "Vietnam"
+  },
+  "southern vietnam": {
+   "name": "Southern Vietnam",
+   "country": "Vietnam"
+  },
+  "sanaa": {
+   "name": "Sanaa",
+   "country": "Yemen"
+  },
+  "sana'a": {
+   "name": "Sana'a",
+   "country": "Yemen"
+  },
+  "aden": {
+   "name": "Aden",
+   "country": "Yemen"
+  },
+  "al hudayda": {
+   "name": "Al Hudayda",
+   "country": "Yemen"
+  },
+  "al mukalla": {
+   "name": "Al Mukalla",
+   "country": "Yemen"
+  },
+  "ibb": {
+   "name": "Ibb",
+   "country": "Yemen"
+  },
+  "kawkaban": {
+   "name": "Kawkaban",
+   "country": "Yemen"
+  },
+  "mokha": {
+   "name": "Mokha",
+   "country": "Yemen"
+  },
+  "shibam": {
+   "name": "Shibam",
+   "country": "Yemen"
+  },
+  "ta'izz": {
+   "name": "Ta'izz",
+   "country": "Yemen"
+  },
+  "yemeni coastal plains": {
+   "name": "Yemeni Coastal Plains",
+   "country": "Yemen"
+  },
+  "yemeni mountains": {
+   "name": "Yemeni Mountains",
+   "country": "Yemen"
+  },
+  "yemeni highlands": {
+   "name": "Yemeni Highlands",
+   "country": "Yemen"
+  },
+  "canberra": {
+   "name": "Canberra",
+   "country": "Australia"
+  },
+  "adelaide": {
+   "name": "Adelaide",
+   "country": "Australia"
+  },
+  "brisbane": {
+   "name": "Brisbane",
+   "country": "Australia"
+  },
+  "cairns": {
+   "name": "Cairns",
+   "country": "Australia"
+  },
+  "darwin": {
+   "name": "Darwin",
+   "country": "Australia"
+  },
+  "hobart": {
+   "name": "Hobart",
+   "country": "Australia"
+  },
+  "melbourne": {
+   "name": "Melbourne",
+   "country": "Australia"
+  },
+  "perth": {
+   "name": "Perth",
+   "country": "Australia"
+  },
+  "sydney": {
+   "name": "Sydney",
+   "country": "Australia"
+  },
+  "blue mountains national park": {
+   "name": "Blue Mountains National Park",
+   "country": "Australia"
+  },
+  "cradle mountain-lake st clair national park": {
+   "name": "Cradle Mountain-Lake St Clair National Park",
+   "country": "Australia"
+  },
+  "daintree rainforest": {
+   "name": "Daintree Rainforest",
+   "country": "Australia"
+  },
+  "wellington": {
+   "name": "Wellington",
+   "country": "New Zealand"
+  },
+  "north island": {
+   "name": "North Island",
+   "country": "New Zealand"
+  },
+  "south island": {
+   "name": "South Island",
+   "country": "New Zealand"
+  },
+  "stewart island": {
+   "name": "Stewart Island",
+   "country": "New Zealand"
+  },
+  "chatham islands": {
+   "name": "Chatham Islands",
+   "country": "New Zealand"
+  },
+  "new zealand subantarctic islands": {
+   "name": "New Zealand Subantarctic Islands",
+   "country": "New Zealand"
+  },
+  "suva": {
+   "name": "Suva",
+   "country": "Fiji"
+  },
+  "lautoka": {
+   "name": "Lautoka",
+   "country": "Fiji"
+  },
+  "levuka": {
+   "name": "Levuka",
+   "country": "Fiji"
+  },
+  "nadi": {
+   "name": "Nadi",
+   "country": "Fiji"
+  },
+  "nausori": {
+   "name": "Nausori",
+   "country": "Fiji"
+  },
+  "taveuni": {
+   "name": "Taveuni",
+   "country": "Fiji"
+  },
+  "denarau": {
+   "name": "Denarau",
+   "country": "Fiji"
+  },
+  "nananu-i-ra island": {
+   "name": "Nananu-i-Ra Island",
+   "country": "Fiji"
+  },
+  "ovalau": {
+   "name": "Ovalau",
+   "country": "Fiji"
+  },
+  "viti levu": {
+   "name": "Viti Levu",
+   "country": "Fiji"
+  },
+  "vanua levu": {
+   "name": "Vanua Levu",
+   "country": "Fiji"
+  },
+  "kadavu": {
+   "name": "Kadavu",
+   "country": "Fiji"
+  },
+  "port moresby": {
+   "name": "Port Moresby",
+   "country": "Papua New Guinea"
+  },
+  "alotau": {
+   "name": "Alotau",
+   "country": "Papua New Guinea"
+  },
+  "goroka": {
+   "name": "Goroka",
+   "country": "Papua New Guinea"
+  },
+  "lae": {
+   "name": "Lae",
+   "country": "Papua New Guinea"
+  },
+  "madang": {
+   "name": "Madang",
+   "country": "Papua New Guinea"
+  },
+  "mount hagen": {
+   "name": "Mount Hagen",
+   "country": "Papua New Guinea"
+  },
+  "rabaul": {
+   "name": "Rabaul",
+   "country": "Papua New Guinea"
+  },
+  "vanimo": {
+   "name": "Vanimo",
+   "country": "Papua New Guinea"
+  },
+  "wewak": {
+   "name": "Wewak",
+   "country": "Papua New Guinea"
+  },
+  "southern papua new guinea": {
+   "name": "Southern Papua New Guinea",
+   "country": "Papua New Guinea"
+  },
+  "western papua new guinea": {
+   "name": "Western Papua New Guinea",
+   "country": "Papua New Guinea"
+  },
+  "madang-morobe": {
+   "name": "Madang-Morobe",
+   "country": "Papua New Guinea"
+  },
+  "apia": {
+   "name": "Apia",
+   "country": "Samoa"
+  },
+  "upolu": {
+   "name": "Upolu",
+   "country": "Samoa"
+  },
+  "savaii": {
+   "name": "Savaii",
+   "country": "Samoa"
+  },
+  "nukuʻalofa": {
+   "name": "Nukuʻalofa",
+   "country": "Tonga"
+  },
+  "tongatapu": {
+   "name": "Tongatapu",
+   "country": "Tonga"
+  },
+  "ʻeua": {
+   "name": "ʻEua",
+   "country": "Tonga"
+  },
+  "vava'u": {
+   "name": "Vava'u",
+   "country": "Tonga"
+  },
+  "ha'apai": {
+   "name": "Ha'apai",
+   "country": "Tonga"
+  },
+  "niuas": {
+   "name": "Niuas",
+   "country": "Tonga"
+  },
+  "avarua": {
+   "name": "Avarua",
+   "country": "Cook Islands"
+  },
+  "suwarrow national park": {
+   "name": "Suwarrow National Park",
+   "country": "Cook Islands"
+  },
+  "northern cook islands": {
+   "name": "Northern Cook Islands",
+   "country": "Cook Islands"
+  },
+  "southern cook islands": {
+   "name": "Southern Cook Islands",
+   "country": "Cook Islands"
+  },
+  "tarawa": {
+   "name": "Tarawa",
+   "country": "Kiribati"
+  },
+  "gilbert islands": {
+   "name": "Gilbert Islands",
+   "country": "Kiribati"
+  },
+  "line islands": {
+   "name": "Line Islands",
+   "country": "Kiribati"
+  },
+  "phoenix islands": {
+   "name": "Phoenix Islands",
+   "country": "Kiribati"
+  },
+  "majuro": {
+   "name": "Majuro",
+   "country": "Marshall Islands"
+  },
+  "kwajalein": {
+   "name": "Kwajalein",
+   "country": "Marshall Islands"
+  },
+  "ebeye": {
+   "name": "Ebeye",
+   "country": "Marshall Islands"
+  },
+  "ralik": {
+   "name": "Ralik",
+   "country": "Marshall Islands"
+  },
+  "ratak": {
+   "name": "Ratak",
+   "country": "Marshall Islands"
+  },
+  "palikir": {
+   "name": "Palikir",
+   "country": "Micronesia"
+  },
+  "hagatna": {
+   "name": "Hagåtña",
+   "country": "Micronesia"
+  },
+  "kolonia": {
+   "name": "Kolonia",
+   "country": "Micronesia"
+  },
+  "koror": {
+   "name": "Koror",
+   "country": "Micronesia"
+  },
+  "melekeok": {
+   "name": "Melekeok",
+   "country": "Micronesia"
+  },
+  "federated states of micronesia": {
+   "name": "Federated States of Micronesia",
+   "country": "Micronesia"
+  },
+  "kiribati": {
+   "name": "Kiribati",
+   "country": "Micronesia"
+  },
+  "marshall islands": {
+   "name": "Marshall Islands",
+   "country": "Micronesia"
+  },
+  "nauru": {
+   "name": "Nauru",
+   "country": "Micronesia"
+  },
+  "northern mariana islands": {
+   "name": "Northern Mariana Islands",
+   "country": "Micronesia"
+  },
+  "palau": {
+   "name": "Palau",
+   "country": "Micronesia"
+  },
+  "yaren": {
+   "name": "Yaren",
+   "country": "Nauru"
+  },
+  "ngerulmud": {
+   "name": "Ngerulmud",
+   "country": "Palau"
+  },
+  "babeldaob": {
+   "name": "Babeldaob",
+   "country": "Palau"
+  },
+  "rock islands": {
+   "name": "Rock Islands",
+   "country": "Palau"
+  },
+  "honiara": {
+   "name": "Honiara",
+   "country": "Solomon Islands"
+  },
+  "guadalcanal": {
+   "name": "Guadalcanal",
+   "country": "Solomon Islands"
+  },
+  "new georgia islands": {
+   "name": "New Georgia Islands",
+   "country": "Solomon Islands"
+  },
+  "rennell and bellona": {
+   "name": "Rennell and Bellona",
+   "country": "Solomon Islands"
+  },
+  "santa cruz islands": {
+   "name": "Santa Cruz Islands",
+   "country": "Solomon Islands"
+  },
+  "funafuti": {
+   "name": "Funafuti",
+   "country": "Tuvalu"
+  },
+  "fongafale": {
+   "name": "Fongafale",
+   "country": "Tuvalu"
+  },
+  "montgomery": {
+   "name": "Montgomery",
+   "country": "United States"
+  },
+  "juneau": {
+   "name": "Juneau",
+   "country": "United States"
+  },
+  "phoenix": {
+   "name": "Phoenix",
+   "country": "United States"
+  },
+  "little rock": {
+   "name": "Little Rock",
+   "country": "United States"
+  },
+  "sacramento": {
+   "name": "Sacramento",
+   "country": "United States"
+  },
+  "denver": {
+   "name": "Denver",
+   "country": "United States"
+  },
+  "hartford": {
+   "name": "Hartford",
+   "country": "United States"
+  },
+  "dover": {
+   "name": "Dover",
+   "country": "United States"
+  },
+  "tallahassee": {
+   "name": "Tallahassee",
+   "country": "United States"
+  },
+  "atlanta": {
+   "name": "Atlanta",
+   "country": "United States"
+  },
+  "honolulu": {
+   "name": "Honolulu",
+   "country": "United States"
+  },
+  "boise": {
+   "name": "Boise",
+   "country": "United States"
+  },
+  "springfield": {
+   "name": "Springfield",
+   "country": "United States"
+  },
+  "indianapolis": {
+   "name": "Indianapolis",
+   "country": "United States"
+  },
+  "des moines": {
+   "name": "Des Moines",
+   "country": "United States"
+  },
+  "topeka": {
+   "name": "Topeka",
+   "country": "United States"
+  },
+  "frankfort": {
+   "name": "Frankfort",
+   "country": "United States"
+  },
+  "baton rouge": {
+   "name": "Baton Rouge",
+   "country": "United States"
+  },
+  "augusta": {
+   "name": "Augusta",
+   "country": "United States"
+  },
+  "annapolis": {
+   "name": "Annapolis",
+   "country": "United States"
+  },
+  "boston": {
+   "name": "Boston",
+   "country": "United States"
+  },
+  "lansing": {
+   "name": "Lansing",
+   "country": "United States"
+  },
+  "saint paul": {
+   "name": "Saint Paul",
+   "country": "United States"
+  },
+  "jackson": {
+   "name": "Jackson",
+   "country": "United States"
+  },
+  "jefferson city": {
+   "name": "Jefferson City",
+   "country": "United States"
+  },
+  "helena": {
+   "name": "Helena",
+   "country": "United States"
+  },
+  "lincoln": {
+   "name": "Lincoln",
+   "country": "United States"
+  },
+  "carson city": {
+   "name": "Carson City",
+   "country": "United States"
+  },
+  "concord": {
+   "name": "Concord",
+   "country": "United States"
+  },
+  "trenton": {
+   "name": "Trenton",
+   "country": "United States"
+  },
+  "santa fe": {
+   "name": "Santa Fe",
+   "country": "United States"
+  },
+  "albany": {
+   "name": "Albany",
+   "country": "United States"
+  },
+  "raleigh": {
+   "name": "Raleigh",
+   "country": "United States"
+  },
+  "bismarck": {
+   "name": "Bismarck",
+   "country": "United States"
+  },
+  "columbus": {
+   "name": "Columbus",
+   "country": "United States"
+  },
+  "oklahoma city": {
+   "name": "Oklahoma City",
+   "country": "United States"
+  },
+  "salem": {
+   "name": "Salem",
+   "country": "United States"
+  },
+  "harrisburg": {
+   "name": "Harrisburg",
+   "country": "United States"
+  },
+  "providence": {
+   "name": "Providence",
+   "country": "United States"
+  },
+  "columbia": {
+   "name": "Columbia",
+   "country": "United States"
+  },
+  "pierre": {
+   "name": "Pierre",
+   "country": "United States"
+  },
+  "austin": {
+   "name": "Austin",
+   "country": "United States"
+  },
+  "salt lake city": {
+   "name": "Salt Lake City",
+   "country": "United States"
+  },
+  "montpelier": {
+   "name": "Montpelier",
+   "country": "United States"
+  },
+  "richmond": {
+   "name": "Richmond",
+   "country": "United States"
+  },
+  "olympia": {
+   "name": "Olympia",
+   "country": "United States"
+  },
+  "charleston": {
+   "name": "Charleston",
+   "country": "United States"
+  },
+  "madison": {
+   "name": "Madison",
+   "country": "United States"
+  },
+  "cheyenne": {
+   "name": "Cheyenne",
+   "country": "United States"
+  },
+  "seven mile beach": {
+   "name": "Seven Mile Beach",
+   "country": "Cayman Islands"
+  }
+ },
+ "capital_of": {
+  "antigua and barbuda": "St. John's",
+  "antigua": "St. John's",
+  "barbuda": "St. John's",
+  "antigua & barbuda": "St. John's",
+  "argentina": "Buenos Aires",
+  "argentine": "Buenos Aires",
+  "bahamas": "Nassau",
+  "the bahamas": "Nassau",
+  "new providence": "Nassau",
+  "barbados": "Bridgetown",
+  "bajan": "Bridgetown",
+  "belize": "Belmopan",
+  "belizean": "Belmopan",
+  "bolivia": "La Paz",
+  "bolivian": "La Paz",
+  "brazil": "Brasília",
+  "brazilian": "Brasília",
+  "canada": "Ottawa",
+  "canadian": "Ottawa",
+  "chile": "Santiago",
+  "chilean": "Santiago",
+  "colombia": "Bogotá",
+  "colombian": "Bogotá",
+  "costa rica": "San José",
+  "tica": "San José",
+  "cuba": "Havana",
+  "cuban": "Havana",
+  "dominica": "Roseau",
+  "dominica (island)": "Roseau",
+  "wdom": "Roseau",
+  "dominican republic": "Santo Domingo",
+  "dr": "Santo Domingo",
+  "dominican": "Santo Domingo",
+  "ecuador": "Quito",
+  "ecuadorean": "Quito",
+  "el salvador": "San Salvador",
+  "salvadoran": "San Salvador",
+  "guatemala": "Guatemala City",
+  "guatemalan": "Guatemala City",
+  "grenada": "St. George's",
+  "the spice island": "St. George's",
+  "guyana": "Georgetown",
+  "guyanese": "Georgetown",
+  "haiti": "Port-au-Prince",
+  "haitian": "Port-au-Prince",
+  "honduras": "Tegucigalpa",
+  "honduran": "Tegucigalpa",
+  "jamaica": "Kingston",
+  "jamaican": "Kingston",
+  "mexico": "Mexico City",
+  "mexican": "Mexico City",
+  "nicaragua": "Managua",
+  "nicaraguan": "Managua",
+  "panama": "Panama City",
+  "panamanian": "Panama City",
+  "paraguay": "Asunción",
+  "paraguayan": "Asunción",
+  "peru": "Lima",
+  "peruvian": "Lima",
+  "saint kitts and nevis": "Basseterre",
+  "saint kitts": "Basseterre",
+  "st. kitts": "Basseterre",
+  "nevis": "Basseterre",
+  "st. kitts and nevis": "Basseterre",
+  "saint lucia": "Castries",
+  "st. lucia": "Castries",
+  "lucian": "Castries",
+  "saint vincent and the grenadines": "Kingstown",
+  "saint vincent": "Kingstown",
+  "st. vincent": "Kingstown",
+  "the grenadines": "Kingstown",
+  "svg": "Kingstown",
+  "suriname": "Paramaribo",
+  "surinamese": "Paramaribo",
+  "trinidad and tobago": "Port of Spain",
+  "trinidad": "Port of Spain",
+  "tobago": "Port of Spain",
+  "trini": "Port of Spain",
+  "united states": "Washington, D.C.",
+  "usa": "Washington, D.C.",
+  "us": "Washington, D.C.",
+  "united states of america": "Washington, D.C.",
+  "america": "Washington, D.C.",
+  "uruguay": "Montevideo",
+  "uruguayan": "Montevideo",
+  "venezuela": "Caracas",
+  "venezuelan": "Caracas",
+  "albania": "Tirana",
+  "albanian": "Tirana",
+  "andorra": "Andorra la Vella",
+  "principality of andorra": "Andorra la Vella",
+  "austria": "Vienna",
+  "austrian": "Vienna",
+  "belarus": "Minsk",
+  "byelorussia": "Minsk",
+  "belgium": "Brussels",
+  "belgian": "Brussels",
+  "bosnia and herzegovina": "Sarajevo",
+  "bosnia": "Sarajevo",
+  "bosnia & herzegovina": "Sarajevo",
+  "bosnia-herzegovina": "Sarajevo",
+  "bulgaria": "Sofia",
+  "bulgarian": "Sofia",
+  "croatia": "Zagreb",
+  "croatian": "Zagreb",
+  "cyprus": "Nicosia",
+  "cypriot": "Nicosia",
+  "czechia": "Prague",
+  "czech republic": "Prague",
+  "czech": "Prague",
+  "denmark": "Copenhagen",
+  "danish": "Copenhagen",
+  "estonia": "Tallinn",
+  "estonian": "Tallinn",
+  "finland": "Helsinki",
+  "finnish": "Helsinki",
+  "france": "Paris",
+  "french": "Paris",
+  "germany": "Berlin",
+  "german": "Berlin",
+  "greece": "Athens",
+  "greek": "Athens",
+  "hungary": "Budapest",
+  "hungarian": "Budapest",
+  "ireland": "Dublin",
+  "irish": "Dublin",
+  "republic of ireland": "Dublin",
+  "iceland": "Reykjavík",
+  "icelandic": "Reykjavík",
+  "italy": "Rome",
+  "italian": "Rome",
+  "latvia": "Riga",
+  "latvian": "Riga",
+  "liechtenstein": "Vaduz",
+  "principality of liechtenstein": "Vaduz",
+  "lithuania": "Vilnius",
+  "lithuanian": "Vilnius",
+  "luxembourg": "Luxembourg City",
+  "grand duchy of luxembourg": "Luxembourg City",
+  "malta": "Valletta",
+  "maltese": "Valletta",
+  "moldova": "Chisinau",
+  "moldovan": "Chisinau",
+  "monaco": "Monaco",
+  "principality of monaco": "Monaco",
+  "montenegro": "Podgorica",
+  "montenegrin": "Podgorica",
+  "netherlands": "Amsterdam",
+  "dutch": "Amsterdam",
+  "holland": "Amsterdam",
+  "north macedonia": "Skopje",
+  "macedonia": "Skopje",
+  "norway": "Oslo",
+  "norwegian": "Oslo",
+  "poland": "Warsaw",
+  "polish": "Warsaw",
+  "portugal": "Lisbon",
+  "portuguese": "Lisbon",
+  "romania": "Bucharest",
+  "romanian": "Bucharest",
+  "russia": "Moscow",
+  "russian": "Moscow",
+  "russian federation": "Moscow",
+  "san marino": "City of San Marino",
+  "republic of san marino": "City of San Marino",
+  "serbia": "Belgrade",
+  "serbian": "Belgrade",
+  "slovakia": "Bratislava",
+  "slovak": "Bratislava",
+  "slovenia": "Ljubljana",
+  "slovenian": "Ljubljana",
+  "spain": "Madrid",
+  "spanish": "Madrid",
+  "sweden": "Stockholm",
+  "swedish": "Stockholm",
+  "switzerland": "Bern",
+  "swiss": "Bern",
+  "confederation": "Bern",
+  "ukraine": "Kyiv",
+  "ukrainian": "Kyiv",
+  "united kingdom": "London",
+  "uk": "London",
+  "britain": "London",
+  "great britain": "London",
+  "england": "London",
+  "scotland": "London",
+  "wales": "London",
+  "kosovo": "Pristina",
+  "republic of kosovo": "Pristina",
+  "vatican city": "Vatican City",
+  "vatican": "Vatican City",
+  "vatican city state": "Vatican City",
+  "the vatican": "Vatican City",
+  "algeria": "Algiers",
+  "angola": "Luanda",
+  "benin": "Porto-Novo",
+  "botswana": "Gaborone",
+  "burkina faso": "Ouagadougou",
+  "burundi": "Gitega",
+  "cabo verde": "Praia",
+  "cape verde": "Praia",
+  "cameroon": "Yaoundé",
+  "central african republic": "Bangui",
+  "car": "Bangui",
+  "chad": "N'Djamena",
+  "comoros": "Moroni, Comoros",
+  "congo (republic)": "Brazzaville",
+  "republic of the congo": "Brazzaville",
+  "congo-brazzaville": "Brazzaville",
+  "cote d'ivoire": "Yamoussoukro",
+  "ivory coast": "Yamoussoukro",
+  "dr congo": "Kinshasa",
+  "democratic republic of the congo": "Kinshasa",
+  "drc": "Kinshasa",
+  "djibouti": "Djibouti City",
+  "egypt": "Cairo",
+  "equatorial guinea": "Malabo",
+  "eritrea": "Asmara",
+  "eswatini": "Mbabane",
+  "swaziland": "Mbabane",
+  "ethiopia": "Addis Ababa",
+  "gabon": "Libreville",
+  "gambia": "Banjul",
+  "ghana": "Accra",
+  "guinea": "Conakry",
+  "guinea-bissau": "Bissau",
+  "kenya": "Nairobi",
+  "lesotho": "Maseru",
+  "liberia": "Monrovia",
+  "libya": "Tripoli, Libya",
+  "madagascar": "Antananarivo",
+  "malawi": "Lilongwe",
+  "mali": "Bamako",
+  "mauritania": "Nouakchott",
+  "mauritius": "Port Louis",
+  "morocco": "Rabat",
+  "mozambique": "Maputo",
+  "namibia": "Windhoek",
+  "niger": "Niamey",
+  "nigeria": "Abuja",
+  "rwanda": "Kigali",
+  "sao tome and principe": "São Tomé",
+  "senegal": "Dakar",
+  "seychelles": "Victoria, Seychelles",
+  "sierra leone": "Freetown",
+  "somalia": "Mogadishu",
+  "south africa": "Pretoria",
+  "south sudan": "Juba",
+  "sudan": "Khartoum",
+  "tanzania": "Dodoma",
+  "togo": "Lomé",
+  "tunisia": "Tunis",
+  "uganda": "Kampala",
+  "zambia": "Lusaka",
+  "zimbabwe": "Harare",
+  "afghanistan": "Kabul",
+  "armenia": "Yerevan",
+  "azerbaijan": "Baku",
+  "bahrain": "Manama",
+  "bangladesh": "Dhaka",
+  "bhutan": "Thimphu",
+  "brunei": "Bandar Seri Begawan",
+  "cambodia": "Phnom Penh",
+  "china": "Beijing",
+  "timor-leste": "Dili",
+  "east timor": "Dili",
+  "georgia": "Tbilisi",
+  "india": "New Delhi",
+  "indonesia": "Jakarta",
+  "iran": "Tehran",
+  "iraq": "Baghdad",
+  "israel": "Jerusalem (de facto)",
+  "japan": "Tokyo",
+  "jordan": "Amman",
+  "kazakhstan": "Astana",
+  "north korea": "Pyongyang",
+  "korea (north)": "Pyongyang",
+  "south korea": "Seoul",
+  "korea (south)": "Seoul",
+  "kuwait": "Kuwait City",
+  "kyrgyzstan": "Bishkek",
+  "laos": "Vientiane",
+  "lebanon": "Beirut",
+  "malaysia": "Kuala Lumpur",
+  "maldives": "Malé",
+  "mongolia": "Ulaanbaatar",
+  "myanmar": "Naypyidaw",
+  "nepal": "Kathmandu",
+  "oman": "Muscat",
+  "pakistan": "Islamabad",
+  "palestine": "Jerusalem (de facto)",
+  "philippines": "Manila",
+  "qatar": "Doha",
+  "saudi arabia": "Riyadh",
+  "singapore": "Singapore",
+  "sri lanka": "Colombo",
+  "syria": "Damascus",
+  "tajikistan": "Dushanbe",
+  "thailand": "Bangkok",
+  "turkiye": "Ankara",
+  "turkey": "Ankara",
+  "turkmenistan": "Ashgabat",
+  "united arab emirates": "Abu Dhabi",
+  "uae": "Abu Dhabi",
+  "uzbekistan": "Tashkent",
+  "vietnam": "Hanoi",
+  "yemen": "Sanaa",
+  "australia": "Canberra",
+  "new zealand": "Wellington",
+  "fiji": "Suva",
+  "papua new guinea": "Port Moresby",
+  "png": "Port Moresby",
+  "samoa": "Apia",
+  "tonga": "Nukuʻalofa",
+  "cook islands": "Avarua",
+  "kiribati": "Tarawa",
+  "marshall islands": "Majuro",
+  "micronesia": "Palikir",
+  "federated states of micronesia": "Palikir",
+  "nauru": "Yaren (de facto)",
+  "palau": "Ngerulmud",
+  "solomon islands": "Honiara",
+  "tuvalu": "Funafuti",
+  "cayman islands": "George Town",
+  "cayman": "George Town"
+ },
+ "us_state_capitals": {
+  "alabama": "Montgomery",
+  "alaska": "Juneau",
+  "arizona": "Phoenix",
+  "arkansas": "Little Rock",
+  "california": "Sacramento",
+  "colorado": "Denver",
+  "connecticut": "Hartford",
+  "delaware": "Dover",
+  "district of columbia": "Washington, D.C.",
+  "florida": "Tallahassee",
+  "georgia": "Atlanta",
+  "hawaii": "Honolulu",
+  "idaho": "Boise",
+  "illinois": "Springfield",
+  "indiana": "Indianapolis",
+  "iowa": "Des Moines",
+  "kansas": "Topeka",
+  "kentucky": "Frankfort",
+  "louisiana": "Baton Rouge",
+  "maine": "Augusta",
+  "maryland": "Annapolis",
+  "massachusetts": "Boston",
+  "michigan": "Lansing",
+  "minnesota": "Saint Paul",
+  "mississippi": "Jackson",
+  "missouri": "Jefferson City",
+  "montana": "Helena",
+  "nebraska": "Lincoln",
+  "nevada": "Carson City",
+  "new hampshire": "Concord",
+  "new jersey": "Trenton",
+  "new mexico": "Santa Fe",
+  "new york": "Albany",
+  "new york city": "Albany",
+  "north carolina": "Raleigh",
+  "north dakota": "Bismarck",
+  "ohio": "Columbus",
+  "oklahoma": "Oklahoma City",
+  "oregon": "Salem",
+  "pennsylvania": "Harrisburg",
+  "rhode island": "Providence",
+  "south carolina": "Columbia",
+  "south dakota": "Pierre",
+  "tennessee": "Nashville",
+  "texas": "Austin",
+  "utah": "Salt Lake City",
+  "vermont": "Montpelier",
+  "virginia": "Richmond",
+  "washington": "Olympia",
+  "west virginia": "Charleston",
+  "wisconsin": "Madison",
+  "wyoming": "Cheyenne",
+  "united states": "Washington, D.C.",
+  "usa": "Washington, D.C."
+ }
+}

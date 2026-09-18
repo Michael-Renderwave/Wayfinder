@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wayfinder — your travel research helper</title>
+  <meta name="description" content="Wayfinder: plan trips with real photos, honest sources, flight and stay details — local-first, zero API keys." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>" />
+  <link rel="stylesheet" href="style.css?v=16" />  <!-- cache-bust: v=N bump on every frontend change -->
+</head>
+<body>
+  <!-- 90s sticker decorations (purely visual, pointer-events: none) -->
+  <div class="stickers" aria-hidden="true">
+    <span class="sticker s1">✦</span>
+    <span class="sticker s2">☁️</span>
+    <span class="sticker s3">🌟</span>
+    <span class="sticker s4">➰</span>
+    <span class="sticker s5">🙂</span>
+    <span class="sticker s6">✳️</span>
+    <span class="sticker s7">📮</span>
+    <span class="sticker s8">💾</span>
+  </div>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">🧭</span>
+        <div class="brand-text">
+          <h1>Wayfinder</h1>
+          <p class="tagline">Real places, real photos, honest sources — travel research you can follow</p>
+        </div>
+      </div>
+      <div class="header-stats">
+        <span class="run-dot" id="runDot" hidden></span>
+        <span class="badge" id="modeBadge" title="Planning engine">…</span>
+        <span class="badge badge-soft" id="kbStats" title="Guide library">…</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- ============ search panel ============ -->
+    <section class="search-panel" aria-label="Search">
+      <!-- Home base: preselect where you fly FROM — flight answers anchor on YOUR
+           main gateway (Nevada -> Las Vegas/LAS, Turkey -> Istanbul/IST) instead
+           of random US hubs. 47-country offline dataset (data/airports.json). -->
+      <div class="home-bar" id="homeBar" aria-label="Home airport">
+        <span class="home-bar-label" title="Pick where you're flying from — flight answers anchor on your main gateway instead of random US hubs">📍 Fly from</span>
+        <select id="homeCountry" class="home-select" aria-label="Your country">
+          <option value="">—</option>
+        </select>
+        <select id="homeRegion" class="home-select" aria-label="Your region (state / province)" disabled>
+          <option value="">whole country</option>
+        </select>
+        <button id="homeChip" type="button" class="home-chip" hidden
+                title="Clear home base — answers go back to the standard no-origin behavior"></button>
+      </div>
+      <div class="search-row">
+        <div class="mode-toggle" role="group" aria-label="Search mode">
+          <button id="modeAgent" class="on" type="button" title="Full trip research: memory, web search, and smart ranking">🧭 Full plan</button>
+          <button id="modeDirect" class="" type="button" title="Quick search of the guide library">🔎 Quick search</button>
+        </div>
+        <form id="queryForm" class="query-form">
+          <input id="queryInput" type="text" autocomplete="off" spellcheck="false"
+                 placeholder="e.g. Plan a 5 day trip to the Cayman Islands from Miami Sep 12 2026, budget $2500, with flights and where to stay"
+                 aria-label="Your travel question" />
+          <button id="goBtn" class="go-btn" type="submit">Search →</button>
+          <button id="stopBtn" class="stop-btn" type="button" hidden
+                  title="Cancel this run — you keep control">■ Stop</button>
+        </form>
+      </div>
+      <div class="chips" id="exampleChips" aria-label="Example prompts">
+        <span class="chips-label">Try:</span>
+        <button type="button" class="chip" data-q="Plan a 5 day trip to the Cayman Islands from Miami Sep 12 2026, budget $2500, with flights and where to stay">🏝️ Cayman trip w/ flights + stays</button>
+        <button type="button" class="chip" data-q="What discounts can I get for Kennywood in Pittsburgh and where should I stay?">🎢 Kennywood discounts + hotels</button>
+        <button type="button" class="chip" data-q="Book me a flight to the Cayman Islands from Orlando">✈️ Book a Cayman flight</button>
+        <button type="button" class="chip" data-q="Where is safe to stay in George Town and how do I get around?">🛡️ George Town safety + transit</button>
+        <button type="button" class="chip" data-q="Research Tokyo using Reddit, Instagram, Tripadvisor, Expedia, Wikivoyage, and Wikipedia">🗂️ Cross-source Tokyo research</button>
+        <button type="button" class="chip" data-q="How much is a flight to Tokyo from Miami and how long does it take?">✈️ Flight pricing + travel time to Tokyo</button>
+      </div>
+    </section>
+
+    <!-- ============ tabs ============ -->
+    <nav class="tabs" role="tablist" aria-label="Panels">
+      <button role="tab" id="tabAnswer"  class="tab on" aria-selected="true"  data-panel="panelAnswer">💬 Answer <span class="tab-badge" id="badgeAnswer" hidden></span></button>
+      <button role="tab" id="tabTrace"   class="tab" aria-selected="false" data-panel="panelTrace">🔍 Step-by-step <span class="tab-badge" id="badgeTrace" hidden></span></button>
+      <button role="tab" id="tabKb"      class="tab" aria-selected="false" data-panel="panelKb">📚 Guide library</button>
+      <button role="tab" id="tabMemory"  class="tab" aria-selected="false" data-panel="panelMemory">🧠 Memory</button>
+    </nav>
+
+    <!-- ============ Answer ============ -->
+    <section id="panelAnswer" class="panel on" role="tabpanel">
+      <div id="answerEmpty" class="empty">
+        <div class="empty-icon" aria-hidden="true">🧭</div>
+        <h2>Ask Wayfinder to research a trip</h2>
+        <p>Type a question above (or tap an example). You'll see the grounded, cited answer here —
+           while the <b>Step-by-step</b> tab shows, step by step, what Wayfinder thought, searched, and kept.</p>
+      </div>
+      <div id="answerBody" hidden>
+        <div class="run-status" id="runStatus" aria-live="polite"></div>
+        <div id="answerContent"></div>
+      </div>
+    </section>
+
+    <!-- ============ Agent trace ============ -->
+    <section id="panelTrace" class="panel" role="tabpanel">
+      <div class="panel-toolbar">
+        <p class="hint">Watch it think: <b>remember</b> → <b>think</b> → <b>do</b> (searches & lookups) → <b>see</b> (results) → <b>keep the best</b> → <b>answer</b>.</p>
+        <button id="clearTrace" class="ghost-btn" type="button">Clear</button>
+      </div>
+      <div id="traceEmpty" class="empty">
+        <div class="empty-icon" aria-hidden="true">🔍</div>
+        <p>No runs yet. Ask a question in Full plan mode and watch every step stream in here.</p>
+      </div>
+      <ol id="traceList" class="trace" hidden></ol>
+    </section>
+
+    <!-- ============ Guide library ============ -->
+    <section id="panelKb" class="panel" role="tabpanel">
+      <div class="panel-toolbar">
+        <p class="hint">Browse the full library. Click any guide to pull up a full plan. Set a budget and it's included automatically.</p>
+        <div class="kb-controls">
+          <input id="kbFilter" type="text" class="kb-filter" placeholder="Filter guides…" aria-label="Filter guides" />
+          <select id="kbBudget" class="kb-budget" aria-label="Trip budget">
+            <option value="">Budget…</option>
+            <option value="500">$500</option>
+            <option value="1000">$1,000</option>
+            <option value="1500">$1,500</option>
+            <option value="2000" selected>$2,000</option>
+            <option value="3000">$3,000</option>
+            <option value="5000">$5,000</option>
+            <option value="10000">$10,000+</option>
+          </select>
+          <select id="kbDays" class="kb-budget" aria-label="Trip length">
+            <option value="3">3 days</option>
+            <option value="5" selected>5 days</option>
+            <option value="7">7 days</option>
+            <option value="10">10 days</option>
+            <option value="14">14 days</option>
+          </select>
+        </div>
+      </div>
+      <div id="kbDocs" class="doc-list"></div>
+    </section>
+
+    <!-- ============ Memory ============ -->
+    <section id="panelMemory" class="panel" role="tabpanel">
+      <div class="panel-toolbar">
+        <p class="hint">Everything Wayfinder remembers: an <b>activity log</b> of searches, bookings and lookups, plus <b>recent context</b> from your conversation. Refresh after each run.</p>
+        <button id="refreshMemory" class="ghost-btn" type="button">↻ Refresh</button>
+      </div>
+      <h3 class="section-title">Bookings <span class="muted">(sample — never charged)</span></h3>
+      <div id="memBookings" class="mem-list"></div>
+      <h3 class="section-title">Activity log <span class="muted">(newest first)</span></h3>
+      <div id="memEpisodic" class="mem-list"></div>
+      <h3 class="section-title">Recent context <span class="muted">(latest conversation turns)</span></h3>
+      <div id="memSemantic" class="mem-list"></div>
+      <h3 class="section-title">Request log <span class="muted">(every search, in order · data/request_log.jsonl)</span></h3>
+      <div id="memRequests" class="mem-list"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      Wayfinder · local-first travel research · web search on by default · honest sources, zero API keys required.
+    </div>
+  </footer>
+
+  <!-- In-app link viewer: clicking any link opens it here (stay in Wayfinder).
+       "Open in browser" is the escape hatch for sites that refuse framing. -->
+  <div id="linkViewer" class="link-viewer" hidden role="dialog" aria-modal="true" aria-label="Link viewer">
+    <div class="link-viewer-bar">
+      <div class="lv-left">
+        <span class="lv-globe" aria-hidden="true">🌐</span>
+        <span id="lvUrlText" class="lv-url-text" title=""></span>
+      </div>
+      <div class="lv-actions">
+        <button id="lvCopy" class="ghost-btn" type="button" title="Copy the link URL to your clipboard">⧉ Copy</button>
+        <button id="lvOpen" class="go-btn" type="button" title="Open this page in your web browser (new tab)">↗ Open in browser</button>
+        <button id="lvClose" class="ghost-btn" type="button" title="Close viewer (Esc)">✕ Close</button>
+      </div>
+    </div>
+    <div class="link-viewer-body">
+      <iframe id="lvFrame" class="lv-frame" src="about:blank" title="Embedded web page" referrerpolicy="no-referrer"></iframe>
+      <div id="lvBlocked" class="lv-blocked" hidden>
+        <div class="lv-blocked-icon" aria-hidden="true">🔒</div>
+        <h3>Still blank?</h3>
+        <p id="lvBlockedMsg"></p>
+        <div class="lv-blocked-actions">
+          <button id="lvBlockedOpen" class="go-btn" type="button">↗ Open in a new tab</button>
+          <button id="lvSelf" class="ghost-btn" type="button">↗ Open in this tab</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Photo lightbox: clicking a photo blows it up with its caption + credit. -->
+  <div id="photoViewer" class="photo-viewer" hidden role="dialog" aria-modal="true" aria-label="Photo viewer">
+    <div id="pvStage" class="pv-stage" title="Click anywhere to close">
+      <figure class="pv-fig">
+        <img id="pvImg" alt="Photo" />
+        <figcaption class="pv-cap">
+          <span id="pvCaption"></span>
+          <span id="pvCredit" class="pv-credit"></span>
+        </figcaption>
+      </figure>
+    </div>
+    <div class="pv-bar">
+      <button id="pvOpen" class="go-btn" type="button" title="Open the original photo (Wikimedia Commons) in a new tab">↗ Open original</button>
+      <button id="pvClose" class="ghost-btn" type="button" title="Close viewer (Esc)">✕ Close</button>
+    </div>
+  </div>
+
+  <script src="app.js?v=16"></script>  <!-- cache-bust: v=N bump on every frontend change -->
+</body>
+</html>

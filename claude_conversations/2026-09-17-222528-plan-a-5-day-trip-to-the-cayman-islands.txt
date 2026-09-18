@@ -1,0 +1,139 @@
+╭─── Wayfinder v1.0.0 ─────────────────────────────────────────────────────────
+│ Travel research agent — Emeritus Agentic Course                 ReAct + RAG│
+│ http://localhost:8000 · key-free sources · guardrails on                    │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+❯ Plan a 5 day trip to the Cayman Islands from Miami Sep 12 2026, budget $2500, with flights and where to stay
+
+⏺ [step 1] THOUGHT   The user wants MIA -> Cayman Islands flight options around 2026-09-12 within a $2500 budget. First act: run SearchFlight() against the schedule.
+⏺ [step 1] ACT       search_flights(origin=MIA, destination=GCM, date=2026-09-12)
+  ↳ OBSERVE  search_flights(MIA -> GCM, 2026-09-12) -> 1 flights
+⏺ [step 2] THOUGHT   I need grounded, traceable facts about Cayman Islands for: flights, hotels, dining, shopping, safety, transport. Act: hard search the vector store (recursive-chunk index) for the best evidence.
+⏺ [step 2] ACT       search_kb(query=Cayman Islands George Town Grand Cayman dining restaurant restaurants shop shops shopping safety safe crime budget prices cost, k=8)
+  ↳ OBSERVE  search_kb('Cayman Islands George Town Grand Cayman dining restaurant restaurants shop shops shopping safety safe crime budget prices cost') -> 3 kept, 127 set aside; best: 'George Town, Grand Cayman — Shops & Gift Guide' (score 0.7225)
+  · pruned 'George Town Dining, Safety & Getting Around' — 0.6375 (kept the 3 best candidates for this pass)
+  · pruned 'George Town Dining, Safety & Getting Around' — 0.6358 (kept the 3 best candidates for this pass)
+  · pruned 'Cayman Islands Travel Overview' — 0.6027 (kept the 3 best candidates for this pass)
+  · … 124 more candidates set aside this pass (beam keeps the best)
+⏺ [step 3] THOUGHT   Next: analyze stays near Cayman Islands with a ~$833/night cap derived from the $2500 budget, ranked by proximity to the airport & the main destinations people go (CP 1.1).
+⏺ [step 3] ACT       search_hotels(destination=Cayman Islands, max_price=833, near=George Town)
+  ↳ OBSERVE  search_hotels(Cayman Islands, max $833 near George Town) -> 5 hotels (near airport / main destinations first)
+⏺ [step 4] THOUGHT   Next: real local places for Cayman Islands — the key-free OpenStreetMap layer (Nominatim geocode + Overpass radius query): actual mapped restaurant/cafe/bar names with street addresses, attractions, mapped stays, and (when asked) pharmacies/hospitals. Names are community-mapped data, never invented — if OSM has no match I say so plainly (honesty model).
+⏺ [step 4] ACT       local_places(place=Cayman Islands, focus=all, k=16)
+  ↳ OBSERVE  local_places('Cayman Islands', all) -> 16 real place(s) near George Town, Cayman Islands (15 dining, 0 health, 1 other); first: "5 o'clock Somewhere" — OpenStreetMap (key-free)
+⏺ [step 5] THOUGHT   Next: official travel safety for Cayman Islands — the green->yellow->red meter from the U.S. Department of State travel advisory (levels 1-4). Safety is the #1 traveler question, so this runs before hotels. If sources disagree I show the more cautious rating and say so; if I can't confirm one I won't invent a rating.
+⏺ [step 5] ACT       travel_safety(place=Cayman Islands)
+  ↳ OBSERVE  travel_safety('Cayman Islands') -> Cayman Islands (KY) Level 1 (Exercise normal precautions) [confirmed]
+⏺ [step 6] THOUGHT   Observation check: local KB evidence is gapped on: transport. ReAct says act, not guess — run source-aware research for 'Cayman Islands': Wikipedia/Wikivoyage for context, Tripadvisor/Expedia for travel leads, and Reddit/Instagram for public community leads. The results remain unverified until a public page is fetched and cited.
+⏺ [step 6] ACT       advanced_search(query=Cayman Islands, k_per_source=3)
+  ↳ OBSERVE  advanced_search('Cayman Islands') -> 3 structured lead(s) (wikipedia: 3); unavailable: expedia, instagram, reddit, tripadvisor, wikivoyage
+⏺ [step 7] THOUGHT   Web returned 3 result(s). Act: fetch 'Cayman Islands' and index it — extract text, chunk into the web crawl store, keep full provenance (url + provider + date).
+⏺ [step 7] ACT       web_fetch(url=https://en.wikipedia.org/wiki/Cayman_Islands, provider=wikipedia)
+  ↳ OBSERVE  web_fetch(https://en.wikipedia.org/wiki/Cayman_Islands) -> indexed 19 chunk(s) of 9000 chars as 'Cayman Islands - Wikipedia' (source: web, provenance kept)
+⏺ [step 8] THOUGHT   One page is not enough depth — the user wants insight, not a single article. Act: run a deeper pass, 'Cayman Islands facts history highlights', so I can summarize what I actually found (CP 2.1: use the observation to drive the next act).
+⏺ [step 8] ACT       web_search(query=Cayman Islands facts history highlights, k=6)
+  ↳ OBSERVE  web_search('Cayman Islands facts history highlights') -> 3 result(s); best: 'Hurricane Helene' via wikipedia
+
+⏺ BRIEFING — confidence 50% (Medium) · 4 sources
+  3 KB sources (top 0.72, covered destination) · 1 flight (sample schedule) · 5 stays (sample schedule) · official travel advisory (U.S. State Department — verified source, key-free) · 1 web page (community-sourced — double-check before booking) · 3 research leads (community-sourced) · 16 local places (community-mapped — double-check before visiting)
+
+Here's a grounded plan for Cayman Islands. Budget $2500, ~4 nights.
+
+## 📖 Cayman Islands in a minute
+_The short version — the facts worth knowing before you go._
+
+**What it is.** George Town is the heart of Grand Cayman's souvenir scene.
+
+**At a glance:** Safety: **Level 1 — SAFE for tourists**
+
+_Grounded — overview: retrieval evidence · safety: official advisory._
+
+## 🎯 GOALS — Cayman Islands
+**Do:** eat at **5 o'clock Somewhere** · eat at **Abacus** (international) · The shop is well known for its cheery ceramics, including the famous "Cayman" mugs and painted sea-turtle pottery that pack safely for the flight home
+**Go:** base yourself in **George Town, Grand Cayman** · base yourself in **Seven Mile Beach, Grand Cayman** · base yourself in **North Shore, Grand Cayman** · base yourself in **Bodden Town, Grand Cayman**
+**Stay:** **Seven Mile Beach Grand** — Seven Mile Beach, Grand Cayman · $420/night · **The Westin Grand Cayman** — Seven Mile Beach, Grand Cayman · $380/night · **George Town Harbourview** — George Town, Grand Cayman · $220/night
+_Synthesized live this run from 4 grounded source(s) — full detail, citations and confidence are in the sections below._
+
+## 📸 Photos — Cayman Islands
+
+**Cayman Islands**
+• ![Grand Cayman from the plane](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Cayman_Islands_2005_087.jpg/960px-Cayman_Islands_2005_087.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail) — Grand Cayman from the plane _(Salvatore Freni Jr · CC BY 2.0 · Wikimedia Commons)_
+• ![The Crest of the Cayman Islands Coast Guard as seen on CG ships, Vehicles, uniforms, and Buildings.](https://upload.wikimedia.org/wikipedia/commons/1/1d/Cayman_Islands_Coast_Guard_Crest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled) — The Crest of the Cayman Islands Coast Guard as seen on CG ships, Vehicles, uniforms, and Buildings. _(Scottish Caymanian · CC BY-SA 4.0 · Wikimedia Commons)_
+
+**Where to stay**
+• ![Picture taken by me, early may 2006. Panorama of Seven Mile Beach on Grand Cayman from in front of the Westin Hotel. The left of the picture is north and the right (direction of the cruise ships) is south. This pic shoul](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Grand_Cayman_banner.jpg/960px-Grand_Cayman_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail) — Picture taken by me, early may 2006. Panorama of Seven Mile Beach on Grand Cayman from in front of the Westin Hotel. The left of the picture is north and the right (direction of the cruise ships) is south. This pic shoul _(Seven_Mile_Beach_2006.jpg : http://en.wikipedia.org/wiki/User:Burtonpe derivative work: Massimo Telò · CC BY-SA 3.0 · Wikimedia Commons)_
+• ![Description: Cayman Islands. 'Noel Ebanks, who is 14 years old, works on a new tourist hotel at West Bay Beach'. Photograph No D 78916 Official Cayman Islands photograph compiled by Central Office of Information. Publici](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/INF_10-98-1_-_Flickr_-_The_National_Archives_UK.jpg/960px-INF_10-98-1_-_Flickr_-_The_National_Archives_UK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail) — Description: Cayman Islands. 'Noel Ebanks, who is 14 years old, works on a new tourist hotel at West Bay Beach'. Photograph No D 78916 Official Cayman Islands photograph compiled by Central Office of Information. Publici _(The National Archives UK · No restrictions · Wikimedia Commons)_
+• ![Picture taken by me, early may 2006. Panorama of Seven Mile Beach on Grand Cayman from in front of the Westin Hotel. The left of the picture is north and the right (direction of the cruise ships) is south. This pic shoul](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Seven_Mile_Beach_2006.jpg/960px-Seven_Mile_Beach_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail) — Picture taken by me, early may 2006. Panorama of Seven Mile Beach on Grand Cayman from in front of the Westin Hotel. The left of the picture is north and the right (direction of the cruise ships) is south. This pic shoul _(http://en.wikipedia.org/wiki/User:Burtonpe · CC BY-SA 3.0 · Wikimedia Commons)_
+• ![Hotel Quitandinha in Petrópolis/RJ.](https://upload.wikimedia.org/wikipedia/commons/f/f2/Stamp_of_Brazil_-_1948_-_Colnect_207773_-_International_exhibition_of_industry_and_trade.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled) — Hotel Quitandinha in Petrópolis/RJ. _(Post of Brazil · Public domain · Wikimedia Commons)_
+
+## 🛡️ Travel safety — Cayman Islands
+**Safety meter:** 🟩 🟩 🟩 🟩 🟩  **🟢 SAFE for tourists**
+U.S. Department of State advisory: **Level 1 — Exercise normal precautions**
+(confirmed: live official source and the data snapshot agree)
+_Source: U.S. Department of State travel advisory for Cayman Islands — official government data, key-free. Advisories can change; re-check at https://travel.state.gov close to your travel dates._
+
+## 🏨 Where to stay — Cayman Islands
+**Near the airport:**
+• **Seven Mile Beach Grand** — $420/night, 5★, 4.8 rating · 1.2 mi to the airport · 2.1 mi to the main spots (Seven Mile Beach, Grand Cayman)
+• **The Westin Grand Cayman** — $380/night, 5★, 4.7 rating · 1.8 mi to the airport · 2.4 mi to the main spots (Seven Mile Beach, Grand Cayman)
+
+**City center / main destinations:**
+• **George Town Harbourview** — $220/night, 4★, 4.5 rating · 12.5 mi to the airport · 0.4 mi to the main spots (George Town, Grand Cayman)
+• **Stingray Inn** — $110/night, 2★, 4.0 rating · 14.5 mi to the airport · 3.5 mi to the main spots (North Shore, Grand Cayman)
+• **Caymanas Suites** — $165/night, 3★, 4.2 rating · 13.0 mi to the airport · 5.8 mi to the main spots (Bodden Town, Grand Cayman)
+_Sample data for the demo (never charged) — real rates vary by season and dates; confirm availability before booking._
+
+## 🍽️ Local places — George Town, Cayman Islands
+**Where to eat & drink:**
+• **5 o'clock Somewhere** (bar)
+• **Abacus** (restaurant) — international
+• **Agave** (restaurant) — mexican · North Sound Road, George Town
+• **Agua** (restaurant)
+• **Al La Kebab** (restaurant) — kebab · Lawrence Blvd, Whitehall Estate, West Bay
+• **Allure Lounge** (bar) — Shedden Road, George Town
+• **Amelia's Kitchen** (restaurant) — regional · Crewe Road, George Town
+• **Anchor and Den** (restaurant)
+
+**Things to see & do:**
+• **Airport Park** (park)
+
+_British overseas territory in the Caribbean (Wikidata)_
+_Source: OpenStreetMap community data via key-free Nominatim + Overpass — names/addresses as mapped; verify hours & prices before visiting._
+
+## ✈️ Flights
+• **Breeze B6 1546** — 2026-09-12 07:05→13:15 (Main), **$389** (MIA→GCM)
+_Source: sample flight schedule. Prices are sample data for the demo._
+
+## 🧭 Know before you go (retrieval-grounded, CP 3.1)
+• George Town is the heart of Grand Cayman's souvenir scene. Now it's time to shop: you'll find a mix of tourist shops, local gift shops, and unique places throughout George Town to check out. Head north on Church Stree…  [1]
+• The shop is well known for its cheery ceramics, including the famous "Cayman" mugs and painted sea-turtle pottery that pack safely for the flight home. The Queen's Royal Exchange, just off Bath Street, stocks local ru…  [2]
+• The Cayman Islands are a British Overseas Territory in the Caribbean with three islands: Grand Cayman, Cayman Brac, and Little Cayman. Grand Cayman's capital is George Town, home to the Queen Elizabeth II Botanic Park…  [3]
+
+## 🌐 Cayman Islands — summarized from the live web (community-sourced)
+**In short** (from “Cayman Islands - Wikipedia”):
+• The Cayman Islands (/ˈkeɪmən/) is a self-governing British Overseas Territory in the western Caribbean. With a population of over 90,000, it is the most populated of all the British Overseas Territories. The 264-square-kilometre (102-squ…  [4]
+• The Cayman Islands is considered to be part of the geographic Western Caribbean zone as well as the Greater Antilles. The territory is a major tax haven mainly due to the state charging no tax on income earned or stored.  [4]
+
+**At a glance:**
+• With a population of over 90,000, it is the most populated of all the British Overseas Territories.
+• With a GDP per capita of $97,750 in 2023, the Cayman Islands has the highest standard of living in the Caribbean, and one of the highest in the world.
+• Despite its population of almost 90,000, immigrants from over 140 countries and territories reside in the Cayman Islands.
+• As of 2017, no evidence has been found that the islands had been occupied before the arrival of the Europeans.
+• It is believed that the first European to sight the islands was Christopher Columbus, on 10 May 1503, during his final voyage to the Americas.
+_Fetched and indexed this run into the web crawl store with full provenance (url, provider, fetch date). Community-sourced — double-check before booking._
+
+## 🗂️ Cross-source research leads — Cayman Islands
+• **Wikipedia**: Cayman Islands — the Cayman Islands . As of 2017[update], no evidence has been found that the islands had been occupied before the arrival of the Europeans. The Cayman Islands  [4]
+_Public discovery only: Reddit and Instagram results are links/snippets, never login-wall scraping. Tripadvisor and Expedia are leads, not live inventory or pricing. Verify each source before acting._
+
+## 💰 Budget fit
+Cheapest grounded estimate: $389 flights + $440 lodging = **$829** — fits your $2500 budget.
+
+Sources:
+  [PRIMARY] George Town, Grand Cayman — Shops & Gift Guide <https://www.visitcaymanislands.com>
+  [PRIMARY] George Town, Grand Cayman — Shops & Gift Guide <https://www.visitcaymanislands.com>
+  [PRIMARY] Cayman Islands Travel Overview <https://www.visitcaymanislands.com>
+  [WEB] Cayman Islands - Wikipedia 
+
+⏺ 🛡️ GUARDRAIL (L5 summary)  {'L1 input filter': 'pass — query complete (destination resolved)', 'L2 permissions': "job='heuristic' · tools=advanced_search, best_time, book_ticket, flight_info, local_places, lookup, luxury, search_flights, search_hotels, search_kb, travel_safety, web_fetch, web_search · scope=local KB (data/index.json); flights.json; hotels.json; bookings.json; key-free Wikipedia geocode + IATA lookup (flight
+✅ DONE  steps=8 · searches=1 · pruned=127 · 75.6 s · mode=heuristic · confidence 50% (Medium)

@@ -1,0 +1,984 @@
+[
+ {
+  "name": "Australia",
+  "aliases": [
+   "Australia"
+  ],
+  "capital": "Canberra",
+  "destinations": [
+   "Canberra",
+   "Adelaide",
+   "Brisbane",
+   "Cairns",
+   "Darwin",
+   "Hobart",
+   "Melbourne",
+   "Perth",
+   "Sydney",
+   "Blue Mountains National Park",
+   "Cradle Mountain-Lake St Clair National Park",
+   "Daintree Rainforest"
+  ],
+  "landmarks": [
+   "Kangaroos",
+   "wallabies",
+   "Wombats",
+   "echidnas",
+   "Koalas",
+   "Emus",
+   "Cassowaries",
+   "Platypus",
+   "Banksias",
+   "conservation parks"
+  ],
+  "dining": [
+   "Pubs",
+   "Clubs",
+   "Cafes",
+   "Bakeries",
+   "Fast food restaurants",
+   "Take-away",
+   "Food courts",
+   "Picnic",
+   "Barbecue",
+   "Wineries"
+  ],
+  "activities": [
+   "in thermal pools",
+   "in freshwater lakes",
+   "in rivers",
+   "in man-made pools",
+   "Snorkelling",
+   "Rock Climbing",
+   "Mountain Biking",
+   "Horse Riding",
+   "Sky Diving",
+   "Hot Air Ballooning"
+  ],
+  "stay": [
+   "hotel",
+   "en-suite sites"
+  ],
+  "tips": [],
+  "overview": "There is nowhere else quite like Australia, nicknamed the Land Down Under, the only country that has a whole continent to itself. With Indigenous cultures that go back over 65,000 years and truly global immigration in modern times, the country is famous for its natural wonders, wide open spaces, beaches, deserts, \"the bush\", and \"the Outback\". However, it is also highly urbanised, with an array of cosmopolitan cities &ndash; the largest and most famous being Sydney, situated on one of the most famous harbours in the world.",
+  "hotels": [
+   {
+    "name": "hotel",
+    "city": "Canberra",
+    "area": "hotel",
+    "stars": 3,
+    "price": 400,
+    "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+   },
+   {
+    "name": "en-suite sites",
+    "city": "Canberra",
+    "area": "en-suite sites",
+    "stars": 3,
+    "price": 100,
+    "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+   }
+  ],
+  "prose": {
+   "see": "Wildlife Australian flora and fauna is unique to the island continent, the result of having been isolated from the rest of the world for millions of years. Amongst Australian animals are a large group of marsupials (mammals with a pouch) and monotremes (mammals that lay eggs). Just some of the animal icons of Australia are the kangaroo (national symbol) and the koala. A visit to Australia would not be complete without taking the chance to see some of these animals in their natural environment. Wildlife parks and zoos Wildlife parks and zoos are in every state capital city, but also check out the animal parks if you are passing through smaller towns, like Mildura or Mogo, or staying on Hamilton Island.",
+   "do": "Swim in the surf. Australia has seemingly endless sandy beaches. Follow the crowds to the world-famous Bondi Beach in Sydney, or Surfers Paradise on the Gold Coast. Or find a stretch all for yourself (but beware of dangerous rips on beaches, it is considerably safer to find a patrolled beach). The surf is smaller and warmer in the Tropical North, where the reef breaks the swell, and larger and colder in the south with waves rolling in from the Southern Ocean. (And yes, in the middle it is just right). in calm tropical oceans. Cable Beach in Broome is swept pristine daily by the tide, has perfect sand, and warm water - go in winter. in thermal pools. South of Darwin there are many natural thermal pools such as Berry Springs & Mataranka, surrounded by palms and tropical foliage.",
+   "eat": "Australian cuisine is hard to pin down: in this nation of immigrants, restaurants claiming to offer it are few and far between, and the word tends to either evoke meat-and-three-veg British stodge or tourist-trap restaurants hawking kangaroo burgers and crocodile kebabs. Yet with amazing local produce, influences from cuisines from all over the world, and an exciting Modern Australian food scene awaiting those not afraid to experiment, there are plenty of incredible eats and drinks to be found. Generally speaking, table manners in Australia conform to European norms. Places to eat There is no shortage of places to eat out in the cities and towns.",
+   "sleep": "Accommodation is readily available in most Australian cities and tourist destinations. As with everything else in Australia, it tends to be on the expensive side by international standards. Hotels All state capitals have a number of 4- or 5-star standard hotels, often with upmarket restaurants, bars, room-service, and other premium hospitality services. Expect to pay around $400/night (2024), although prices can shoot through the stratosphere or straight up sell out during major concerts or events, such as New Year's Eve in Sydney. Other 2- or 3-star hotels are scattered around the inner-cities and inner suburbs. The usual international chains are reasonably well represented, with Accor having a particularly solid presence across the entire price spectrum.",
+   "understand": "The sixth largest country in the world by area, Australia has a relatively small (but growing) population of 25 million. A G20 member, it has high quality of life and is constantly ranked among the world's most livable countries. It is a significant player in the economic and political spheres of the Indo-Pacific region. History Aboriginal people have been living in Australia for at least 65,000 years. They arrived in successive waves from South and Southeast Asia. With rising sea levels after the last Ice Age, Australia became largely isolated from the rest of the world and the Aboriginal groups developed a variety of cultures, based on a close spiritual relationship with the land and nature, and extended kinship.",
+   "get_in": "Entry requirements Everybody (except New Zealanders) requires a visa in advance of travel. If you are visiting for a holiday of less than 90 days, there are three types of visas you may apply for, depending on your nationality. [https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601 Electronic Travel Authority (ETA) subclass 601] is available to nationals of many countries, and you must apply using the Australian ETA app with a service fee of $20."
+  },
+  "source": "Wikivoyage (CC BY-SA 4.0)",
+  "url": "https://en.wikivoyage.org/wiki/Australia",
+  "fetched": "2026-09-10"
+ },
+ {
+  "name": "New Zealand",
+  "aliases": [
+   "New Zealand"
+  ],
+  "capital": "Wellington",
+  "destinations": [
+   "North Island",
+   "South Island",
+   "Stewart Island",
+   "Chatham Islands",
+   "New Zealand Subantarctic Islands"
+  ],
+  "landmarks": [
+   "Southern Alps",
+   "Fiordland National Park",
+   "Glaciers",
+   "moa",
+   "kauri",
+   "Waipoua Forest",
+   "silver fern",
+   "sea lions",
+   "kiwi",
+   "takahē"
+  ],
+  "dining": [
+   "Woolworths",
+   "Countdown",
+   "New World",
+   "Four Square",
+   "Fresh Choice",
+   "Super Value",
+   "manuka honey",
+   "Australian cuisine#Anzac biscuits",
+   "Feijoas",
+   "Kiwifruit"
+  ],
+  "activities": [
+   "Rugby football",
+   "All Blacks",
+   "Super Rugby",
+   "cricket",
+   "rugby league",
+   "Association football",
+   "netball",
+   "basketball",
+   "rowing",
+   "sailing"
+  ],
+  "stay": [
+   "luxury hotels",
+   "luxury lodges",
+   "Motels",
+   "homestays"
+  ],
+  "tips": [],
+  "overview": "New Zealand (Māori: Aotearoa) is one of the most beautiful countries in the world, a country of stunning and diverse natural beauty: jagged mountains, rolling pasture land, steep fiords, pristine trout-filled lakes, raging rivers, scenic beaches, and active volcanic zones. These islands form a unique bioregion inhabited by flightless birds seen nowhere else, such as kākāpō and kiwi. New Zealanders have adopted the kiwi as a national symbol, and have even taken the word Kiwi as a name for themselves.",
+  "hotels": [
+   {
+    "name": "Wellington City Hotel",
+    "city": "Wellington",
+    "area": "Wellington",
+    "stars": 3,
+    "price": 105,
+    "rating": 4.1,
+    "airport_mi": 3.0,
+    "excursion_mi": 1.0,
+    "airport": "Wellington Intl",
+    "notes": "typical city property (sample data — see the Wikivoyage page for real listings)"
+   },
+   {
+    "name": "South Island Garden Hotel",
+    "city": "South Island",
+    "area": "South Island",
+    "stars": 4,
+    "price": 160,
+    "rating": 4.3,
+    "airport_mi": 9.0,
+    "excursion_mi": 0.5,
+    "airport": "Wellington Intl",
+    "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)"
+   }
+  ],
+  "prose": {
+   "see": "Mountains, lakes and glaciers It can be said that in New Zealand it's the countryside that's magnificent, and perhaps no more so than the Southern Alps of the South Island. In the Mackenzie Country, the snow-capped jagged peaks rising above turquoise lakes have provided the inspiration for many a postcard. Tucked in behind is the country's highest peak, Aoraki / Mount Cook (3724&nbsp;m). The lakes and mountains continue south, becoming a stunning backdrop for the towns of Wanaka, Queenstown and Glenorchy. Another region where mountain meets water with striking effect is Fiordland National Park where steep, densely forested mountains rise from the sea. The most accessible, and perhaps one of the most beautiful, spots is Milford Sound.",
+   "do": "Outdoors and adventure Outdoor and adventure activities include: Bungy Jumping – The modern bungy jumping was invented here by New Zealander A.J. Hackett. Popular locations are Queenstown, Auckland, or Taupo. Canoeing and Sea kayaking – Sea kayaking in Abel Tasman Marine Reserve or the colder waters of Milford Sound Caving – Waitomo, Nelson, South Island West Coast, Te Anau Scuba diving Fishing – both freshwater (some of the finest trout-fishing in the world) and gamefishing (some of the best sport fishing in the world for marlin, broadbill, sharks, tuna, kingfish and many other salt-water species) Hiking – New Zealand has a number of national parks and other wilderness and forested areas, much of which is managed by the [http://www.doc.govt.nz/ Department of Conservation (DoC)].",
+   "eat": "Modern New Zealand cuisine has been influenced mainly by the country's British heritage, although immigration since the 1950s has put Mediterranean and Asia-Pacific twists to it. Māori have their own distinctive traditional cuisine. The evening meal, called dinner or tea, is considered the main meal of the day. Snack breaks between meals are referred to as morning/afternoon tea. New Zealanders typically only go out for dinner at a restaurant on special occasions such as birthdays or on romantic dates; most don't eat out on a highly frequent basis, although it is becoming more common. New Zealanders typically don't ask for the restaurant bill at the table, but rather vacate the table and ask for the bill at the front counter or bar.",
+   "sleep": "New Zealand offers a wide range of accommodation, from campsites and shared hostel rooms to international-quality luxury hotels in the major cities. New Zealanders seem to have perfected the art of the top-dollar home-stay. Hosted luxury lodges are the top-end equivalent of the bed-and-breakfast market and New Zealand has upwards of 40 internationally recognised lodges. Per capita, that's probably the highest in the world. They tend to be situated away from cities and can be difficult to get to, though some are right in the heart of the major centres. At the very top-end, helicopter transfers and private jets help the luxury traveller move between the lodges they've chosen for their visit.",
+   "understand": "New Zealand is increasingly known, both in the indigenous Māori language and in New Zealand English, as Aotearoa, often translated as \"land of the long white cloud\". Originally, Aotearoa referred to only the North Island. The two main islands are officially named North Island / Te Ika-a-Māui and South Island / Te Waipounamu. Te Ika-a-Māui means \"the fish of Māui\"; in Māori legend, the North Island is a giant fish pulled up from sea by the demigod Māui, with its head to the south. Wellington is sometimes called te upoko o te ika (the head of the fish\") and once boasted a monthly magazine called Fishhead. Te Waipounamu means \"the greenstone waters\"; greenstone is a nephrite jade found in the South Island and is highly valued by Māori people.",
+   "get_in": "Passports, visas and documentation All visitors, apart from Australian citizens, require an electronic travel authority or a visa in advance of travel to enter or transit New Zealand. Citizens of the Cook Islands, Tokelau and Niue are New Zealand citizens. However, due to differing immigration laws, citizens of these countries need to present their passport when entering and leaving New Zealand."
+  },
+  "source": "Wikivoyage (CC BY-SA 4.0)",
+  "url": "https://en.wikivoyage.org/wiki/New%20Zealand",
+  "fetched": "2026-09-10"
+ },
+ {
+  "name": "Fiji",
+  "aliases": [
+   "Fiji"
+  ],
+  "capital": "Suva",
+  "destinations": [
+   "Suva",
+   "Lautoka",
+   "Levuka",
+   "Nadi",
+   "Nausori",
+   "Taveuni",
+   "Denarau",
+   "Nananu-i-Ra Island",
+   "Ovalau",
+   "Viti Levu",
+   "Vanua Levu",
+   "Kadavu"
+  ],
+  "landmarks": [
+   "villages",
+   "Navala village",
+   "Fiji Museum",
+   "Rugby football#Rugby union",
+   "Pacific Nations Cup",
+   "Association football",
+   "football"
+  ],
+  "dining": [
+   "tubers"
+  ],
+  "activities": [],
+  "stay": [
+   "See towns in Fiji for detailed hotel listings.",
+   "Fiji is a popular tourist destination and has plenty of accommodation in all price brackets."
+  ],
+  "tips": [],
+  "overview": "Fiji (Fijian: Viti, Hindi: फ़िजी) (sometimes called the Fiji Islands) is an archipelago nation in Melanesia in the Pacific Ocean. It lies 2000 km north of New Zealand and consists of 332 islands, Viti Levu and Vanua Levu being the largest ones. Set within miles of open ocean, Fiji offers a spiritual heritage and natural beauty in the tropical setting of its atmosphere.",
+  "hotels": [
+   {
+    "name": "Suva City Hotel",
+    "city": "Suva",
+    "area": "Suva",
+    "stars": 3,
+    "price": 160,
+    "rating": 4.0,
+    "airport_mi": 3.0,
+    "excursion_mi": 1.0,
+    "airport": "Suva Intl",
+    "notes": "typical city property (sample data — see the Wikivoyage page for real listings)"
+   },
+   {
+    "name": "Lautoka Garden Hotel",
+    "city": "Lautoka",
+    "area": "Lautoka",
+    "stars": 4,
+    "price": 215,
+    "rating": 4.2,
+    "airport_mi": 9.0,
+    "excursion_mi": 0.5,
+    "airport": "Suva Intl",
+    "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)"
+   }
+  ],
+  "prose": {
+   "see": "thumb|A beach at Nanuya Lailai, a smaller island in the Yasawa Islands|Yasawa chain In short, the natural treasures alone are worth the trip, but this island nation does have a number of cultural sights to offer. There's the beautiful Garden of the Sleeping Giant on Nadi, once owned by famous actor Raymond Burr who lived here. It holds over 20 hectares full of orchids native to Fiji, many cultivated and exotic plants plus a lovely lily pond. Make a trip to one of the many villages to take part in a kava-ceremony or to see one of the many other remaining cultural traditions. Navala village (on Viti Levu) still maintains its traditional bures, making it an excellent pick.",
+   "do": "SCUBA dive or snorkel Surf",
+   "eat": "Indigenous Fijian cuisine Traditional food in Fiji relies heavily on tubers like taro, yams, sweet potatoes (kumala), manioc (tavioka) and breadfruit (uto), served with a relish made from meat, fish, seafood, and vegetables. Dishes to look out for: palusami, baked taro leaves marinated in lemon juice and coconut milk often with some meat or fish filling and a bit of onion or garlic kokoda, raw fish or other seafood marinated in lemon and coconut milk, similar to ceviche lovo, food cooked in a pit oven. Not found at restaurants, but many hotels offer lomo \"feasts\" for dinner. Don't miss fresh tropical fruits, found at the farmer's market in any town when in season.",
+   "sleep": "See towns in Fiji for detailed hotel listings. Fiji is a popular tourist destination and has plenty of accommodation in all price brackets. Most resorts are near the main airport at Nadi or the nearby Mamanuca Islands. Nadi has backpacker-friendly lodges, while the international big brands are mostly nearby at Denarau Island. Hotels in the capital Suva are geared more towards business travellers. Most Fiji travel agents will take a commission of 15 and 20% along with your booking, which may be called a \"deposit\". Since this is an up-front payment, it is often beneficial to only book one night, and then you may be able to negotiate a lesser rate for subsequent nights (if space is available).",
+   "understand": "Fiji is the product of volcanic mountains and warm tropical waters. Its majestic and varied coral reefs today draw tourists from around the world, but were the nightmare of European mariners until well into the 19th century because of brutal tribal warfare and cannibalism. As a result, Fijians have retained their land and often much of the non-commercial, sharing attitude of people who live in vast extended families with direct access to natural resources. When it came, European involvement and cession to Britain was marked by the conversion to Anglicanism, the cessation of animist beliefs, and the immigration of a large number of indentured Indian labourers, whose descendants now represent nearly half of the population, and there are smaller numbers of Europeans and other Asians.",
+   "get_in": "Entry requirements Fiji has a liberal travel policy. [http://www.immigration.gov.fj/index.php/travel-requirements/visa-exempted-countries Citizens of over 100 countries] including Australia, Canada, China, countries within the European Union, India, the United Kingdom, and the US do not require a tourist visa. Most visitors are granted permits on arrival that last 4 months. The visitor permit may be extended for up to 2 additional months for a fee."
+  },
+  "source": "Wikivoyage (CC BY-SA 4.0)",
+  "url": "https://en.wikivoyage.org/wiki/Fiji",
+  "fetched": "2026-09-10"
+ },
+ {
+  "name": "Papua New Guinea",
+  "aliases": [
+   "Papua New Guinea",
+   "PNG"
+  ],
+  "capital": "Port Moresby",
+  "destinations": [
+   "Port Moresby",
+   "Alotau",
+   "Goroka",
+   "Lae",
+   "Madang",
+   "Mount Hagen",
+   "Rabaul",
+   "Vanimo",
+   "Wewak",
+   "Southern Papua New Guinea",
+   "Western Papua New Guinea",
+   "Madang-Morobe"
+  ],
+  "landmarks": [
+   "Image:Huli wigman.jpg",
+   "Kokoda Trail",
+   "Goroka#Go next",
+   "Image:Haus_tambaran.JPG",
+   "Madang",
+   "Wewak",
+   "New Britain",
+   "Bougainville",
+   "Trobriand Islands"
+  ],
+  "dining": [
+   "A typical way of cooking is a Mumu, an underground oven in which meat and vegetables, such as Kaukau (sweet potatoes), are cooked.",
+   "In just about every meal, there is rice and another form of starch."
+  ],
+  "activities": [
+   "scuba diving",
+   "trekking",
+   "festivals",
+   "Fishing",
+   "Flightseeing"
+  ],
+  "stay": [
+   "Hotels are very expensive (at least US$100/night, and often much more).",
+   "Port Moresby has international hotels including the Crown Plaza and Airways International, mid-range hotels such as Lamana, and guesthouses."
+  ],
+  "tips": [],
+  "overview": "The Independent State of Papua New Guinea (PNG, Tok Pisin: Papua Niugini, Hiri Motu: Papua Niu Gini) comprises the eastern part of the world's largest and highest tropical island, New Guinea, together with many smaller offshore islands.",
+  "hotels": [
+   {
+    "name": "Port Moresby City Hotel",
+    "city": "Port Moresby",
+    "area": "Port Moresby",
+    "stars": 3,
+    "price": 90,
+    "rating": 4.1,
+    "airport_mi": 3.0,
+    "excursion_mi": 1.0,
+    "airport": "Port Moresby Intl",
+    "notes": "typical city property (sample data — see the Wikivoyage page for real listings)"
+   },
+   {
+    "name": "Alotau Garden Hotel",
+    "city": "Alotau",
+    "area": "Alotau",
+    "stars": 4,
+    "price": 145,
+    "rating": 4.3,
+    "airport_mi": 9.0,
+    "excursion_mi": 0.5,
+    "airport": "Port Moresby Intl",
+    "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)"
+   }
+  ],
+  "prose": {
+   "see": "thumb|upright|A Huli Wigman from the Southern Highlands of Papua New Guinea South New Guinea The Kokoda Trail is a 60-mile (97-kilometre) trail, beginning in the Port Moresby area and leading up into the Owen Stanley Range. This trail was first used by gold miners in the 1890s and is most known as a historical World War II site as the Japanese tried to reach Port Moresby along it. It takes between six and twelve days to hike this track, which includes plenty of ups and downs between mountain ridges and streams. The Highlands The Highland region is made of a long string of fertile valleys, each separated by mountains, that mean the Highlands are composed of many distinct tribal regions. In the Eastern Highlands is Mount Wilhelm, Papua New Guinea's highest mountain (4535 m).",
+   "do": "thumb|right|Coral reefs in crystal clear waters Scuba diving Go scuba diving, using one of more than a dozen local scuba diving operators. The national [http://www.pngdive.com Scuba Diving industry body] is a good starting point. Papua New Guinea has some of the very best tropical reef diving anywhere in the world. Birdwatching PNG is a superb destination for birdwatching with over 700 species of birds including many birds of paradise. Definitely bring a pair of decent binoculars and ask in the villages for a volunteer to help you find the birds. An amazing experience! See also Australasian wildlife. Surfing Information through the [http://www.sapng.com/ Surfing Association] .",
+   "eat": "The food is largely devoid of spices. A typical way of cooking is a Mumu, an underground oven in which meat and vegetables, such as Kaukau (sweet potatoes), are cooked. In just about every meal, there is rice and another form of starch. In the lodges that tourists stay in, there is usually a blend between this type of food and a more Westernised menu. While it may come as a surprise to many, there are no American nor European chains in Papua New Guinea. The only chains you'll find are Big Rooster, a locally operated chicken chain, Eagle Pizzeria, an Australian pizza chain and Hog's Breath Cafe, another Australian steakhouse chain – so all either locally operated, or an Australian chain.",
+   "sleep": "Hotels are very expensive (at least US$100/night, and often much more). Guesthouses are the best budget option in the towns but even then still expensive (about US$40/night) The least expensive option is to stay in village guesthouses (about US$15/night), and that is where the fun is, anyhow. Port Moresby has international hotels including the Crown Plaza and Airways International, mid-range hotels such as Lamana, and guesthouses. The regional areas offer international and budget hotels depending on the size of the town and some provinces have guest houses.",
+   "understand": "History There is evidence of human settlement as long ago as 35,000 years in what is now Papua New Guinea. This comes from an archaeological site at Matenkupkum, just south of Namatanai in New Ireland province. Other archaeological digs at several locations in New Ireland have discovered tools and food residue dating back 20,000 years. In more modern times, Papua New Guinea, the eastern half of the island of New Guinea (which is the second largest island in the world), was divided between Germany ('German New Guinea') and Great Britain ('British Papua') in 1884. The Dutch had West Papua, now the Indonesian territory of Papua.",
+   "get_in": "Entry requirements Everyone needs a visa to enter Papua New Guinea, but a 60-day visa on arrival is available to all EU/EFTA citizens and to citizens of Andorra, Argentina, Brazil, Brunei, Canada, Chile, Ecuador, Fiji, Hong Kong, Indonesia, Israel, Japan, Kiribati, Macau, Malaysia, Maldives, Marshall Islands, Mexico, Micronesia, Monaco, Nauru, New Zealand, Palau, Peru, Philippines, Samoa, San Marino, Singapore, Solomon Islands, South Korea, Taiwan, Thailand, Tonga, Tuvalu, United Kingdom, United."
+  },
+  "source": "Wikivoyage (CC BY-SA 4.0)",
+  "url": "https://en.wikivoyage.org/wiki/Papua%20New%20Guinea",
+  "fetched": "2026-09-10"
+ },
+ {
+  "name": "Samoa",
+  "aliases": [
+   "Samoa"
+  ],
+  "capital": "Apia",
+  "destinations": [
+   "Apia",
+   "Upolu",
+   "Savaii"
+  ],
+  "landmarks": [
+   "National parks",
+   "Waterfalls",
+   "Blowholes",
+   "Caves",
+   "Lava Fields",
+   "Villages",
+   "Beaches",
+   "Museums",
+   "Kilikiti"
+  ],
+  "dining": [
+   "Umu",
+   "Oka",
+   "Palusami",
+   "Corned beef"
+  ],
+  "activities": [
+   "Get married",
+   "Golf",
+   "Diving",
+   "Fishing"
+  ],
+  "stay": [
+   "Beach fales",
+   "Respect"
+  ],
+  "tips": [],
+  "overview": "Samoa is an island nation in the South Pacific Ocean, part of Polynesia. It is an archipelago of 10 islands with ancient cultures, dramatic landscapes, and a variety of activities to do, such as snorkelling in Samoa's vibrant coral gardens. The country has two main islands, which have narrow coastal plains with volcanic, rocky, rugged mountains in the interior.",
+  "hotels": [
+   {
+    "name": "Apia City Hotel",
+    "city": "Apia",
+    "area": "Apia",
+    "stars": 3,
+    "price": 105,
+    "rating": 4.3,
+    "airport_mi": 3.0,
+    "excursion_mi": 1.0,
+    "airport": "Apia Intl",
+    "notes": "typical city property (sample data — see the Wikivoyage page for real listings)"
+   },
+   {
+    "name": "Upolu Garden Hotel",
+    "city": "Upolu",
+    "area": "Upolu",
+    "stars": 4,
+    "price": 160,
+    "rating": 4.5,
+    "airport_mi": 9.0,
+    "excursion_mi": 0.5,
+    "airport": "Apia Intl",
+    "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)"
+   }
+  ],
+  "prose": {
+   "see": "This is just a summary of what to see. Consult Apia, Savaii and Upolu for more detailed information. National parks. There are several national parks in both Upolu and Savaii. These offer tropical vegetation, numerous birds and some interesting lakes. Falealupo Rainforest Preserve on Savaii has a short canopy walkway and you can sleep in the trees. Lake Lanoto'o National Park on Upolu has a fascinating lake where introduced goldfish thrive and grow to amazing sizes. At O le Pupu Pue National Park you can find Togigoiga Waterfalls, the Ma Tree and the Coastal Lava Cliff Walk. thumb|right|250px|Sopoaga Falls on Upolu Island Waterfalls. The inland areas of Savaii and Upolu have some spectacular waterfalls, some with 100m drops. Those on Upolu are a bit more accessible.",
+   "do": "Below is just an indication of things to do in Samoa. For more detailed information, see Upolu, Savaii and Apia. A Samoan Tattoo. This traditional art form is very much a part of the Samoan culture. There are different designs for women and men; in the case of men the tattoo can cover half the body. Beware that the tattooing process can be very painful, but if you think you can take the pain ask at your hotel or guest house for advice on local tattoo artists. Get married. Samoa is a popular place to get married and spend your honeymoon. Several hotels and resorts offer special packages on their web sites and they will make all the arrangements. Golf. Golf is very popular in Samoa.",
+   "eat": "Eating is an extremely important part of Samoan life. They often take food with them when they travel. Samoan food is not highly spiced or seasoned. It uses ingredients that are relatively unfamiliar to most Westerners, such as breadfruit, taro (or talo), taro leaves, cooked green bananas and raw fish. Umu. The umu is the traditional method used for cooking. A fire is built and stones placed on it. When the fire is down to the embers the ingredients, such as green bananas, breadfruit, taro, fish, palusami and pork are placed on the stones. It is then covered with banana leaves and left to cook. Oka is the way Samoans prepare raw fish. It consists of small bits of fish that are marinated in a mixture of lemon juice, coconut cream, salt and finely chopped onions.",
+   "sleep": "thumb|right|250px|A fale in a village near Apia Beach fales are an enjoyable and inexpensive way to stay in Samoa. A list can be obtained from the Samoa Tourism Authority (info@samoa.travel), but the best way to know where to stay is to ask other travelers. Samoa is not very big and tourism is limited, so you will bump into the same people once in a while making it easy to exchange information. With the explosion in accommodation it is now less necessary for those wanting to visit the remoter parts of Samoa, particularly Savaii, to stay in villages, which was fairly common in the past. However, this is still possible. If you want to stay in, or even just visit, a village it is important to remember not to offend local culture. See Respect, below.",
+   "understand": "The main islands are the result of countless volcanic eruptions, leaving easily visible volcanic cones all over both islands. None of the volcanoes are active, but small earthquakes often rock the island, reminding people of the volcanoes' presence. In September 2009 the south coast of Upolu Island was hit by a devastating tsunami, with much loss of life. The last volcanic eruption was in 1911, on Savaii. The eerie, lifeless lava fields that remain from this event can be visited easily, since the only sealed road on Savai'i goes right through the middle. Both islands are almost entirely covered by lush vegetation, although almost none of it is the original rainforest that covered the island before humans arrived.",
+   "get_in": "Entry requirements Citizens of all countries may visit Samoa without a visa for up to 60 days provided they have a passport that is valid for at least 6 months on their date of entry, an onward or return ticket out of Samoa and a bank statement with proof of sufficient funds to cover their stay. They must also never have been deported from any country, and must not have any serious health issues. By plane The main international airport, Faleolo ( ), is approximately a 45-minute drive from Apia."
+  },
+  "source": "Wikivoyage (CC BY-SA 4.0)",
+  "url": "https://en.wikivoyage.org/wiki/Samoa",
+  "fetched": "2026-09-10"
+ },
+ {
+  "name": "Tonga",
+  "aliases": [
+   "Tonga"
+  ],
+  "capital": "Nukuʻalofa",
+  "destinations": [
+   "Tongatapu",
+   "ʻEua",
+   "Vava'u",
+   "Ha'apai",
+   "Niuas"
+  ],
+  "landmarks": [
+   "Tongatapu",
+   "Eua",
+   "Beaches"
+  ],
+  "dining": [
+   "Ota"
+  ],
+  "activities": [
+   "Rugby football"
+  ],
+  "stay": [
+   "There is a wide range of accommodation in Tonga, ranging from luxurious to budget.",
+   "The [http://www.tongaholiday.com/ Tonga Visitors Bureau] has a full listing."
+  ],
+  "tips": [],
+  "overview": "Tonga (pronounced TO-ngah), the \"Friendly Islands\", is an archipelago in the South Pacific Ocean, consisting of 169 islands, of which 36 are inhabited. The tourist industry is relatively undeveloped. Cruise ships often stop in Vavaʻu, which has a reputation for its whale watching, game fishing, surfing, and beaches.",
+  "hotels": [
+   {
+    "name": "Nukuʻalofa City Hotel",
+    "city": "Nukuʻalofa",
+    "area": "Nukuʻalofa",
+    "stars": 3,
+    "price": 105,
+    "rating": 4.0,
+    "airport_mi": 3.0,
+    "excursion_mi": 1.0,
+    "airport": "Nukuʻalofa Intl",
+    "notes": "typical city property (sample data — see the Wikivoyage page for real listings)"
+   },
+   {
+    "name": "ʻEua Garden Hotel",
+    "city": "ʻEua",
+    "area": "ʻEua",
+    "stars": 4,
+    "price": 160,
+    "rating": 4.2,
+    "airport_mi": 9.0,
+    "excursion_mi": 0.5,
+    "airport": "Nukuʻalofa Intl",
+    "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)"
+   }
+  ],
+  "prose": {
+   "see": "Tongatapu. Tongatapu is Tonga's largest island with over two-thirds of the country's small population. It is a coral island surrounded by coral reefs. The capital, Nuku'alofa, on the north coast, has a relaxed air, despite the troubles of a few years ago. There are some interesting places to visit, such as ancient tombs and coastal blowholes, and some nice beaches with good snorkelling. Tongatapu also provides a good opportunity to view a unique culture. There are several small islands to the north of Tongatapu that have been developed into resorts. Nuku'alofa has good quality accommodation and guest houses within range of the backpacker. 'Eua. 'Eua Island is located only 17.5&nbsp;km east southeast from Tongatapu.",
+   "do": "Apart from a few historical sites on Tongatapu most things to do in Tonga reflect its island nature. Diving, snorkelling, fishing, boat trips, kayaking and kite surfing are all possible. There are some lovely beaches if you just want to laze around. Tonga has some good restaurants and this is the place to come if you like lobster. Take time to learn a little about Tonga's fairly feudal culture and its many traditions. Go to church. Even if you are not religious the singing can be very moving. Watch tapa cloth being made from mulberry bark and try a drink of kava, the traditional drink, which is mildly psychoactive. As in other Pacific Island nations, Rugby football is very popular in Tonga.",
+   "eat": "Tongan feasts are a must-do. Tour companies and hotels organize feasts, together with traditional dancing, on several nights of the week on Tongatapu and in Vava'u. You should try Ota (marinated raw fish) and Lu (meat wrapped in taro leaves).",
+   "sleep": "There is a wide range of accommodation in Tonga, ranging from luxurious to budget. Most have relatively few rooms, though. The [http://www.tongaholiday.com/ Tonga Visitors Bureau] has a full listing. See detailed listings on the pages for Tongatapu, Vava'u and Ha'apai.",
+   "understand": "Tonga has some 100,000 inhabitants, of which more than two thirds live on the main island, Tongatapu. 98% of the inhabitants are of Polynesian/Melanesian descent. In the capital, Nukuʻalofa, European and indigenous cultural and living patterns have blended, but village life and kinship ties remain influential throughout the country. Everyday life is heavily influenced by Polynesian traditions and by the Christian faith; for example, all commerce and entertainment activities cease on Sunday. There is no official state religion, but a local version of Christianity plays a similar role. The archipelago was united into a Polynesian kingdom in 1845. It became a constitutional monarchy in 1875 and a British protectorate in 1900.",
+   "get_in": "Visas Visa exemption is in place for citizens of any Schengen country (including Faroe Islands and Greenland), who do not need a visa for a stay of 90 days or less within a 180-day period. Visa is also not required for citizens from China, Israel and United Arab Emirates."
+  },
+  "source": "Wikivoyage (CC BY-SA 4.0)",
+  "url": "https://en.wikivoyage.org/wiki/Tonga",
+  "fetched": "2026-09-10"
+ },
+ {
+  "name": "Cook Islands",
+  "aliases": [
+   "Cook Islands"
+  ],
+  "capital": "Avarua",
+  "destinations": [
+   "Suwarrow National Park",
+   "Northern Cook Islands",
+   "Southern Cook Islands"
+  ],
+  "landmarks": [],
+  "dining": [
+   "ika mata",
+   "umu food",
+   "curried eke",
+   "rukau",
+   "poke"
+  ],
+  "activities": [],
+  "stay": [
+   "Most of the outer islands turn off the entire electric system (blackout) overnight.",
+   "Bring a flashlight (torch) with batteries."
+  ],
+  "tips": [],
+  "overview": "The Cook Islands is an island country in free association with New Zealand, located in Polynesia, in the middle of the South Pacific Ocean. It is an archipelago of 15 islands spread over 2.2 million km<sup>2</sup> of ocean. With the same time zone as Hawaii, the islands are sometimes thought of as \"Hawaii down under\".",
+  "hotels": [
+   {
+    "name": "Avarua City Hotel",
+    "city": "Avarua",
+    "area": "Avarua",
+    "stars": 3,
+    "price": 160,
+    "rating": 4.3,
+    "airport_mi": 3.0,
+    "excursion_mi": 1.0,
+    "airport": "Avarua Intl",
+    "notes": "typical city property (sample data — see the Wikivoyage page for real listings)"
+   },
+   {
+    "name": "Northern Cook Islands Garden Hotel",
+    "city": "Northern Cook Islands",
+    "area": "Northern Cook Islands",
+    "stars": 4,
+    "price": 215,
+    "rating": 4.5,
+    "airport_mi": 9.0,
+    "excursion_mi": 0.5,
+    "airport": "Avarua Intl",
+    "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)"
+   }
+  ],
+  "prose": {
+   "see": "One of the cultural shows/dancing at one of the larger resorts. Cook Island Christian Church, Rarotonga The CICC is a fine old white-coral building, much in the same mould as other CICCs in the Cooks. It was built in 1853, when Aaron Buzacott was the resident missionary. Travellers are welcome to attend services but are expected to dress respectfully. Anatakitaki, Aitu The most famous of the many caves on Atiu, which is riddled with limestone caverns complete with stalactites and stalagmites, is Anatakitaki, also known as the 'Kopeka Cave'. A hauntingly large and beautiful cave, it is the home of the kopeka, a rare bird, similar to a swift, which lives only on Atiu.",
+   "do": "Scuba Diving & Snorkelling, Rarotonga The Cook Islands is a beautiful place to explore both on land and in water. Scuba diving & snorkeling is available inside the calm protected waters of the lagoon as well as outside the reef in the open ocean. There are dive sites all around the island of Rarotonga which host an incredible amount of tropical reef fish as well as larger animals such as turtles, eagle rays, eels and reef sharks such as White Tips, Grey Reefs and Hammerheads, in addition to the beautiful hard coral formations, sand passages, swim-throughs and drop offs.",
+   "eat": "Don't eat pizza in the Cook Islands before you have tried the local stuff (which is admittedly hard to find): ika mata (raw fish) with coconut milk, finely chopped vegetables. It is delicious! umu food (prepared in the traditional earth oven) curried eke (octopus in coconut curry) rukau (Taro leaves, usually cooked with coconut cream) poke (cooked fruit pudding) (banana, pawpaw) with coconut milk. Some of these are available every day at the market in Avarua. Every two weeks there is a \"Go Local\" market where locals sell their products.",
+   "sleep": "Most of the outer islands turn off the entire electric system (blackout) overnight. Bring a flashlight (torch) with batteries. See the individual islands for accommodation listings. Rarotonga and Aitutaki have various kinds of accommodation to choose from and are serviced with power 24/7. Luxury accommodation can cost upwards of $700 a night, but comfortable lodgings can be found much cheaper and backpackers can also be accommodated in the Cooks.",
+   "understand": "History First settled by Polynesians around 1000 CE, the islands are named after Captain Cook, who sighted them in 1770. The islands became a British protectorate in 1888. By 1900, administrative control was transferred to New Zealand; in 1965 residents chose self-government in free association with New Zealand. New Zealand handles defence, foreign affairs, and currency; otherwise the islands are self-governing. This includes immigration, which is strictly controlled—even for non-Cook Island New Zealanders. However, Cook Islanders are full New Zealand citizens with right of abode in New Zealand, and carry New Zealand passports for international travel. People Many Cook Islanders will tell you how there are more Cook Islanders living in New Zealand and Australia than in the Cook Islands.",
+   "get_in": "Visitors booking a flight to the Cook Islands must also book an onward ticket and must have a passport valid for at least 6 months beyond their departure date from the islands. The Cook Islands issue entry permits, not visas. On arrival a bona fide visitor is granted a 31-day entry permit (90 days for New Zealand passport holders), which may be extended by application to the Cook Islands Ministry of Foreign Affairs and Immigration. You may be asked for proof that you have accommodation booked."
+  },
+  "source": "Wikivoyage (CC BY-SA 4.0)",
+  "url": "https://en.wikivoyage.org/wiki/Cook%20Islands",
+  "fetched": "2026-09-10"
+ },
+ {
+  "name": "Kiribati",
+  "aliases": [
+   "Kiribati"
+  ],
+  "capital": "Tarawa",
+  "destinations": [
+   "Tarawa",
+   "Gilbert Islands",
+   "Line Islands (Kiribati)",
+   "Phoenix Islands"
+  ],
+  "landmarks": [
+   "beach scenery",
+   "traditional culture",
+   "Phoenix Island Marine Protected Area"
+  ],
+  "dining": [
+   "The variety of food on Kiribati is limited.",
+   "If a shipment of imported food has just come in, buy it now, as it won't last long!"
+  ],
+  "activities": [],
+  "stay": [
+   "The range of accommodation in Kiribati varies depending on which part of the country you are in.",
+   "South Tarawa The two main hotels are Marys Motel and the government owned Otintaai Hotel."
+  ],
+  "tips": [],
+  "overview": "Kiribati (pronounced Kiribahs) is a remote archipelago nation in Micronesia, at the equator. It consists of 33 atolls widely dispersed through 3.5 million km² of sea territory. Kiribati is a tranquil paradise.",
+  "hotels": [
+   {
+    "name": "Tarawa City Hotel",
+    "city": "Tarawa",
+    "area": "Tarawa",
+    "stars": 3,
+    "price": 160,
+    "rating": 4.2,
+    "airport_mi": 3.0,
+    "excursion_mi": 1.0,
+    "airport": "Tarawa Intl",
+    "notes": "typical city property (sample data — see the Wikivoyage page for real listings)"
+   },
+   {
+    "name": "Gilbert Islands Garden Hotel",
+    "city": "Gilbert Islands",
+    "area": "Gilbert Islands",
+    "stars": 4,
+    "price": 215,
+    "rating": 4.4,
+    "airport_mi": 9.0,
+    "excursion_mi": 0.5,
+    "airport": "Tarawa Intl",
+    "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)"
+   }
+  ],
+  "prose": {
+   "see": "Kiribati has some beautiful beach scenery, is a great place for boating or yachting and many of the atolls are lovely to explore on bike or foot. The lagoons are stunning to look at and the white sandy beaches and waving palm trees are a typical holiday brochure sight. Especially on the outer islands you'll find traditional culture is still very much alive. The Kiribati people are generally friendly and welcoming to visitors, and will include you in their celebrations if you happen to be around. The islands of Kiribati saw some of the bloodiest fighting of World War II and remnants of that war are still all around.",
+   "do": "",
+   "eat": "The variety of food on Kiribati is limited. If a shipment of imported food has just come in, buy it now, as it won't last long! The variety and amount is increasing and improving all the time as is the number of supply boats that arrive. While Western style products will always be slightly limited you will find that the basics are generally available. Fruit and vegetables' availability is limited. The staple diet of the I-Kiribati is fish and rice and this is reflected in many of the eating outlets on Tarawa. It is worthwhile trying the local sashimi which is supplied straight from the ocean to your plate. Western-style meals are best found at the two hotels: Marys and the Otintaai. There is also a variety of Chinese restaurants.",
+   "sleep": "The range of accommodation in Kiribati varies depending on which part of the country you are in. South Tarawa The two main hotels are Marys Motel and the government owned Otintaai Hotel. Both offer motel style accommodation each with a restaurant and air-conditioning. They are located at different ends of South Tarawa and the decision on where to stay is usually made based on your activities while you are in South Tarawa. There are also a variety of other smaller properties scattered throughout South Tarawa. A full listing including a map showing locations can be found on the [http://www.kiribatitourism.gov.ki Kiribati National Tourism Offices website]. These hotels can get very busy throughout the year so it is advisable to book ahead.",
+   "understand": "With few natural resources and geographic isolation, income per capita is very low. Most of it comes from remittance, foreign aid, and fishing. Half the population, most of them being very poor, live on South Tarawa. Other islands have far fewer people, and getting to them can be difficult, and conditions are even more primitive. Most tourists, especially from the US, go to Kiritimati (Christmas Island). Conditions there are somewhat better than in the rest of Kiribati. Time While the islands are on both sides of the 180th meridian, the International Date Line has been drawn east of them all, placing Kiribati islands in the same day, in time zones UTC +12, +13 and +14.",
+   "get_in": "Visa requirements Nationals and citizens of the following countries are exempted from obtaining a visa before entering Kiribati where the intended duration of their stay is 30 days or less: Belize, Federated States of Micronesia, Macao (only in respect of holders of Macao Special Administrative Region Passports), Marshall Islands, Palau, and Republic of Korea (South Korea)."
+  },
+  "source": "Wikivoyage (CC BY-SA 4.0)",
+  "url": "https://en.wikivoyage.org/wiki/Kiribati",
+  "fetched": "2026-09-10"
+ },
+ {
+  "name": "Marshall Islands",
+  "aliases": [
+   "Marshall Islands"
+  ],
+  "capital": "Majuro",
+  "destinations": [
+   "Majuro",
+   "Kwajalein",
+   "Ebeye",
+   "Ralik",
+   "Ratak"
+  ],
+  "landmarks": [
+   "Laura",
+   "Majuro",
+   "Longar",
+   "love schools",
+   "Uliga"
+  ],
+  "dining": [
+   "There are many types of different fruits that are available in the different seasons.",
+   "There are also farms that produce vegetable or raise pigs."
+  ],
+  "activities": [],
+  "stay": [],
+  "tips": [
+   "Climate Wet season from May to November; hot and humid; islands border typhoon belt."
+  ],
+  "overview": "The Marshall Islands are a group of atolls and reefs in the Pacific Ocean, about half-way between Hawaii and Australia. The charm of the Marshall Islands lies not in a great number of attractions. This small country, home to fewer than 70,000 people and comprising 1,156 islands and islets, is, however, unique.",
+  "hotels": [
+   {
+    "name": "Majuro City Hotel",
+    "city": "Majuro",
+    "area": "Majuro",
+    "stars": 3,
+    "price": 105,
+    "rating": 4.1,
+    "airport_mi": 3.0,
+    "excursion_mi": 1.0,
+    "airport": "Majuro Intl",
+    "notes": "typical city property (sample data — see the Wikivoyage page for real listings)"
+   },
+   {
+    "name": "Kwajalein Garden Hotel",
+    "city": "Kwajalein",
+    "area": "Kwajalein",
+    "stars": 4,
+    "price": 160,
+    "rating": 4.3,
+    "airport_mi": 9.0,
+    "excursion_mi": 0.5,
+    "airport": "Majuro Intl",
+    "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)"
+   }
+  ],
+  "prose": {
+   "see": "Watch the sunset from your beachchair in one of the luxurious resorts or make your way to one of the more deserted beaches for a day of almost Robinson Crusoe-like tranquillity. On the far west side of the Majuro-atoll, the quiet beaches of Laura are a fine choice. If you've had enough of sun and sand, head to the capital Majuro for some shopping. Head to the Longar area on Arno, where young women were once taught the tips and tricks for a happy sexual life in so-called love schools. This is a perfect place for deep-sea fishing too. In Uliga you'll find the Alele Museum and Public Library. Although small, it has some nice artefacts of the nation's culture on display. Note the stick charts, used by the indigenous people to help remember the complex wave patterns between the many atolls.",
+   "do": "",
+   "eat": "There are many types of different fruits that are available in the different seasons. There are also farms that produce vegetable or raise pigs. Most, if not all, the produce are: breadfruit, pandanus, coconut, corn, tomato, sweet potato, cassava, papaya, pumpkin, \"nin\" (noni), lime, pigs and chicken. In addition to these, there are stands that sell fruit and traditional food along the road from Ajeltake to Laura. The Marshall Islands was once known as the world's \"fishiest\" place, meaning that there was an over-abundance of species of fish that dwell in Marshallese waters. However, there is great uncertainty as to whether this is still true due to concern over overfishing and destruction of natural habitat by ships' anchors, harmful chemicals & climate change.",
+   "sleep": "",
+   "understand": "After almost four decades under US administration as the easternmost part of the UN Trust Territory of the Pacific Islands, the Marshall Islands attained independence in 1986 under a Compact of Free Association. Compensation claims continue as a result of US nuclear testing on some of the atolls between 1947 and 1962, which displaced some Marshallese citizens and exposed them to deadly radiation. The Marshall Islands have been home to the US Army Post Kwajalein (USAKA) since 1964. A number of islands are off-limits to tourism (and even to locals) due to US military presence or the residue of nuclear testing. Climate Wet season from May to November; hot and humid; islands border typhoon belt.",
+   "get_in": "Visas Everyone is required to possess a valid passport. Citizens of the United States and all its territories, Federated States of Micronesia, Republic of Palau, the Schengen area, and Pacific Islands Forum Countries, including Australia and New Zealand passport holders can enter the country without a visa."
+  },
+  "source": "Wikivoyage (CC BY-SA 4.0)",
+  "url": "https://en.wikivoyage.org/wiki/Marshall%20Islands",
+  "fetched": "2026-09-10"
+ },
+ {
+  "name": "Micronesia",
+  "aliases": [
+   "Micronesia",
+   "Federated States of Micronesia"
+  ],
+  "capital": "",
+  "destinations": [
+   "Hagåtña",
+   "Kolonia",
+   "Koror",
+   "Majuro",
+   "Melekeok",
+   "Tarawa",
+   "Federated States of Micronesia",
+   "Kiribati",
+   "Marshall Islands",
+   "Nauru",
+   "Northern Mariana Islands",
+   "Palau"
+  ],
+  "landmarks": [
+   "Bikini Atoll Nuclear Test Site",
+   "Rock Islands",
+   "Nan Madol"
+  ],
+  "dining": [],
+  "activities": [],
+  "stay": [],
+  "tips": [],
+  "overview": "Micronesia, in northwest Oceania, is the home of tropical and subtropical islands in the Pacific Ocean. With the exceptions of Kiribati and Nauru, most of Micronesia is associated with the United States.",
+  "hotels": [
+   {
+    "name": "Hagåtña City Hotel",
+    "city": "Hagåtña",
+    "area": "Hagåtña",
+    "stars": 3,
+    "price": 160,
+    "rating": 4.0,
+    "airport_mi": 3.0,
+    "excursion_mi": 1.0,
+    "airport": "Hagåtña Intl",
+    "notes": "typical city property (sample data — see the Wikivoyage page for real listings)"
+   },
+   {
+    "name": "Kolonia Garden Hotel",
+    "city": "Kolonia",
+    "area": "Kolonia",
+    "stars": 4,
+    "price": 215,
+    "rating": 4.2,
+    "airport_mi": 9.0,
+    "excursion_mi": 0.5,
+    "airport": "Hagåtña Intl",
+    "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)"
+   }
+  ],
+  "prose": {
+   "see": "There are three world heritage sites in Micronesia: The Bikini Atoll Nuclear Test Site, Ralik, Marshall Islands The Rock Islands outside Koror, Palau The site of Nan Madol outside Pohnpei, Federated States of Micronesia",
+   "do": "",
+   "eat": "",
+   "sleep": "",
+   "understand": "Micronesia is a vast area that mainly consists of water. Transport can be a major issue because of the lack of an organized highway or byway, found in larger countries. Due to the lack of space on the islands, most activities are nautical, scuba diving etc.",
+   "get_in": "Palau and Guam have the best connections from outside Micronesia. The US territories, insomuch that civilians are allowed to enter, are connected to the US. As the airports often aren't large enough to accommodate large airplanes, expect flights to be of the island-to-island type which often means several landings and takeoffs before you're at your destination."
+  },
+  "source": "Wikivoyage (CC BY-SA 4.0)",
+  "url": "https://en.wikivoyage.org/wiki/Micronesia",
+  "fetched": "2026-09-10"
+ },
+ {
+  "name": "Nauru",
+  "aliases": [
+   "Nauru"
+  ],
+  "capital": "",
+  "destinations": [],
+  "landmarks": [
+   "industrial tourism"
+  ],
+  "dining": [
+   "Most food is imported from Australia and arrives by ship or air, usually once every six to eight weeks.",
+   "You can find western and Asian (primarily Chinese) food."
+  ],
+  "activities": [
+   "Australian rules football",
+   "Independence Day",
+   "Easter",
+   "Constitution Day",
+   "Christmas"
+  ],
+  "stay": [],
+  "tips": [],
+  "overview": "Nauru, officially the Republic of Naoero (pronounced now-ero), is a small island in the South Pacific Ocean south of the Marshall Islands. It is the world's smallest independent republic and third-smallest country; only Monaco and the Vatican City are smaller. An off-the-beaten-track destination if there ever was one, Nauru is also one of the least visited countries in the world, with about only 200 tourists a year.",
+  "hotels": [
+   {
+    "name": "main town City Hotel",
+    "city": "main town",
+    "area": "main town",
+    "stars": 3,
+    "price": 105,
+    "rating": 4.0,
+    "airport_mi": 3.0,
+    "excursion_mi": 1.0,
+    "airport": "main town Intl",
+    "notes": "typical city property (sample data — see the Wikivoyage page for real listings)"
+   }
+  ],
+  "prose": {
+   "see": "The Nauru experience is pretty much the exact opposite of all the typical South Pacific island clichés. If you're looking for sandy beaches, cool ocean breezes, and pristine blue waters, you'll find precious little of the sort. In fact, if you're looking for pretty much anything that can be described as flashy or tourist-oriented, you're out of luck. But don't write Nauru off just yet: its subtle and offbeat charms are waiting for anyone who's willing to take the time to seek them out — and that goes double for World War II history buffs, urbexers, and anyone who's just looking for a slow-paced, low-key, off-the-beaten-path getaway.",
+   "do": "On land Nauru is one of the few countries in the world you can walk around the whole perimeter of in a reasonable time. A sealed road goes all the way around the island and driving takes about 25 minutes non-stop. A bicycle ride takes 2-3 hours, and a walk maybe 6 hours. There is lots of nice scenery if not much to do and, going from either hotel, Capelle & Partner department store at the top of the island in Ewa district makes for a welcome break at halfway around. If you're into sports, you can watch the local teams battle it out at an Australian rules football match. The national game is played all through Saturday at the sports field. In the sea Many beaches on Nauru are shallow, rocky and not very suitable for swimming.",
+   "eat": "Most food is imported from Australia and arrives by ship or air, usually once every six to eight weeks. You can find western and Asian (primarily Chinese) food. Because of the tropical climate dishes might not be as heavy and hearty as the original versions. As not all ingredients may be available, dishes are often rather simple. Since Nauru is an island nation, seafood is very popular in its restaurants. Cooked and smoked hams are also very popular, as meat is one of their main dishes. Budget In addition to these, you'll also find some small inexpensive \"eating places\", selling Chinese food. Mid-range Splurge",
+   "sleep": "",
+   "understand": "History In the local language, the island is known as Naoero, though the name is of unknown origin. Nauru is a simplification of the name by British colonisers, which was officially changed to Naoero in English in July 2026; Nauru remains the most common name in English. The island has also been known by the names Pleasant Island, Nawodo, and Onawero. Nauru was first settled around 3,000 years ago by twelve Micronesian and Polynesian peoples. Those twelve tribes divided the island into twelve parts; today this is symbolised by the twelve-pointed star in Nauru's national flag (the yellow line represents the Equator and the blue space the Pacific Ocean). The original inhabitants lived on fishing and even turned the lagoon in the middle of the island into a fish farm.",
+   "get_in": "The Australian offshore detention centre operating on the island means that there are always a lot of Australian government staff staying at the island's two small hotels and filling seats on the flights to and from Nauru (especially the direct flight to and from Brisbane). This, in combination with the visa requirement, means that you probably should plan and book your trip a few months ahead."
+  },
+  "source": "Wikivoyage (CC BY-SA 4.0)",
+  "url": "https://en.wikivoyage.org/wiki/Nauru",
+  "fetched": "2026-09-10"
+ },
+ {
+  "name": "Palau",
+  "aliases": [
+   "Palau"
+  ],
+  "capital": "Ngerulmud",
+  "destinations": [
+   "Melekeok",
+   "Koror",
+   "Babeldaob",
+   "Rock Islands"
+  ],
+  "landmarks": [
+   "Rock Islands"
+  ],
+  "dining": [
+   "Bento"
+  ],
+  "activities": [
+   "Blue Holes"
+  ],
+  "stay": [
+   "guest house"
+  ],
+  "tips": [],
+  "overview": "Palau (Belau) is a group of more than 300 tropical islands in the Micronesia area of the Pacific Ocean, to the southeast of the Philippines.",
+  "hotels": [
+   {
+    "name": "guest house",
+    "city": "Melekeok",
+    "area": "guest house",
+    "stars": 3,
+    "price": 50,
+    "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+   }
+  ],
+  "prose": {
+   "see": "Most visitor attractions are found on and around The Rock Islands or Chelbachebover. These 250 rock islands — many tiny, uninhabited places — offer some enchanting views and are a World Heritage site. Popular dives include Blue Corner, Blue hole and the German Channel. Take a guided tour along ancient stone monoliths and terraces while your guide tells you about the legends that surround them. With just over 21,000 inhabitants, even the capital might feel like a village, but there's a handful of interesting sights and a few museums showcasing traditional Palau culture and the country's turbulent war time history. Again though, it's the sheer beauty both above and under water that makes visitors rave about this small island nation.",
+   "do": "Palau is most famous for scuba diving. The Blue Corner, with constant sharks and a high current, is less than 1 hour's boat ride from most resorts. There are many local dive shops and live-aboards that offer tours, including tours to World War II battle fields. The Blue Corner, German Channel, Ulong Channel and Blue Holes are all amazing dive sites. Snorkelling in jellyfish lake has become less popular lately. This lake contains jellyfish which have evolved away their stingers in the absence of predators. There are many tours you can join (US$100, 2023) which will go to the jellyfish lake to snorkel. Scuba diving is not permitted, nor is necessary, in the jellyfish lake. However, the warming of the lake, caused by climate change, forces the jellyfish to leave it and go elsewhere.",
+   "eat": "Palau has large communities from Taiwan, the Philippines, Korea, Japan and the United States and the local stores have evolved to supply their needs. So Koror offers an amazing range of foodstuffs in its stores, at a price of course. Japanese-inspired Bento lunch boxes are very popular. Koror also has the largest concentration of restaurants.",
+   "sleep": "Budget Palau offers a number of guest house style boutique accommodations. Some are close to or within Koror, some are not. These are available for international bookings via dive shops that offer holiday packages (such as [http://www.samstours.com/ Sam's Tours]). Prices range from US$50 a night upward. Mid-range There are also a number of nice basic hotels available in Palau. Splurge There are lots of reasonably high end resorts on Palau, most catering for scuba divers.",
+   "understand": "After three decades as part of the UN Trust Territory of the Pacific under US administration, this westernmost cluster of the Caroline Islands chose independence in 1978, instead of joining the Federated States of Micronesia. A Compact of Free Association with the US was approved in 1986, but not ratified until 1993. Palau became independent on October 1, 1994. It is illegal to sell/buy or use sunscreen or skin care products that contain chemicals that damage the reef. Details can be found on the [https://www.icriforum.org/the-republic-of-palau-bans-sunscreen-chemicals-to-protect-its-coral-reefs-and-unesco-world-heritage-site/ ICRI web page]. History Early Palauans may have come from Polynesia and Asia.",
+   "get_in": "Visa requirements Visas are not required by citizens of any Schengen country (90 days), Taiwan (90 days), the United States (1 year), Israel (90 days), the Marshall Islands (1 year) and the Federated States of Micronesia (1 year). Nearly all other visitors can obtain a 30-day visa on arrival, except for citizens of Bangladesh and Myanmar who must obtain a visa in advance. Upon entry, visitors must sign the Palau Pledge, a promise to protect the environment."
+  },
+  "source": "Wikivoyage (CC BY-SA 4.0)",
+  "url": "https://en.wikivoyage.org/wiki/Palau",
+  "fetched": "2026-09-10"
+ },
+ {
+  "name": "Solomon Islands",
+  "aliases": [
+   "Solomon Islands"
+  ],
+  "capital": "Honiara",
+  "destinations": [
+   "Guadalcanal",
+   "New Georgia Islands",
+   "Rennell and Bellona",
+   "Santa Cruz Islands"
+  ],
+  "landmarks": [
+   "Auki#Q6485651",
+   "artificial islands",
+   "Reoka hot springs",
+   "Kolombangara",
+   "Mataniko Falls",
+   "Tenaru Falls",
+   "Honiara",
+   "East Rennell",
+   "Skull Island",
+   "war relics"
+  ],
+  "dining": [
+   "Allow SI$35 for a meal in the basic restaurant.",
+   "The archipelago's food differs little from that of other South Pacific islands."
+  ],
+  "activities": [],
+  "stay": [
+   "Honiara"
+  ],
+  "tips": [],
+  "overview": "The Solomon Islands are a South Pacific archipelago east of Papua New Guinea. They sit in the sea routes between the South Pacific Ocean, the Solomon Sea, and the Coral Sea. There are six major islands and over 900 smaller islands.",
+  "hotels": [
+   {
+    "name": "Honiara City Hotel",
+    "city": "Honiara",
+    "area": "Honiara",
+    "stars": 3,
+    "price": 90,
+    "rating": 4.0,
+    "airport_mi": 3.0,
+    "excursion_mi": 1.0,
+    "airport": "Honiara Intl",
+    "notes": "typical city property (sample data — see the Wikivoyage page for real listings)"
+   },
+   {
+    "name": "New Georgia Islands Garden Hotel",
+    "city": "New Georgia Islands",
+    "area": "New Georgia Islands",
+    "stars": 4,
+    "price": 145,
+    "rating": 4.2,
+    "airport_mi": 9.0,
+    "excursion_mi": 0.5,
+    "airport": "Honiara Intl",
+    "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)"
+   }
+  ],
+  "prose": {
+   "see": "Highlights include the lovely and huge Lake Te'Nggano, dramatically surrounded by high cliffs, once the reefs around this old lagoon. Even more famous is the Langa Langa Lagoon, whose waters are brown rather than bright blue, life here is slow and peaceful, with locals working on their traditional handicrafts and classic canoes making their silent way through the water. It's also one of the places where you can see the artificial islands this country is known for. Some date back to the 16th century, but new ones are created even now, using stones and coral materials. Follow the slightly challenging but beautiful path to the bubbling mud of the Reoka hot springs or, for serious hikers, consider a 2-day hike to the top of the volcano Kolombangara.",
+   "do": "",
+   "eat": "Allow SI$35 for a meal in the basic restaurant. Tips are not customary. The archipelago's food differs little from that of other South Pacific islands. There's poi, fermented taro and the usual tropical fruit mix. An important source of starch is cassava. The tuna caught here, also an important export product, is often served with chillies and pasta or rice. Especially in the shops in the country you often only find canned spam or tuna.",
+   "sleep": "Accommodation ranges from international-standard hotels and self-contained apartments in Honiara to small resorts, eco-lodges, guesthouses and village homestays scattered throughout the outer islands. Honiara has the widest selection and is the easiest place to find air conditioning, reliable internet, restaurants, conference facilities and swimming pools. Outside the capital, accommodation is generally smaller, simpler and more closely connected to the surrounding village or natural environment. Many outer-island properties are reached by domestic flight followed by a boat transfer. Ask the accommodation to arrange the final journey and confirm whether transfers are included in the quoted price.",
+   "understand": "History The Solomon Islands are believed to have been inhabited by Melanesian people for thousands of years. It is believed that Papuan-speaking settlers began to arrive around 30,000 BC. Austronesian speakers arrived circa 4,000 BC, bringing cultural elements such as the outrigger canoe. It is between 1,200 and 800 BC that the ancestors of the Polynesians, the Lapita people, arrived from the Bismarck Archipelago with their characteristic ceramics. The first European to visit the islands was the Spanish navigator Álvaro de Mendaña de Neira, coming from Peru in 1568. The people of Solomon Islands were notorious for headhunting and cannibalism before the arrival of the Europeans. Missionaries began visiting the Solomons in the mid-19th century.",
+   "get_in": "Entry requirements Everyone needs a passport, onward ticket, and sufficient funds to cover their stay in the Solomon Islands. Since October 2016, EU citizens do not require a visa."
+  },
+  "source": "Wikivoyage (CC BY-SA 4.0)",
+  "url": "https://en.wikivoyage.org/wiki/Solomon%20Islands",
+  "fetched": "2026-09-10"
+ },
+ {
+  "name": "Tuvalu",
+  "aliases": [
+   "Tuvalu"
+  ],
+  "capital": "Funafuti",
+  "destinations": [
+   "Fongafale",
+   "Funafuti"
+  ],
+  "landmarks": [
+   "Funafuti Conservation Area",
+   "Philatelic Bureau"
+  ],
+  "dining": [
+   "There are many lodges that have restaurants that serve food and beverages.",
+   "They serve many cuisines such as Chinese, Italian, and Indian."
+  ],
+  "activities": [],
+  "stay": [],
+  "tips": [],
+  "overview": "Tuvalu is a group of nine low-lying islands and atolls in the South Pacific that form the fourth smallest country in the world. It is also one of the most isolated and remote independent countries in the world. Since its highest point is 3 metres above sea level, some studies predict that the majority of the land will be regularly inundated by the sea by the end of this century due to climate change.",
+  "hotels": [
+   {
+    "name": "Funafuti City Hotel",
+    "city": "Funafuti",
+    "area": "Funafuti",
+    "stars": 3,
+    "price": 90,
+    "rating": 4.3,
+    "airport_mi": 3.0,
+    "excursion_mi": 1.0,
+    "airport": "Funafuti Intl",
+    "notes": "typical city property (sample data — see the Wikivoyage page for real listings)"
+   }
+  ],
+  "prose": {
+   "see": "Tuvalu is not a destination for those in search of spectacular sightseeing opportunities. The island nation is not only small, it also lacks any city-like destination or architectural heritage. There are no hills or mountain ranges, no rivers or gorges. But it will provide travellers an experience unlike others. The Funafuti Conservation Area on the western side of the Funafuti atoll has some of the best natural sights, and includes reefs, the gorgeous lagoon, channel, parts of the ocean and island habitats. Its diversity in marine life makes it an excellent place for scuba diving or snorkelling.",
+   "do": "The national game is te ano (the ball). Two teams line up facing each other hitting a ball. The objective is to keep the ball in the air as long as possible. It is similar to volleyball. Traditional dancing is performed on special occasions, and the local \"maneapa\" (the town hall) is your best chance of experiencing one.",
+   "eat": "There are many lodges that have restaurants that serve food and beverages. They serve many cuisines such as Chinese, Italian, and Indian. Fish is abundant given its location.",
+   "sleep": "",
+   "understand": "Tuvalu is one of the world's least-visited island nations. It offers an unspoiled tropical escape with pristine beauty and a slice of paradise. Instead of resorts, tourism here is entirely non-commercialised, and features simple guesthouses, fragile seascapes, and a slow leisurely pace of life. History Tuvalu’s history is shaped by the ocean that surrounds it, the voyagers who first settled its atolls, and the global forces that later swept across the Pacific. Long before Europeans arrived, the islands were home to Polynesian navigators who travelled vast distances using stars, currents, and winds.",
+   "get_in": "Citizens of Schengen Area countries do not need a visa. Everyone else is eligible for a one-month visa on arrival."
+  },
+  "source": "Wikivoyage (CC BY-SA 4.0)",
+  "url": "https://en.wikivoyage.org/wiki/Tuvalu",
+  "fetched": "2026-09-10"
+ }
+]

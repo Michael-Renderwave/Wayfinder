@@ -1,0 +1,2508 @@
+{
+ "built": "2026-09-14",
+ "note": "Key-free luxury dataset, built from Wikipedia (CC BY-SA) curated lists. Michelin rows are official star COUNTS used to rank hubs — not a restaurant list.",
+ "sources": [
+  {
+   "title": "Aman Resorts",
+   "url": "https://en.wikipedia.org/wiki/Aman_Resorts",
+   "fetched": "2026-09-14"
+  },
+  {
+   "title": "Forbes Travel Guide",
+   "url": "https://en.wikipedia.org/wiki/Forbes_Travel_Guide",
+   "fetched": "2026-09-14"
+  },
+  {
+   "title": "Mandarin Oriental Hotel Group",
+   "url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group",
+   "fetched": "2026-09-14"
+  },
+  {
+   "title": "Michelin Guide",
+   "url": "https://en.wikipedia.org/wiki/Michelin_Guide",
+   "fetched": "2026-09-14"
+  },
+  {
+   "title": "New 7 Wonders of the World",
+   "url": "https://en.wikipedia.org/wiki/New_7_Wonders_of_the_World",
+   "fetched": "2026-09-14"
+  },
+  {
+   "title": "Sofitel",
+   "url": "https://en.wikipedia.org/wiki/Sofitel",
+   "fetched": "2026-09-14"
+  },
+  {
+   "title": "The Ritz-Carlton Hotel Company",
+   "url": "https://en.wikipedia.org/wiki/The_Ritz-Carlton_Hotel_Company",
+   "fetched": "2026-09-14"
+  }
+ ],
+ "entries": [
+  {
+   "name": "Aman Kyoto",
+   "kind": "resort",
+   "city": "Kyoto",
+   "country": "Japan",
+   "brand": "Aman",
+   "year": 2019,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman Le Mélézin",
+   "kind": "resort",
+   "city": "Courchevel",
+   "country": "France",
+   "brand": "Aman",
+   "year": 1992,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman Nai Lert Bangkok",
+   "kind": "resort",
+   "city": "Bangkok",
+   "country": "Thailand",
+   "brand": "Aman",
+   "year": 2025,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman New York",
+   "kind": "resort",
+   "city": "New York City",
+   "country": "United States",
+   "brand": "Aman",
+   "year": 2022,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman Summer Palace",
+   "kind": "resort",
+   "city": "Beijing",
+   "country": "China",
+   "brand": "Aman",
+   "year": 2008,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman Tokyo",
+   "kind": "resort",
+   "city": "Tokyo",
+   "country": "Japan",
+   "brand": "Aman",
+   "year": 2014,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman Venice",
+   "kind": "resort",
+   "city": "Venice",
+   "country": "Italy",
+   "brand": "Aman",
+   "year": 2013,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman Villas at Nusa Dua",
+   "kind": "resort",
+   "city": "Nusa Dua",
+   "country": "Indonesia",
+   "brand": "Aman",
+   "year": 1992,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman-i-Khas",
+   "kind": "resort",
+   "city": "Sawai Madhopur district",
+   "country": "India",
+   "brand": "Aman",
+   "year": 2003,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanbagh",
+   "kind": "resort",
+   "city": "Alwar district",
+   "country": "India",
+   "brand": "Aman",
+   "year": 2005,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amandari",
+   "kind": "resort",
+   "city": "Ubud",
+   "country": "Indonesia",
+   "brand": "Aman",
+   "year": 1989,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amandayan",
+   "kind": "resort",
+   "city": "Lijiang",
+   "country": "China",
+   "brand": "Aman",
+   "year": 2015,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanemu",
+   "kind": "resort",
+   "city": "Shima, Mie",
+   "country": "Japan",
+   "brand": "Aman",
+   "year": 2016,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanera",
+   "kind": "resort",
+   "city": "Río San Juan, Dominican Republic",
+   "country": "Dominican Republic",
+   "brand": "Aman",
+   "year": 2015,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanfayun",
+   "kind": "resort",
+   "city": "Hangzhou",
+   "country": "China",
+   "brand": "Aman",
+   "year": 2010,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amangalla",
+   "kind": "resort",
+   "city": "Galle",
+   "country": "Sri Lanka",
+   "brand": "Aman",
+   "year": 2005,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amangani",
+   "kind": "resort",
+   "city": "Jackson Hole",
+   "country": "United States",
+   "brand": "Aman",
+   "year": 1998,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amangiri",
+   "kind": "resort",
+   "city": "Lake Powell",
+   "country": "United States",
+   "brand": "Aman",
+   "year": 2009,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanjena",
+   "kind": "resort",
+   "city": "Marrakesh",
+   "country": "Morocco",
+   "brand": "Aman",
+   "year": 2000,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanjiwo",
+   "kind": "resort",
+   "city": "Magelang Regency",
+   "country": "Indonesia",
+   "brand": "Aman",
+   "year": 1997,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amankila",
+   "kind": "resort",
+   "city": "Karangasem Regency",
+   "country": "Indonesia",
+   "brand": "Aman",
+   "year": 1992,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amankora",
+   "kind": "resort",
+   "city": "Thimphu",
+   "country": "Bhutan",
+   "brand": "Aman",
+   "year": 2004,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanoi",
+   "kind": "resort",
+   "city": "Ninh Hải district",
+   "country": "Vietnam",
+   "brand": "Aman",
+   "year": 2013,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanpulo",
+   "kind": "resort",
+   "city": "Pamalican",
+   "country": "Philippines",
+   "brand": "Aman",
+   "year": 1993,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanpuri",
+   "kind": "resort",
+   "city": "Phuket",
+   "country": "Thailand",
+   "brand": "Aman",
+   "year": 1988,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanrüya",
+   "kind": "resort",
+   "city": "Bodrum",
+   "country": "Turkiye",
+   "brand": "Aman",
+   "year": 2011,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amantaka",
+   "kind": "resort",
+   "city": "Luang Prabang",
+   "country": "Laos",
+   "brand": "Aman",
+   "year": 2009,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanvari",
+   "kind": "resort",
+   "city": "Los Cabos Municipality",
+   "country": "Mexico",
+   "brand": "Aman",
+   "year": 2026,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanwana",
+   "kind": "resort",
+   "city": "Moyo Island",
+   "country": "Indonesia",
+   "brand": "Aman",
+   "year": 1993,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanwella",
+   "kind": "resort",
+   "city": "Tangalle",
+   "country": "Sri Lanka",
+   "brand": "Aman",
+   "year": 2005,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanyangyun",
+   "kind": "resort",
+   "city": "Shanghai",
+   "country": "China",
+   "brand": "Aman",
+   "year": 2017,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanyara",
+   "kind": "resort",
+   "city": "Turks and Caicos Islands",
+   "country": "Turks and Caicos Islands",
+   "brand": "Aman",
+   "year": 2006,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amanzoe",
+   "kind": "resort",
+   "city": "Kranidi",
+   "country": "Greece",
+   "brand": "Aman",
+   "year": 2012,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Janu Tokyo",
+   "kind": "resort",
+   "city": "Tokyo",
+   "country": "Japan",
+   "brand": "Aman",
+   "year": 2024,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Rosa Alpina",
+   "kind": "resort",
+   "city": "Alta Badia",
+   "country": "Italy",
+   "brand": "Aman",
+   "year": 2020,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman Beverly Hills",
+   "kind": "resort",
+   "city": "Beverly Hills, California",
+   "country": "United States",
+   "brand": "Aman",
+   "year": 2027,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman Dubai",
+   "kind": "resort",
+   "city": "Dubai",
+   "country": "United Arab Emirates",
+   "brand": "Aman",
+   "year": 2027,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman Karingani",
+   "kind": "resort",
+   "city": "Karingani Game Reserve",
+   "country": "Mozambique",
+   "brand": "Aman",
+   "year": null,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman Maldives",
+   "kind": "resort",
+   "city": "Maldives",
+   "country": "Maldives",
+   "brand": "Aman",
+   "year": null,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman Miami Beach",
+   "kind": "resort",
+   "city": "Miami Beach",
+   "country": "United States",
+   "brand": "Aman",
+   "year": 2026,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman Niseko",
+   "kind": "resort",
+   "city": "Niseko",
+   "country": "Japan",
+   "brand": "Aman",
+   "year": 2027,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman Seoul",
+   "kind": "resort",
+   "city": "Seoul",
+   "country": "South Korea",
+   "brand": "Aman",
+   "year": null,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Aman Singapore",
+   "kind": "resort",
+   "city": "Singapore",
+   "country": "Singapore",
+   "brand": "Aman",
+   "year": null,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amancaya",
+   "kind": "resort",
+   "city": "Exuma",
+   "country": "Bahamas",
+   "brand": "Aman",
+   "year": null,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Amansamar",
+   "kind": "resort",
+   "city": "Wadi Safar",
+   "country": "Saudi Arabia",
+   "brand": "Aman",
+   "year": null,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Janu Dubai",
+   "kind": "resort",
+   "city": "Dubai",
+   "country": "United Arab Emirates",
+   "brand": "Aman",
+   "year": 2027,
+   "detail": "",
+   "source": "Aman Resorts",
+   "source_url": "https://en.wikipedia.org/wiki/Aman_Resorts"
+  },
+  {
+   "name": "Mandarin Oriental, Boston",
+   "kind": "hotel",
+   "city": "Boston",
+   "country": "United States",
+   "brand": "Mandarin Oriental",
+   "year": 2008,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Canouan",
+   "kind": "hotel",
+   "city": "Canouan",
+   "country": "Saint Vincent and the Grenadines",
+   "brand": "Mandarin Oriental",
+   "year": 2018,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, New York",
+   "kind": "hotel",
+   "city": "New York City",
+   "country": "United States",
+   "brand": "Mandarin Oriental",
+   "year": 2003,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Santiago",
+   "kind": "hotel",
+   "city": "Santiago",
+   "country": "Chile",
+   "brand": "Mandarin Oriental",
+   "year": 2019,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Bangkok",
+   "kind": "hotel",
+   "city": "Bangkok",
+   "country": "Thailand",
+   "brand": "Mandarin Oriental",
+   "year": 1974,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Qianmen, Beijing",
+   "kind": "hotel",
+   "city": "Beijing",
+   "country": "China",
+   "brand": "Mandarin Oriental",
+   "year": 2024,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Wangfujing, Beijing",
+   "kind": "hotel",
+   "city": "Beijing",
+   "country": "China",
+   "brand": "Mandarin Oriental",
+   "year": 2019,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Desaru Coast",
+   "kind": "hotel",
+   "city": "Desaru",
+   "country": "Malaysia",
+   "brand": "Mandarin Oriental",
+   "year": 2006,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Guangzhou",
+   "kind": "hotel",
+   "city": "Guangzhou",
+   "country": "China",
+   "brand": "Mandarin Oriental",
+   "year": 2013,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Hong Kong",
+   "kind": "hotel",
+   "city": "Hong Kong",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": 1963,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental The Landmark, Hong Kong",
+   "kind": "hotel",
+   "city": "Hong Kong",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": 2005,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Jakarta",
+   "kind": "hotel",
+   "city": "Jakarta",
+   "country": "Indonesia",
+   "brand": "Mandarin Oriental",
+   "year": 1978,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Kuala Lumpur",
+   "kind": "hotel",
+   "city": "Kuala Lumpur",
+   "country": "Malaysia",
+   "brand": "Mandarin Oriental",
+   "year": 1998,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Macau",
+   "kind": "hotel",
+   "city": "Macau",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": 2010,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Sanya",
+   "kind": "hotel",
+   "city": "Sanya",
+   "country": "China",
+   "brand": "Mandarin Oriental",
+   "year": 2009,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Shanghai",
+   "kind": "hotel",
+   "city": "Shanghai",
+   "country": "China",
+   "brand": "Mandarin Oriental",
+   "year": 2013,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Shenzhen",
+   "kind": "hotel",
+   "city": "Shenzhen",
+   "country": "China",
+   "brand": "Mandarin Oriental",
+   "year": 2022,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Singapore",
+   "kind": "hotel",
+   "city": "Singapore",
+   "country": "Singapore",
+   "brand": "Mandarin Oriental",
+   "year": 1987,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Taipei",
+   "kind": "hotel",
+   "city": "Taipei",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": 2014,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Tokyo",
+   "kind": "hotel",
+   "city": "Tokyo",
+   "country": "Japan",
+   "brand": "Mandarin Oriental",
+   "year": 2005,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Conservatorium, Amsterdam",
+   "kind": "hotel",
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "brand": "Mandarin Oriental",
+   "year": 2026,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Barcelona",
+   "kind": "hotel",
+   "city": "Barcelona",
+   "country": "Spain",
+   "brand": "Mandarin Oriental",
+   "year": 2009,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Bodrum",
+   "kind": "hotel",
+   "city": "Bodrum",
+   "country": "Turkiye",
+   "brand": "Mandarin Oriental",
+   "year": 2017,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Cristallo, Cortina",
+   "kind": "hotel",
+   "city": "Cortina",
+   "country": "Italy",
+   "brand": "Mandarin Oriental",
+   "year": 2026,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Geneva",
+   "kind": "hotel",
+   "city": "Geneva",
+   "country": "Switzerland",
+   "brand": "Mandarin Oriental",
+   "year": 2000,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Bosphorus, Istanbul",
+   "kind": "hotel",
+   "city": "Istanbul",
+   "country": "Turkiye",
+   "brand": "Mandarin Oriental",
+   "year": 2021,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Lago di Como",
+   "kind": "hotel",
+   "city": "Lake Como",
+   "country": "Italy",
+   "brand": "Mandarin Oriental",
+   "year": 2019,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Hyde Park, London",
+   "kind": "hotel",
+   "city": "London",
+   "country": "United Kingdom",
+   "brand": "Mandarin Oriental",
+   "year": 2000,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Mayfair, London",
+   "kind": "hotel",
+   "city": "London",
+   "country": "United Kingdom",
+   "brand": "Mandarin Oriental",
+   "year": 2024,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Palace, Luzern",
+   "kind": "hotel",
+   "city": "Lucerne",
+   "country": "Switzerland",
+   "brand": "Mandarin Oriental",
+   "year": 2022,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Ritz, Madrid",
+   "kind": "hotel",
+   "city": "Madrid",
+   "country": "Spain",
+   "brand": "Mandarin Oriental",
+   "year": 2021,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Punta Negra, Mallorca",
+   "kind": "hotel",
+   "city": "Mallorca",
+   "country": "Spain",
+   "brand": "Mandarin Oriental",
+   "year": 2026,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Milan",
+   "kind": "hotel",
+   "city": "Milan",
+   "country": "Italy",
+   "brand": "Mandarin Oriental",
+   "year": 2015,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Munich",
+   "kind": "hotel",
+   "city": "Munich",
+   "country": "Germany",
+   "brand": "Mandarin Oriental",
+   "year": 2000,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Paris",
+   "kind": "hotel",
+   "city": "Paris",
+   "country": "France",
+   "brand": "Mandarin Oriental",
+   "year": 2011,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Lutetia, Paris",
+   "kind": "hotel",
+   "city": "Paris",
+   "country": "France",
+   "brand": "Mandarin Oriental",
+   "year": 2025,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Prague",
+   "kind": "hotel",
+   "city": "Prague",
+   "country": "Czechia",
+   "brand": "Mandarin Oriental",
+   "year": 2006,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Costa Navarino",
+   "kind": "hotel",
+   "city": "Pylos",
+   "country": "Greece",
+   "brand": "Mandarin Oriental",
+   "year": 2023,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Vienna",
+   "kind": "hotel",
+   "city": "Vienna",
+   "country": "Austria",
+   "brand": "Mandarin Oriental",
+   "year": 2025,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Savoy, Zurich",
+   "kind": "hotel",
+   "city": "Zurich",
+   "country": "Switzerland",
+   "brand": "Mandarin Oriental",
+   "year": 2023,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Emirates Palace Mandarin Oriental, Abu Dhabi",
+   "kind": "hotel",
+   "city": "Abu Dhabi",
+   "country": "United Arab Emirates",
+   "brand": "Mandarin Oriental",
+   "year": 2023,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Doha",
+   "kind": "hotel",
+   "city": "Doha",
+   "country": "Qatar",
+   "brand": "Mandarin Oriental",
+   "year": 2019,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Jumeira, Dubai",
+   "kind": "hotel",
+   "city": "Dubai",
+   "country": "United Arab Emirates",
+   "brand": "Mandarin Oriental",
+   "year": 2019,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Downtown, Dubai",
+   "kind": "hotel",
+   "city": "Dubai",
+   "country": "United Arab Emirates",
+   "brand": "Mandarin Oriental",
+   "year": 2025,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Marrakech",
+   "kind": "hotel",
+   "city": "Marrakech",
+   "country": "Morocco",
+   "brand": "Mandarin Oriental",
+   "year": 2015,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Muscat",
+   "kind": "hotel",
+   "city": "Muscat",
+   "country": "Oman",
+   "brand": "Mandarin Oriental",
+   "year": 2024,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Al Faisaliah, Riyadh",
+   "kind": "hotel",
+   "city": "Riyadh",
+   "country": "Saudi Arabia",
+   "brand": "Mandarin Oriental",
+   "year": 2024,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Boca Raton",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Grand Cayman",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Honolulu",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Esencia, Puerto Rico",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Kanai, Riviera Maya",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Bai Nam",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Bali",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Tianfu, Chengdu",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Da Nang",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Hangzhou",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Makati, Manila",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Maldives",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Nanjing",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Phuket",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Saigon",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Seoul",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Setouchi",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Suzhou",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Xi’an",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Athens",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Gellert, Budapest",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Bankside Yards, London",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Porto Cervo",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Rome",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Old Cataract, Aswan",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Shepheard, Cairo",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Jeddah",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Kuwait",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Winter Palace, Luxor",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Tel Aviv",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Las Vegas",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Miami",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, San Francisco",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Macau",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental Manila",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Mandarin Oriental, Dallas",
+   "kind": "hotel",
+   "city": "",
+   "country": "",
+   "brand": "Mandarin Oriental",
+   "year": null,
+   "detail": "",
+   "source": "Mandarin Oriental Hotel Group",
+   "source_url": "https://en.wikipedia.org/wiki/Mandarin_Oriental_Hotel_Group"
+  },
+  {
+   "name": "Sofitel Hotels",
+   "kind": "hotel",
+   "city": "Paris",
+   "country": "France",
+   "brand": "Sofitel",
+   "year": null,
+   "detail": "hq_location_city = Paris | hq_location_country = France | num_locations = 130 (2023) | website = }} Sofitel Hotels & Resorts is a French hotel chain of luxury h",
+   "source": "Sofitel",
+   "source_url": "https://en.wikipedia.org/wiki/Sofitel"
+  },
+  {
+   "name": "Sofitel New York Hotel",
+   "kind": "hotel",
+   "city": "New York",
+   "country": "United States",
+   "brand": "Sofitel",
+   "year": null,
+   "detail": "In 1997, the group announced the opening of the Sofitel New York Hotel, a $90 million investment on West 44th Street between Fifth Avenue and Avenue of the Amer",
+   "source": "Sofitel",
+   "source_url": "https://en.wikipedia.org/wiki/Sofitel"
+  },
+  {
+   "name": "Sofitel",
+   "kind": "hotel",
+   "city": "Buenos Aires",
+   "country": "Argentina",
+   "brand": "Sofitel",
+   "year": null,
+   "detail": "Sofitel also opened the Sofitel Tokyo, the Sofitel St James London, Sofitel Chicago Water Tower, Sofitel Lafayette Square Washington D.C., Sofitel Marrakech, So",
+   "source": "Sofitel",
+   "source_url": "https://en.wikipedia.org/wiki/Sofitel"
+  },
+  {
+   "name": "Sofitel",
+   "kind": "hotel",
+   "city": "Mexico City",
+   "country": "Mexico",
+   "brand": "Sofitel",
+   "year": null,
+   "detail": "Between 2003 and 2004, Sofitel opened 14 locations, including the Sofitel Mexico City, its first hotel in Mexico, and 7 new locations in Asia.",
+   "source": "Sofitel",
+   "source_url": "https://en.wikipedia.org/wiki/Sofitel"
+  },
+  {
+   "name": "Sofitel",
+   "kind": "hotel",
+   "city": "Montevideo",
+   "country": "Uruguay",
+   "brand": "Sofitel",
+   "year": null,
+   "detail": "Between 2009 and 2012, 30 new properties were added to Sofitel's portfolio, reaching 120 properties in 2012: The Hotel Carrasco in Montevideo, its first hotel i",
+   "source": "Sofitel",
+   "source_url": "https://en.wikipedia.org/wiki/Sofitel"
+  },
+  {
+   "name": "Sofitel Vienna Stephansdom designed by",
+   "kind": "hotel",
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "brand": "Sofitel",
+   "year": null,
+   "detail": "The 182-room Sofitel Vienna Stephansdom designed by French architect Jean Nouvel (2010); The Grand Amsterdam (2011).",
+   "source": "Sofitel",
+   "source_url": "https://en.wikipedia.org/wiki/Sofitel"
+  },
+  {
+   "name": "Sofitel Jeddah in",
+   "kind": "hotel",
+   "city": "Jeddah",
+   "country": "Saudi Arabia",
+   "brand": "Sofitel",
+   "year": null,
+   "detail": "The Dubai Downtown opened in 2014, and Sofitel Jeddah in 2015.",
+   "source": "Sofitel",
+   "source_url": "https://en.wikipedia.org/wiki/Sofitel"
+  },
+  {
+   "name": "Sofitel Dubai The Palm Resort",
+   "kind": "hotel",
+   "city": "Dubai",
+   "country": "United Arab Emirates",
+   "brand": "Sofitel",
+   "year": null,
+   "detail": "The Sofitel Dubai The Palm Resort & Spa and the Sofitel Bali Nusa Dua Beach Resort both opened in 2013 with plans to further develop Sofitel's network of resort",
+   "source": "Sofitel",
+   "source_url": "https://en.wikipedia.org/wiki/Sofitel"
+  },
+  {
+   "name": "Sofitel",
+   "kind": "hotel",
+   "city": "Dubai",
+   "country": "United Arab Emirates",
+   "brand": "Sofitel",
+   "year": null,
+   "detail": "In June 2017, Sofitel announced the construction of its highest property so far in the Middle East, the Sofitel Dubai Wafi.",
+   "source": "Sofitel",
+   "source_url": "https://en.wikipedia.org/wiki/Sofitel"
+  },
+  {
+   "name": "Sofitel",
+   "kind": "hotel",
+   "city": "Singapore",
+   "country": "Singapore",
+   "brand": "Sofitel",
+   "year": null,
+   "detail": "Sofitel worked with fashion designers to create the So Sofitel artsy hotels: Kenzo Takada for the Sofitel So Mauritius, Christian Lacroix for the Sofitel So Ban",
+   "source": "Sofitel",
+   "source_url": "https://en.wikipedia.org/wiki/Sofitel"
+  },
+  {
+   "name": "Sofitel",
+   "kind": "hotel",
+   "city": "London",
+   "country": "United Kingdom",
+   "brand": "Sofitel",
+   "year": null,
+   "detail": "=== Other Sofitel products === In July 2009, Sofitel launched the “So SPA by Sofitel” concept at the Saint James Hotel in London and at the Sofitel Marseille Vi",
+   "source": "Sofitel",
+   "source_url": "https://en.wikipedia.org/wiki/Sofitel"
+  },
+  {
+   "name": "Sofitel",
+   "kind": "hotel",
+   "city": "Marrakech",
+   "country": "Morocco",
+   "brand": "Sofitel",
+   "year": null,
+   "detail": "In December 2014, during the Marrakech International Film Festival, Sofitel launched the first edition of La Nuit by Sofitel, recurring parties organized by Sof",
+   "source": "Sofitel",
+   "source_url": "https://en.wikipedia.org/wiki/Sofitel"
+  },
+  {
+   "name": "Sofitel Hotels",
+   "kind": "hotel",
+   "city": "New York",
+   "country": "United States",
+   "brand": "Sofitel",
+   "year": null,
+   "detail": "== Notable properties == This is a non-exhaustive list of notable Sofitel Hotels & Resorts properties: * Sofitel Dubai The Obelisk * Sofitel Frankfurt Opera * S",
+   "source": "Sofitel",
+   "source_url": "https://en.wikipedia.org/wiki/Sofitel"
+  },
+  {
+   "name": "Christ the Redeemer|| Rio de Janeiro, Brazil || || 1931 AD",
+   "kind": "iconic",
+   "city": "}",
+   "country": "",
+   "brand": "",
+   "year": null,
+   "detail": "",
+   "source": "New 7 Wonders of the World",
+   "source_url": "https://en.wikipedia.org/wiki/New_7_Wonders_of_the_World"
+  },
+  {
+   "name": "Stonehenge || Amesbury, United Kingdom",
+   "kind": "iconic",
+   "city": "2400 BC",
+   "country": "",
+   "brand": "",
+   "year": null,
+   "detail": "",
+   "source": "New 7 Wonders of the World",
+   "source_url": "https://en.wikipedia.org/wiki/New_7_Wonders_of_the_World"
+  },
+  {
+   "name": "Acropolis of Athens || Athens, Greece",
+   "kind": "iconic",
+   "city": "447 BC",
+   "country": "",
+   "brand": "",
+   "year": null,
+   "detail": "",
+   "source": "New 7 Wonders of the World",
+   "source_url": "https://en.wikipedia.org/wiki/New_7_Wonders_of_the_World"
+  },
+  {
+   "name": "Statue of Liberty || New York City, United States",
+   "kind": "iconic",
+   "city": "1886 AD",
+   "country": "",
+   "brand": "",
+   "year": null,
+   "detail": "",
+   "source": "New 7 Wonders of the World",
+   "source_url": "https://en.wikipedia.org/wiki/New_7_Wonders_of_the_World"
+  },
+  {
+   "name": "Eiffel Tower || Paris, France",
+   "kind": "iconic",
+   "city": "1887 AD",
+   "country": "",
+   "brand": "",
+   "year": null,
+   "detail": "",
+   "source": "New 7 Wonders of the World",
+   "source_url": "https://en.wikipedia.org/wiki/New_7_Wonders_of_the_World"
+  },
+  {
+   "name": "Sydney Opera House || Sydney, Australia || || 1973 AD",
+   "kind": "iconic",
+   "city": "}",
+   "country": "",
+   "brand": "",
+   "year": null,
+   "detail": "",
+   "source": "New 7 Wonders of the World",
+   "source_url": "https://en.wikipedia.org/wiki/New_7_Wonders_of_the_World"
+  }
+ ],
+ "by_country": {
+  "Japan": {
+   "hotel": [
+    "Mandarin Oriental, Tokyo"
+   ],
+   "resort": [
+    "Aman Kyoto",
+    "Aman Tokyo",
+    "Amanemu",
+    "Janu Tokyo",
+    "Aman Niseko"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "France": {
+   "hotel": [
+    "Mandarin Oriental, Paris",
+    "Mandarin Oriental Lutetia, Paris",
+    "Sofitel Hotels"
+   ],
+   "resort": [
+    "Aman Le Mélézin"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Thailand": {
+   "hotel": [
+    "Mandarin Oriental, Bangkok"
+   ],
+   "resort": [
+    "Aman Nai Lert Bangkok",
+    "Amanpuri"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "United States": {
+   "hotel": [
+    "Mandarin Oriental, Boston",
+    "Mandarin Oriental, New York",
+    "Sofitel New York Hotel",
+    "Sofitel Hotels"
+   ],
+   "resort": [
+    "Aman New York",
+    "Amangani",
+    "Amangiri",
+    "Aman Beverly Hills",
+    "Aman Miami Beach"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "China": {
+   "hotel": [
+    "Mandarin Oriental Qianmen, Beijing",
+    "Mandarin Oriental Wangfujing, Beijing",
+    "Mandarin Oriental, Guangzhou",
+    "Mandarin Oriental, Sanya",
+    "Mandarin Oriental, Shanghai",
+    "Mandarin Oriental, Shenzhen"
+   ],
+   "resort": [
+    "Aman Summer Palace",
+    "Amandayan",
+    "Amanfayun",
+    "Amanyangyun"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Italy": {
+   "hotel": [
+    "Mandarin Oriental Cristallo, Cortina",
+    "Mandarin Oriental, Lago di Como",
+    "Mandarin Oriental, Milan"
+   ],
+   "resort": [
+    "Aman Venice",
+    "Rosa Alpina"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Indonesia": {
+   "hotel": [
+    "Mandarin Oriental, Jakarta"
+   ],
+   "resort": [
+    "Aman Villas at Nusa Dua",
+    "Amandari",
+    "Amanjiwo",
+    "Amankila",
+    "Amanwana"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "India": {
+   "hotel": [],
+   "resort": [
+    "Aman-i-Khas",
+    "Amanbagh"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Dominican Republic": {
+   "hotel": [],
+   "resort": [
+    "Amanera"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Sri Lanka": {
+   "hotel": [],
+   "resort": [
+    "Amangalla",
+    "Amanwella"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Morocco": {
+   "hotel": [
+    "Mandarin Oriental, Marrakech",
+    "Sofitel"
+   ],
+   "resort": [
+    "Amanjena"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Bhutan": {
+   "hotel": [],
+   "resort": [
+    "Amankora"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Vietnam": {
+   "hotel": [],
+   "resort": [
+    "Amanoi"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Philippines": {
+   "hotel": [],
+   "resort": [
+    "Amanpulo"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Turkiye": {
+   "hotel": [
+    "Mandarin Oriental, Bodrum",
+    "Mandarin Oriental Bosphorus, Istanbul"
+   ],
+   "resort": [
+    "Amanrüya"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Laos": {
+   "hotel": [],
+   "resort": [
+    "Amantaka"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Mexico": {
+   "hotel": [
+    "Sofitel"
+   ],
+   "resort": [
+    "Amanvari"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Turks and Caicos Islands": {
+   "hotel": [],
+   "resort": [
+    "Amanyara"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Greece": {
+   "hotel": [
+    "Mandarin Oriental, Costa Navarino"
+   ],
+   "resort": [
+    "Amanzoe"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "United Arab Emirates": {
+   "hotel": [
+    "Emirates Palace Mandarin Oriental, Abu Dhabi",
+    "Mandarin Oriental Jumeira, Dubai",
+    "Mandarin Oriental Downtown, Dubai",
+    "Sofitel Dubai The Palm Resort",
+    "Sofitel"
+   ],
+   "resort": [
+    "Aman Dubai",
+    "Janu Dubai"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Mozambique": {
+   "hotel": [],
+   "resort": [
+    "Aman Karingani"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Maldives": {
+   "hotel": [],
+   "resort": [
+    "Aman Maldives"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "South Korea": {
+   "hotel": [],
+   "resort": [
+    "Aman Seoul"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Singapore": {
+   "hotel": [
+    "Mandarin Oriental, Singapore",
+    "Sofitel"
+   ],
+   "resort": [
+    "Aman Singapore"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Bahamas": {
+   "hotel": [],
+   "resort": [
+    "Amancaya"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Saudi Arabia": {
+   "hotel": [
+    "Mandarin Oriental Al Faisaliah, Riyadh",
+    "Sofitel Jeddah in"
+   ],
+   "resort": [
+    "Amansamar"
+   ],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Saint Vincent and the Grenadines": {
+   "hotel": [
+    "Mandarin Oriental, Canouan"
+   ],
+   "resort": [],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Chile": {
+   "hotel": [
+    "Mandarin Oriental, Santiago"
+   ],
+   "resort": [],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Malaysia": {
+   "hotel": [
+    "Mandarin Oriental, Desaru Coast",
+    "Mandarin Oriental, Kuala Lumpur"
+   ],
+   "resort": [],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Netherlands": {
+   "hotel": [
+    "Mandarin Oriental Conservatorium, Amsterdam",
+    "Sofitel Vienna Stephansdom designed by"
+   ],
+   "resort": [],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Spain": {
+   "hotel": [
+    "Mandarin Oriental, Barcelona",
+    "Mandarin Oriental Ritz, Madrid",
+    "Mandarin Oriental Punta Negra, Mallorca"
+   ],
+   "resort": [],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Switzerland": {
+   "hotel": [
+    "Mandarin Oriental, Geneva",
+    "Mandarin Oriental Palace, Luzern",
+    "Mandarin Oriental Savoy, Zurich"
+   ],
+   "resort": [],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "United Kingdom": {
+   "hotel": [
+    "Mandarin Oriental Hyde Park, London",
+    "Mandarin Oriental Mayfair, London",
+    "Sofitel"
+   ],
+   "resort": [],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Germany": {
+   "hotel": [
+    "Mandarin Oriental, Munich"
+   ],
+   "resort": [],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Czechia": {
+   "hotel": [
+    "Mandarin Oriental, Prague"
+   ],
+   "resort": [],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Austria": {
+   "hotel": [
+    "Mandarin Oriental, Vienna"
+   ],
+   "resort": [],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Qatar": {
+   "hotel": [
+    "Mandarin Oriental, Doha"
+   ],
+   "resort": [],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Oman": {
+   "hotel": [
+    "Mandarin Oriental, Muscat"
+   ],
+   "resort": [],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Argentina": {
+   "hotel": [
+    "Sofitel"
+   ],
+   "resort": [],
+   "fine_dining": [],
+   "iconic": []
+  },
+  "Uruguay": {
+   "hotel": [
+    "Sofitel"
+   ],
+   "resort": [],
+   "fine_dining": [],
+   "iconic": []
+  }
+ },
+ "top_countries": [
+  {
+   "country": "France",
+   "three_star": 31,
+   "two_star": 81,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Japan",
+   "three_star": 23,
+   "two_star": 82,
+   "year": 2023,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Spain",
+   "three_star": 16,
+   "two_star": 33,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Italy",
+   "three_star": 14,
+   "two_star": 38,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "United States",
+   "three_star": 14,
+   "two_star": 40,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Germany",
+   "three_star": 12,
+   "two_star": 48,
+   "year": 2026,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Great Britain and Ireland",
+   "three_star": 10,
+   "two_star": 23,
+   "year": 2026,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Nordic countries",
+   "three_star": 6,
+   "two_star": 13,
+   "year": 2024,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "China (mainland)",
+   "three_star": 5,
+   "two_star": 18,
+   "year": 2024,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Switzerland",
+   "three_star": 4,
+   "two_star": 26,
+   "year": 2023,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Singapore",
+   "three_star": 3,
+   "two_star": 6,
+   "year": 2024,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Taiwan",
+   "three_star": 3,
+   "two_star": 6,
+   "year": 2023,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Belgium & Luxembourg",
+   "three_star": 2,
+   "two_star": 23,
+   "year": 2024,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Netherlands",
+   "three_star": 2,
+   "two_star": 20,
+   "year": 2023,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Austria",
+   "three_star": 2,
+   "two_star": 18,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Thailand",
+   "three_star": 2,
+   "two_star": 8,
+   "year": 2026,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Brazil",
+   "three_star": 2,
+   "two_star": 3,
+   "year": 2026,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "South Korea",
+   "three_star": 1,
+   "two_star": 9,
+   "year": 2024,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Slovenia",
+   "three_star": 1,
+   "two_star": 1,
+   "year": 2023,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Portugal",
+   "three_star": 0,
+   "two_star": 8,
+   "year": 2024,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Canada",
+   "three_star": 0,
+   "two_star": 2,
+   "year": 2024,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Mexico",
+   "three_star": 0,
+   "two_star": 2,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Hungary",
+   "three_star": 0,
+   "two_star": 2,
+   "year": 2023,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "Turkiye",
+   "three_star": 0,
+   "two_star": 2,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "country": "New Zealand",
+   "three_star": 0,
+   "two_star": 1,
+   "year": 2026,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  }
+ ],
+ "top_cities": [
+  {
+   "city": "Tokyo",
+   "country": "Japan",
+   "three_star": 12,
+   "two_star": 33,
+   "year": 2024,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "California",
+   "country": "",
+   "three_star": 10,
+   "two_star": 13,
+   "year": 2026,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Hong Kong & Macau",
+   "country": "",
+   "three_star": 9,
+   "two_star": 18,
+   "year": 2024,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Kyoto and Osaka",
+   "country": "",
+   "three_star": 8,
+   "two_star": 27,
+   "year": 2024,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "New York City",
+   "country": "",
+   "three_star": 5,
+   "two_star": 15,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Beijing",
+   "country": "China",
+   "three_star": 2,
+   "two_star": 4,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Chicago",
+   "country": "United States",
+   "three_star": 2,
+   "two_star": 3,
+   "year": 2023,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Doha",
+   "country": "Qatar",
+   "three_star": 2,
+   "two_star": 3,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Shanghai",
+   "country": "China",
+   "three_star": 2,
+   "two_star": 9,
+   "year": 2024,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Chengdu",
+   "country": "China",
+   "three_star": 1,
+   "two_star": 1,
+   "year": 2027,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Washington",
+   "country": "United States",
+   "three_star": 1,
+   "two_star": 3,
+   "year": 2023,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Abu Dhabi",
+   "country": "United Arab Emirates",
+   "three_star": 0,
+   "two_star": 0,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Athens",
+   "country": "Greece",
+   "three_star": 0,
+   "two_star": 1,
+   "year": 2023,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Belgrade",
+   "country": "Serbia",
+   "three_star": 0,
+   "two_star": 0,
+   "year": 2024,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Boston",
+   "country": "United States",
+   "three_star": 0,
+   "two_star": 0,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Colorado",
+   "country": "",
+   "three_star": 0,
+   "two_star": 0,
+   "year": 2023,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Florida",
+   "country": "",
+   "three_star": 0,
+   "two_star": 1,
+   "year": 2024,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Guangzhou and Shenzen",
+   "country": "",
+   "three_star": 0,
+   "two_star": 5,
+   "year": 2026,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Georgia",
+   "country": "",
+   "three_star": 0,
+   "two_star": 0,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Hangzhou",
+   "country": "China",
+   "three_star": 0,
+   "two_star": 0,
+   "year": 2023,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Las Vegas",
+   "country": "United States",
+   "three_star": 0,
+   "two_star": 1,
+   "year": 2026,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Louisiana",
+   "country": "",
+   "three_star": 0,
+   "two_star": 1,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Moscow (suspended)",
+   "country": "",
+   "three_star": 0,
+   "two_star": 2,
+   "year": 2021,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "Nara Prefecture",
+   "country": "",
+   "three_star": 0,
+   "two_star": 4,
+   "year": 2023,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  },
+  {
+   "city": "North Carolina",
+   "country": "",
+   "three_star": 0,
+   "two_star": 0,
+   "year": 2025,
+   "source": "Michelin Guide",
+   "source_url": "https://en.wikipedia.org/wiki/Michelin_Guide"
+  }
+ ],
+ "counts": {
+  "entries": 148,
+  "by_kind": {
+   "hotel": 96,
+   "resort": 46,
+   "fine_dining": 0,
+   "iconic": 6
+  },
+  "countries": 40
+ }
+}

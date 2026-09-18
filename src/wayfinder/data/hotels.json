@@ -1,0 +1,8232 @@
+[
+ {
+  "name": "Seven Mile Beach Grand",
+  "area": "Seven Mile Beach, Grand Cayman",
+  "city": "Seven Mile Beach",
+  "regions": [
+   "cayman islands",
+   "grand cayman"
+  ],
+  "stars": 5,
+  "price_usd": 420,
+  "rating": 4.8,
+  "distance_to_airport_mi": 1.2,
+  "distance_to_excursion_mi": 2.1,
+  "airport": "OUB (Grand Cayman Intl)",
+  "notes": "Beachfront; 1.2 mi from airport; free shuttle to George Town dining strip"
+ },
+ {
+  "name": "The Westin Grand Cayman",
+  "area": "Seven Mile Beach, Grand Cayman",
+  "city": "Seven Mile Beach",
+  "regions": [
+   "cayman islands",
+   "grand cayman"
+  ],
+  "stars": 5,
+  "price_usd": 380,
+  "rating": 4.7,
+  "distance_to_airport_mi": 1.8,
+  "distance_to_excursion_mi": 2.4,
+  "airport": "OUB (Grand Cayman Intl)",
+  "notes": "Ocean Grill dining; pool; 20 min taxi to George Town"
+ },
+ {
+  "name": "George Town Harbourview",
+  "area": "George Town, Grand Cayman",
+  "city": "George Town",
+  "regions": [
+   "cayman islands",
+   "grand cayman",
+   "george town"
+  ],
+  "stars": 4,
+  "price_usd": 220,
+  "rating": 4.5,
+  "distance_to_airport_mi": 12.5,
+  "distance_to_excursion_mi": 0.4,
+  "airport": "OUB (Grand Cayman Intl)",
+  "notes": "Walk to Church Street shops (3 Girls & A Kiln, Queen's Royal Exchange)"
+ },
+ {
+  "name": "Caymanas Suites",
+  "area": "Bodden Town, Grand Cayman",
+  "city": "Bodden Town",
+  "regions": [
+   "cayman islands",
+   "grand cayman"
+  ],
+  "stars": 3,
+  "price_usd": 165,
+  "rating": 4.2,
+  "distance_to_airport_mi": 13.0,
+  "distance_to_excursion_mi": 5.8,
+  "airport": "OUB (Grand Cayman Intl)",
+  "notes": "Budget suites; 20 min taxi to George Town"
+ },
+ {
+  "name": "Stingray Inn",
+  "area": "North Shore, Grand Cayman",
+  "city": "Stingray City",
+  "regions": [
+   "cayman islands",
+   "grand cayman"
+  ],
+  "stars": 2,
+  "price_usd": 110,
+  "rating": 4.0,
+  "distance_to_airport_mi": 14.5,
+  "distance_to_excursion_mi": 3.5,
+  "airport": "OUB (Grand Cayman Intl)",
+  "notes": "Closest to Stingray City snorkeling; basic rooms"
+ },
+ {
+  "name": "Hilton Garden Inn Pittsburgh - North Hills",
+  "area": "North Hills, Pittsburgh",
+  "city": "Pittsburgh",
+  "regions": [
+   "pittsburgh",
+   "kennywood",
+   "west mifflin",
+   "north hills",
+   "usa",
+   "united states",
+   "pennsylvania"
+  ],
+  "stars": 4,
+  "price_usd": 195,
+  "rating": 4.6,
+  "distance_to_airport_mi": 10.5,
+  "distance_to_excursion_mi": 3.1,
+  "airport": "PIT (Pittsburgh Intl)",
+  "notes": "Free parking; 12 min drive to Kennywood gate"
+ },
+ {
+  "name": "Homewood Suites by Hilton Pittsburgh North Hills",
+  "area": "North Hills, Pittsburgh",
+  "city": "Pittsburgh",
+  "regions": [
+   "pittsburgh",
+   "kennywood",
+   "west mifflin",
+   "north hills",
+   "usa",
+   "united states",
+   "pennsylvania"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "rating": 4.5,
+  "distance_to_airport_mi": 10.0,
+  "distance_to_excursion_mi": 2.4,
+  "airport": "PIT (Pittsburgh Intl)",
+  "notes": "Kitchenettes; closest full-service hotel to Kennywood"
+ },
+ {
+  "name": "Residence Inn Pittsburgh North Hills",
+  "area": "North Hills, Pittsburgh",
+  "city": "Pittsburgh",
+  "regions": [
+   "pittsburgh",
+   "kennywood",
+   "west mifflin",
+   "north hills",
+   "usa",
+   "united states",
+   "pennsylvania"
+  ],
+  "stars": 4,
+  "price_usd": 210,
+  "rating": 4.6,
+  "distance_to_airport_mi": 9.8,
+  "distance_to_excursion_mi": 2.9,
+  "airport": "PIT (Pittsburgh Intl)",
+  "notes": "Free hot breakfast; indoor pool"
+ },
+ {
+  "name": "The Westin Pittsburgh",
+  "area": "Downtown, Pittsburgh",
+  "city": "Pittsburgh",
+  "regions": [
+   "pittsburgh",
+   "kennywood",
+   "usa",
+   "united states",
+   "pennsylvania"
+  ],
+  "stars": 5,
+  "price_usd": 240,
+  "rating": 4.7,
+  "distance_to_airport_mi": 10.8,
+  "distance_to_excursion_mi": 9.8,
+  "airport": "PIT (Pittsburgh Intl)",
+  "notes": "Downtown; 25-35 min to Kennywood; great for Strip District dining"
+ },
+ {
+  "name": "Sotetsu Fresa Inn Narita Airport",
+  "area": "Narita, Tokyo",
+  "city": "Tokyo",
+  "regions": [
+   "japan",
+   "tokyo",
+   "narita",
+   "haneda",
+   "shibuya"
+  ],
+  "stars": 3,
+  "price_usd": 155,
+  "rating": 4.5,
+  "distance_to_airport_mi": 1.2,
+  "distance_to_excursion_mi": 22.0,
+  "airport": "NRT (Narita)",
+  "notes": "2 min walk from Narita T1/T2; direct shuttle toward Tokyo Station"
+ },
+ {
+  "name": "New Otani Tokyo",
+  "area": "Shibuya, Tokyo",
+  "city": "Tokyo",
+  "regions": [
+   "japan",
+   "tokyo",
+   "shibuya",
+   "shinjuku",
+   "haneda"
+  ],
+  "stars": 4,
+  "price_usd": 235,
+  "rating": 4.4,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 0.6,
+  "airport": "HND (Haneda)",
+  "notes": "Steps from Shibuya Station & the Scramble; ~20 min from Haneda"
+ },
+ {
+  "name": "Park Hyatt Tokyo",
+  "area": "Shibuya, Tokyo",
+  "city": "Tokyo",
+  "regions": [
+   "japan",
+   "tokyo",
+   "shibuya",
+   "narita"
+  ],
+  "stars": 5,
+  "price_usd": 345,
+  "rating": 4.7,
+  "distance_to_airport_mi": 18.0,
+  "distance_to_excursion_mi": 0.4,
+  "airport": "NRT (Narita)",
+  "notes": "Iconic Metropolis Tower views; heart of Shibuya's shopping & dining"
+ },
+ {
+  "name": "Hyatt Regency New York - JFK",
+  "area": "Jamaica, Queens (JFK)",
+  "city": "New York",
+  "regions": [
+   "new york",
+   "nyc",
+   "manhattan",
+   "jamaica queens",
+   "usa",
+   "united states",
+   "new york state"
+  ],
+  "stars": 4,
+  "price_usd": 270,
+  "rating": 4.2,
+  "distance_to_airport_mi": 1.5,
+  "distance_to_excursion_mi": 12.0,
+  "airport": "JFK",
+  "notes": "Direct to JFK T4/T5; AirTrain toward Midtown ~30 min"
+ },
+ {
+  "name": "Hilton Newark Airport",
+  "area": "Newark, NJ (EWR)",
+  "city": "New York",
+  "regions": [
+   "new york",
+   "nyc",
+   "newark",
+   "usa",
+   "united states",
+   "new york state"
+  ],
+  "stars": 4,
+  "price_usd": 245,
+  "rating": 4.1,
+  "distance_to_airport_mi": 1.0,
+  "distance_to_excursion_mi": 15.0,
+  "airport": "EWR (Newark)",
+  "notes": "5 min shuttle to EWR; ~30 min to Midtown by car"
+ },
+ {
+  "name": "Hotel Beacon",
+  "area": "Times Square, Manhattan",
+  "city": "New York",
+  "regions": [
+   "new york",
+   "nyc",
+   "manhattan",
+   "times square",
+   "usa",
+   "united states",
+   "new york state"
+  ],
+  "stars": 3,
+  "price_usd": 265,
+  "rating": 4.0,
+  "distance_to_airport_mi": 11.0,
+  "distance_to_excursion_mi": 0.2,
+  "airport": "JFK",
+  "notes": "Above Times Square; Broadway on foot; 8 min to Penn Station"
+ },
+ {
+  "name": "Hilton London Heathrow Terminal 5",
+  "area": "Heathrow T5, London",
+  "city": "London",
+  "regions": [
+   "london",
+   "heathrow",
+   "westminster",
+   "uk",
+   "england"
+  ],
+  "stars": 4,
+  "price_usd": 255,
+  "rating": 4.2,
+  "distance_to_airport_mi": 0.5,
+  "distance_to_excursion_mi": 11.0,
+  "airport": "LHR (Heathrow)",
+  "notes": "Walk to Terminal 5; Heathrow Express to Paddington ~15 min"
+ },
+ {
+  "name": "Crowne Plaza London Heathrow",
+  "area": "Heathrow, London",
+  "city": "London",
+  "regions": [
+   "london",
+   "heathrow",
+   "westminster"
+  ],
+  "stars": 4,
+  "price_usd": 235,
+  "rating": 4.3,
+  "distance_to_airport_mi": 2.5,
+  "distance_to_excursion_mi": 12.0,
+  "airport": "LHR (Heathrow)",
+  "notes": "Free shuttle to all terminals; ~20 min to central London"
+ },
+ {
+  "name": "The Savoy",
+  "area": "Charing Cross, London",
+  "city": "London",
+  "regions": [
+   "london",
+   "westminster",
+   "charing cross"
+  ],
+  "stars": 5,
+  "price_usd": 850,
+  "rating": 4.8,
+  "distance_to_airport_mi": 14.0,
+  "distance_to_excursion_mi": 0.2,
+  "airport": "LHR (Heathrow)",
+  "notes": "Landmark on the Thames; steps from Piccadilly Circus & Westminster"
+ },
+ {
+  "name": "Radisson Blu Paris Airport",
+  "area": "Orly, Paris",
+  "city": "Paris",
+  "regions": [
+   "paris",
+   "france",
+   "orly",
+   "cdg"
+  ],
+  "stars": 4,
+  "price_usd": 185,
+  "rating": 4.2,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 10.0,
+  "airport": "ORY (Orly)",
+  "notes": "Free shuttle to Orly; ~20 min to central Paris by car"
+ },
+ {
+  "name": "Meliá Paris - Charles de Gaulle Airport",
+  "area": "CDG, Paris",
+  "city": "Paris",
+  "regions": [
+   "paris",
+   "france",
+   "cdg",
+   "orly"
+  ],
+  "stars": 4,
+  "price_usd": 175,
+  "rating": 4.1,
+  "distance_to_airport_mi": 7.0,
+  "distance_to_excursion_mi": 14.0,
+  "airport": "CDG (Charles de Gaulle)",
+  "notes": "RER B direct to Châtelet; airport bar & spa"
+ },
+ {
+  "name": "Hôtel Regent's Garden",
+  "area": "Champs-Élysées, Paris",
+  "city": "Paris",
+  "regions": [
+   "paris",
+   "france",
+   "champs-elysees",
+   "cdg"
+  ],
+  "stars": 4,
+  "price_usd": 390,
+  "rating": 4.5,
+  "distance_to_airport_mi": 18.0,
+  "distance_to_excursion_mi": 0.4,
+  "airport": "CDG (Charles de Gaulle)",
+  "notes": "Rooftop pool with Eiffel Tower views; on the Champs-Élysées"
+ },
+ {
+  "name": "Hotel Roma Fiumicino",
+  "area": "Fiumicino, Rome",
+  "city": "Rome",
+  "regions": [
+   "rome",
+   "italy",
+   "fiumicino"
+  ],
+  "stars": 3,
+  "price_usd": 155,
+  "rating": 4.0,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 13.0,
+  "airport": "FCO (Fiumicino)",
+  "notes": "10 min taxi to FCO; airport shuttle; ideal for red-eyes"
+ },
+ {
+  "name": "Best Western Hotel Villa Sciarra",
+  "area": "EUR, Rome",
+  "city": "Rome",
+  "regions": [
+   "rome",
+   "italy",
+   "eur",
+   "fiumicino"
+  ],
+  "stars": 4,
+  "price_usd": 195,
+  "rating": 4.2,
+  "distance_to_airport_mi": 11.0,
+  "distance_to_excursion_mi": 9.0,
+  "airport": "FCO (Fiumicino)",
+  "notes": "Metro line to FCO ~25 min; near EUR district & beach"
+ },
+ {
+  "name": "Hotel de Russie",
+  "area": "Spanish Steps, Rome",
+  "city": "Rome",
+  "regions": [
+   "rome",
+   "italy",
+   "spanish steps"
+  ],
+  "stars": 5,
+  "price_usd": 790,
+  "rating": 4.8,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.3,
+  "airport": "FCO (Fiumicino)",
+  "notes": "Steps from the Trevi Fountain; rooftop over Piazza di Spagna"
+ },
+ {
+  "name": "JEN Singapore Changi",
+  "area": "Changi, Singapore",
+  "city": "Singapore",
+  "regions": [
+   "singapore",
+   "changi",
+   "marina bay"
+  ],
+  "stars": 4,
+  "price_usd": 155,
+  "rating": 4.3,
+  "distance_to_airport_mi": 4.0,
+  "distance_to_excursion_mi": 9.0,
+  "airport": "SIN (Changi)",
+  "notes": "MRT to the center ~25 min; pool & gym"
+ },
+ {
+  "name": "Crowne Plaza Singapore Changi",
+  "area": "Changi, Singapore",
+  "city": "Singapore",
+  "regions": [
+   "singapore",
+   "changi",
+   "sentosa"
+  ],
+  "stars": 4,
+  "price_usd": 175,
+  "rating": 4.3,
+  "distance_to_airport_mi": 6.0,
+  "distance_to_excursion_mi": 10.0,
+  "airport": "SIN (Changi)",
+  "notes": "~25 min to Changi; family suites; pool"
+ },
+ {
+  "name": "Marina Bay Sands",
+  "area": "Marina Bay, Singapore",
+  "city": "Singapore",
+  "regions": [
+   "singapore",
+   "marina bay",
+   "sentosa"
+  ],
+  "stars": 5,
+  "price_usd": 680,
+  "rating": 4.8,
+  "distance_to_airport_mi": 12.0,
+  "distance_to_excursion_mi": 0.2,
+  "airport": "SIN (Changi)",
+  "notes": "Iconic SkyPark infinity pool; shops & theatres in the tower"
+ },
+ {
+  "name": "Pullman Sydney Airport",
+  "area": "Ingleburn (airport), Sydney",
+  "city": "Sydney",
+  "regions": [
+   "sydney",
+   "australia",
+   "new south wales"
+  ],
+  "stars": 4,
+  "price_usd": 295,
+  "rating": 4.3,
+  "distance_to_airport_mi": 4.0,
+  "distance_to_excursion_mi": 10.0,
+  "airport": "SYD",
+  "notes": "Free shuttle to SYD; ~20 min to the CBD"
+ },
+ {
+  "name": "Hilton Sydney",
+  "area": "Sydney (airport suburb)",
+  "city": "Sydney",
+  "regions": [
+   "sydney",
+   "australia",
+   "darling harbour"
+  ],
+  "stars": 4,
+  "price_usd": 275,
+  "rating": 4.2,
+  "distance_to_airport_mi": 8.0,
+  "distance_to_excursion_mi": 12.0,
+  "airport": "SYD",
+  "notes": "Pool & spa; ~25 min to Circular Quay"
+ },
+ {
+  "name": "Park Hyatt Sydney",
+  "area": "Circular Quay, Sydney",
+  "city": "Sydney",
+  "regions": [
+   "sydney",
+   "australia",
+   "circular quay",
+   "sydney opera house"
+  ],
+  "stars": 5,
+  "price_usd": 880,
+  "rating": 4.7,
+  "distance_to_airport_mi": 14.0,
+  "distance_to_excursion_mi": 0.1,
+  "airport": "SYD",
+  "notes": "Opera House views from every room; Manly ferries at the door"
+ },
+ {
+  "name": "Hilton Miami Airport",
+  "area": "Miami (airport)",
+  "city": "Miami",
+  "regions": [
+   "miami",
+   "florida",
+   "miami beach",
+   "usa",
+   "united states"
+  ],
+  "stars": 4,
+  "price_usd": 215,
+  "rating": 4.2,
+  "distance_to_airport_mi": 2.0,
+  "distance_to_excursion_mi": 10.0,
+  "airport": "MIA",
+  "notes": "5 min shuttle to MIA; ~15 min to the Beach"
+ },
+ {
+  "name": "DoubleTree by Hilton Miami Airport",
+  "area": "Miami (airport)",
+  "city": "Miami",
+  "regions": [
+   "miami",
+   "florida",
+   "miami beach",
+   "usa",
+   "united states"
+  ],
+  "stars": 4,
+  "price_usd": 195,
+  "rating": 4.1,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 11.0,
+  "airport": "MIA",
+  "notes": "Pool & fitness; ~20 min to South Beach"
+ },
+ {
+  "name": "Loews Miami Beach Hotel",
+  "area": "South Beach, Miami",
+  "city": "Miami",
+  "regions": [
+   "miami",
+   "florida",
+   "south beach",
+   "ocean drive",
+   "usa",
+   "united states"
+  ],
+  "stars": 4,
+  "price_usd": 490,
+  "rating": 4.6,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.2,
+  "airport": "MIA",
+  "notes": "Beachfront on the Art Deco strip; steps from Ocean Drive"
+ },
+ {
+  "name": "Hilton Orlando Airport",
+  "area": "Orlando (airport)",
+  "city": "Orlando",
+  "regions": [
+   "orlando",
+   "florida",
+   "universal",
+   "disney",
+   "usa",
+   "united states"
+  ],
+  "stars": 4,
+  "price_usd": 185,
+  "rating": 4.2,
+  "distance_to_airport_mi": 4.0,
+  "distance_to_excursion_mi": 12.0,
+  "airport": "MCO",
+  "notes": "5 min to MCO; ~25 min to the theme parks"
+ },
+ {
+  "name": "DoubleTree by Hilton Orlando Airport",
+  "area": "Orlando (airport)",
+  "city": "Orlando",
+  "regions": [
+   "orlando",
+   "florida",
+   "universal",
+   "disney",
+   "usa",
+   "united states"
+  ],
+  "stars": 4,
+  "price_usd": 175,
+  "rating": 4.1,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 13.0,
+  "airport": "MCO",
+  "notes": "Value pick; free airport shuttle"
+ },
+ {
+  "name": "Loews Portofino Bay Hotel",
+  "area": "Disney Springs, Orlando",
+  "city": "Orlando",
+  "regions": [
+   "orlando",
+   "florida",
+   "disney springs",
+   "disney",
+   "usa",
+   "united states"
+  ],
+  "stars": 4,
+  "price_usd": 335,
+  "rating": 4.6,
+  "distance_to_airport_mi": 20.0,
+  "distance_to_excursion_mi": 0.3,
+  "airport": "MCO",
+  "notes": "Waterfront at Disney Springs; gondolas on site"
+ },
+ {
+  "name": "Holiday Inn Los Angeles - LAX",
+  "area": "Los Angeles (LAX)",
+  "city": "Los Angeles",
+  "regions": [
+   "los angeles",
+   "lax",
+   "california",
+   "hollywood",
+   "usa",
+   "united states"
+  ],
+  "stars": 3,
+  "price_usd": 235,
+  "rating": 4.0,
+  "distance_to_airport_mi": 2.0,
+  "distance_to_excursion_mi": 14.0,
+  "airport": "LAX",
+  "notes": "Direct to LAX; ~20 min to Downtown LA"
+ },
+ {
+  "name": "Hyatt Regency LAX",
+  "area": "Los Angeles (LAX)",
+  "city": "Los Angeles",
+  "regions": [
+   "los angeles",
+   "lax",
+   "california",
+   "usa",
+   "united states"
+  ],
+  "stars": 4,
+  "price_usd": 265,
+  "rating": 4.2,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 15.0,
+  "airport": "LAX",
+  "notes": "Airport shuttle; pool & rooftop views"
+ },
+ {
+  "name": "InterContinental Los Angeles",
+  "area": "Downtown LA",
+  "city": "Los Angeles",
+  "regions": [
+   "los angeles",
+   "downtown la",
+   "hollywood",
+   "california",
+   "usa",
+   "united states"
+  ],
+  "stars": 4,
+  "price_usd": 315,
+  "rating": 4.4,
+  "distance_to_airport_mi": 18.0,
+  "distance_to_excursion_mi": 0.2,
+  "airport": "LAX",
+  "notes": "Center of DTLA: Grand Central Market, Walk of Fame, Hollywood ~15 min"
+ },
+ {
+  "name": "St. John's City Hotel",
+  "area": "St. John's",
+  "city": "St. John's",
+  "regions": [
+   "antigua and barbuda",
+   "antigua",
+   "barbuda",
+   "antigua & barbuda",
+   "st. john's",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 150,
+  "distance_to_airport_mi": 10.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "ANU (V.C. Bird Intl)",
+  "notes": "typical city property near the docks & markets (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Falmouth Beachfront Hotel",
+  "area": "Falmouth",
+  "city": "Falmouth",
+  "regions": [
+   "antigua and barbuda",
+   "antigua",
+   "barbuda",
+   "antigua & barbuda",
+   "falmouth",
+   "st. john's",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 260,
+  "distance_to_airport_mi": 12.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "ANU (V.C. Bird Intl)",
+  "notes": "typical beachfront property (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Buenos Aires City Center Hotel",
+  "area": "Microcentro",
+  "city": "Buenos Aires",
+  "regions": [
+   "argentina",
+   "argentine",
+   "buenos aires",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 2.5,
+  "distance_to_excursion_mi": 4.0,
+  "airport": "EZE (Ezeiza Intl)",
+  "notes": "typical downtown property near the Obelisco (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Recoleta Boutique Hotel",
+  "area": "Recoleta",
+  "city": "Buenos Aires",
+  "regions": [
+   "argentina",
+   "argentine",
+   "buenos aires",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 220,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.8,
+  "airport": "EZE (Ezeiza Intl)",
+  "notes": "typical Recoleta property, walking distance to tango bars (sample data)",
+  "rating": 4.5
+ },
+ {
+  "name": "El Calafate Airport Hotel",
+  "area": "El Calafate",
+  "city": "El Calafate",
+  "regions": [
+   "argentina",
+   "argentine",
+   "el calafate",
+   "buenos aires",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 130,
+  "distance_to_airport_mi": 1.0,
+  "distance_to_excursion_mi": 3.0,
+  "airport": "FTE (El Calafate)",
+  "notes": "typical airport-area property, base for Perito Moreno (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Nassau City Hotel",
+  "area": "Nassau",
+  "city": "Nassau",
+  "regions": [
+   "bahamas",
+   "the bahamas",
+   "new providence",
+   "nassau",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 160,
+  "distance_to_airport_mi": 4.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "NAS (Lynden Pindling Intl)",
+  "notes": "typical city property near the harbor (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Paradise Island Resort",
+  "area": "Paradise Island",
+  "city": "Nassau",
+  "regions": [
+   "bahamas",
+   "the bahamas",
+   "new providence",
+   "nassau",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 320,
+  "distance_to_airport_mi": 8.0,
+  "distance_to_excursion_mi": 3.0,
+  "airport": "NAS (Lynden Pindling Intl)",
+  "notes": "typical resort property across the bridge (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Bridgetown City Hotel",
+  "area": "Bridgetown",
+  "city": "Bridgetown",
+  "regions": [
+   "barbados",
+   "bajan",
+   "bridgetown",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 8.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "BGI (Grantley Adams Intl)",
+  "notes": "typical city property near Broad Street (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Sandy Bay Beach Hotel",
+  "area": "Sandy Bay",
+  "city": "Sandy Bay",
+  "regions": [
+   "barbados",
+   "bajan",
+   "sandy bay",
+   "bridgetown",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 280,
+  "distance_to_airport_mi": 22.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "BGI (Grantley Adams Intl)",
+  "notes": "typical beachfront property, kitesurf spot (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "San Ignacio Jungle Lodge",
+  "area": "San Ignacio",
+  "city": "San Ignacio",
+  "regions": [
+   "belize",
+   "belizean",
+   "san ignacio",
+   "belmopan",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 40.0,
+  "distance_to_excursion_mi": 3.0,
+  "airport": "BZE (Philip S.W. Goldson Intl)",
+  "notes": "typical jungle-base guesthouse, cave & ruin day trips (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Caye Caulker Island Hotel",
+  "area": "Caye Caulker",
+  "city": "Caye Caulker",
+  "regions": [
+   "belize",
+   "belizean",
+   "caye caulker",
+   "belmopan",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 120,
+  "distance_to_airport_mi": 95.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "via Belize City water taxi",
+  "notes": "typical island guesthouse, reef snorkeling (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "La Paz City Center Hotel",
+  "area": "Centro",
+  "city": "La Paz",
+  "regions": [
+   "bolivia",
+   "bolivian",
+   "la paz",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 4.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "LPB (El Alto Intl)",
+  "notes": "typical city property near the Witches' Market (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Uyuni Salt Flat Hotel",
+  "area": "Uyuni",
+  "city": "Uyuni",
+  "regions": [
+   "bolivia",
+   "bolivian",
+   "uyuni",
+   "la paz",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 2.0,
+  "distance_to_excursion_mi": 4.0,
+  "airport": "UYI (Aguilar)",
+  "notes": "typical base town for salt-flat tours (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Rio City Center Hotel",
+  "area": "Centro",
+  "city": "Rio de Janeiro",
+  "regions": [
+   "brazil",
+   "brazilian",
+   "rio de janeiro",
+   "brasilia",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 6.0,
+  "airport": "GIG (Galeão Intl)",
+  "notes": "typical city property, Cristo shuttle access (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Ipanema Beach Hotel",
+  "area": "Ipanema",
+  "city": "Rio de Janeiro",
+  "regions": [
+   "brazil",
+   "brazilian",
+   "rio de janeiro",
+   "brasilia",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 260,
+  "distance_to_airport_mi": 14.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "GIG (Galeão Intl)",
+  "notes": "typical beach-area property (sample data)",
+  "rating": 4.5
+ },
+ {
+  "name": "Salvador Airport Hotel",
+  "area": "Salvador",
+  "city": "Salvador",
+  "regions": [
+   "brazil",
+   "brazilian",
+   "salvador",
+   "brasilia",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 120,
+  "distance_to_airport_mi": 2.0,
+  "distance_to_excursion_mi": 10.0,
+  "airport": "SSA (Luís E. Magalhães)",
+  "notes": "typical airport-area property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Vancouver City Center Hotel",
+  "area": "Yaletown",
+  "city": "Vancouver",
+  "regions": [
+   "canada",
+   "canadian",
+   "vancouver",
+   "ottawa",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 240,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "YVR (Vancouver Intl)",
+  "notes": "typical downtown property, ferries & mountains nearby (sample data)",
+  "rating": 4.5
+ },
+ {
+  "name": "Banff Lakeside Hotel",
+  "area": "Banff",
+  "city": "Banff",
+  "regions": [
+   "canada",
+   "canadian",
+   "banff",
+   "ottawa",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 280,
+  "distance_to_airport_mi": 190.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "YYC (Calgary Intl)",
+  "notes": "typical townsite property, Lake Louise day trips (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Toronto Airport Hotel",
+  "area": "Etobicoke (airport)",
+  "city": "Toronto",
+  "regions": [
+   "canada",
+   "canadian",
+   "toronto",
+   "ottawa",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 1.0,
+  "distance_to_excursion_mi": 22.0,
+  "airport": "YYZ (Pearson Intl)",
+  "notes": "typical airport-area property, direct to downtown (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Santiago City Center Hotel",
+  "area": "Lastarria",
+  "city": "Santiago",
+  "regions": [
+   "chile",
+   "chilean",
+   "santiago",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 18.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "SCL (Arturo Merino Benítez)",
+  "notes": "typical city property near the historic center (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "San Pedro de Atacama Lodge",
+  "area": "San Pedro",
+  "city": "San Pedro de Atacama",
+  "regions": [
+   "chile",
+   "chilean",
+   "san pedro de atacama",
+   "santiago",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 130,
+  "distance_to_airport_mi": 2.0,
+  "distance_to_excursion_mi": 4.0,
+  "airport": "CNC (Calama Intl)",
+  "notes": "typical desert-base property, stargazing tours (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Puerto Natales Airport Hotel",
+  "area": "Puerto Natales",
+  "city": "Puerto Natales",
+  "regions": [
+   "chile",
+   "chilean",
+   "puerto natales",
+   "santiago",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 1.5,
+  "distance_to_excursion_mi": 8.0,
+  "airport": "PNX (Puerto Natales)",
+  "notes": "typical base town for Torres del Paine (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Cartagena Old Town Hotel",
+  "area": "Getsemaní",
+  "city": "Cartagena",
+  "regions": [
+   "colombia",
+   "colombian",
+   "cartagena",
+   "bogota",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 6.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "CTG (Rafael Núñez)",
+  "notes": "typical colonial-area property (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Medellín El Poblado Hotel",
+  "area": "El Poblado",
+  "city": "Medellín",
+  "regions": [
+   "colombia",
+   "colombian",
+   "medellin",
+   "bogota",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 12.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "MDE (José María Córdova)",
+  "notes": "typical hillside-neighborhood property (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Manuel Antonio Beach Hotel",
+  "area": "Manuel Antonio",
+  "city": "Manuel Antonio",
+  "regions": [
+   "costa rica",
+   "tica",
+   "manuel antonio",
+   "san jose",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 260,
+  "distance_to_airport_mi": 220.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "SJO (Juan Santamaría) + 3h drive",
+  "notes": "typical beachfront property near the national park (sample data)",
+  "rating": 4.5
+ },
+ {
+  "name": "Arenal Volcano Hotel",
+  "area": "Tilarán",
+  "city": "Arenal",
+  "regions": [
+   "costa rica",
+   "tica",
+   "arenal",
+   "san jose",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 150,
+  "distance_to_airport_mi": 120.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "SJO (Juan Santamaría) + 2h drive",
+  "notes": "typical volcano-base property, hot springs (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Tamarindo Surf Hotel",
+  "area": "Tamarindo",
+  "city": "Tamarindo",
+  "regions": [
+   "costa rica",
+   "tica",
+   "tamarindo",
+   "san jose",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 160.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "SJO (Juan Santamaría) + 2.5h drive",
+  "notes": "typical beach-surf property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Havana Centro Hotel",
+  "area": "Centro Histórico",
+  "city": "Havana",
+  "regions": [
+   "cuba",
+   "cuban",
+   "havana",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 130,
+  "distance_to_airport_mi": 8.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "HAV (José Martí Intl)",
+  "notes": "typical colonial-area property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Varadero Beach Resort",
+  "area": "Varadero",
+  "city": "Varadero",
+  "regions": [
+   "cuba",
+   "cuban",
+   "varadero",
+   "havana",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 240,
+  "distance_to_airport_mi": 120.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "VRA (Juan Gualberto Gómez)",
+  "notes": "typical all-inclusive beach resort (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Roseau City Hotel",
+  "area": "Roseau",
+  "city": "Roseau",
+  "regions": [
+   "dominica",
+   "dominica (island)",
+   "wdom",
+   "roseau",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 120,
+  "distance_to_airport_mi": 4.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "DOM (Melville Hall)",
+  "notes": "typical city property near the waterfront (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Soufrière Hot Spring Lodge",
+  "area": "Soufrière",
+  "city": "Soufrière",
+  "regions": [
+   "dominica",
+   "dominica (island)",
+   "wdom",
+   "soufriere",
+   "roseau",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 30.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "DOM (Melville Hall)",
+  "notes": "typical volcanic-bay property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Punta Cana Beach Resort",
+  "area": "Punta Cana",
+  "city": "Punta Cana",
+  "regions": [
+   "dominican republic",
+   "dr",
+   "dominican",
+   "punta cana",
+   "santo domingo",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 220,
+  "distance_to_airport_mi": 2.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "PUJ (Las Américas)",
+  "notes": "typical beachfront resort (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Samaná Bay Hotel",
+  "area": "Samaná",
+  "city": "Samaná",
+  "regions": [
+   "dominican republic",
+   "dr",
+   "dominican",
+   "samana",
+   "santo domingo",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 150,
+  "distance_to_airport_mi": 180.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "AZS (Samaná) or 3h drive",
+  "notes": "typical bay-front property, whale-watching base (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Quito City Center Hotel",
+  "area": "La Ronda",
+  "city": "Quito",
+  "regions": [
+   "ecuador",
+   "ecuadorean",
+   "quito",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 130,
+  "distance_to_airport_mi": 8.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "UIO (Mariscal Sucre)",
+  "notes": "typical old-town property (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Galápagos Base Hotel",
+  "area": "San Cristóbal",
+  "city": "Puerto Baquerizo Moreno",
+  "regions": [
+   "ecuador",
+   "ecuadorean",
+   "puerto baquerizo moreno",
+   "quito",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 160,
+  "distance_to_airport_mi": 1.0,
+  "distance_to_excursion_mi": 3.0,
+  "airport": "SCY (San Cristóbal)",
+  "notes": "typical port-town property, wildlife excursions (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Baños Hot Spring Hotel",
+  "area": "Baños",
+  "city": "Baños",
+  "regions": [
+   "ecuador",
+   "ecuadorean",
+   "banos",
+   "quito",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 260.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "via Quito + 2h bus",
+  "notes": "typical volcano-base property, hot springs (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "San Salvador City Hotel",
+  "area": "Colonia Escalón",
+  "city": "San Salvador",
+  "regions": [
+   "el salvador",
+   "salvadoran",
+   "san salvador",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "SAL (El Salvador Intl)",
+  "notes": "typical city property near the central plaza (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Surf City Beach Hotel",
+  "area": "Beaches",
+  "city": "Surf City",
+  "regions": [
+   "el salvador",
+   "salvadoran",
+   "surf city",
+   "san salvador",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": 35.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "SAL (El Salvador Intl) + 1h drive",
+  "notes": "typical beach-surf property (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Antigua City Center Hotel",
+  "area": "Antigua",
+  "city": "Antigua",
+  "regions": [
+   "guatemala",
+   "guatemalan",
+   "antigua",
+   "guatemala city",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": 90.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "GUA (La Aurora) + 1.5h drive",
+  "notes": "typical colonial-center property (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Lake Atitlán Hotel",
+  "area": "Panajachel",
+  "city": "Panajachel",
+  "regions": [
+   "guatemala",
+   "guatemalan",
+   "panajachel",
+   "guatemala city",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 150.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "GUA (La Aurora) + 3h drive",
+  "notes": "typical lake-front property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Tikal Gateway Hotel",
+  "area": "Flores",
+  "city": "Flores",
+  "regions": [
+   "guatemala",
+   "guatemalan",
+   "flores",
+   "guatemala city",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 90.0,
+  "airport": "FLO (Flores)",
+  "notes": "typical airport-area property, Tikal shuttle base (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Grand Anse Beachfront Hotel",
+  "area": "South Coast",
+  "city": "Grand Anse",
+  "regions": [
+   "grenada",
+   "the spice island",
+   "grand anse",
+   "st. george's",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 210,
+  "distance_to_airport_mi": 12.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "GND (Mourouk Intl)",
+  "notes": "typical south-coast beachfront property (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Carenage Harbour Hotel",
+  "area": "Carenage",
+  "city": "Carenage",
+  "regions": [
+   "grenada",
+   "the spice island",
+   "carenage",
+   "st. george's",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 18.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "GND (Mourouk Intl)",
+  "notes": "typical harbor-town property near the wharf (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Georgetown City Hotel",
+  "area": "Georgetown",
+  "city": "Georgetown",
+  "regions": [
+   "guyana",
+   "guyanese",
+   "georgetown",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "GEO (Cheddi Jagan Intl)",
+  "notes": "typical city property near the waterfront (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Kaieteur Jungle Lodge",
+  "area": "Kaieteur NP",
+  "city": "Kaieteur",
+  "regions": [
+   "guyana",
+   "guyanese",
+   "kaieteur",
+   "georgetown",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 150,
+  "distance_to_airport_mi": 2.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "KAI (Kaieteur) via Georgetown charter",
+  "notes": "typical falls-base lodge (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Port-au-Prince City Hotel",
+  "area": "Pétionville",
+  "city": "Port-au-Prince",
+  "regions": [
+   "haiti",
+   "haitian",
+   "port-au-prince",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "PAP (Toussaint L'Ouverture)",
+  "notes": "typical city property (sample data)",
+  "rating": 3.9
+ },
+ {
+  "name": "Jacmel Coastal Hotel",
+  "area": "Jacmel",
+  "city": "Jacmel",
+  "regions": [
+   "haiti",
+   "haitian",
+   "jacmel",
+   "port-au-prince",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 140.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "PAP + 3h drive",
+  "notes": "typical coastal-town property (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Roatán Beach Hotel",
+  "area": "West End",
+  "city": "West End, Roatán",
+  "regions": [
+   "honduras",
+   "honduran",
+   "west end, roatan",
+   "tegucigalpa",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 120,
+  "distance_to_airport_mi": 2.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "RTB (Golosón Intl)",
+  "notes": "typical beach property near the reef (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "La Ceiba City Hotel",
+  "area": "La Ceiba",
+  "city": "La Ceiba",
+  "regions": [
+   "honduras",
+   "honduran",
+   "la ceiba",
+   "tegucigalpa",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 4.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "BCE (Guanaja) or HOG (Soto Cano)",
+  "notes": "typical port-city property, ferry base (sample data)",
+  "rating": 3.9
+ },
+ {
+  "name": "Montego Bay Beach Resort",
+  "area": "Doctor's Cave",
+  "city": "Montego Bay",
+  "regions": [
+   "jamaica",
+   "jamaican",
+   "montego bay",
+   "kingston",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 230,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "MBJ (Sangster Intl)",
+  "notes": "typical beachfront resort (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Ocho Rios City Hotel",
+  "area": "Ocho Rios",
+  "city": "Ocho Rios",
+  "regions": [
+   "jamaica",
+   "jamaican",
+   "ocho rios",
+   "kingston",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 150,
+  "distance_to_airport_mi": 45.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "KIN (Norman Manley) or MBJ + 1h drive",
+  "notes": "typical town property, Blue Hole base (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Negril Beachfront Hotel",
+  "area": "Negril",
+  "city": "Negril",
+  "regions": [
+   "jamaica",
+   "jamaican",
+   "negril",
+   "kingston",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 70.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "KIN (Norman Manley) + 1.5h drive",
+  "notes": "typical 7-mile-beach property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Mexico City Roma Hotel",
+  "area": "Roma Norte",
+  "city": "Mexico City",
+  "regions": [
+   "mexico",
+   "mexican",
+   "mexico city",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 25.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "MEX (Benito Juárez)",
+  "notes": "typical boutique-area property (sample data)",
+  "rating": 4.5
+ },
+ {
+  "name": "Cancún Beach Resort",
+  "area": "Hotel Zone",
+  "city": "Cancún",
+  "regions": [
+   "mexico",
+   "mexican",
+   "cancun",
+   "mexico city",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 220,
+  "distance_to_airport_mi": 2.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "CUN (Cancún Intl)",
+  "notes": "typical beachfront resort (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Oaxaca City Center Hotel",
+  "area": "Centro",
+  "city": "Oaxaca",
+  "regions": [
+   "mexico",
+   "mexican",
+   "oaxaca",
+   "mexico city",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 4.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "OAX (Xoxocotlán)",
+  "notes": "typical colonial-center property (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "San Juan del Sur Beach Hotel",
+  "area": "San Juan del Sur",
+  "city": "San Juan del Sur",
+  "regions": [
+   "nicaragua",
+   "nicaraguan",
+   "san juan del sur",
+   "managua",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": 180.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "MAA (Managua) + 3h drive",
+  "notes": "typical beach-surf property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Granada Colonial Hotel",
+  "area": "Granada",
+  "city": "Granada",
+  "regions": [
+   "nicaragua",
+   "nicaraguan",
+   "granada",
+   "managua",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 200.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "MAA (Managua) + 3.5h drive",
+  "notes": "typical lakeside colonial property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Panama City Casco Viejo Hotel",
+  "area": "Casco Viejo",
+  "city": "Panama City",
+  "regions": [
+   "panama",
+   "panamanian",
+   "panama city",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "PTY (Tocumen Intl)",
+  "notes": "typical old-town property, Canal views (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Bocas del Toro Island Hotel",
+  "area": "Bocas del Toro",
+  "city": "Bocas del Toro",
+  "regions": [
+   "panama",
+   "panamanian",
+   "bocas del toro",
+   "panama city",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 130,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "BOC (Bocas del Toro)",
+  "notes": "typical island property, jungle + beach (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Boquete Cloud Forest Hotel",
+  "area": "Boquete",
+  "city": "Boquete",
+  "regions": [
+   "panama",
+   "panamanian",
+   "boquete",
+   "panama city",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 120,
+  "distance_to_airport_mi": 260.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "PTY + 3h drive",
+  "notes": "typical highland property, coffee & hikes (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Asunción City Hotel",
+  "area": "Centro",
+  "city": "Asunción",
+  "regions": [
+   "paraguay",
+   "paraguayan",
+   "asuncion",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "ASU (Silvio Pettirossi)",
+  "notes": "typical city property near the cathedral (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Encarnación Riverfront Hotel",
+  "area": "Encarnación",
+  "city": "Encarnación",
+  "regions": [
+   "paraguay",
+   "paraguayan",
+   "encarnacion",
+   "asuncion",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 600.0,
+  "distance_to_excursion_mi": 3.0,
+  "airport": "ASU + 5h drive",
+  "notes": "typical river-town property, Iguazú day trips (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Cusco City Center Hotel",
+  "area": "Plaza de Armas",
+  "city": "Cusco",
+  "regions": [
+   "peru",
+   "peruvian",
+   "cusco",
+   "lima",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 6.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "CUZ (V. Velasco Astete)",
+  "notes": "typical old-town property, train base (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Lima Miraflores Hotel",
+  "area": "Miraflores",
+  "city": "Lima",
+  "regions": [
+   "peru",
+   "peruvian",
+   "lima",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "LIM (Jorge Chávez Intl)",
+  "notes": "typical cliff-side property, food district (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Arequipa City Hotel",
+  "area": "Centro",
+  "city": "Arequipa",
+  "regions": [
+   "peru",
+   "peruvian",
+   "arequipa",
+   "lima",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "AQP (Rodríguez Ballón)",
+  "notes": "typical colonial-center property, Misti views (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Frégate Beach Hotel",
+  "area": "Frégate",
+  "city": "Frégate",
+  "regions": [
+   "saint kitts and nevis",
+   "saint kitts",
+   "st. kitts",
+   "nevis",
+   "st. kitts and nevis",
+   "fregate",
+   "basseterre",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 240,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "SKB (Robert L. Bradshaw)",
+  "notes": "typical beachfront property (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Nevis Bay Hotel",
+  "area": "Nevis",
+  "city": "Charlestown",
+  "regions": [
+   "saint kitts and nevis",
+   "saint kitts",
+   "st. kitts",
+   "nevis",
+   "st. kitts and nevis",
+   "charlestown",
+   "basseterre",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 150,
+  "distance_to_airport_mi": 1.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "NEV (Vance W. Amery)",
+  "notes": "typical bay-front property, calm water (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Rodney Bay Beach Hotel",
+  "area": "Rodney Bay",
+  "city": "Rodney Bay",
+  "regions": [
+   "saint lucia",
+   "st. lucia",
+   "lucian",
+   "rodney bay",
+   "castries",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 260,
+  "distance_to_airport_mi": 25.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "SLU (Hewanorra Intl)",
+  "notes": "typical beachfront property, marina access (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Soufrière Hot Spring Hotel",
+  "area": "Soufrière",
+  "city": "Soufrière",
+  "regions": [
+   "saint lucia",
+   "st. lucia",
+   "lucian",
+   "soufriere",
+   "castries",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 160,
+  "distance_to_airport_mi": 45.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "SLU (Hewanorra Intl)",
+  "notes": "typical volcanic-bay property, hot springs (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Kingstown City Hotel",
+  "area": "Kingstown",
+  "city": "Kingstown",
+  "regions": [
+   "saint vincent and the grenadines",
+   "saint vincent",
+   "st. vincent",
+   "the grenadines",
+   "svg",
+   "kingstown",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 120,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "SVC (E.T. Joshua)",
+  "notes": "typical city property near the harbor (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Bequia Island Hotel",
+  "area": "Bequia",
+  "city": "Bequia",
+  "regions": [
+   "saint vincent and the grenadines",
+   "saint vincent",
+   "st. vincent",
+   "the grenadines",
+   "svg",
+   "bequia",
+   "kingstown",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 150,
+  "distance_to_airport_mi": 90.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "SVC + ferry 1h",
+  "notes": "typical island guesthouse, barefoot culture (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Paramaribo City Hotel",
+  "area": "Central District",
+  "city": "Paramaribo",
+  "regions": [
+   "suriname",
+   "surinamese",
+   "paramaribo",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "PBM (Johan A. Ploeg)",
+  "notes": "typical city property near the waterfront (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Central Suriname Jungle Lodge",
+  "area": "Sipaliwini (jungle base)",
+  "city": "Central Suriname",
+  "regions": [
+   "suriname",
+   "surinamese",
+   "central suriname",
+   "paramaribo",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 150,
+  "distance_to_airport_mi": 400.0,
+  "distance_to_excursion_mi": 3.0,
+  "airport": "PBM + charter flight",
+  "notes": "typical jungle-base lodge (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Port of Spain City Hotel",
+  "area": "Port of Spain",
+  "city": "Port of Spain",
+  "regions": [
+   "trinidad and tobago",
+   "trinidad",
+   "tobago",
+   "trini",
+   "port of spain",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "POS (Piarco Intl)",
+  "notes": "typical city property near the harbor (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Tobago Seven Mile Beach Hotel",
+  "area": "Scarborough (Tobago)",
+  "city": "Scarborough",
+  "regions": [
+   "trinidad and tobago",
+   "trinidad",
+   "tobago",
+   "trini",
+   "scarborough",
+   "port of spain",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 1.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "TAB (L.F. Gordons)",
+  "notes": "typical beach property on Seven Mile (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Montevideo City Hotel",
+  "area": "Pocitos",
+  "city": "Montevideo",
+  "regions": [
+   "uruguay",
+   "uruguayan",
+   "montevideo",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "MVD (Carrasco Intl)",
+  "notes": "typical beach-adjacent property (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Punta del Este Beach Resort",
+  "area": "Punta del Este",
+  "city": "Punta del Este",
+  "regions": [
+   "uruguay",
+   "uruguayan",
+   "punta del este",
+   "montevideo",
+   "americas"
+  ],
+  "stars": 4,
+  "price_usd": 240,
+  "distance_to_airport_mi": 130.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "MVD + 1.5h drive",
+  "notes": "typical beachfront resort (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Caracas City Hotel",
+  "area": "Chacao",
+  "city": "Caracas",
+  "regions": [
+   "venezuela",
+   "venezuelan",
+   "caracas",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": 12.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "CCS (Simón Bolívar Intl)",
+  "notes": "typical city property (sample data)",
+  "rating": 3.9
+ },
+ {
+  "name": "Mérida Andes Hotel",
+  "area": "Mérida",
+  "city": "Mérida",
+  "regions": [
+   "venezuela",
+   "venezuelan",
+   "merida",
+   "caracas",
+   "americas"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 4.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "MRD (Alberto Carnevalli)",
+  "notes": "typical Andean-base property, cable car (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Tirana City Center Hotel",
+  "area": "Tirana",
+  "city": "Tirana",
+  "regions": [
+   "albania",
+   "albanian",
+   "tirana",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 1.5,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "TIA (Tirana Intl)",
+  "notes": "typical city property near Skanderbeg Square (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Durrës Beachfront Hotel",
+  "area": "Durrës",
+  "city": "Durrës",
+  "regions": [
+   "albania",
+   "albanian",
+   "durres",
+   "tirana",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 30.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "TIA (Tirana Intl)",
+  "notes": "typical coastal property on the promenade (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Gjirokastër Old Town Hotel",
+  "area": "Gjirokastër",
+  "city": "Gjirokastër",
+  "regions": [
+   "albania",
+   "albanian",
+   "gjirokaster",
+   "tirana",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 120.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "TIA (Tirana Intl) + 2.5h drive",
+  "notes": "typical stone-old-town property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Soldeu Mountain Hotel",
+  "area": "Grandvalira",
+  "city": "Soldeu",
+  "regions": [
+   "andorra",
+   "principality of andorra",
+   "soldeu",
+   "andorra la vella",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 120,
+  "distance_to_airport_mi": 95.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "via L'Hospitalet (Andorra la Vella) or Toulouse",
+  "notes": "typical ski-village property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Andorra la Vella City Hotel",
+  "area": "capital",
+  "city": "Andorra la Vella",
+  "regions": [
+   "andorra",
+   "principality of andorra",
+   "andorra la vella",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 95.0,
+  "distance_to_excursion_mi": 2.0,
+  "airport": "via Toulouse or Barcelona",
+  "notes": "typical capital-center property (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Vienna City Center Hotel",
+  "area": "Innere Stadt",
+  "city": "Vienna",
+  "regions": [
+   "austria",
+   "austrian",
+   "vienna",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 20.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "VIE (Vienna Intl)",
+  "notes": "typical center property near the Ring (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Salzburg Old Town Hotel",
+  "area": "Altstadt",
+  "city": "Salzburg",
+  "regions": [
+   "austria",
+   "austrian",
+   "salzburg",
+   "vienna",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 90.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "VIE (Vienna Intl) + train",
+  "notes": "typical old-town property near the Residenzplatz (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Hallstatt Alpine Hotel",
+  "area": "Hallstatt",
+  "city": "Hallstatt",
+  "regions": [
+   "austria",
+   "austrian",
+   "hallstatt",
+   "vienna",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 150.0,
+  "distance_to_excursion_mi": 0.3,
+  "airport": "VIE (Vienna Intl) + train/bus",
+  "notes": "typical lakeside property — book early in season (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Minsk City Center Hotel",
+  "area": "Minsk",
+  "city": "Minsk",
+  "regions": [
+   "belarus",
+   "byelorussia",
+   "minsk",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 100,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "MSQ (Minsk Intl)",
+  "notes": "typical city property near Cathedral Square (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Brest Old Town Hotel",
+  "area": "Brest",
+  "city": "Brest",
+  "regions": [
+   "belarus",
+   "byelorussia",
+   "brest",
+   "minsk",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 320.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "MSQ (Minsk Intl) + 3.5h drive",
+  "notes": "typical fortress-town property (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Brussels Grand Place Hotel",
+  "area": "Grand-Place",
+  "city": "Brussels",
+  "regions": [
+   "belgium",
+   "belgian",
+   "brussels",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "BRU (Brussels Intl)",
+  "notes": "typical center property within walking distance of the Grand-Place (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Bruges Old Town Hotel",
+  "area": "Bruges",
+  "city": "Bruges",
+  "regions": [
+   "belgium",
+   "belgian",
+   "bruges",
+   "brussels",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 45.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "BRU (Brussels Intl)",
+  "notes": "typical canal-side old-town property (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Ghent Riverside Hotel",
+  "area": "Graslei",
+  "city": "Ghent",
+  "regions": [
+   "belgium",
+   "belgian",
+   "ghent",
+   "brussels",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 130,
+  "distance_to_airport_mi": 35.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "BRU (Brussels Intl)",
+  "notes": "typical waterfront property near the Leie (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Sarajevo City Center Hotel",
+  "area": "Baščaršija",
+  "city": "Sarajevo",
+  "regions": [
+   "bosnia and herzegovina",
+   "bosnia",
+   "bosnia & herzegovina",
+   "bosnia-herzegovina",
+   "sarajevo",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 95,
+  "distance_to_airport_mi": 10.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "SJJ (Sarajevo Intl)",
+  "notes": "typical center property near the bazaar (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Mostar Old Town Hotel",
+  "area": "Mostar",
+  "city": "Mostar",
+  "regions": [
+   "bosnia and herzegovina",
+   "bosnia",
+   "bosnia & herzegovina",
+   "bosnia-herzegovina",
+   "mostar",
+   "sarajevo",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 100.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "SJJ (Sarajevo Intl) + 1.5h drive",
+  "notes": "typical stone old-town property near Stari Most (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Sofia City Center Hotel",
+  "area": "Sofia",
+  "city": "Sofia",
+  "regions": [
+   "bulgaria",
+   "bulgarian",
+   "sofia",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 90,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "SOF (Sofia Intl)",
+  "notes": "typical center property near Alexander Nevsky Cathedral (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Plovdiv Old Town Hotel",
+  "area": "Plovdiv",
+  "city": "Plovdiv",
+  "regions": [
+   "bulgaria",
+   "bulgarian",
+   "plovdiv",
+   "sofia",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 150.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "SOF (Sofia Intl) + 2h drive",
+  "notes": "typical old-town property near the Roman theater (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Varna Beach Hotel",
+  "area": "Varna",
+  "city": "Varna",
+  "regions": [
+   "bulgaria",
+   "bulgarian",
+   "varna",
+   "sofia",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 180.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Varna (Varna Intl)",
+  "notes": "typical Black Sea beach property (sample data)",
+  "rating": 3.9
+ },
+ {
+  "name": "Dubrovnik Old Town Hotel",
+  "area": "Old Town / Lapad",
+  "city": "Dubrovnik",
+  "regions": [
+   "croatia",
+   "croatian",
+   "dubrovnik",
+   "zagreb",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 220,
+  "distance_to_airport_mi": 45.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Dubrovnik (Dubrovnik Intl)",
+  "notes": "typical old-town or Lapad property — book early in season (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Split Riva Hotel",
+  "area": "Riva",
+  "city": "Split",
+  "regions": [
+   "croatia",
+   "croatian",
+   "split",
+   "zagreb",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 95.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "SPU (Split)",
+  "notes": "typical waterfront property on the Riva (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Zadar Beachfront Hotel",
+  "area": "Zadar",
+  "city": "Zadar",
+  "regions": [
+   "croatia",
+   "croatian",
+   "zadar",
+   "zagreb",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 120,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "ZAD (Zadar)",
+  "notes": "typical coastal property near the old town (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Limassol Beachfront Hotel",
+  "area": "Limassol",
+  "city": "Limassol",
+  "regions": [
+   "cyprus",
+   "cypriot",
+   "limassol",
+   "nicosia",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 30.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "LCA (Larnaca Intl)",
+  "notes": "typical coastal property near the marina (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Paphos Old Town Hotel",
+  "area": "Paphos",
+  "city": "Paphos",
+  "regions": [
+   "cyprus",
+   "cypriot",
+   "paphos",
+   "nicosia",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 60.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "PFO (Paphos)",
+  "notes": "typical old-town property near the Archaeological Park (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Prague Old Town Hotel",
+  "area": "Old Town",
+  "city": "Prague",
+  "regions": [
+   "czechia",
+   "czech republic",
+   "czech",
+   "prague",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 20.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "PRG (Václav Havel Intl)",
+  "notes": "typical Old Town property near the Astronomical Clock (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Prague Castle View Hotel",
+  "area": "Hradčany",
+  "city": "Prague",
+  "regions": [
+   "czechia",
+   "czech republic",
+   "czech",
+   "prague",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 22.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "PRG (Václav Havel Intl)",
+  "notes": "typical Hradčany property with castle views (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Český Krumlov Riverside Hotel",
+  "area": "Český Krumlov",
+  "city": "Český Krumlov",
+  "regions": [
+   "czechia",
+   "czech republic",
+   "czech",
+   "cesky krumlov",
+   "prague",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 130,
+  "distance_to_airport_mi": 170.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "PRG (Václav Havel Intl) + 2.5h drive",
+  "notes": "typical old-town property near the castle (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Copenhagen City Center Hotel",
+  "area": "Indre By",
+  "city": "Copenhagen",
+  "regions": [
+   "denmark",
+   "danish",
+   "copenhagen",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 200,
+  "distance_to_airport_mi": 10.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "CPH (Copenhagen)",
+  "notes": "typical center property near Strøget (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Copenhagen Airport Hotel",
+  "area": "Kastrup",
+  "city": "Copenhagen",
+  "regions": [
+   "denmark",
+   "danish",
+   "copenhagen",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 0.5,
+  "distance_to_excursion_mi": 8.0,
+  "airport": "CPH (Copenhagen)",
+  "notes": "typical airport-area property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Aarhus Riverside Hotel",
+  "area": "Aarhus",
+  "city": "Aarhus",
+  "regions": [
+   "denmark",
+   "danish",
+   "aarhus",
+   "copenhagen",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 130,
+  "distance_to_airport_mi": 120.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "CPH (Copenhagen) + train",
+  "notes": "typical riverfront property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Tallinn Old Town Hotel",
+  "area": "Old Town",
+  "city": "Tallinn",
+  "regions": [
+   "estonia",
+   "estonian",
+   "tallinn",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 120,
+  "distance_to_airport_mi": 8.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "TLL (Tallinn Intl)",
+  "notes": "typical old-town property near Town Hall Square (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Kuressaare Castle Hotel",
+  "area": "Saaremaa",
+  "city": "Kuressaare",
+  "regions": [
+   "estonia",
+   "estonian",
+   "kuressaare",
+   "tallinn",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 90.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "TLL (Tallinn Intl) + ferry",
+  "notes": "typical island property near the castle (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Helsinki City Center Hotel",
+  "area": "Kalamaja",
+  "city": "Helsinki",
+  "regions": [
+   "finland",
+   "finnish",
+   "helsinki",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 35.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "HEL (Helsinki Vantaa)",
+  "notes": "typical center property (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Helsinki Airport Hotel",
+  "area": "Vantaa",
+  "city": "Helsinki",
+  "regions": [
+   "finland",
+   "finnish",
+   "helsinki",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 0.5,
+  "distance_to_excursion_mi": 30.0,
+  "airport": "HEL (Helsinki Vantaa)",
+  "notes": "typical airport-area property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Rovaniemi Arctic Hotel",
+  "area": "Rovaniemi",
+  "city": "Rovaniemi",
+  "regions": [
+   "finland",
+   "finnish",
+   "rovaniemi",
+   "helsinki",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 130,
+  "distance_to_airport_mi": 1.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "IVO (Rovaniemi)",
+  "notes": "typical arctic property on the Arctic Circle (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Nice Old Town Hotel",
+  "area": "Vieux Nice",
+  "city": "Nice",
+  "regions": [
+   "france",
+   "french",
+   "nice",
+   "paris",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 7.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "NCE (Nice Côte d'Azur)",
+  "notes": "typical old-town property near the promenade (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Tours Loire Valley Hotel",
+  "area": "Tours",
+  "city": "Tours",
+  "regions": [
+   "france",
+   "french",
+   "tours",
+   "paris",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 130,
+  "distance_to_airport_mi": 100.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "via Paris or Le Mans",
+  "notes": "typical Loire Valley base for château hopping (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Berlin City Center Hotel",
+  "area": "Mitte",
+  "city": "Berlin",
+  "regions": [
+   "germany",
+   "german",
+   "berlin",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 25.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "BER (Berlin Brandenburg)",
+  "notes": "typical Mitte property near the Museum Island (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Munich Old Town Hotel",
+  "area": "Altstadt",
+  "city": "Munich",
+  "regions": [
+   "germany",
+   "german",
+   "munich",
+   "berlin",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "MUC (Munich Intl)",
+  "notes": "typical Altstadt property near Marienplatz (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Cologne Riverside Hotel",
+  "area": "Cologne",
+  "city": "Cologne",
+  "regions": [
+   "germany",
+   "german",
+   "cologne",
+   "berlin",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 120,
+  "distance_to_airport_mi": 20.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "CGN (Cologne Bonn)",
+  "notes": "typical riverfront property near the cathedral (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Athens Plaka Hotel",
+  "area": "Plaka",
+  "city": "Athens",
+  "regions": [
+   "greece",
+   "greek",
+   "athens",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 25.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "ATH (Athens Intl)",
+  "notes": "typical Plaka property near the Acropolis (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Santorini Caldera View Hotel",
+  "area": "Oia / Fira",
+  "city": "Santorini",
+  "regions": [
+   "greece",
+   "greek",
+   "santorini",
+   "athens",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 260,
+  "distance_to_airport_mi": 1.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "JTR (Santorini / Thira)",
+  "notes": "typical caldera-view property — book early in season (sample data)",
+  "rating": 4.5
+ },
+ {
+  "name": "Chania Old Town Hotel",
+  "area": "Chania",
+  "city": "Chania",
+  "regions": [
+   "greece",
+   "greek",
+   "chania",
+   "athens",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 130,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "CHQ (Chania)",
+  "notes": "typical old-town harbor property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Budapest City Center Hotel",
+  "area": "Budapest",
+  "city": "Budapest",
+  "regions": [
+   "hungary",
+   "hungarian",
+   "budapest",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 130,
+  "distance_to_airport_mi": 25.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "BUD (Budapest)",
+  "notes": "typical center property near the Danube (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Budapest Buda Hill Hotel",
+  "area": "Buda",
+  "city": "Budapest",
+  "regions": [
+   "hungary",
+   "hungarian",
+   "budapest",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 28.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "BUD (Budapest)",
+  "notes": "typical Buda-side property with Danube views (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Lake Balaton Resort",
+  "area": "Lake Balaton",
+  "city": "Balatonfüred",
+  "regions": [
+   "hungary",
+   "hungarian",
+   "balatonfured",
+   "budapest",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 65.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "BUD (Budapest)",
+  "notes": "typical lakeside property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Dublin City Center Hotel",
+  "area": "Dublin",
+  "city": "Dublin",
+  "regions": [
+   "ireland",
+   "irish",
+   "republic of ireland",
+   "dublin",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "DUB (Dublin)",
+  "notes": "typical city-center property (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Killarney Lakeside Hotel",
+  "area": "Killarney",
+  "city": "Killarney",
+  "regions": [
+   "ireland",
+   "irish",
+   "republic of ireland",
+   "killarney",
+   "dublin",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 130,
+  "distance_to_airport_mi": 170.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "DUB (Dublin) + 2.5h drive",
+  "notes": "typical lakeside base for the Ring of Kerry (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Dingle Bay Hotel",
+  "area": "Dingle",
+  "city": "Dingle",
+  "regions": [
+   "ireland",
+   "irish",
+   "republic of ireland",
+   "dingle",
+   "dublin",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 120,
+  "distance_to_airport_mi": 220.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "DUB (Dublin) + 3.5h drive",
+  "notes": "typical bay-town property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Reykjavik City Center Hotel",
+  "area": "Reykjavik",
+  "city": "Reykjavik",
+  "regions": [
+   "iceland",
+   "icelandic",
+   "reykjavik",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "KEF (Keflavik Intl)",
+  "notes": "typical city property near Laugavegur (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Vik South Coast Hotel",
+  "area": "South Coast",
+  "city": "Vik",
+  "regions": [
+   "iceland",
+   "icelandic",
+   "vik",
+   "reykjavik",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 150,
+  "distance_to_airport_mi": 170.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "KEF (Keflavik Intl) + 2.5h drive",
+  "notes": "typical south-coast property near Reynisfjara (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Isafjordur Westfjords Hotel",
+  "area": "Westfjords",
+  "city": "Isafjordur",
+  "regions": [
+   "iceland",
+   "icelandic",
+   "isafjordur",
+   "reykjavik",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 130,
+  "distance_to_airport_mi": 350.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "KEF (Keflavik Intl) + 4.5h drive",
+  "notes": "typical Westfjords base (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Florence Old Town Hotel",
+  "area": "Florence",
+  "city": "Florence",
+  "regions": [
+   "italy",
+   "italian",
+   "florence",
+   "rome",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 60.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "FCO (Rome Fiumicino) + train",
+  "notes": "typical old-town property near the Duomo (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Positano Beachfront Hotel",
+  "area": "Amalfi Coast",
+  "city": "Positano",
+  "regions": [
+   "italy",
+   "italian",
+   "positano",
+   "rome",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 280,
+  "distance_to_airport_mi": 80.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "NAP (Naples)",
+  "notes": "typical cliffside coastal property — book early in season (sample data)",
+  "rating": 4.5
+ },
+ {
+  "name": "Riga Old Town Hotel",
+  "area": "Riga",
+  "city": "Riga",
+  "regions": [
+   "latvia",
+   "latvian",
+   "riga",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 110,
+  "distance_to_airport_mi": 10.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "RIX (Riga Intl)",
+  "notes": "typical old-town property near the House of the Blackheads (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Jurmala Seaside Hotel",
+  "area": "Jurmala",
+  "city": "Jurmala",
+  "regions": [
+   "latvia",
+   "latvian",
+   "jurmala",
+   "riga",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 20.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "RIX (Riga Intl)",
+  "notes": "typical seaside property (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Vaduz City Hotel",
+  "area": "Vaduz",
+  "city": "Vaduz",
+  "regions": [
+   "liechtenstein",
+   "principality of liechtenstein",
+   "vaduz",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 130,
+  "distance_to_airport_mi": 120.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "via Zurich (ZRH) or Innsbruck (INN)",
+  "notes": "typical small-principality property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Malbun Alpine Hotel",
+  "area": "Malbun",
+  "city": "Malbun",
+  "regions": [
+   "liechtenstein",
+   "principality of liechtenstein",
+   "malbun",
+   "vaduz",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 130.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "via Zurich (ZRH)",
+  "notes": "typical high-village property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Vilnius Old Town Hotel",
+  "area": "Vilnius",
+  "city": "Vilnius",
+  "regions": [
+   "lithuania",
+   "lithuanian",
+   "vilnius",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 105,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "VNO (Vilnius)",
+  "notes": "typical old-town property near the Cathedral (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Nida Seaside Hotel",
+  "area": "Curonian Spit",
+  "city": "Nida",
+  "regions": [
+   "lithuania",
+   "lithuanian",
+   "nida",
+   "vilnius",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 250.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "VNO (Vilnius) + 3h drive",
+  "notes": "typical spit property near the dunes (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Luxembourg City Center Hotel",
+  "area": "Luxembourg City",
+  "city": "Luxembourg City",
+  "regions": [
+   "luxembourg",
+   "grand duchy of luxembourg",
+   "luxembourg city",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 10.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "LUX (Findel)",
+  "notes": "typical city property near the Grand-Ducal Palace (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Vianden Castle View Hotel",
+  "area": "Vianden",
+  "city": "Vianden",
+  "regions": [
+   "luxembourg",
+   "grand duchy of luxembourg",
+   "vianden",
+   "luxembourg city",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 60.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "LUX (Findel) + 1h drive",
+  "notes": "typical castle-town property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Sliema Seaside Hotel",
+  "area": "Sliema",
+  "city": "Sliema",
+  "regions": [
+   "malta",
+   "maltese",
+   "sliema",
+   "valletta",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 10.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "MLA (Malta Intl)",
+  "notes": "typical seafront property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Valletta Old Town Hotel",
+  "area": "Valletta",
+  "city": "Valletta",
+  "regions": [
+   "malta",
+   "maltese",
+   "valletta",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 120,
+  "distance_to_airport_mi": 12.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "MLA (Malta Intl)",
+  "notes": "typical old-town property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Gozo Bay Hotel",
+  "area": "Gozo",
+  "city": "Gozo",
+  "regions": [
+   "malta",
+   "maltese",
+   "gozo",
+   "valletta",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 30.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "MLA (Malta Intl) + ferry",
+  "notes": "typical island property (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Chisinau City Center Hotel",
+  "area": "Chisinau",
+  "city": "Chisinau",
+  "regions": [
+   "moldova",
+   "moldovan",
+   "chisinau",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 75,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "KIV (Chisinau Intl)",
+  "notes": "typical city property near the central plaza (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Orhei Old Town Hotel",
+  "area": "Orhei",
+  "city": "Orhei",
+  "regions": [
+   "moldova",
+   "moldovan",
+   "orhei",
+   "chisinau",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 65,
+  "distance_to_airport_mi": 100.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "KIV (Chisinau Intl) + 1.5h drive",
+  "notes": "typical old-town property (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Monte Carlo Bay Hotel",
+  "area": "Monte Carlo",
+  "city": "Monaco",
+  "regions": [
+   "monaco",
+   "principality of monaco",
+   "europe"
+  ],
+  "stars": 5,
+  "price_usd": 450,
+  "distance_to_airport_mi": 20.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "NCE (Nice Côte d'Azur)",
+  "notes": "typical luxury property (sample data)",
+  "rating": 4.6
+ },
+ {
+  "name": "Monaco Old Town Hotel",
+  "area": "Monaco-Ville",
+  "city": "Monaco",
+  "regions": [
+   "monaco",
+   "principality of monaco",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 380,
+  "distance_to_airport_mi": 22.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "NCE (Nice Côte d'Azur)",
+  "notes": "typical old-town property (sample data)",
+  "rating": 4.5
+ },
+ {
+  "name": "Kotor Old Town Hotel",
+  "area": "Kotor",
+  "city": "Kotor",
+  "regions": [
+   "montenegro",
+   "montenegrin",
+   "kotor",
+   "podgorica",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 20.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "TIV (Tivat)",
+  "notes": "typical old-town property in the bay (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Budva Beachfront Hotel",
+  "area": "Budva",
+  "city": "Budva",
+  "regions": [
+   "montenegro",
+   "montenegrin",
+   "budva",
+   "podgorica",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 25.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "TIV (Tivat)",
+  "notes": "typical beach property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Zabljak Mountain Hotel",
+  "area": "Durmitor",
+  "city": "Zabljak",
+  "regions": [
+   "montenegro",
+   "montenegrin",
+   "zabljak",
+   "podgorica",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": 120.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "TIV (Tivat) + 2h drive",
+  "notes": "typical mountain base for the Durmitor (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Amsterdam City Center Hotel",
+  "area": "Amsterdam",
+  "city": "Amsterdam",
+  "regions": [
+   "netherlands",
+   "dutch",
+   "holland",
+   "amsterdam",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "AMS (Schiphol)",
+  "notes": "typical center property near the canals (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Amsterdam Airport Hotel",
+  "area": "Schiphol",
+  "city": "Amsterdam",
+  "regions": [
+   "netherlands",
+   "dutch",
+   "holland",
+   "amsterdam",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 0.5,
+  "distance_to_excursion_mi": 8.0,
+  "airport": "AMS (Schiphol)",
+  "notes": "typical airport-area property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Utrecht Riverside Hotel",
+  "area": "Utrecht",
+  "city": "Utrecht",
+  "regions": [
+   "netherlands",
+   "dutch",
+   "holland",
+   "utrecht",
+   "amsterdam",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 130,
+  "distance_to_airport_mi": 35.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "AMS (Schiphol)",
+  "notes": "typical riverfront property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Ohrid Lakeside Hotel",
+  "area": "Ohrid",
+  "city": "Ohrid",
+  "regions": [
+   "north macedonia",
+   "macedonia",
+   "ohrid",
+   "skopje",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 60.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "SKP (Skopje) + 1h drive",
+  "notes": "typical lakeside property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Skopje City Center Hotel",
+  "area": "Skopje",
+  "city": "Skopje",
+  "regions": [
+   "north macedonia",
+   "macedonia",
+   "skopje",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 5.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "SKP (Skopje)",
+  "notes": "typical city property (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Oslo City Center Hotel",
+  "area": "Oslo",
+  "city": "Oslo",
+  "regions": [
+   "norway",
+   "norwegian",
+   "oslo",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "OSL (Gardermoen)",
+  "notes": "typical city property (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Bergen Harbor Hotel",
+  "area": "Bergen",
+  "city": "Bergen",
+  "regions": [
+   "norway",
+   "norwegian",
+   "bergen",
+   "oslo",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 10.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "BGO (Bergen)",
+  "notes": "typical harbor property near Bryggen (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Svolvar Lofoten Hotel",
+  "area": "Lofoten",
+  "city": "Svolvar",
+  "regions": [
+   "norway",
+   "norwegian",
+   "svolvar",
+   "oslo",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 250.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "via Oslo (OSL) or Bergen (BGO)",
+  "notes": "typical Lofoten base (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Warsaw City Center Hotel",
+  "area": "Warsaw",
+  "city": "Warsaw",
+  "regions": [
+   "poland",
+   "polish",
+   "warsaw",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 120,
+  "distance_to_airport_mi": 20.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "WAW (Warsaw Chopin)",
+  "notes": "typical center property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Krakow Old Town Hotel",
+  "area": "Krakow",
+  "city": "Krakow",
+  "regions": [
+   "poland",
+   "polish",
+   "krakow",
+   "warsaw",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 130,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "KRK (Krakow Balice)",
+  "notes": "typical old-town property near Wawel (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Zakopane Tatra Hotel",
+  "area": "Zakopane",
+  "city": "Zakopane",
+  "regions": [
+   "poland",
+   "polish",
+   "zakopane",
+   "warsaw",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 100.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "KRK (Krakow Balice) + 1.5h drive",
+  "notes": "typical Tatra base (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Lisbon Alfama Hotel",
+  "area": "Alfama",
+  "city": "Lisbon",
+  "regions": [
+   "portugal",
+   "portuguese",
+   "lisbon",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 20.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "LIS (Lisbon)",
+  "notes": "typical old-town property (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Porto Ribeira Hotel",
+  "area": "Ribeira",
+  "city": "Porto",
+  "regions": [
+   "portugal",
+   "portuguese",
+   "porto",
+   "lisbon",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "OPO (Porto)",
+  "notes": "typical riverside property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Albufeira Beachfront Hotel",
+  "area": "Algarve",
+  "city": "Albufeira",
+  "regions": [
+   "portugal",
+   "portuguese",
+   "albufeira",
+   "lisbon",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 30.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "FAO (Faro)",
+  "notes": "typical Algarve beach property (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Bucharest City Center Hotel",
+  "area": "Bucharest",
+  "city": "Bucharest",
+  "regions": [
+   "romania",
+   "romanian",
+   "bucharest",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 100,
+  "distance_to_airport_mi": 20.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "OTP (Bucharest Henri Coandă)",
+  "notes": "typical center property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Brașov Transylvania Hotel",
+  "area": "Brașov",
+  "city": "Brașov",
+  "regions": [
+   "romania",
+   "romanian",
+   "brasov",
+   "bucharest",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 120.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "OTP (Bucharest) + 1.5h drive",
+  "notes": "typical Transylvania base (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Sulina Danube Delta Hotel",
+  "area": "Danube Delta",
+  "city": "Sulina",
+  "regions": [
+   "romania",
+   "romanian",
+   "sulina",
+   "bucharest",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 350.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "OTP (Bucharest) + 4h drive",
+  "notes": "typical delta base (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Moscow City Center Hotel",
+  "area": "Moscow",
+  "city": "Moscow",
+  "regions": [
+   "russia",
+   "russian",
+   "russian federation",
+   "moscow",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 130,
+  "distance_to_airport_mi": 25.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "SVO (Sheremetyevo)",
+  "notes": "typical center property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "St. Petersburg City Center Hotel",
+  "area": "St. Petersburg",
+  "city": "St. Petersburg",
+  "regions": [
+   "russia",
+   "russian",
+   "russian federation",
+   "st. petersburg",
+   "moscow",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 20.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "LED (Pulkovo)",
+  "notes": "typical center property near the Hermitage (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Listvyanka Baikal Hotel",
+  "area": "Lake Baikal",
+  "city": "Listvyanka",
+  "regions": [
+   "russia",
+   "russian",
+   "russian federation",
+   "listvyanka",
+   "moscow",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 700.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "via Irkutsk (IKT)",
+  "notes": "typical Baikal base (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "San Marino Old Town Hotel",
+  "area": "City of San Marino",
+  "city": "San Marino",
+  "regions": [
+   "san marino",
+   "republic of san marino",
+   "city of san marino",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 130,
+  "distance_to_airport_mi": 40.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "via Rimini (RMI) or Ancona (AOI)",
+  "notes": "typical old-town property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Belgrade City Center Hotel",
+  "area": "Belgrade",
+  "city": "Belgrade",
+  "regions": [
+   "serbia",
+   "serbian",
+   "belgrade",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 100,
+  "distance_to_airport_mi": 20.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "BEG (Belgrade Nikola Tesla)",
+  "notes": "typical center property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Fruška Gora Mountain Hotel",
+  "area": "Fruška Gora",
+  "city": "Fruška Gora",
+  "regions": [
+   "serbia",
+   "serbian",
+   "fruska gora",
+   "belgrade",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 100.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "BEG (Belgrade) + 1.5h drive",
+  "notes": "typical mountain base (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Bratislava City Center Hotel",
+  "area": "Bratislava",
+  "city": "Bratislava",
+  "regions": [
+   "slovakia",
+   "slovak",
+   "bratislava",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 110,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "BTS (Bratislava M. R. Štefánik)",
+  "notes": "typical center property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Poprad High Tatras Hotel",
+  "area": "High Tatras",
+  "city": "Poprad",
+  "regions": [
+   "slovakia",
+   "slovak",
+   "poprad",
+   "bratislava",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": 150.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "BTS (Bratislava) + 2h drive",
+  "notes": "typical Tatra base (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Ljubljana City Center Hotel",
+  "area": "Ljubljana",
+  "city": "Ljubljana",
+  "regions": [
+   "slovenia",
+   "slovenian",
+   "ljubljana",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 130,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "LJU (Ljubljana Jože Pučnik)",
+  "notes": "typical center property (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Bled Lake Hotel",
+  "area": "Lake Bled",
+  "city": "Bled",
+  "regions": [
+   "slovenia",
+   "slovenian",
+   "bled",
+   "ljubljana",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 70.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "LJU (Ljubljana) + 1h drive",
+  "notes": "typical lakeside property (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Piran Old Town Hotel",
+  "area": "Piran",
+  "city": "Piran",
+  "regions": [
+   "slovenia",
+   "slovenian",
+   "piran",
+   "ljubljana",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 120,
+  "distance_to_airport_mi": 90.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "LJU (Ljubljana) + 1.5h drive",
+  "notes": "typical old-town coastal property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Madrid City Center Hotel",
+  "area": "Madrid",
+  "city": "Madrid",
+  "regions": [
+   "spain",
+   "spanish",
+   "madrid",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "MAD (Madrid-Barajas)",
+  "notes": "typical center property (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Barcelona Eixample Hotel",
+  "area": "Eixample",
+  "city": "Barcelona",
+  "regions": [
+   "spain",
+   "spanish",
+   "barcelona",
+   "madrid",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "BCN (Barcelona El Prat)",
+  "notes": "typical center property (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Sevilla Old Town Hotel",
+  "area": "Sevilla",
+  "city": "Sevilla",
+  "regions": [
+   "spain",
+   "spanish",
+   "sevilla",
+   "madrid",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "SVQ (Sevilla)",
+  "notes": "typical old-town property (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Stockholm City Center Hotel",
+  "area": "Stockholm",
+  "city": "Stockholm",
+  "regions": [
+   "sweden",
+   "swedish",
+   "stockholm",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 20.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "ARN (Stockholm Arlanda)",
+  "notes": "typical center property (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Gothenburg Harbor Hotel",
+  "area": "Gothenburg",
+  "city": "Gothenburg",
+  "regions": [
+   "sweden",
+   "swedish",
+   "gothenburg",
+   "stockholm",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 10.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "GOT (Gothenburg Landvetter)",
+  "notes": "typical harbor property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Abisko Lapland Hotel",
+  "area": "Lapland",
+  "city": "Abisko",
+  "regions": [
+   "sweden",
+   "swedish",
+   "abisko",
+   "stockholm",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 800.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "via Kiruna (KRN)",
+  "notes": "typical Lapland base (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Zurich City Center Hotel",
+  "area": "Zurich",
+  "city": "Zurich",
+  "regions": [
+   "switzerland",
+   "swiss",
+   "confederation",
+   "zurich",
+   "bern",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 200,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "ZRH (Zurich)",
+  "notes": "typical center property (sample data)",
+  "rating": 4.4
+ },
+ {
+  "name": "Interlaken Alpine Hotel",
+  "area": "Interlaken",
+  "city": "Interlaken",
+  "regions": [
+   "switzerland",
+   "swiss",
+   "confederation",
+   "interlaken",
+   "bern",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 90.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "ZRH (Zurich) + 1.5h drive",
+  "notes": "typical Alps base (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Zermatt Matterhorn Hotel",
+  "area": "Zermatt",
+  "city": "Zermatt",
+  "regions": [
+   "switzerland",
+   "swiss",
+   "confederation",
+   "zermatt",
+   "bern",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 250,
+  "distance_to_airport_mi": 150.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "ZRH (Zurich) + 2.5h drive",
+  "notes": "typical Matterhorn base (sample data)",
+  "rating": 4.5
+ },
+ {
+  "name": "Kyiv City Center Hotel",
+  "area": "Kyiv",
+  "city": "Kyiv",
+  "regions": [
+   "ukraine",
+   "ukrainian",
+   "kyiv",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 90,
+  "distance_to_airport_mi": 25.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "IEV (Kyiv Boryspil)",
+  "notes": "typical center property (sample data)",
+  "rating": 4.1
+ },
+ {
+  "name": "Lviv Old Town Hotel",
+  "area": "Lviv",
+  "city": "Lviv",
+  "regions": [
+   "ukraine",
+   "ukrainian",
+   "lviv",
+   "kyiv",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "LWO (Lviv)",
+  "notes": "typical old-town property (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Edinburgh Castle View Hotel",
+  "area": "Edinburgh",
+  "city": "Edinburgh",
+  "regions": [
+   "united kingdom",
+   "uk",
+   "britain",
+   "great britain",
+   "england",
+   "scotland",
+   "wales",
+   "edinburgh",
+   "london",
+   "europe"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 15.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "EDI (Edinburgh)",
+  "notes": "typical castle-view property (sample data)",
+  "rating": 4.3
+ },
+ {
+  "name": "Lake District Hotel",
+  "area": "Lake District",
+  "city": "Windermere",
+  "regions": [
+   "united kingdom",
+   "uk",
+   "britain",
+   "great britain",
+   "england",
+   "scotland",
+   "wales",
+   "windermere",
+   "london",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 150.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "via Manchester (MAN) or London (LHR)",
+  "notes": "typical lakeside property (sample data)",
+  "rating": 4.2
+ },
+ {
+  "name": "Pristina City Center Hotel",
+  "area": "Pristina",
+  "city": "Pristina",
+  "regions": [
+   "kosovo",
+   "republic of kosovo",
+   "pristina",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 75,
+  "distance_to_airport_mi": 10.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "PRN (Pristina)",
+  "notes": "typical city property (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Prizren Old Town Hotel",
+  "area": "Prizren",
+  "city": "Prizren",
+  "regions": [
+   "kosovo",
+   "republic of kosovo",
+   "prizren",
+   "pristina",
+   "europe"
+  ],
+  "stars": 3,
+  "price_usd": 70,
+  "distance_to_airport_mi": 60.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "PRN (Pristina) + 1h drive",
+  "notes": "typical old-town property (sample data)",
+  "rating": 4.0
+ },
+ {
+  "name": "Algiers City Hotel",
+  "area": "Algiers",
+  "city": "Algiers",
+  "regions": [
+   "algeria",
+   "algiers",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 115,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Algiers Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Annaba Garden Hotel",
+  "area": "Annaba",
+  "city": "Annaba",
+  "regions": [
+   "algeria",
+   "annaba",
+   "algiers",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Algiers Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Luanda City Hotel",
+  "area": "Luanda",
+  "city": "Luanda",
+  "regions": [
+   "angola",
+   "luanda",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 115,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Luanda Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Benguela Garden Hotel",
+  "area": "Benguela",
+  "city": "Benguela",
+  "regions": [
+   "angola",
+   "benguela",
+   "luanda",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Luanda Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Porto-Novo City Hotel",
+  "area": "Porto-Novo",
+  "city": "Porto-Novo",
+  "regions": [
+   "benin",
+   "porto-novo",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 125,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Porto-Novo Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Abomey Garden Hotel",
+  "area": "Abomey",
+  "city": "Abomey",
+  "regions": [
+   "benin",
+   "abomey",
+   "porto-novo",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Porto-Novo Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.4
+ },
+ {
+  "name": "Gaborone City Hotel",
+  "area": "Gaborone",
+  "city": "Gaborone",
+  "regions": [
+   "botswana",
+   "gaborone",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Gaborone Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Francistown Garden Hotel",
+  "area": "Francistown",
+  "city": "Francistown",
+  "regions": [
+   "botswana",
+   "francistown",
+   "gaborone",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Gaborone Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Ouagadougou City Hotel",
+  "area": "Ouagadougou",
+  "city": "Ouagadougou",
+  "regions": [
+   "burkina faso",
+   "ouagadougou",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 135,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Ouagadougou Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Banfora Garden Hotel",
+  "area": "Banfora",
+  "city": "Banfora",
+  "regions": [
+   "burkina faso",
+   "banfora",
+   "ouagadougou",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Ouagadougou Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Gitega City Hotel",
+  "area": "Gitega",
+  "city": "Gitega",
+  "regions": [
+   "burundi",
+   "gitega",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Gitega Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Bujumbura Garden Hotel",
+  "area": "Bujumbura",
+  "city": "Bujumbura",
+  "regions": [
+   "burundi",
+   "bujumbura",
+   "gitega",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Gitega Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.4
+ },
+ {
+  "name": "main town City Hotel",
+  "area": "main town",
+  "city": "main town",
+  "regions": [
+   "cabo verde",
+   "cape verde",
+   "main town",
+   "praia",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 125,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "main town Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Yaoundé<ref name=\"CIA\">{{Cite CIA World Factbook City Hotel",
+  "area": "Yaoundé<ref name=\"CIA\">{{Cite CIA World Factbook",
+  "city": "Yaoundé<ref name=\"CIA\">{{Cite CIA World Factbook",
+  "regions": [
+   "cameroon",
+   "yaounde<ref name=\"cia\">{{cite cia world factbook",
+   "yaounde",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 115,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Yaoundé<ref name=\"CIA\">{{Cite CIA World Factbook Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Bafoussam Garden Hotel",
+  "area": "Bafoussam",
+  "city": "Bafoussam",
+  "regions": [
+   "cameroon",
+   "bafoussam",
+   "yaounde",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Yaoundé<ref name=\"CIA\">{{Cite CIA World Factbook Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Bangui City Hotel",
+  "area": "Bangui",
+  "city": "Bangui",
+  "regions": [
+   "central african republic",
+   "car",
+   "bangui",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Bangui Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Bambari Garden Hotel",
+  "area": "Bambari",
+  "city": "Bambari",
+  "regions": [
+   "central african republic",
+   "car",
+   "bambari",
+   "bangui",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Bangui Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "N'Djamena City Hotel",
+  "area": "N'Djamena",
+  "city": "N'Djamena",
+  "regions": [
+   "chad",
+   "n'djamena",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 115,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "N'Djamena Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Moundou Garden Hotel",
+  "area": "Moundou",
+  "city": "Moundou",
+  "regions": [
+   "chad",
+   "moundou",
+   "n'djamena",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "N'Djamena Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Moroni, Comoros City Hotel",
+  "area": "Moroni, Comoros",
+  "city": "Moroni, Comoros",
+  "regions": [
+   "comoros",
+   "moroni, comoros",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 125,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Moroni, Comoros Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Nioumachoua Garden Hotel",
+  "area": "Nioumachoua",
+  "city": "Nioumachoua",
+  "regions": [
+   "comoros",
+   "nioumachoua",
+   "moroni, comoros",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Moroni, Comoros Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Brazzaville City Hotel",
+  "area": "Brazzaville",
+  "city": "Brazzaville",
+  "regions": [
+   "congo (republic)",
+   "republic of the congo",
+   "congo-brazzaville",
+   "brazzaville",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 135,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Brazzaville Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Pointe-Noire_(Republic_of_the_Congo) Garden Hotel",
+  "area": "Pointe-Noire_(Republic_of_the_Congo)",
+  "city": "Pointe-Noire_(Republic_of_the_Congo)",
+  "regions": [
+   "congo (republic)",
+   "republic of the congo",
+   "congo-brazzaville",
+   "pointe-noire_(republic_of_the_congo)",
+   "brazzaville",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Brazzaville Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Abidjan City Hotel",
+  "area": "Abidjan",
+  "city": "Abidjan",
+  "regions": [
+   "cote d'ivoire",
+   "ivory coast",
+   "abidjan",
+   "yamoussoukro",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 105,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Abidjan Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Yamoussoukro Garden Hotel",
+  "area": "Yamoussoukro",
+  "city": "Yamoussoukro",
+  "regions": [
+   "cote d'ivoire",
+   "ivory coast",
+   "yamoussoukro",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Abidjan Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Kinshasa City Hotel",
+  "area": "Kinshasa",
+  "city": "Kinshasa",
+  "regions": [
+   "dr congo",
+   "democratic republic of the congo",
+   "drc",
+   "kinshasa",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Kinshasa Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Bukavu Garden Hotel",
+  "area": "Bukavu",
+  "city": "Bukavu",
+  "regions": [
+   "dr congo",
+   "democratic republic of the congo",
+   "drc",
+   "bukavu",
+   "kinshasa",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Kinshasa Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Djibouti City City Hotel",
+  "area": "Djibouti City",
+  "city": "Djibouti City",
+  "regions": [
+   "djibouti",
+   "djibouti city",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Djibouti City Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Cairo City Hotel",
+  "area": "Cairo",
+  "city": "Cairo",
+  "regions": [
+   "egypt",
+   "cairo",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Cairo Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Middle Egypt Garden Hotel",
+  "area": "Middle Egypt",
+  "city": "Middle Egypt",
+  "regions": [
+   "egypt",
+   "middle egypt",
+   "cairo",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Cairo Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Ciudad de la Paz<br/> {{Coord City Hotel",
+  "area": "Ciudad de la Paz<br/> {{Coord",
+  "city": "Ciudad de la Paz<br/> {{Coord",
+  "regions": [
+   "equatorial guinea",
+   "ciudad de la paz<br/> {{coord",
+   "malabo",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Ciudad de la Paz<br/> {{Coord Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Bata Garden Hotel",
+  "area": "Bata",
+  "city": "Bata",
+  "regions": [
+   "equatorial guinea",
+   "bata",
+   "malabo",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Ciudad de la Paz<br/> {{Coord Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Asmara City Hotel",
+  "area": "Asmara",
+  "city": "Asmara",
+  "regions": [
+   "eritrea",
+   "asmara",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 115,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Asmara Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Keren Garden Hotel",
+  "area": "Keren",
+  "city": "Keren",
+  "regions": [
+   "eritrea",
+   "keren",
+   "asmara",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Asmara Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "{{plainlist City Hotel",
+  "area": "{{plainlist",
+  "city": "{{plainlist",
+  "regions": [
+   "eswatini",
+   "swaziland",
+   "{{plainlist",
+   "mbabane",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 135,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "{{plainlist Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Lobamba Garden Hotel",
+  "area": "Lobamba",
+  "city": "Lobamba",
+  "regions": [
+   "eswatini",
+   "swaziland",
+   "lobamba",
+   "mbabane",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "{{plainlist Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Addis Ababa City Hotel",
+  "area": "Addis Ababa",
+  "city": "Addis Ababa",
+  "regions": [
+   "ethiopia",
+   "addis ababa",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Addis Ababa Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Adama Garden Hotel",
+  "area": "Adama",
+  "city": "Adama",
+  "regions": [
+   "ethiopia",
+   "adama",
+   "addis ababa",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Addis Ababa Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Libreville City Hotel",
+  "area": "Libreville",
+  "city": "Libreville",
+  "regions": [
+   "gabon",
+   "libreville",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Libreville Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Franceville Garden Hotel",
+  "area": "Franceville",
+  "city": "Franceville",
+  "regions": [
+   "gabon",
+   "franceville",
+   "libreville",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Libreville Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Banjul City Hotel",
+  "area": "Banjul",
+  "city": "Banjul",
+  "regions": [
+   "gambia",
+   "banjul",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 125,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Banjul Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Bintang Garden Hotel",
+  "area": "Bintang",
+  "city": "Bintang",
+  "regions": [
+   "gambia",
+   "bintang",
+   "banjul",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Banjul Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Accra City Hotel",
+  "area": "Accra",
+  "city": "Accra",
+  "regions": [
+   "ghana",
+   "accra",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 135,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Accra Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Cape Coast Garden Hotel",
+  "area": "Cape Coast",
+  "city": "Cape Coast",
+  "regions": [
+   "ghana",
+   "cape coast",
+   "accra",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Accra Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Conakry City Hotel",
+  "area": "Conakry",
+  "city": "Conakry",
+  "regions": [
+   "guinea",
+   "conakry",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Conakry Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Dalaba Garden Hotel",
+  "area": "Dalaba",
+  "city": "Dalaba",
+  "regions": [
+   "guinea",
+   "dalaba",
+   "conakry",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Conakry Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Bissau City Hotel",
+  "area": "Bissau",
+  "city": "Bissau",
+  "regions": [
+   "guinea-bissau",
+   "bissau",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Bissau Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Bafatá Garden Hotel",
+  "area": "Bafatá",
+  "city": "Bafatá",
+  "regions": [
+   "guinea-bissau",
+   "bafata",
+   "bissau",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Bissau Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "hotels",
+  "area": "hotels",
+  "city": "Nairobi",
+  "regions": [
+   "kenya",
+   "nairobi",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Guest houses",
+  "area": "Guest houses",
+  "city": "Nairobi",
+  "regions": [
+   "kenya",
+   "nairobi",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Maseru City Hotel",
+  "area": "Maseru",
+  "city": "Maseru",
+  "regions": [
+   "lesotho",
+   "maseru",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 135,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Maseru Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Leribe Garden Hotel",
+  "area": "Leribe",
+  "city": "Leribe",
+  "regions": [
+   "lesotho",
+   "leribe",
+   "maseru",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Maseru Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Monrovia City Hotel",
+  "area": "Monrovia",
+  "city": "Monrovia",
+  "regions": [
+   "liberia",
+   "monrovia",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Monrovia Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Robertsport Garden Hotel",
+  "area": "Robertsport",
+  "city": "Robertsport",
+  "regions": [
+   "liberia",
+   "robertsport",
+   "monrovia",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Monrovia Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Tripoli, Libya City Hotel",
+  "area": "Tripoli, Libya",
+  "city": "Tripoli, Libya",
+  "regions": [
+   "libya",
+   "tripoli, libya",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 105,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Tripoli, Libya Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Benghazi Garden Hotel",
+  "area": "Benghazi",
+  "city": "Benghazi",
+  "regions": [
+   "libya",
+   "benghazi",
+   "tripoli, libya",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Tripoli, Libya Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Antananarivo City Hotel",
+  "area": "Antananarivo",
+  "city": "Antananarivo",
+  "regions": [
+   "madagascar",
+   "antananarivo",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 125,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Antananarivo Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Antsiranana Province Garden Hotel",
+  "area": "Antsiranana Province",
+  "city": "Antsiranana Province",
+  "regions": [
+   "madagascar",
+   "antsiranana province",
+   "antananarivo",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Antananarivo Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Lilongwe City Hotel",
+  "area": "Lilongwe",
+  "city": "Lilongwe",
+  "regions": [
+   "malawi",
+   "lilongwe",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 105,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Lilongwe Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Blantyre Garden Hotel",
+  "area": "Blantyre",
+  "city": "Blantyre",
+  "regions": [
+   "malawi",
+   "blantyre",
+   "lilongwe",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Lilongwe Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.4
+ },
+ {
+  "name": "Bamako City Hotel",
+  "area": "Bamako",
+  "city": "Bamako",
+  "regions": [
+   "mali",
+   "bamako",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 135,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Bamako Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Gao Garden Hotel",
+  "area": "Gao",
+  "city": "Gao",
+  "regions": [
+   "mali",
+   "gao",
+   "bamako",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Bamako Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Nouakchott City Hotel",
+  "area": "Nouakchott",
+  "city": "Nouakchott",
+  "regions": [
+   "mauritania",
+   "nouakchott",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 135,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Nouakchott Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Atar Garden Hotel",
+  "area": "Atar",
+  "city": "Atar",
+  "regions": [
+   "mauritania",
+   "atar",
+   "nouakchott",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Nouakchott Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Port Louis City Hotel",
+  "area": "Port Louis",
+  "city": "Port Louis",
+  "regions": [
+   "mauritius",
+   "port louis",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 115,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Port Louis Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Curepipe Garden Hotel",
+  "area": "Curepipe",
+  "city": "Curepipe",
+  "regions": [
+   "mauritius",
+   "curepipe",
+   "port louis",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Port Louis Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Rabat City Hotel",
+  "area": "Rabat",
+  "city": "Rabat",
+  "regions": [
+   "morocco",
+   "rabat",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 105,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Rabat Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Agadir Garden Hotel",
+  "area": "Agadir",
+  "city": "Agadir",
+  "regions": [
+   "morocco",
+   "agadir",
+   "rabat",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Rabat Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Maputo City Hotel",
+  "area": "Maputo",
+  "city": "Maputo",
+  "regions": [
+   "mozambique",
+   "maputo",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Maputo Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Beira Garden Hotel",
+  "area": "Beira",
+  "city": "Beira",
+  "regions": [
+   "mozambique",
+   "beira",
+   "maputo",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Maputo Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Windhoek City Hotel",
+  "area": "Windhoek",
+  "city": "Windhoek",
+  "regions": [
+   "namibia",
+   "windhoek",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 135,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Windhoek Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Gobabis Garden Hotel",
+  "area": "Gobabis",
+  "city": "Gobabis",
+  "regions": [
+   "namibia",
+   "gobabis",
+   "windhoek",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Windhoek Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Niamey City Hotel",
+  "area": "Niamey",
+  "city": "Niamey",
+  "regions": [
+   "niger",
+   "niamey",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 105,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Niamey Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Agadez Garden Hotel",
+  "area": "Agadez",
+  "city": "Agadez",
+  "regions": [
+   "niger",
+   "agadez",
+   "niamey",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Niamey Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Abuja City Hotel",
+  "area": "Abuja",
+  "city": "Abuja",
+  "regions": [
+   "nigeria",
+   "abuja",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 115,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Abuja Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Benin City Garden Hotel",
+  "area": "Benin City",
+  "city": "Benin City",
+  "regions": [
+   "nigeria",
+   "benin city",
+   "abuja",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Abuja Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Kigali Marriott Hotel",
+  "area": "Kigali Marriott Hotel",
+  "city": "Kigali",
+  "regions": [
+   "rwanda",
+   "kigali",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 50,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Radisson Blu Hotel & Convention Centre",
+  "area": "Radisson Blu Hotel & Convention Centre",
+  "city": "Kigali",
+  "regions": [
+   "rwanda",
+   "kigali",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 50,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Mövenpick Hotel Kigali",
+  "area": "Mövenpick Hotel Kigali",
+  "city": "Kigali",
+  "regions": [
+   "rwanda",
+   "kigali",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 50,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Hotel des Mille Collines",
+  "area": "Hotel des Mille Collines",
+  "city": "Kigali",
+  "regions": [
+   "rwanda",
+   "kigali",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 50,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "São Tomé City Hotel",
+  "area": "São Tomé",
+  "city": "São Tomé",
+  "regions": [
+   "sao tome and principe",
+   "sao tome",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "São Tomé Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Dakar City Hotel",
+  "area": "Dakar",
+  "city": "Dakar",
+  "regions": [
+   "senegal",
+   "dakar",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 135,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Dakar Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Saint-Louis Garden Hotel",
+  "area": "Saint-Louis",
+  "city": "Saint-Louis",
+  "regions": [
+   "senegal",
+   "saint-louis",
+   "dakar",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Dakar Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Victoria, Seychelles City Hotel",
+  "area": "Victoria, Seychelles",
+  "city": "Victoria, Seychelles",
+  "regions": [
+   "seychelles",
+   "victoria, seychelles",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Victoria, Seychelles Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Beau Vallon Garden Hotel",
+  "area": "Beau Vallon",
+  "city": "Beau Vallon",
+  "regions": [
+   "seychelles",
+   "beau vallon",
+   "victoria, seychelles",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Victoria, Seychelles Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Freetown City Hotel",
+  "area": "Freetown",
+  "city": "Freetown",
+  "regions": [
+   "sierra leone",
+   "freetown",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Freetown Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Bonthe Garden Hotel",
+  "area": "Bonthe",
+  "city": "Bonthe",
+  "regions": [
+   "sierra leone",
+   "bonthe",
+   "freetown",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Freetown Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.4
+ },
+ {
+  "name": "Mogadishu City Hotel",
+  "area": "Mogadishu",
+  "city": "Mogadishu",
+  "regions": [
+   "somalia",
+   "mogadishu",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 135,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Mogadishu Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Kismayo Garden Hotel",
+  "area": "Kismayo",
+  "city": "Kismayo",
+  "regions": [
+   "somalia",
+   "kismayo",
+   "mogadishu",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Mogadishu Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "<div style=\"font-size: inherit\"> Pretoria (executive){{efn City Hotel",
+  "area": "<div style=\"font-size: inherit\"> Pretoria (executive){{efn",
+  "city": "<div style=\"font-size: inherit\"> Pretoria (executive){{efn",
+  "regions": [
+   "south africa",
+   "<div style=\"font-size: inherit\"> pretoria (executive){{efn",
+   "pretoria",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 125,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "<div style=\"font-size: inherit\"> Pretoria (executive){{efn Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Cape Town Garden Hotel",
+  "area": "Cape Town",
+  "city": "Cape Town",
+  "regions": [
+   "south africa",
+   "cape town",
+   "pretoria",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "<div style=\"font-size: inherit\"> Pretoria (executive){{efn Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Juba City Hotel",
+  "area": "Juba",
+  "city": "Juba",
+  "regions": [
+   "south sudan",
+   "juba",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 115,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Juba Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Aweil Garden Hotel",
+  "area": "Aweil",
+  "city": "Aweil",
+  "regions": [
+   "south sudan",
+   "aweil",
+   "juba",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Juba Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Khartoum City Hotel",
+  "area": "Khartoum",
+  "city": "Khartoum",
+  "regions": [
+   "sudan",
+   "khartoum",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 135,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Khartoum Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Abyei Garden Hotel",
+  "area": "Abyei",
+  "city": "Abyei",
+  "regions": [
+   "sudan",
+   "abyei",
+   "khartoum",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 190,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Khartoum Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Dodoma City Hotel",
+  "area": "Dodoma",
+  "city": "Dodoma",
+  "regions": [
+   "tanzania",
+   "dodoma",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 125,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Dodoma Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Arusha Garden Hotel",
+  "area": "Arusha",
+  "city": "Arusha",
+  "regions": [
+   "tanzania",
+   "arusha",
+   "dodoma",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Dodoma Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Lomé City Hotel",
+  "area": "Lomé",
+  "city": "Lomé",
+  "regions": [
+   "togo",
+   "lome",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Lomé Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Aneho Garden Hotel",
+  "area": "Aneho",
+  "city": "Aneho",
+  "regions": [
+   "togo",
+   "aneho",
+   "lome",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Lomé Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.4
+ },
+ {
+  "name": "Tunis City Hotel",
+  "area": "Tunis",
+  "city": "Tunis",
+  "regions": [
+   "tunisia",
+   "tunis",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Tunis Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Gabes Garden Hotel",
+  "area": "Gabes",
+  "city": "Gabes",
+  "regions": [
+   "tunisia",
+   "gabes",
+   "tunis",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Tunis Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Kampala City Hotel",
+  "area": "Kampala",
+  "city": "Kampala",
+  "regions": [
+   "uganda",
+   "kampala",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 115,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Kampala Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Arua Garden Hotel",
+  "area": "Arua",
+  "city": "Arua",
+  "regions": [
+   "uganda",
+   "arua",
+   "kampala",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 170,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Kampala Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Lusaka City Hotel",
+  "area": "Lusaka",
+  "city": "Lusaka",
+  "regions": [
+   "zambia",
+   "lusaka",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Lusaka Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Chingola Garden Hotel",
+  "area": "Chingola",
+  "city": "Chingola",
+  "regions": [
+   "zambia",
+   "chingola",
+   "lusaka",
+   "africa"
+  ],
+  "stars": 4,
+  "price_usd": 140,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Lusaka Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Harare{{efn City Hotel",
+  "area": "Harare{{efn",
+  "city": "Harare{{efn",
+  "regions": [
+   "zimbabwe",
+   "harare{{efn",
+   "harare",
+   "africa"
+  ],
+  "stars": 3,
+  "price_usd": 85,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Harare{{efn Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Kabul City Hotel",
+  "area": "Kabul",
+  "city": "Kabul",
+  "regions": [
+   "afghanistan",
+   "kabul",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Kabul Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Balkh Garden Hotel",
+  "area": "Balkh",
+  "city": "Balkh",
+  "regions": [
+   "afghanistan",
+   "balkh",
+   "kabul",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 135,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Kabul Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Yerevan City Hotel",
+  "area": "Yerevan",
+  "city": "Yerevan",
+  "regions": [
+   "armenia",
+   "yerevan",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Yerevan Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Alaverdi Garden Hotel",
+  "area": "Alaverdi",
+  "city": "Alaverdi",
+  "regions": [
+   "armenia",
+   "alaverdi",
+   "yerevan",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 165,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Yerevan Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Baku City Hotel",
+  "area": "Baku",
+  "city": "Baku",
+  "regions": [
+   "azerbaijan",
+   "baku",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Baku Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Manama City Hotel",
+  "area": "Manama",
+  "city": "Manama",
+  "regions": [
+   "bahrain",
+   "manama",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Manama Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Hamad Town Garden Hotel",
+  "area": "Hamad Town",
+  "city": "Hamad Town",
+  "regions": [
+   "bahrain",
+   "hamad town",
+   "manama",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 195,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Manama Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Dhaka City Hotel",
+  "area": "Dhaka",
+  "city": "Dhaka",
+  "regions": [
+   "bangladesh",
+   "dhaka",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Dhaka Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Barisal Garden Hotel",
+  "area": "Barisal",
+  "city": "Barisal",
+  "regions": [
+   "bangladesh",
+   "barisal",
+   "dhaka",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 195,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Dhaka Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Thimphu City Hotel",
+  "area": "Thimphu",
+  "city": "Thimphu",
+  "regions": [
+   "bhutan",
+   "thimphu",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Thimphu Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Jakar Garden Hotel",
+  "area": "Jakar",
+  "city": "Jakar",
+  "regions": [
+   "bhutan",
+   "jakar",
+   "thimphu",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 165,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Thimphu Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Bandar Seri Begawan City Hotel",
+  "area": "Bandar Seri Begawan",
+  "city": "Bandar Seri Begawan",
+  "regions": [
+   "brunei",
+   "bandar seri begawan",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 125,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Bandar Seri Begawan Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Bangar Garden Hotel",
+  "area": "Bangar",
+  "city": "Bangar",
+  "regions": [
+   "brunei",
+   "bangar",
+   "bandar seri begawan",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Bandar Seri Begawan Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Phnom Penh City Hotel",
+  "area": "Phnom Penh",
+  "city": "Phnom Penh",
+  "regions": [
+   "cambodia",
+   "phnom penh",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Phnom Penh Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Banlung Garden Hotel",
+  "area": "Banlung",
+  "city": "Banlung",
+  "regions": [
+   "cambodia",
+   "banlung",
+   "phnom penh",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Phnom Penh Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Beijing City Hotel",
+  "area": "Beijing",
+  "city": "Beijing",
+  "regions": [
+   "china",
+   "beijing",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Beijing Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Chengdu Garden Hotel",
+  "area": "Chengdu",
+  "city": "Chengdu",
+  "regions": [
+   "china",
+   "chengdu",
+   "beijing",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Beijing Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.4
+ },
+ {
+  "name": "Dili City Hotel",
+  "area": "Dili",
+  "city": "Dili",
+  "regions": [
+   "timor-leste",
+   "east timor",
+   "dili",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 70,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Dili Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "main town City Hotel",
+  "area": "main town",
+  "city": "main town",
+  "regions": [
+   "georgia",
+   "main town",
+   "tbilisi",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "main town Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "hotels",
+  "area": "hotels",
+  "city": "Delhi",
+  "regions": [
+   "india",
+   "delhi",
+   "new delhi",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 300,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Jakarta City Hotel",
+  "area": "Jakarta",
+  "city": "Jakarta",
+  "regions": [
+   "indonesia",
+   "jakarta",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Jakarta Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Bandung Garden Hotel",
+  "area": "Bandung",
+  "city": "Bandung",
+  "regions": [
+   "indonesia",
+   "bandung",
+   "jakarta",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 135,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Jakarta Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Tehran City Hotel",
+  "area": "Tehran",
+  "city": "Tehran",
+  "regions": [
+   "iran",
+   "tehran",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 70,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Tehran Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Hamedan Garden Hotel",
+  "area": "Hamedan",
+  "city": "Hamedan",
+  "regions": [
+   "iran",
+   "hamedan",
+   "tehran",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 125,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Tehran Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.4
+ },
+ {
+  "name": "Baghdad City Hotel",
+  "area": "Baghdad",
+  "city": "Baghdad",
+  "regions": [
+   "iraq",
+   "baghdad",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Baghdad Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Ar Rutba Garden Hotel",
+  "area": "Ar Rutba",
+  "city": "Ar Rutba",
+  "regions": [
+   "iraq",
+   "ar rutba",
+   "baghdad",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 195,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Baghdad Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Jerusalem (Status of Jerusalem City Hotel",
+  "area": "Jerusalem (Status of Jerusalem",
+  "city": "Jerusalem (Status of Jerusalem",
+  "regions": [
+   "israel",
+   "jerusalem (status of jerusalem",
+   "jerusalem (de facto)",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Jerusalem (Status of Jerusalem Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Tel Aviv Garden Hotel",
+  "area": "Tel Aviv",
+  "city": "Tel Aviv",
+  "regions": [
+   "israel",
+   "tel aviv",
+   "jerusalem (de facto)",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 165,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Jerusalem (Status of Jerusalem Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Hiroshima Garden Hotel",
+  "area": "Hiroshima",
+  "city": "Hiroshima",
+  "regions": [
+   "japan",
+   "hiroshima",
+   "tokyo",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 135,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Tokyo Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Amman City Hotel",
+  "area": "Amman",
+  "city": "Amman",
+  "regions": [
+   "jordan",
+   "amman",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 70,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Amman Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Aqaba Garden Hotel",
+  "area": "Aqaba",
+  "city": "Aqaba",
+  "regions": [
+   "jordan",
+   "aqaba",
+   "amman",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 125,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Amman Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Astana City Hotel",
+  "area": "Astana",
+  "city": "Astana",
+  "regions": [
+   "kazakhstan",
+   "astana",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 70,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Astana Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Almaty Garden Hotel",
+  "area": "Almaty",
+  "city": "Almaty",
+  "regions": [
+   "kazakhstan",
+   "almaty",
+   "astana",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 125,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Astana Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Pyongyang City Hotel",
+  "area": "Pyongyang",
+  "city": "Pyongyang",
+  "regions": [
+   "north korea",
+   "korea (north)",
+   "pyongyang",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Pyongyang Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Seoul City Hotel",
+  "area": "Seoul",
+  "city": "Seoul",
+  "regions": [
+   "south korea",
+   "korea (south)",
+   "seoul",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Seoul Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Busan Garden Hotel",
+  "area": "Busan",
+  "city": "Busan",
+  "regions": [
+   "south korea",
+   "korea (south)",
+   "busan",
+   "seoul",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 195,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Seoul Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Kuwait City City Hotel",
+  "area": "Kuwait City",
+  "city": "Kuwait City",
+  "regions": [
+   "kuwait",
+   "kuwait city",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Kuwait City Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Jahra Garden Hotel",
+  "area": "Jahra",
+  "city": "Jahra",
+  "regions": [
+   "kuwait",
+   "jahra",
+   "kuwait city",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 135,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Kuwait City Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "hotels",
+  "area": "hotels",
+  "city": "Bishkek",
+  "regions": [
+   "kyrgyzstan",
+   "bishkek",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 200,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Vientiane City Hotel",
+  "area": "Vientiane",
+  "city": "Vientiane",
+  "regions": [
+   "laos",
+   "vientiane",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Vientiane Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Huay Xai Garden Hotel",
+  "area": "Huay Xai",
+  "city": "Huay Xai",
+  "regions": [
+   "laos",
+   "huay xai",
+   "vientiane",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 165,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Vientiane Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Beirut City Hotel",
+  "area": "Beirut",
+  "city": "Beirut",
+  "regions": [
+   "lebanon",
+   "beirut",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Beirut Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Tripoli (Lebanon) Garden Hotel",
+  "area": "Tripoli (Lebanon)",
+  "city": "Tripoli (Lebanon)",
+  "regions": [
+   "lebanon",
+   "tripoli (lebanon)",
+   "beirut",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 135,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Beirut Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Kuala Lumpur City Hotel",
+  "area": "Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "regions": [
+   "malaysia",
+   "kuala lumpur",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Kuala Lumpur Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "George Town (Malaysia) Garden Hotel",
+  "area": "George Town (Malaysia)",
+  "city": "George Town (Malaysia)",
+  "regions": [
+   "malaysia",
+   "george town (malaysia)",
+   "kuala lumpur",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 195,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Kuala Lumpur Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Dive resorts",
+  "area": "Dive resorts",
+  "city": "Malé",
+  "regions": [
+   "maldives",
+   "male",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Holiday resorts",
+  "area": "Holiday resorts",
+  "city": "Malé",
+  "regions": [
+   "maldives",
+   "male",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Luxury resorts",
+  "area": "Luxury resorts",
+  "city": "Malé",
+  "regions": [
+   "maldives",
+   "male",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "overwater bungalow",
+  "area": "overwater bungalow",
+  "city": "Malé",
+  "regions": [
+   "maldives",
+   "male",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Ulaanbaatar City Hotel",
+  "area": "Ulaanbaatar",
+  "city": "Ulaanbaatar",
+  "regions": [
+   "mongolia",
+   "ulaanbaatar",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 125,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Ulaanbaatar Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Choibalsan Garden Hotel",
+  "area": "Choibalsan",
+  "city": "Choibalsan",
+  "regions": [
+   "mongolia",
+   "choibalsan",
+   "ulaanbaatar",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Ulaanbaatar Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.4
+ },
+ {
+  "name": "Naypyidaw City Hotel",
+  "area": "Naypyidaw",
+  "city": "Naypyidaw",
+  "regions": [
+   "myanmar",
+   "naypyidaw",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Naypyidaw Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Bago (Myanmar) Garden Hotel",
+  "area": "Bago (Myanmar)",
+  "city": "Bago (Myanmar)",
+  "regions": [
+   "myanmar",
+   "bago (myanmar)",
+   "naypyidaw",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 165,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Naypyidaw Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Kathmandu City Hotel",
+  "area": "Kathmandu",
+  "city": "Kathmandu",
+  "regions": [
+   "nepal",
+   "kathmandu",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 125,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Kathmandu Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Bhaktapur Garden Hotel",
+  "area": "Bhaktapur",
+  "city": "Bhaktapur",
+  "regions": [
+   "nepal",
+   "bhaktapur",
+   "kathmandu",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Kathmandu Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.4
+ },
+ {
+  "name": "Muscat City Hotel",
+  "area": "Muscat",
+  "city": "Muscat",
+  "regions": [
+   "oman",
+   "muscat",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Muscat Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Bahla Garden Hotel",
+  "area": "Bahla",
+  "city": "Bahla",
+  "regions": [
+   "oman",
+   "bahla",
+   "muscat",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Muscat Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.4
+ },
+ {
+  "name": "Islamabad City Hotel",
+  "area": "Islamabad",
+  "city": "Islamabad",
+  "regions": [
+   "pakistan",
+   "islamabad",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Islamabad Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Faisalabad Garden Hotel",
+  "area": "Faisalabad",
+  "city": "Faisalabad",
+  "regions": [
+   "pakistan",
+   "faisalabad",
+   "islamabad",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 195,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Islamabad Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Jerusalem (de facto) City Hotel",
+  "area": "Jerusalem (de facto)",
+  "city": "Jerusalem (de facto)",
+  "regions": [
+   "palestine",
+   "jerusalem (de facto)",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Jerusalem (de facto) Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Manila City Hotel",
+  "area": "Manila",
+  "city": "Manila",
+  "regions": [
+   "philippines",
+   "manila",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 95,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Manila Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Bacolod Garden Hotel",
+  "area": "Bacolod",
+  "city": "Bacolod",
+  "regions": [
+   "philippines",
+   "bacolod",
+   "manila",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 150,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Manila Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.4
+ },
+ {
+  "name": "Doha City Hotel",
+  "area": "Doha",
+  "city": "Doha",
+  "regions": [
+   "qatar",
+   "doha",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Doha Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Al Khor Garden Hotel",
+  "area": "Al Khor",
+  "city": "Al Khor",
+  "regions": [
+   "qatar",
+   "al khor",
+   "doha",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 195,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Doha Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Riyadh City Hotel",
+  "area": "Riyadh",
+  "city": "Riyadh",
+  "regions": [
+   "saudi arabia",
+   "riyadh",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Riyadh Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Abha Garden Hotel",
+  "area": "Abha",
+  "city": "Abha",
+  "regions": [
+   "saudi arabia",
+   "abha",
+   "riyadh",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 165,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Riyadh Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Raffles Hotel",
+  "area": "Raffles Hotel",
+  "city": "Singapore/Riverside",
+  "regions": [
+   "singapore",
+   "singapore/riverside",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 200,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "bungalows",
+  "area": "bungalows",
+  "city": "Singapore/Riverside",
+  "regions": [
+   "singapore",
+   "singapore/riverside",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Colombo City Hotel",
+  "area": "Colombo",
+  "city": "Colombo",
+  "regions": [
+   "sri lanka",
+   "colombo",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 110,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Colombo Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Sri Jayawardenapura Kotte Garden Hotel",
+  "area": "Sri Jayawardenapura Kotte",
+  "city": "Sri Jayawardenapura Kotte",
+  "regions": [
+   "sri lanka",
+   "sri jayawardenapura kotte",
+   "colombo",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 165,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Colombo Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Damascus City Hotel",
+  "area": "Damascus",
+  "city": "Damascus",
+  "regions": [
+   "syria",
+   "damascus",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Damascus Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Aleppo Garden Hotel",
+  "area": "Aleppo",
+  "city": "Aleppo",
+  "regions": [
+   "syria",
+   "aleppo",
+   "damascus",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 135,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Damascus Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Hotels",
+  "area": "Hotels",
+  "city": "Dushanbe",
+  "regions": [
+   "tajikistan",
+   "dushanbe",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 70,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "MSDSP guesthouses",
+  "area": "MSDSP guesthouses",
+  "city": "Dushanbe",
+  "regions": [
+   "tajikistan",
+   "dushanbe",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 70,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Independent guesthouses",
+  "area": "Independent guesthouses",
+  "city": "Dushanbe",
+  "regions": [
+   "tajikistan",
+   "dushanbe",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 10,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Bangkok City Hotel",
+  "area": "Bangkok",
+  "city": "Bangkok",
+  "regions": [
+   "thailand",
+   "bangkok",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 125,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Bangkok Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Ayutthaya Garden Hotel",
+  "area": "Ayutthaya",
+  "city": "Ayutthaya",
+  "regions": [
+   "thailand",
+   "ayutthaya",
+   "bangkok",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 180,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Bangkok Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.4
+ },
+ {
+  "name": "Ankara City Hotel",
+  "area": "Ankara",
+  "city": "Ankara",
+  "regions": [
+   "turkiye",
+   "turkey",
+   "ankara",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 70,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Ankara Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Black Sea Turkey Garden Hotel",
+  "area": "Black Sea Turkey",
+  "city": "Black Sea Turkey",
+  "regions": [
+   "turkiye",
+   "turkey",
+   "black sea turkey",
+   "ankara",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 125,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Ankara Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Ashgabat City Hotel",
+  "area": "Ashgabat",
+  "city": "Ashgabat",
+  "regions": [
+   "turkmenistan",
+   "ashgabat",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 80,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Ashgabat Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Balkanabat Garden Hotel",
+  "area": "Balkanabat",
+  "city": "Balkanabat",
+  "regions": [
+   "turkmenistan",
+   "balkanabat",
+   "ashgabat",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 135,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Ashgabat Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Abu Dhabi City Hotel",
+  "area": "Abu Dhabi",
+  "city": "Abu Dhabi",
+  "regions": [
+   "united arab emirates",
+   "uae",
+   "abu dhabi",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Abu Dhabi Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Dubai Garden Hotel",
+  "area": "Dubai",
+  "city": "Dubai",
+  "regions": [
+   "united arab emirates",
+   "uae",
+   "dubai",
+   "abu dhabi",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 195,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Abu Dhabi Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Tashkent City Hotel",
+  "area": "Tashkent",
+  "city": "Tashkent",
+  "regions": [
+   "uzbekistan",
+   "tashkent",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Tashkent Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Andijan Garden Hotel",
+  "area": "Andijan",
+  "city": "Andijan",
+  "regions": [
+   "uzbekistan",
+   "andijan",
+   "tashkent",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 195,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Tashkent Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Hanoi City Hotel",
+  "area": "Hanoi",
+  "city": "Hanoi",
+  "regions": [
+   "vietnam",
+   "hanoi",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Hanoi Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Ho Chi Minh City Garden Hotel",
+  "area": "Ho Chi Minh City",
+  "city": "Ho Chi Minh City",
+  "regions": [
+   "vietnam",
+   "ho chi minh city",
+   "hanoi",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 195,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Hanoi Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Sana'a City Hotel",
+  "area": "Sana'a",
+  "city": "Sana'a",
+  "regions": [
+   "yemen",
+   "sana'a",
+   "sanaa",
+   "asia"
+  ],
+  "stars": 3,
+  "price_usd": 140,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Sana'a Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Aden Garden Hotel",
+  "area": "Aden",
+  "city": "Aden",
+  "regions": [
+   "yemen",
+   "aden",
+   "sanaa",
+   "asia"
+  ],
+  "stars": 4,
+  "price_usd": 195,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Sana'a Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "hotel",
+  "area": "hotel",
+  "city": "Canberra",
+  "regions": [
+   "australia",
+   "canberra",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 400,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "en-suite sites",
+  "area": "en-suite sites",
+  "city": "Canberra",
+  "regions": [
+   "australia",
+   "canberra",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 100,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Wellington City Hotel",
+  "area": "Wellington",
+  "city": "Wellington",
+  "regions": [
+   "new zealand",
+   "wellington",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 105,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Wellington Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "South Island Garden Hotel",
+  "area": "South Island",
+  "city": "South Island",
+  "regions": [
+   "new zealand",
+   "south island",
+   "wellington",
+   "oceania"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Wellington Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Suva City Hotel",
+  "area": "Suva",
+  "city": "Suva",
+  "regions": [
+   "fiji",
+   "suva",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 160,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Suva Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Lautoka Garden Hotel",
+  "area": "Lautoka",
+  "city": "Lautoka",
+  "regions": [
+   "fiji",
+   "lautoka",
+   "suva",
+   "oceania"
+  ],
+  "stars": 4,
+  "price_usd": 215,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Suva Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Port Moresby City Hotel",
+  "area": "Port Moresby",
+  "city": "Port Moresby",
+  "regions": [
+   "papua new guinea",
+   "png",
+   "port moresby",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Port Moresby Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Alotau Garden Hotel",
+  "area": "Alotau",
+  "city": "Alotau",
+  "regions": [
+   "papua new guinea",
+   "png",
+   "alotau",
+   "port moresby",
+   "oceania"
+  ],
+  "stars": 4,
+  "price_usd": 145,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Port Moresby Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Apia City Hotel",
+  "area": "Apia",
+  "city": "Apia",
+  "regions": [
+   "samoa",
+   "apia",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 105,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Apia Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Upolu Garden Hotel",
+  "area": "Upolu",
+  "city": "Upolu",
+  "regions": [
+   "samoa",
+   "upolu",
+   "apia",
+   "oceania"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Apia Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Nukuʻalofa City Hotel",
+  "area": "Nukuʻalofa",
+  "city": "Nukuʻalofa",
+  "regions": [
+   "tonga",
+   "nukuʻalofa",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 105,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Nukuʻalofa Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "ʻEua Garden Hotel",
+  "area": "ʻEua",
+  "city": "ʻEua",
+  "regions": [
+   "tonga",
+   "ʻeua",
+   "nukuʻalofa",
+   "oceania"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Nukuʻalofa Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Avarua City Hotel",
+  "area": "Avarua",
+  "city": "Avarua",
+  "regions": [
+   "cook islands",
+   "avarua",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 160,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Avarua Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Northern Cook Islands Garden Hotel",
+  "area": "Northern Cook Islands",
+  "city": "Northern Cook Islands",
+  "regions": [
+   "cook islands",
+   "northern cook islands",
+   "avarua",
+   "oceania"
+  ],
+  "stars": 4,
+  "price_usd": 215,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Avarua Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.5
+ },
+ {
+  "name": "Tarawa City Hotel",
+  "area": "Tarawa",
+  "city": "Tarawa",
+  "regions": [
+   "kiribati",
+   "tarawa",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 160,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Tarawa Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Gilbert Islands Garden Hotel",
+  "area": "Gilbert Islands",
+  "city": "Gilbert Islands",
+  "regions": [
+   "kiribati",
+   "gilbert islands",
+   "tarawa",
+   "oceania"
+  ],
+  "stars": 4,
+  "price_usd": 215,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Tarawa Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.4
+ },
+ {
+  "name": "Majuro City Hotel",
+  "area": "Majuro",
+  "city": "Majuro",
+  "regions": [
+   "marshall islands",
+   "majuro",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 105,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Majuro Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.1
+ },
+ {
+  "name": "Kwajalein Garden Hotel",
+  "area": "Kwajalein",
+  "city": "Kwajalein",
+  "regions": [
+   "marshall islands",
+   "kwajalein",
+   "majuro",
+   "oceania"
+  ],
+  "stars": 4,
+  "price_usd": 160,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Majuro Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ },
+ {
+  "name": "Hagåtña City Hotel",
+  "area": "Hagåtña",
+  "city": "Hagåtña",
+  "regions": [
+   "micronesia",
+   "federated states of micronesia",
+   "hagatna",
+   "palikir",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 160,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Hagåtña Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "Kolonia Garden Hotel",
+  "area": "Kolonia",
+  "city": "Kolonia",
+  "regions": [
+   "micronesia",
+   "federated states of micronesia",
+   "kolonia",
+   "palikir",
+   "oceania"
+  ],
+  "stars": 4,
+  "price_usd": 215,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Hagåtña Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "main town City Hotel",
+  "area": "main town",
+  "city": "main town",
+  "regions": [
+   "nauru",
+   "main town",
+   "yaren (de facto)",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 105,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "main town Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "guest house",
+  "area": "guest house",
+  "city": "Melekeok",
+  "regions": [
+   "palau",
+   "melekeok",
+   "ngerulmud",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 50,
+  "distance_to_airport_mi": null,
+  "distance_to_excursion_mi": null,
+  "airport": "",
+  "notes": "listed in Wikivoyage's Sleep section (CC BY-SA 4.0)"
+ },
+ {
+  "name": "Honiara City Hotel",
+  "area": "Honiara",
+  "city": "Honiara",
+  "regions": [
+   "solomon islands",
+   "honiara",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Honiara Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.0
+ },
+ {
+  "name": "New Georgia Islands Garden Hotel",
+  "area": "New Georgia Islands",
+  "city": "New Georgia Islands",
+  "regions": [
+   "solomon islands",
+   "new georgia islands",
+   "honiara",
+   "oceania"
+  ],
+  "stars": 4,
+  "price_usd": 145,
+  "distance_to_airport_mi": 9.0,
+  "distance_to_excursion_mi": 0.5,
+  "airport": "Honiara Intl",
+  "notes": "typical destination property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.2
+ },
+ {
+  "name": "Funafuti City Hotel",
+  "area": "Funafuti",
+  "city": "Funafuti",
+  "regions": [
+   "tuvalu",
+   "funafuti",
+   "oceania"
+  ],
+  "stars": 3,
+  "price_usd": 90,
+  "distance_to_airport_mi": 3.0,
+  "distance_to_excursion_mi": 1.0,
+  "airport": "Funafuti Intl",
+  "notes": "typical city property (sample data — see the Wikivoyage page for real listings)",
+  "rating": 4.3
+ }
+]

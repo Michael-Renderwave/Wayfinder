@@ -2,7 +2,7 @@
 Travel research agent for Emeritus Agentic Course
 
 ## Getting Started
-1. Download repo
+1. Clone the repo (or unzip)
 2. Install [uv](https://docs.astral.sh/uv/)
 3. Run `uv sync`
 4. Run `uv run python -m wayfinder` → http://localhost:8000

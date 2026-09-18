@@ -1,0 +1,570 @@
+[
+  {
+    "name": "Antigua and Barbuda",
+    "aliases": ["Antigua", "Barbuda", "Antigua & Barbuda"],
+    "capital": "St. John's",
+    "destinations": ["St. John's (Antigua)", "Barbuda", "English Harbour", "Falmouth"],
+    "landmarks": ["English Harbour & Nelson's Dockyard (UNESCO)", "Shoal Bay", "Red Bay"],
+    "dining": ["grilled lobster & fresh fish", "Antigua pepper sauce", "fresh tropical fruit & guava duff"],
+    "activities": ["'365 beaches' island hopping", "sailing & snorkeling", "kayaking around English Harbour"],
+    "stay": ["south-coast beachfront resorts (Antigua)", "Barbuda for a quieter stay"],
+    "tips": ["Best: November–April (dry trade-wind season)", "Ferry to Barbuda runs weather permitting — book ahead"],
+    "overview": "A twin-island Caribbean getaway: 365 named beaches on Antigua, the quiet, undeveloped island of Barbuda, and English Harbour's historic naval dockyard.",
+    "hotels": [
+      {"name": "St. John's City Hotel", "city": "St. John's", "area": "St. John's", "stars": 3, "price": 150, "rating": 4.2, "airport_mi": 10.0, "excursion_mi": 1.0, "airport": "ANU (V.C. Bird Intl)", "notes": "typical city property near the docks & markets (sample data)"},
+      {"name": "Falmouth Beachfront Hotel", "city": "Falmouth", "area": "Falmouth", "stars": 4, "price": 260, "rating": 4.4, "airport_mi": 12.0, "excursion_mi": 2.0, "airport": "ANU (V.C. Bird Intl)", "notes": "typical beachfront property (sample data)"}
+    ]
+  },
+  {
+    "name": "Argentina",
+    "aliases": ["Argentina", "Argentine"],
+    "capital": "Buenos Aires",
+    "destinations": ["Buenos Aires", "Patagonia (El Calafate, Ushuaia)", "Iguazú Falls", "Mendoza", "Bariloche", "Salta"],
+    "landmarks": ["Perito Moreno Glacier", "Iguazú Falls", "Aconcagua (world's highest outside Asia)", "Obelisco & Recoleta (Buenos Aires)"],
+    "dining": ["asado (slow-grilled beef)", "empanadas", "Malbec wine (Mendoza)", "dulce de leche & mate tea"],
+    "activities": ["glacier trekking (El Calafate)", "wine country (Mendoza)", "tango in Buenos Aires", "Patagonian hiking & fjords"],
+    "stay": ["Buenos Aires (Recoleta / Microcentro)", "El Calafate (glacier base)", "Mendoza (wine country)"],
+    "tips": ["Best: December–March (southern-hemisphere summer)", "Carry small bills — card coverage is patchy outside big cities"],
+    "overview": "South America's dramatic range: Patagonian glaciers, Iguazú Falls, world-class wine, and Buenos Aires — tango, steakhouses, and grand European architecture.",
+    "hotels": [
+      {"name": "Buenos Aires City Center Hotel", "city": "Buenos Aires", "area": "Microcentro", "stars": 4, "price": 170, "rating": 4.4, "airport_mi": 2.5, "excursion_mi": 4.0, "airport": "EZE (Ezeiza Intl)", "notes": "typical downtown property near the Obelisco (sample data)"},
+      {"name": "Recoleta Boutique Hotel", "city": "Buenos Aires", "area": "Recoleta", "stars": 4, "price": 220, "rating": 4.5, "airport_mi": 9.0, "excursion_mi": 0.8, "airport": "EZE (Ezeiza Intl)", "notes": "typical Recoleta property, walking distance to tango bars (sample data)"},
+      {"name": "El Calafate Airport Hotel", "city": "El Calafate", "area": "El Calafate", "stars": 3, "price": 130, "rating": 4.1, "airport_mi": 1.0, "excursion_mi": 3.0, "airport": "FTE (El Calafate)", "notes": "typical airport-area property, base for Perito Moreno (sample data)"}
+    ]
+  },
+  {
+    "name": "Bahamas",
+    "aliases": ["Bahamas", "The Bahamas", "New Providence"],
+    "capital": "Nassau",
+    "destinations": ["Nassau (New Providence)", "Paradise Island", "Exumas", "Andros", "Harbour Island"],
+    "landmarks": ["Pink Sand Beach (Harbour Island)", "Pig Beach (Exumas)", "Queen Elizabeth II Beach Park"],
+    "dining": ["conch salad & cracked conch", "peas & rice", "fresh lobster & snapper"],
+    "activities": ["swimming with pigs (Exumas)", "sandbar hopping", "snorkeling the reef", "wreck diving"],
+    "stay": ["Nassau & Paradise Island (resorts)", "Exumas cays (boutique)"],
+    "tips": ["Best: December–April", "Hurricane season runs June–November — check the season when booking"],
+    "overview": "700+ islands of bright turquoise water: Nassau's markets and casinos, Paradise Island resorts, and the Exumas' sandbars, reefs, and famous pigs.",
+    "hotels": [
+      {"name": "Nassau City Hotel", "city": "Nassau", "area": "Nassau", "stars": 3, "price": 160, "rating": 4.1, "airport_mi": 4.0, "excursion_mi": 1.0, "airport": "NAS (Lynden Pindling Intl)", "notes": "typical city property near the harbor (sample data)"},
+      {"name": "Paradise Island Resort", "city": "Nassau", "area": "Paradise Island", "stars": 4, "price": 320, "rating": 4.4, "airport_mi": 8.0, "excursion_mi": 3.0, "airport": "NAS (Lynden Pindling Intl)", "notes": "typical resort property across the bridge (sample data)"}
+    ]
+  },
+  {
+    "name": "Barbados",
+    "aliases": ["Barbados", "Bajan"],
+    "capital": "Bridgetown",
+    "destinations": ["Bridgetown", "Holetown (west coast)", "Sandy Bay", "Christ Church (south coast)"],
+    "landmarks": ["Holetown Historic District (UNESCO)", "Bathsheba rock formations", "Harrison's Cave"],
+    "dining": ["cou-cou & flying fish", "pepper pot", "fresh seafood & local rum"],
+    "activities": ["kitesurfing at Sandy Bay", "turtle hatchery visits", "rum distillery tours", "west-coast beach days"],
+    "stay": ["west coast (Holetown / Bathsheba area)", "Bridgetown for the city"],
+    "tips": ["Best: December–April (calm trade winds)", "East coast is rough January–October; the west coast is the calm side"],
+    "overview": "A British-style Caribbean island with a 132-year-old capital (Bridgetown), famous for its kitesurfing, flying fish, and laid-back Bajan culture.",
+    "hotels": [
+      {"name": "Bridgetown City Hotel", "city": "Bridgetown", "area": "Bridgetown", "stars": 3, "price": 140, "rating": 4.2, "airport_mi": 8.0, "excursion_mi": 2.0, "airport": "BGI (Grantley Adams Intl)", "notes": "typical city property near Broad Street (sample data)"},
+      {"name": "Sandy Bay Beach Hotel", "city": "Sandy Bay", "area": "Sandy Bay", "stars": 4, "price": 280, "rating": 4.4, "airport_mi": 22.0, "excursion_mi": 1.0, "airport": "BGI (Grantley Adams Intl)", "notes": "typical beachfront property, kitesurf spot (sample data)"}
+    ]
+  },
+  {
+    "name": "Belize",
+    "aliases": ["Belize", "Belizean"],
+    "capital": "Belmopan",
+    "destinations": ["San Ignacio", "Caye Caulker", "Ambergris Caye", "Blue Hole (Lighthouse Ridge)"],
+    "landmarks": ["Great Blue Hole", "Actun Tunichil Muknal (ATM) crystal cave", "Xunantunich Maya ruins"],
+    "dining": ["Belizean taco (stuffed tortilla)", "rice & beans with fresh fish", "banana bread & guava"],
+    "activities": ["scuba diving the Great Blue Hole", "cave tubing (ATM)", "jungle zip-lining & sloth spotting", "Maya ruins at Xunantunich"],
+    "stay": ["San Ignacio (jungle base)", "Caye Caulker (island base)", "Ambergris Caye (beach)"],
+    "tips": ["Best: December–April (dry)", "One of Central America's best-value nature destinations"],
+    "overview": "A jungle-meets-ocean country: Maya ruins, the world's most famous dive hole (the Great Blue Hole), barrier-reef islands, and a Maya-English culture.",
+    "hotels": [
+      {"name": "San Ignacio Jungle Lodge", "city": "San Ignacio", "area": "San Ignacio", "stars": 3, "price": 110, "rating": 4.2, "airport_mi": 40.0, "excursion_mi": 3.0, "airport": "BZE (Philip S.W. Goldson Intl)", "notes": "typical jungle-base guesthouse, cave & ruin day trips (sample data)"},
+      {"name": "Caye Caulker Island Hotel", "city": "Caye Caulker", "area": "Caye Caulker", "stars": 3, "price": 120, "rating": 4.1, "airport_mi": 95.0, "excursion_mi": 0.5, "airport": "via Belize City water taxi", "notes": "typical island guesthouse, reef snorkeling (sample data)"}
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "aliases": ["Bolivia", "Bolivian"],
+    "capital": "La Paz",
+    "destinations": ["La Paz", "Salar de Uyuni", "Sucre", "Potosí", "Lake Titicaca (Copacabana)"],
+    "landmarks": ["Salar de Uyuni (world's largest salt flat)", "Valle de la Luna (La Paz)", "Casa de la Moneda (Potosí)"],
+    "dining": ["salteñas (savory empanadas)", "silpancho", "api con chicha (corn beer)", "chairo stew"],
+    "activities": ["salt-flat treks & train rides (Uyuni)", "Andean markets (Alasitas, Witches' Market)", "Amazon tours from Río Pilo", "Titicaca boat trips"],
+    "stay": ["La Paz (Medellín / Zona Sur)", "Sucre (colonial center)", "Uyuni (salt-flat base)"],
+    "tips": ["Best: May–September (dry)", "Altitude is real — take the first 1–2 days slow (coca tea helps)"],
+    "overview": "Andean Bolivia: the otherworldly Salar de Uyuni, colonial Sucre, high-altitude La Paz, and Amazonian lowlands — one of South America's most varied landscapes.",
+    "hotels": [
+      {"name": "La Paz City Center Hotel", "city": "La Paz", "area": "Centro", "stars": 3, "price": 90, "rating": 4.2, "airport_mi": 4.0, "excursion_mi": 1.0, "airport": "LPB (El Alto Intl)", "notes": "typical city property near the Witches' Market (sample data)"},
+      {"name": "Uyuni Salt Flat Hotel", "city": "Uyuni", "area": "Uyuni", "stars": 3, "price": 80, "rating": 4.0, "airport_mi": 2.0, "excursion_mi": 4.0, "airport": "UYI (Aguilar)", "notes": "typical base town for salt-flat tours (sample data)"}
+    ]
+  },
+  {
+    "name": "Brazil",
+    "aliases": ["Brazil", "Brazilian"],
+    "capital": "Brasília",
+    "destinations": ["Rio de Janeiro", "São Paulo", "Salvador", "Manaus (Amazon)", "Florianópolis", "Foz do Iguaçu", "Ouro Preto"],
+    "landmarks": ["Christ the Redeemer (Rio)", "Sugarloaf Mountain", "Iguazú Falls (border)", "Copacabana & Ipanema beaches"],
+    "dining": ["feijoada", "churrasco (rodízio)", "açaí bowls", "caipirinha", "brigadeiro chocolate truffles"],
+    "activities": ["Rio beach + mountain days", "Amazon jungle lodges (Manaus)", "samba & Carnival (Rio, Feb/Mar)", "wine country (Serra Gaúcha)", "surf at Florianópolis"],
+    "stay": ["Rio (Ipanema / Leblon)", "São Paulo (Jardins)", "Salvador (Barra)"],
+    "tips": ["Carnival (Rio, Feb/Mar) books out months ahead", "Summer is December–February"],
+    "overview": "South America's giant: Rio's beaches and mountains, Amazon rainforest, Iguazú Falls, Carnival, and some of the world's best churrascos — enormous in scale and energy.",
+    "hotels": [
+      {"name": "Rio City Center Hotel", "city": "Rio de Janeiro", "area": "Centro", "stars": 4, "price": 160, "rating": 4.3, "airport_mi": 5.0, "excursion_mi": 6.0, "airport": "GIG (Galeão Intl)", "notes": "typical city property, Cristo shuttle access (sample data)"},
+      {"name": "Ipanema Beach Hotel", "city": "Rio de Janeiro", "area": "Ipanema", "stars": 4, "price": 260, "rating": 4.5, "airport_mi": 14.0, "excursion_mi": 0.5, "airport": "GIG (Galeão Intl)", "notes": "typical beach-area property (sample data)"},
+      {"name": "Salvador Airport Hotel", "city": "Salvador", "area": "Salvador", "stars": 3, "price": 120, "rating": 4.1, "airport_mi": 2.0, "excursion_mi": 10.0, "airport": "SSA (Luís E. Magalhães)", "notes": "typical airport-area property (sample data)"}
+    ]
+  },
+  {
+    "name": "Canada",
+    "aliases": ["Canada", "Canadian"],
+    "capital": "Ottawa",
+    "destinations": ["Vancouver", "Toronto", "Banff & Jasper (Rockies)", "Montreal", "Quebec City", "Niagara Falls", "Halifax", "Ottawa"],
+    "landmarks": ["CN Tower (Toronto)", "Lake Louise (Banff)", "Niagara Falls", "Saguenay Fjord", "Gros Morne (Newfoundland)"],
+    "dining": ["poutine", "maple syrup & sugar shack treats", "fresh Pacific salmon", "tourtière (meat pie)", "Nanaimo bars"],
+    "activities": ["Rockies hiking & canoeing (Banff, Jasper)", "whale watching (Vancouver)", "Northern Lights (Yellowknife, Jasper)", "maple sugaring season", "cross-country skiing"],
+    "stay": ["Vancouver (Yaletown)", "Banff (townsite)", "Toronto (downtown)"],
+    "tips": ["Best outdoors: June–September", "Fall colors peak mid-October in the Rockies"],
+    "overview": "A nature giant: Rocky-Mountain parks, Pacific coasts, five Great Lakes, and cities like Vancouver, Toronto, and Montreal — wide open space with big-city energy.",
+    "hotels": [
+      {"name": "Vancouver City Center Hotel", "city": "Vancouver", "area": "Yaletown", "stars": 4, "price": 240, "rating": 4.5, "airport_mi": 15.0, "excursion_mi": 0.5, "airport": "YVR (Vancouver Intl)", "notes": "typical downtown property, ferries & mountains nearby (sample data)"},
+      {"name": "Banff Lakeside Hotel", "city": "Banff", "area": "Banff", "stars": 4, "price": 280, "rating": 4.4, "airport_mi": 190.0, "excursion_mi": 1.0, "airport": "YYC (Calgary Intl)", "notes": "typical townsite property, Lake Louise day trips (sample data)"},
+      {"name": "Toronto Airport Hotel", "city": "Toronto", "area": "Etobicoke (airport)", "stars": 4, "price": 190, "rating": 4.2, "airport_mi": 1.0, "excursion_mi": 22.0, "airport": "YYZ (Pearson Intl)", "notes": "typical airport-area property, direct to downtown (sample data)"}
+    ]
+  },
+  {
+    "name": "Chile",
+    "aliases": ["Chile", "Chilean"],
+    "capital": "Santiago",
+    "destinations": ["Santiago", "Atacama (San Pedro de Atacama)", "Valparaíso", "Torres del Paine", "Easter Island (Rapa Nui)", "Puerto Natales"],
+    "landmarks": ["Moai statues (Easter Island)", "Torres del Paine granite towers", "Atacama salt flats & geysers", "Valle de la Luna"],
+    "dining": ["empanadas de pino", "pastitutos", "coquilles (shellfish soup)", "pisco sour", "Maipo Valley wine"],
+    "activities": ["stargazing in the Atacama", "trekking the W circuit (Torres del Paine)", "volcano hikes (Ojos del Salado)", "surfing (Arica, Valparaíso)"],
+    "stay": ["Santiago (Lastarria)", "San Pedro de Atacama (desert base)", "Puerto Natales (Patagonia base)"],
+    "tips": ["Summer (Dec–Feb) for Patagonia; May–Sep for the Atacama", "Easter Island flights sell out months ahead"],
+    "overview": "A long, thin country of extremes: the driest desert on Earth (Atacama), Patagonian granite towers, wine valleys, and the remote Moai of Easter Island.",
+    "hotels": [
+      {"name": "Santiago City Center Hotel", "city": "Santiago", "area": "Lastarria", "stars": 4, "price": 150, "rating": 4.4, "airport_mi": 18.0, "excursion_mi": 1.0, "airport": "SCL (Arturo Merino Benítez)", "notes": "typical city property near the historic center (sample data)"},
+      {"name": "San Pedro de Atacama Lodge", "city": "San Pedro de Atacama", "area": "San Pedro", "stars": 3, "price": 130, "rating": 4.2, "airport_mi": 2.0, "excursion_mi": 4.0, "airport": "CNC (Calama Intl)", "notes": "typical desert-base property, stargazing tours (sample data)"},
+      {"name": "Puerto Natales Airport Hotel", "city": "Puerto Natales", "area": "Puerto Natales", "stars": 3, "price": 140, "rating": 4.1, "airport_mi": 1.5, "excursion_mi": 8.0, "airport": "PNX (Puerto Natales)", "notes": "typical base town for Torres del Paine (sample data)"}
+    ]
+  },
+  {
+    "name": "Colombia",
+    "aliases": ["Colombia", "Colombian"],
+    "capital": "Bogotá",
+    "destinations": ["Cartagena", "Medellín", "Bogotá", "San Andrés", "Salento (Coffee Region)", "Tayrona"],
+    "landmarks": ["Cartagena walled Old Town (UNESCO)", "Cerro La Popa", "Coffee Region landscapes"],
+    "dining": ["arepas", "bandeja paisa", "ajiaco (Bogotá chicken soup)", "sancocho", "fresh coconut & chicha"],
+    "activities": ["Cartagena's colonial streets & islands", "Medellín street art & metro", "hot-air ballooning over the Coffee Region", "diving San Andrés"],
+    "stay": ["Cartagena (Getsemaní / Old Town)", "Medellín (El Poblado)"],
+    "tips": ["Medellín is spring-like year-round (elevation)", "Best beach season: December–April"],
+    "overview": "A country of three coasts (Caribbean, Pacific, plus the Amazon): Cartagena's walls, Medellín's reinvention, coffee hills, and world-class diving.",
+    "hotels": [
+      {"name": "Cartagena Old Town Hotel", "city": "Cartagena", "area": "Getsemaní", "stars": 4, "price": 180, "rating": 4.4, "airport_mi": 6.0, "excursion_mi": 0.5, "airport": "CTG (Rafael Núñez)", "notes": "typical colonial-area property (sample data)"},
+      {"name": "Medellín El Poblado Hotel", "city": "Medellín", "area": "El Poblado", "stars": 4, "price": 160, "rating": 4.4, "airport_mi": 12.0, "excursion_mi": 2.0, "airport": "MDE (José María Córdova)", "notes": "typical hillside-neighborhood property (sample data)"}
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "aliases": ["Costa Rica", "Tica"],
+    "capital": "San José",
+    "destinations": ["Manuel Antonio", "Arenal", "Monteverde", "Tortuguero", "Tamarindo", "Osa Peninsula", "San José"],
+    "landmarks": ["Manuel Antonio National Park", "Arenal Volcano", "Monteverde Cloud Forest"],
+    "dining": ["gallo pinto", "casado (rice, beans, egg, plantain)", "fresh tropical fruit", "grilled seafood"],
+    "activities": ["zip-lining & sloth spotting", "surfing (Tamarindo, Santa Teresa)", "hot springs (Arenal)", "whale watching (Dec–Aug)"],
+    "stay": ["Manuel Antonio (beach)", "Arenal (volcano base)", "Monteverde (cloud forest)"],
+    "tips": ["Dry season: December–April; green season (May–Nov) is lush and cheaper", "'Pura Vida' is a real travel philosophy here"],
+    "overview": "Pura Vida: a compact nature capital of volcanoes, cloud forests, sloths, and two coastlines — the Caribbean's best-wildlife base.",
+    "hotels": [
+      {"name": "Manuel Antonio Beach Hotel", "city": "Manuel Antonio", "area": "Manuel Antonio", "stars": 4, "price": 260, "rating": 4.5, "airport_mi": 220.0, "excursion_mi": 0.5, "airport": "SJO (Juan Santamaría) + 3h drive", "notes": "typical beachfront property near the national park (sample data)"},
+      {"name": "Arenal Volcano Hotel", "city": "Arenal", "area": "Tilarán", "stars": 3, "price": 150, "rating": 4.3, "airport_mi": 120.0, "excursion_mi": 2.0, "airport": "SJO (Juan Santamaría) + 2h drive", "notes": "typical volcano-base property, hot springs (sample data)"},
+      {"name": "Tamarindo Surf Hotel", "city": "Tamarindo", "area": "Tamarindo", "stars": 3, "price": 140, "rating": 4.1, "airport_mi": 160.0, "excursion_mi": 0.5, "airport": "SJO (Juan Santamaría) + 2.5h drive", "notes": "typical beach-surf property (sample data)"}
+    ]
+  },
+  {
+    "name": "Cuba",
+    "aliases": ["Cuba", "Cuban"],
+    "capital": "Havana",
+    "destinations": ["Havana", "Varadero", "Trinidad", "Santiago de Cuba", "Viñales"],
+    "landmarks": ["Havana Old Town & classic cars (UNESCO)", "Trinidad Old Town (UNESCO)", "Viñales Valley tobacco hills"],
+    "dining": ["ropa vieja", "moros y cristianos", "fresh fish & shellfish", "rum, cigars & strong coffee"],
+    "activities": ["classic-car tours of Havana", "salsa dancing", "Viñales tobacco farm visits", "Trinidad's cobblestones"],
+    "stay": ["Havana (Centro Histórico)", "Varadero (resorts)", "Trinidad (colonial center)"],
+    "tips": ["Best: November–April (dry)", "US travelers: check current travel rules; carry cash (EUR/GBP work best)"],
+    "overview": "Time-warped Cuba: Havana's pastel colonial core and classic cars, Trinidad's cobblestones, Viñales tobacco hills, and Caribbean beaches — with a strong, self-contained culture.",
+    "hotels": [
+      {"name": "Havana Centro Hotel", "city": "Havana", "area": "Centro Histórico", "stars": 3, "price": 130, "rating": 4.2, "airport_mi": 8.0, "excursion_mi": 0.5, "airport": "HAV (José Martí Intl)", "notes": "typical colonial-area property (sample data)"},
+      {"name": "Varadero Beach Resort", "city": "Varadero", "area": "Varadero", "stars": 4, "price": 240, "rating": 4.2, "airport_mi": 120.0, "excursion_mi": 1.0, "airport": "VRA (Juan Gualberto Gómez)", "notes": "typical all-inclusive beach resort (sample data)"}
+    ]
+  },
+  {
+    "name": "Dominica",
+    "aliases": ["Dominica", "Dominica (island)", "WDOM"],
+    "capital": "Roseau",
+    "destinations": ["Roseau", "Soufrière", "Morne Bruce", "Windsor waterfall"],
+    "landmarks": ["Boiling Lake (world's largest hot spring)", "Morne Trois Pitons National Park", "Windsor waterfall"],
+    "dining": ["fresh fish & dumplings", "callaloo", "tropical fruit & local rum"],
+    "activities": ["freshwater swimming (Windsor)", "hot springs (Soufrière)", "hiking the 'Nature Island'", "wreck diving (CDM)"],
+    "stay": ["Roseau (main base)", "south-coast guesthouses"],
+    "tips": ["Best: October–April (trade-wind season)", "Limited flights — book several months ahead"],
+    "overview": "The 'Nature Island' of the Caribbean: hot springs, a boiling lake, dense rainforest, and some of the best diving in the Eastern Caribbean — deliberately unspoiled.",
+    "hotels": [
+      {"name": "Roseau City Hotel", "city": "Roseau", "area": "Roseau", "stars": 3, "price": 120, "rating": 4.1, "airport_mi": 4.0, "excursion_mi": 1.0, "airport": "DOM (Melville Hall)", "notes": "typical city property near the waterfront (sample data)"},
+      {"name": "Soufrière Hot Spring Lodge", "city": "Soufrière", "area": "Soufrière", "stars": 3, "price": 140, "rating": 4.2, "airport_mi": 30.0, "excursion_mi": 2.0, "airport": "DOM (Melville Hall)", "notes": "typical volcanic-bay property (sample data)"}
+    ]
+  },
+  {
+    "name": "Dominican Republic",
+    "aliases": ["Dominican Republic", "DR", "Dominican"],
+    "capital": "Santo Domingo",
+    "destinations": ["Punta Cana", "Cap Cana", "Santo Domingo", "Samaná", "Saona Island"],
+    "landmarks": ["Colón Cathedral (Santo Domingo — oldest in the Americas)", "Saona pink-sand cays", "Samaná Bay"],
+    "dining": ["sancocho", "mofongo (mashed plantain)", "fresh fish & shrimp", "local rum"],
+    "activities": ["Punta Cana resort beaches", "Samaná whale watching (Dec–Mar)", "cave & waterfall tours", "Saona Island trips"],
+    "stay": ["Punta Cana (resorts)", "Samaná (bays)", "Santo Domingo (city)"],
+    "tips": ["Best: December–April", "Taxis are not metered — agree fares in advance"],
+    "overview": "A big Caribbean island: Punta Cana's resort coast, the oldest cathedral city in the Americas (Santo Domingo), and Samaná's whale-watching bays.",
+    "hotels": [
+      {"name": "Punta Cana Beach Resort", "city": "Punta Cana", "area": "Punta Cana", "stars": 4, "price": 220, "rating": 4.3, "airport_mi": 2.0, "excursion_mi": 1.0, "airport": "PUJ (Las Américas)", "notes": "typical beachfront resort (sample data)"},
+      {"name": "Samaná Bay Hotel", "city": "Samaná", "area": "Samaná", "stars": 3, "price": 150, "rating": 4.1, "airport_mi": 180.0, "excursion_mi": 2.0, "airport": "AZS (Samaná) or 3h drive", "notes": "typical bay-front property, whale-watching base (sample data)"}
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "aliases": ["Ecuador", "Ecuadorean"],
+    "capital": "Quito",
+    "destinations": ["Quito", "Guayaquil", "Galápagos (Santa Cruz / San Cristóbal)", "Baños", "Cotopaxi"],
+    "landmarks": ["Galápagos wildlife (UNESCO)", "Mitad del Mundo (equator)", "Cotopaxi volcano", "Quito Old Town (UNESCO)"],
+    "dining": ["encebollado (shrimp soup)", "ceviche", "locro (corn & potato)", "canelazo (cinnamon-cane drink)"],
+    "activities": ["Galápagos wildlife (penguins, tortoises)", "volcano hikes (Cotopaxi)", "hot springs & rafting (Baños)", "Amazon day trips (Tayta)"],
+    "stay": ["Quito (La Ronda)", "Puerto Baquerizo Moreno (Galápagos base)", "Baños (volcano base)"],
+    "tips": ["Galápagos: any month works — book the inter-island flights early", "Mainland dry season: May–September"],
+    "overview": "A compact Andean country with one of the world's greatest wildlife destinations — the Galápagos — plus volcanoes, equator markers, and Amazonian rainforest.",
+    "hotels": [
+      {"name": "Quito City Center Hotel", "city": "Quito", "area": "La Ronda", "stars": 4, "price": 130, "rating": 4.4, "airport_mi": 8.0, "excursion_mi": 0.5, "airport": "UIO (Mariscal Sucre)", "notes": "typical old-town property (sample data)"},
+      {"name": "Galápagos Base Hotel", "city": "Puerto Baquerizo Moreno", "area": "San Cristóbal", "stars": 3, "price": 160, "rating": 4.1, "airport_mi": 1.0, "excursion_mi": 3.0, "airport": "SCY (San Cristóbal)", "notes": "typical port-town property, wildlife excursions (sample data)"},
+      {"name": "Baños Hot Spring Hotel", "city": "Baños", "area": "Baños", "stars": 3, "price": 110, "rating": 4.2, "airport_mi": 260.0, "excursion_mi": 2.0, "airport": "via Quito + 2h bus", "notes": "typical volcano-base property, hot springs (sample data)"}
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "aliases": ["El Salvador", "Salvadoran"],
+    "capital": "San Salvador",
+    "destinations": ["San Salvador", "Surf City (beaches)", "Santa Ana (volcano)", "Lake Ilopango", "San Miguel"],
+    "landmarks": ["Santa Ana Volcano (smokestack)", "Bejuco Beach", "El Boquerón market (San Miguel)"],
+    "dining": ["pupusas (stuffed corn cakes)", "yuca frita", "pastelitos", "Salvadoran chocolate & vanilla"],
+    "activities": ["surfing (Beaches, El Zonte)", "volcano hikes (Santa Ana)", "coffee farm tours", "colonial San Miguel"],
+    "stay": ["San Salvador (city)", "Surf City (beach)"],
+    "tips": ["Best: December–April (dry)", "Small country — most of it fits in 3–5 days"],
+    "overview": "Central America's smallest country: Pacific surf, smokestack volcanoes, pupusas, and colonial towns — a compact, affordable trip.",
+    "hotels": [
+      {"name": "San Salvador City Hotel", "city": "San Salvador", "area": "Colonia Escalón", "stars": 3, "price": 110, "rating": 4.1, "airport_mi": 5.0, "excursion_mi": 1.0, "airport": "SAL (El Salvador Intl)", "notes": "typical city property near the central plaza (sample data)"},
+      {"name": "Surf City Beach Hotel", "city": "Surf City", "area": "Beaches", "stars": 3, "price": 100, "rating": 4.0, "airport_mi": 35.0, "excursion_mi": 0.5, "airport": "SAL (El Salvador Intl) + 1h drive", "notes": "typical beach-surf property (sample data)"}
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "aliases": ["Guatemala", "Guatemalan"],
+    "capital": "Guatemala City",
+    "destinations": ["Antigua", "Lake Atitlán", "Tikal (Petén)", "Quetzaltenango", "Flores"],
+    "landmarks": ["Tikal Maya pyramids (UNESCO)", "Antigua cobblestone center (UNESCO)", "Lake Atitlán", "Sumidero Canyon"],
+    "dining": ["pepián (sauce with rice)", "kakaw (cacao drink)", "pan de elote", "fresh fruit & Guatemalan coffee"],
+    "activities": ["Tikal sunrise pyramid visits", "jungle treks (Acatenango volcano)", "weaving markets (Chichicastenango)", "kayaking Lake Atitlán"],
+    "stay": ["Antigua (colonial base)", "Panajachel (lake)", "Flores (Tikal gateway)"],
+    "tips": ["Best: December–April (dry)", "Carry small bills for markets and cooperatives"],
+    "overview": "A Maya heartland: Tikal's giant pyramids, Antigua's colonial plazas, Lake Atitlán's ring of villages, and some of the region's best food and markets.",
+    "hotels": [
+      {"name": "Antigua City Center Hotel", "city": "Antigua", "area": "Antigua", "stars": 3, "price": 100, "rating": 4.3, "airport_mi": 90.0, "excursion_mi": 0.5, "airport": "GUA (La Aurora) + 1.5h drive", "notes": "typical colonial-center property (sample data)"},
+      {"name": "Lake Atitlán Hotel", "city": "Panajachel", "area": "Panajachel", "stars": 3, "price": 95, "rating": 4.2, "airport_mi": 150.0, "excursion_mi": 1.0, "airport": "GUA (La Aurora) + 3h drive", "notes": "typical lake-front property (sample data)"},
+      {"name": "Tikal Gateway Hotel", "city": "Flores", "area": "Flores", "stars": 3, "price": 90, "rating": 4.1, "airport_mi": 5.0, "excursion_mi": 90.0, "airport": "FLO (Flores)", "notes": "typical airport-area property, Tikal shuttle base (sample data)"}
+    ]
+  },
+  {
+    "name": "Grenada",
+    "aliases": ["Grenada", "The Spice Island"],
+    "capital": "St. George's",
+    "destinations": ["St. George's", "Grand Anse (south)", "Carenage", "Carriacou"],
+    "landmarks": ["Gros Piton & Petit Piton (volcanic spires)", "Fort George (1756, still standing)", "Grand Etang (lagoon)"],
+    "dining": ["garlic shrimp (the national dish)", "crab & oyster dishes", "breadfruit & coconut cooking"],
+    "activities": ["snorkeling the Underwater Sculpture Park", "island hopping (Carriacou & Petit Martinique)", "diving & reef swims"],
+    "stay": ["Grand Anse (south-coast resorts)", "Carenage (harbor town)"],
+    "tips": ["Best: January–mid-June (driest)", "The 'Isle of Spice' — nutmeg grew here; the climate is mild year-round"],
+    "overview": "A quiet 'Spice Island' in the southern Caribbean: the twin volcanic spires of the Pitons, a working 18th-century fort in St. George's, and a world-class underwater sculpture park.",
+    "hotels": [
+      {"name": "Grand Anse Beachfront Hotel", "city": "Grand Anse", "area": "South Coast", "stars": 4, "price": 210, "rating": 4.4, "airport_mi": 12.0, "excursion_mi": 0.5, "airport": "GND (Mourouk Intl)", "notes": "typical south-coast beachfront property (sample data)"},
+      {"name": "Carenage Harbour Hotel", "city": "Carenage", "area": "Carenage", "stars": 3, "price": 140, "rating": 4.2, "airport_mi": 18.0, "excursion_mi": 1.0, "airport": "GND (Mourouk Intl)", "notes": "typical harbor-town property near the wharf (sample data)"}
+    ]
+  },
+  {
+    "name": "Guyana",
+    "aliases": ["Guyana", "Guyanese"],
+    "capital": "Georgetown",
+    "destinations": ["Georgetown", "Kaieteur Falls", "Kaieteur National Park", "Rupununi Savanna"],
+    "landmarks": ["Kaieteur Falls (world's largest single-drop waterfall)", "Kaieteur National Park"],
+    "dining": ["one pot (stew)", "pepperpot", "ground provisions (cassava, yam)", "fresh river fish & local rum"],
+    "activities": ["Kaieteur Falls trips", "Amazonian jungle treks", "Rupununi wild horses & wildlife", "birdwatching (500+ species)"],
+    "stay": ["Georgetown (city)", "Kaieteur lodges (jungle)"],
+    "tips": ["Dry season: November–May", "A true off-the-beaten-path destination — few visitors, big nature"],
+    "overview": "The only English-speaking country in South America: deep Amazonian rainforest, Kaieteur Falls (higher than Niagara), and Rupununi's wild plains.",
+    "hotels": [
+      {"name": "Georgetown City Hotel", "city": "Georgetown", "area": "Georgetown", "stars": 3, "price": 90, "rating": 4.0, "airport_mi": 5.0, "excursion_mi": 1.0, "airport": "GEO (Cheddi Jagan Intl)", "notes": "typical city property near the waterfront (sample data)"},
+      {"name": "Kaieteur Jungle Lodge", "city": "Kaieteur", "area": "Kaieteur NP", "stars": 3, "price": 150, "rating": 4.3, "airport_mi": 2.0, "excursion_mi": 2.0, "airport": "KAI (Kaieteur) via Georgetown charter", "notes": "typical falls-base lodge (sample data)"}
+    ]
+  },
+  {
+    "name": "Haiti",
+    "aliases": ["Haiti", "Haitian"],
+    "capital": "Port-au-Prince",
+    "destinations": ["Port-au-Prince", "Jacmel", "Les Cayes", "Île de la Tortue"],
+    "landmarks": ["Citadelle Laferrière (UNESCO — largest fortress in the Americas)", "Jacmel old town", "Môle-Saint-Nicolas"],
+    "dining": ["griot (fried pork)", "legim (bean & pea stew)", "soup joumou (independence soup)", "fresh fish & tropical fruit"],
+    "activities": ["colonial-era history (Citadelle)", "Haitian art & music (voodoo, compas)", "coastal fishing villages (Jacmel)"],
+    "stay": ["Port-au-Prince (city)", "Jacmel (coastal town)"],
+    "tips": ["Check current travel advisories before booking", "Rich culture — approach with respect and local guides"],
+    "overview": "The Caribbean's most storied nation: the first Black republic, the Citadelle fortress, and a living art, music, and spiritual tradition centered on Jacmel and Port-au-Prince.",
+    "hotels": [
+      {"name": "Port-au-Prince City Hotel", "city": "Port-au-Prince", "area": "Pétionville", "stars": 3, "price": 80, "rating": 3.9, "airport_mi": 5.0, "excursion_mi": 2.0, "airport": "PAP (Toussaint L'Ouverture)", "notes": "typical city property (sample data)"},
+      {"name": "Jacmel Coastal Hotel", "city": "Jacmel", "area": "Jacmel", "stars": 3, "price": 90, "rating": 4.0, "airport_mi": 140.0, "excursion_mi": 1.0, "airport": "PAP + 3h drive", "notes": "typical coastal-town property (sample data)"}
+    ]
+  },
+  {
+    "name": "Honduras",
+    "aliases": ["Honduras", "Honduran"],
+    "capital": "Tegucigalpa",
+    "destinations": ["Roatán", "La Ceiba", "Copán", "Bay Islands (Utila, Guanaja)"],
+    "landmarks": ["Copán Maya ruins (UNESCO)", "Pico Bonito National Park", "Roatán's coral coast"],
+    "dining": ["baleadas (tortilla sandwich)", "fried fish & yuca", "tropical fruit", "Honduran coffee"],
+    "activities": ["Roatán beach & reef days", "Copán Maya ruins", "jungle adventure (Pico Bonito)", "diving & snorkeling"],
+    "stay": ["Roatán (beach)", "La Ceiba (mainland base)"],
+    "tips": ["Best: December–April (dry)", "Bay-Island ferries run from La Ceiba — check weather"],
+    "overview": "A Central American mix: the Bay Islands' reefs and beaches, Copán's Maya ruins, and Pico Bonito's rainforest — value and adventure.",
+    "hotels": [
+      {"name": "Roatán Beach Hotel", "city": "West End, Roatán", "area": "West End", "stars": 3, "price": 120, "rating": 4.2, "airport_mi": 2.0, "excursion_mi": 0.5, "airport": "RTB (Golosón Intl)", "notes": "typical beach property near the reef (sample data)"},
+      {"name": "La Ceiba City Hotel", "city": "La Ceiba", "area": "La Ceiba", "stars": 3, "price": 80, "rating": 3.9, "airport_mi": 4.0, "excursion_mi": 2.0, "airport": "BCE (Guanaja) or HOG (Soto Cano)", "notes": "typical port-city property, ferry base (sample data)"}
+    ]
+  },
+  {
+    "name": "Jamaica",
+    "aliases": ["Jamaica", "Jamaican"],
+    "capital": "Kingston",
+    "destinations": ["Montego Bay", "Ocho Rios", "Negril", "Port Antonio", "Kingston", "Blue Mountains"],
+    "landmarks": ["Dunn's River Falls", "Blue Hole (Ocho Rios)", "Bob Marley Museum (Kingston)"],
+    "dining": ["jerk chicken & pork", "escovitch fish", "ackee & saltfish (national dish)", "rum punch & Blue Mountain coffee"],
+    "activities": ["waterfall climbs (Dunn's)", "river rafting (White River)", "beach days + rum tours", "reggae music & dance"],
+    "stay": ["Montego Bay (resorts)", "Negril (west coast)", "Ocho Rios (east coast)"],
+    "tips": ["Best: December–April (dry)", "Kingston traffic is heavy — use taxis or rideshares"],
+    "overview": "Island life with a pulse: jerk food, reggae, Dunn's River Falls, seven-mile beaches, and a music-and-spirits culture that runs deep.",
+    "hotels": [
+      {"name": "Montego Bay Beach Resort", "city": "Montego Bay", "area": "Doctor's Cave", "stars": 4, "price": 230, "rating": 4.3, "airport_mi": 3.0, "excursion_mi": 1.0, "airport": "MBJ (Sangster Intl)", "notes": "typical beachfront resort (sample data)"},
+      {"name": "Ocho Rios City Hotel", "city": "Ocho Rios", "area": "Ocho Rios", "stars": 3, "price": 150, "rating": 4.1, "airport_mi": 45.0, "excursion_mi": 2.0, "airport": "KIN (Norman Manley) or MBJ + 1h drive", "notes": "typical town property, Blue Hole base (sample data)"},
+      {"name": "Negril Beachfront Hotel", "city": "Negril", "area": "Negril", "stars": 3, "price": 140, "rating": 4.2, "airport_mi": 70.0, "excursion_mi": 0.5, "airport": "KIN (Norman Manley) + 1.5h drive", "notes": "typical 7-mile-beach property (sample data)"}
+    ]
+  },
+  {
+    "name": "Mexico",
+    "aliases": ["Mexico", "Mexican"],
+    "capital": "Mexico City",
+    "destinations": ["Mexico City", "Cancún", "Oaxaca", "Tulum", "Los Cabos", "Guanajuato", "Chichén Itzá", "Puerto Vallarta", "Guadalajara"],
+    "landmarks": ["Chichén Itzá (UNESCO)", "Teotihuacan pyramids", "Palenque ruins", "Cenotes of the Yucatán"],
+    "dining": ["tacos al pastor", "mole (Oaxaca)", "pozole", "chilaquiles", "micheladas & elote", "street tacos (CDMX)"],
+    "activities": ["Maya ruins (Chichén Itzá, Palenque)", "cenote dives (Yucatán)", "beach + culture (Riviera Maya)", "food tours (CDMX, Oaxaca)", "whale watching (Oaxaca coast)"],
+    "stay": ["Mexico City (Roma / Condesa)", "Cancún (Riviera Maya)", "Oaxaca (center)"],
+    "tips": ["Best: December–April (dry)", "Learn a little Spanish — it goes a long way outside tourist zones"],
+    "overview": "One of the world's great travel countries: Maya and Aztec ruins, beach + cenote Yucatán, world-class food in CDMX and Oaxaca, and surf coasts from Baja to Oaxaca.",
+    "hotels": [
+      {"name": "Mexico City Roma Hotel", "city": "Mexico City", "area": "Roma Norte", "stars": 4, "price": 150, "rating": 4.5, "airport_mi": 25.0, "excursion_mi": 1.0, "airport": "MEX (Benito Juárez)", "notes": "typical boutique-area property (sample data)"},
+      {"name": "Cancún Beach Resort", "city": "Cancún", "area": "Hotel Zone", "stars": 4, "price": 220, "rating": 4.3, "airport_mi": 2.0, "excursion_mi": 1.0, "airport": "CUN (Cancún Intl)", "notes": "typical beachfront resort (sample data)"},
+      {"name": "Oaxaca City Center Hotel", "city": "Oaxaca", "area": "Centro", "stars": 3, "price": 110, "rating": 4.3, "airport_mi": 4.0, "excursion_mi": 1.0, "airport": "OAX (Xoxocotlán)", "notes": "typical colonial-center property (sample data)"}
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "aliases": ["Nicaragua", "Nicaraguan"],
+    "capital": "Managua",
+    "destinations": ["León", "Granada", "Ometepe Island", "San Juan del Sur", "Masaya"],
+    "landmarks": ["Ometepe twin volcanoes (Consejo, Maderas)", "Granada colonial center", "San Juan del Sur beaches"],
+    "dining": ["gallo pinto", "vigorón (pork, yuca, cabbage)", "quesillo", "fresh seafood & local rum"],
+    "activities": ["volcano hikes (Ometepe)", "surfing (San Juan del Sur)", "colonial towns (León, Granada)", "jungle tours (Corn Island)"],
+    "stay": ["San Juan del Sur (beach)", "Granada (colonial)"],
+    "tips": ["Best: December–April (dry)", "One of Central America's cheapest — go slow"],
+    "overview": "Central America's quiet giant: twin volcano Ometepe Island, colonial Granada, Pacific surf, and some of the region's best value.",
+    "hotels": [
+      {"name": "San Juan del Sur Beach Hotel", "city": "San Juan del Sur", "area": "San Juan del Sur", "stars": 3, "price": 100, "rating": 4.1, "airport_mi": 180.0, "excursion_mi": 0.5, "airport": "MAA (Managua) + 3h drive", "notes": "typical beach-surf property (sample data)"},
+      {"name": "Granada Colonial Hotel", "city": "Granada", "area": "Granada", "stars": 3, "price": 85, "rating": 4.1, "airport_mi": 200.0, "excursion_mi": 1.0, "airport": "MAA (Managua) + 3.5h drive", "notes": "typical lakeside colonial property (sample data)"}
+    ]
+  },
+  {
+    "name": "Panama",
+    "aliases": ["Panama", "Panamanian"],
+    "capital": "Panama City",
+    "destinations": ["Panama City", "Bocas del Toro", "San Blas (Guna Yala)", "Boquete", "Santa Catalina"],
+    "landmarks": ["Panama Canal (Miraflores locks)", "Casco Viejo (UNESCO)", "Bocas del Toro archipelago"],
+    "dining": ["ceviche", "sancocho", "yuca with pork", "fresh seafood & cafecito"],
+    "activities": ["Canal transit at Miraflores", "island hopping (Bocas)", "cloud-forest hikes (Boquete)", "surfing (Santa Catalina)", "wildlife (sloths, monkeys)"],
+    "stay": ["Panama City (Casco Viejo / Casablanca)", "Bocas del Toro (islands)", "Boquete (highlands)"],
+    "tips": ["Best: December–April (dry)", "Cheap domestic flights connect the islands"],
+    "overview": "A bridge continent: the Canal, Bocas del Toro islands, San Blas' Guna villages, and Boquete's cloud forest — tropical variety in one country.",
+    "hotels": [
+      {"name": "Panama City Casco Viejo Hotel", "city": "Panama City", "area": "Casco Viejo", "stars": 4, "price": 180, "rating": 4.4, "airport_mi": 5.0, "excursion_mi": 1.0, "airport": "PTY (Tocumen Intl)", "notes": "typical old-town property, Canal views (sample data)"},
+      {"name": "Bocas del Toro Island Hotel", "city": "Bocas del Toro", "area": "Bocas del Toro", "stars": 3, "price": 130, "rating": 4.2, "airport_mi": 3.0, "excursion_mi": 1.0, "airport": "BOC (Bocas del Toro)", "notes": "typical island property, jungle + beach (sample data)"},
+      {"name": "Boquete Cloud Forest Hotel", "city": "Boquete", "area": "Boquete", "stars": 3, "price": 120, "rating": 4.3, "airport_mi": 260.0, "excursion_mi": 2.0, "airport": "PTY + 3h drive", "notes": "typical highland property, coffee & hikes (sample data)"}
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "aliases": ["Paraguay", "Paraguayan"],
+    "capital": "Asunción",
+    "destinations": ["Asunción", "Ciudad del Este", "Encarnación (Iguazú base)", "Itaipú"],
+    "landmarks": ["Itaipú Dam (world's largest hydroelectric)", "Jesuit reductions (Trinidad, UNESCO)", "Iguazú Falls (border)"],
+    "dining": ["chipa (cheese bread)", "locro (corn stew)", "asado", "tereré (iced yerba-mate)", "empanadas"],
+    "activities": ["Itaipú Dam tour", "Jesuit heritage (Trinidad)", "Iguazú Falls (from the Argentine or Brazilian side)", "river life on the Paraná"],
+    "stay": ["Asunción (city)", "Encarnación (Iguazú base)"],
+    "tips": ["Summer: December–February", "A quiet, off-the-beaten-path South American country"],
+    "overview": "The river country of South America: Asunción's plazas, Itaipú Dam, Jesuit missions, and a gateway to Iguazú Falls — low-key and affordable.",
+    "hotels": [
+      {"name": "Asunción City Hotel", "city": "Asunción", "area": "Centro", "stars": 3, "price": 90, "rating": 4.0, "airport_mi": 5.0, "excursion_mi": 1.0, "airport": "ASU (Silvio Pettirossi)", "notes": "typical city property near the cathedral (sample data)"},
+      {"name": "Encarnación Riverfront Hotel", "city": "Encarnación", "area": "Encarnación", "stars": 3, "price": 85, "rating": 4.0, "airport_mi": 600.0, "excursion_mi": 3.0, "airport": "ASU + 5h drive", "notes": "typical river-town property, Iguazú day trips (sample data)"}
+    ]
+  },
+  {
+    "name": "Peru",
+    "aliases": ["Peru", "Peruvian"],
+    "capital": "Lima",
+    "destinations": ["Cusco", "Machu Picchu", "Lima", "Arequipa", "Lake Titicaca (Puno)", "Huacachina", "Amazonas (Iquitos)"],
+    "landmarks": ["Machu Picchu (UNESCO)", "Rainbow Mountain (Vinicunca)", "Arequipa & Misti volcano", "Huacachina oasis"],
+    "dining": ["ceviche", "lomo saltado", "causa (stuffed potato)", "pisco sour", "ají de gallina"],
+    "activities": ["Inca trail & Machu Picchu", "Andean treks (Rainbow Mountain)", "Lima's top restaurants", "camel rides (Cusco)", "desert oasis (Huacachina)"],
+    "stay": ["Cusco (Plaza de Armas)", "Lima (Miraflores)", "Arequipa (center)"],
+    "tips": ["Dry season: May–September (best for Cusco)", "Altitude — spend 1–2 days acclimatizing in Cusco"],
+    "overview": "The Inca heartland: Machu Picchu, Andean treks, Lima's world-class food, and the Amazon — one of the Americas' greatest travel countries.",
+    "hotels": [
+      {"name": "Cusco City Center Hotel", "city": "Cusco", "area": "Plaza de Armas", "stars": 4, "price": 150, "rating": 4.4, "airport_mi": 6.0, "excursion_mi": 0.5, "airport": "CUZ (V. Velasco Astete)", "notes": "typical old-town property, train base (sample data)"},
+      {"name": "Lima Miraflores Hotel", "city": "Lima", "area": "Miraflores", "stars": 4, "price": 180, "rating": 4.4, "airport_mi": 15.0, "excursion_mi": 1.0, "airport": "LIM (Jorge Chávez Intl)", "notes": "typical cliff-side property, food district (sample data)"},
+      {"name": "Arequipa City Hotel", "city": "Arequipa", "area": "Centro", "stars": 3, "price": 100, "rating": 4.2, "airport_mi": 5.0, "excursion_mi": 1.0, "airport": "AQP (Rodríguez Ballón)", "notes": "typical colonial-center property, Misti views (sample data)"}
+    ]
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "aliases": ["Saint Kitts", "St. Kitts", "Nevis", "St. Kitts and Nevis"],
+    "capital": "Basseterre",
+    "destinations": ["St. Kitts (Frégate)", "Nevis", "Red Hook"],
+    "landmarks": ["Brimstone Hill Fortress (UNESCO)", "Nevis' calm bays", "Red Hook harbor"],
+    "dining": ["fresh seafood", "macaroni pie", "tropical fruit & local rum"],
+    "activities": ["calm-bay days (Nevis)", "diving & snorkeling", "volcano hikes (St. Kitts)", "quiet luxury"],
+    "stay": ["Frégate (north St. Kitts)", "Nevis (calm)"],
+    "tips": ["Best: December–April", "Very quiet — ideal for a slow island week"],
+    "overview": "A small, unspoiled island pair: St. Kitts' Brimstone Hill fortress and rainforest, and Nevis — the 'Calm Island' — for slow beach days.",
+    "hotels": [
+      {"name": "Frégate Beach Hotel", "city": "Frégate", "area": "Frégate", "stars": 4, "price": 240, "rating": 4.4, "airport_mi": 5.0, "excursion_mi": 1.0, "airport": "SKB (Robert L. Bradshaw)", "notes": "typical beachfront property (sample data)"},
+      {"name": "Nevis Bay Hotel", "city": "Charlestown", "area": "Nevis", "stars": 3, "price": 150, "rating": 4.2, "airport_mi": 1.0, "excursion_mi": 0.5, "airport": "NEV (Vance W. Amery)", "notes": "typical bay-front property, calm water (sample data)"}
+    ]
+  },
+  {
+    "name": "Saint Lucia",
+    "aliases": ["Saint Lucia", "St. Lucia", "Lucian"],
+    "capital": "Castries",
+    "destinations": ["Soufrière", "Anse Raymond", "Rodney Bay", "Gros Islet"],
+    "landmarks": ["The Pitons (UNESCO)", "Soufrière hot springs", "Drive to the Top"],
+    "dining": ["fresh fish & seafood", "callaloo (sautéed leafy greens)", "tropical fruit & local rum"],
+    "activities": ["hot springs (Soufrière)", "hiking the Pitons", "beach days + marine park", "catamaran sailing"],
+    "stay": ["Rodney Bay (east coast)", "Soufrière (south coast)", "Anse Raymond (west)"],
+    "tips": ["Best: December–April", "The Pitons are the icon — plan a day around them"],
+    "overview": "The Pitons island: two volcanic spires rising from the sea, hot springs, rainforest, and some of the Caribbean's most photogenic coastline.",
+    "hotels": [
+      {"name": "Rodney Bay Beach Hotel", "city": "Rodney Bay", "area": "Rodney Bay", "stars": 4, "price": 260, "rating": 4.4, "airport_mi": 25.0, "excursion_mi": 1.0, "airport": "SLU (Hewanorra Intl)", "notes": "typical beachfront property, marina access (sample data)"},
+      {"name": "Soufrière Hot Spring Hotel", "city": "Soufrière", "area": "Soufrière", "stars": 3, "price": 160, "rating": 4.3, "airport_mi": 45.0, "excursion_mi": 2.0, "airport": "SLU (Hewanorra Intl)", "notes": "typical volcanic-bay property, hot springs (sample data)"}
+    ]
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "aliases": ["Saint Vincent", "St. Vincent", "The Grenadines", "SVG"],
+    "capital": "Kingstown",
+    "destinations": ["St. Vincent (Grenadines)", "Bequia", "Union Island", "Canouan"],
+    "landmarks": ["Chocolate Hole (The Grenadines)", "Mayon River (St. Vincent)", "Union Island's calm bays"],
+    "dining": ["fresh fish & seafood", "funchie (fried cornmeal)", "tropical fruit & local rum"],
+    "activities": ["island hopping (The Grenadines)", "sailing & catamarans", "diving", "quiet beach days"],
+    "stay": ["Kingstown (base)", "Bequia / Union (island hopping)"],
+    "tips": ["Best: December–April", "Sailing capital of the Caribbean — book a catamaran week"],
+    "overview": "A 30-island chain in the southern Caribbean: Bequia's barefoot culture, Union Island's calm bays, and the chocolate-colored Chocolate Hole — sailing paradise.",
+    "hotels": [
+      {"name": "Kingstown City Hotel", "city": "Kingstown", "area": "Kingstown", "stars": 3, "price": 120, "rating": 4.1, "airport_mi": 5.0, "excursion_mi": 1.0, "airport": "SVC (E.T. Joshua)", "notes": "typical city property near the harbor (sample data)"},
+      {"name": "Bequia Island Hotel", "city": "Bequia", "area": "Bequia", "stars": 3, "price": 150, "rating": 4.3, "airport_mi": 90.0, "excursion_mi": 0.5, "airport": "SVC + ferry 1h", "notes": "typical island guesthouse, barefoot culture (sample data)"}
+    ]
+  },
+  {
+    "name": "Suriname",
+    "aliases": ["Suriname", "Surinamese"],
+    "capital": "Paramaribo",
+    "destinations": ["Paramaribo", "Central Suriname Nature Reserve", "Kootstreek", "Marowijne River"],
+    "landmarks": ["Central Suriname Rainforest (UNESCO)", "Paramaribo colonial architecture (UNESCO)", "Marowijne River"],
+    "dining": ["roti (flatbread with curry)", "pom (cassava & fish)", "fresh river fish", "tropical fruit & local rum"],
+    "activities": ["rainforest treks (Central Suriname)", "river cruises (Marowijne)", "Maroon culture & drumming", "birdwatching (300+ species)"],
+    "stay": ["Paramaribo (city)", "jungle lodges (Central Suriname)"],
+    "tips": ["Year-round rainforest — dry season Nov–Mar is best", "A true off-the-beaten-path destination — few visitors"],
+    "overview": "South America's last frontier: a Dutch-colonial city (Paramaribo), a UNESCO rainforest, and Maroon cultures — wild, quiet, and unspoiled.",
+    "hotels": [
+      {"name": "Paramaribo City Hotel", "city": "Paramaribo", "area": "Central District", "stars": 3, "price": 85, "rating": 4.0, "airport_mi": 3.0, "excursion_mi": 1.0, "airport": "PBM (Johan A. Ploeg)", "notes": "typical city property near the waterfront (sample data)"},
+      {"name": "Central Suriname Jungle Lodge", "city": "Central Suriname", "area": "Sipaliwini (jungle base)", "stars": 3, "price": 150, "rating": 4.3, "airport_mi": 400.0, "excursion_mi": 3.0, "airport": "PBM + charter flight", "notes": "typical jungle-base lodge (sample data)"}
+    ]
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "aliases": ["Trinidad", "Tobago", "Trini"],
+    "capital": "Port of Spain",
+    "destinations": ["Port of Spain", "Tobago", "Arima (Carnival)"],
+    "landmarks": ["Seven Mile Beach (Tobago)", "Arima Carnival grounds"],
+    "dining": ["doubles (peas & rice in flatbread)", "pelau (okra stew)", "roti", "fresh crab & local rum"],
+    "activities": ["Carnival (Feb/Mar)", "beach + birding (Tobago)", "cricket & reggae", "rum tours (Tobago)"],
+    "stay": ["Port of Spain (base)", "Tobago (beach)"],
+    "tips": ["Carnival (Feb/Mar) is the highlight — book months ahead", "Best: December–April (calm)"],
+    "overview": "The Carnival island: Trinidad's drumming, steel pans, and food (doubles, pelau), and Tobago's Seven Mile Beach — island life with a pulse.",
+    "hotels": [
+      {"name": "Port of Spain City Hotel", "city": "Port of Spain", "area": "Port of Spain", "stars": 4, "price": 160, "rating": 4.3, "airport_mi": 5.0, "excursion_mi": 1.0, "airport": "POS (Piarco Intl)", "notes": "typical city property near the harbor (sample data)"},
+      {"name": "Tobago Seven Mile Beach Hotel", "city": "Scarborough", "area": "Scarborough (Tobago)", "stars": 3, "price": 140, "rating": 4.2, "airport_mi": 1.0, "excursion_mi": 0.5, "airport": "TAB (L.F. Gordons)", "notes": "typical beach property on Seven Mile (sample data)"}
+    ]
+  },
+  {
+    "name": "United States",
+    "aliases": ["USA", "US", "United States of America", "America"],
+    "capital": "Washington, D.C.",
+    "destinations": ["New York", "Los Angeles", "Miami", "Orlando", "Las Vegas", "San Francisco", "New Orleans", "Pittsburgh", "Chicago", "Yellowstone", "Nashville", "Hawaii"],
+    "landmarks": ["Statue of Liberty (NYC)", "Grand Canyon", "Golden Gate Bridge (SF)", "Yellowstone geysers", "Niagara Falls", "Kennedy Space Center"],
+    "dining": ["regional BBQ (Texas, KC)", "NYC pizza & bagels", "New Orleans po'boys & gumbo", "California farm-to-table", "burgers & diners"],
+    "activities": ["national parks (Yellowstone, Grand Canyon)", "Broadway (NYC)", "theme parks (Orlando, LA)", "road trips (I-95, I-40)", "live music (Nashville)", "surf (California, Hawaii)"],
+    "stay": ["New York (Manhattan)", "Los Angeles (DTLA / Hollywood)", "Miami (South Beach)", "Orlando (Disney / Universal area)", "Pittsburgh (North Hills)", "Las Vegas (Strip)"],
+    "tips": ["National parks: best May–September", "Broadway & theme parks book out months ahead"],
+    "overview": "The world's most-visited country: 63 national parks, 50 state capitals, and cities that define their niches — NYC, LA, Miami, Orlando, and more.",
+    "hotels": []
+  },
+  {
+    "name": "Uruguay",
+    "aliases": ["Uruguay", "Uruguayan"],
+    "capital": "Montevideo",
+    "destinations": ["Montevideo", "Punta del Este", "Colonia del Sacramento", "Punta del Diablo"],
+    "landmarks": ["Colonia del Sacramento Old Town (UNESCO)", "Punta del Este beaches", "Rambla de Montevideo (seaside boardwalk)"],
+    "dining": ["asado (Uruguayan BBQ)", "chivito (sandwich)", "mate tea", "fresh seafood & Tannat wine"],
+    "activities": ["beach days (Punta del Este)", "vineyards (Canelones)", "colonial Colonia", "tango & mate culture"],
+    "stay": ["Montevideo (Pocitos)", "Punta del Este (resorts)"],
+    "tips": ["Summer: December–March (southern hemisphere)", "Safe, quiet, and affordable by Caribbean standards"],
+    "overview": "The quiet corner of South America: Montevideo's plazas, Punta del Este's beaches, colonial Colonia, and a strong mate-and-asado culture.",
+    "hotels": [
+      {"name": "Montevideo City Hotel", "city": "Montevideo", "area": "Pocitos", "stars": 4, "price": 150, "rating": 4.3, "airport_mi": 15.0, "excursion_mi": 1.0, "airport": "MVD (Carrasco Intl)", "notes": "typical beach-adjacent property (sample data)"},
+      {"name": "Punta del Este Beach Resort", "city": "Punta del Este", "area": "Punta del Este", "stars": 4, "price": 240, "rating": 4.4, "airport_mi": 130.0, "excursion_mi": 1.0, "airport": "MVD + 1.5h drive", "notes": "typical beachfront resort (sample data)"}
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "aliases": ["Venezuela", "Venezuelan"],
+    "capital": "Caracas",
+    "destinations": ["Caracas", "Los Roques", "Canaima (Ángel Falls)", "Mérida", "Margarita Island"],
+    "landmarks": ["Ángel Falls (world's highest waterfall)", "Los Roques archipelago", "Gran Sabana tepuis"],
+    "dining": ["arepas", "pabellón criollo", "cachapas (sweet corn cakes)", "empanadas & fresh fruit"],
+    "activities": ["Ángel Falls trek (multi-day)", "beach days (Margarita)", "Andes (Mérida)", "rainforest (Gran Sabana)"],
+    "stay": ["Caracas (city)", "Mérida (Andes base)", "Margarita (island)"],
+    "tips": ["Check current travel advisories before booking", "Dramatic landscapes — go with local guides"],
+    "overview": "A country of superlatives: the world's highest waterfall (Ángel Falls), the Los Roques archipelago, and Andean peaks — wild, remote, and beautiful.",
+    "hotels": [
+      {"name": "Caracas City Hotel", "city": "Caracas", "area": "Chacao", "stars": 3, "price": 100, "rating": 3.9, "airport_mi": 12.0, "excursion_mi": 2.0, "airport": "CCS (Simón Bolívar Intl)", "notes": "typical city property (sample data)"},
+      {"name": "Mérida Andes Hotel", "city": "Mérida", "area": "Mérida", "stars": 3, "price": 90, "rating": 4.1, "airport_mi": 4.0, "excursion_mi": 1.0, "airport": "MRD (Alberto Carnevalli)", "notes": "typical Andean-base property, cable car (sample data)"}
+    ]
+  }
+]

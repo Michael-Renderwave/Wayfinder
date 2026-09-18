@@ -1,0 +1,3445 @@
+[
+  {
+    "name": "Albania",
+    "aliases": [
+      "Albania",
+      "Albanian"
+    ],
+    "capital": "Tirana",
+    "destinations": [
+      "Tirana",
+      "Durrës",
+      "Berat",
+      "Gjirokastër",
+      "Ksamil",
+      "Butrint"
+    ],
+    "landmarks": [
+      "Butrint (UNESCO)",
+      "Blue Eye spring",
+      "Rozafa Castle",
+      "Gjirokastër old town (UNESCO)"
+    ],
+    "dining": [
+      "tavë kosi (lamb stew with yogurt)",
+      "byrek (baked pastry)",
+      "fresh seafood",
+      "raki"
+    ],
+    "activities": [
+      "Albanian Riviera beaches",
+      "hiking the Theth & Valbona valleys",
+      "rafting the Drin river"
+    ],
+    "stay": [
+      "Tirana (center)",
+      "Durrës (coast)",
+      "Gjirokastër (stone old town)"
+    ],
+    "tips": [
+      "Best: May–June or September–October",
+      "Carry cash — cards are patchy in the south"
+    ],
+    "overview": "A rugged, affordable Adriatic gem: Butrint's UNESCO ruins, the Blue Eye spring, the stone old towns of Berat and Gjirokastër, and a young Riviera of islands and coves.",
+    "hotels": [
+      {
+        "name": "Tirana City Center Hotel",
+        "city": "Tirana",
+        "area": "Tirana",
+        "stars": 3,
+        "price": 90,
+        "rating": 4.2,
+        "airport_mi": 1.5,
+        "excursion_mi": 1.0,
+        "airport": "TIA (Tirana Intl)",
+        "notes": "typical city property near Skanderbeg Square (sample data)"
+      },
+      {
+        "name": "Durrës Beachfront Hotel",
+        "city": "Durrës",
+        "area": "Durrës",
+        "stars": 3,
+        "price": 85,
+        "rating": 4.0,
+        "airport_mi": 30.0,
+        "excursion_mi": 0.5,
+        "airport": "TIA (Tirana Intl)",
+        "notes": "typical coastal property on the promenade (sample data)"
+      },
+      {
+        "name": "Gjirokastër Old Town Hotel",
+        "city": "Gjirokastër",
+        "area": "Gjirokastër",
+        "stars": 3,
+        "price": 80,
+        "rating": 4.1,
+        "airport_mi": 120.0,
+        "excursion_mi": 0.5,
+        "airport": "TIA (Tirana Intl) + 2.5h drive",
+        "notes": "typical stone-old-town property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Andorra",
+    "aliases": [
+      "Andorra",
+      "Principality of Andorra"
+    ],
+    "capital": "Andorra la Vella",
+    "destinations": [
+      "Andorra la Vella",
+      "Soldeu",
+      "Pal",
+      "Escaldes-Engordany"
+    ],
+    "landmarks": [
+      "Casa de la Vall (16th-century parliament)",
+      "Grandvalira ski area",
+      "Sant Joan de Caselles church"
+    ],
+    "dining": [
+      "trinxat (hearty mountain stew)",
+      "roasted lamb",
+      "duty-free chocolate"
+    ],
+    "activities": [
+      "skiing & snowboarding (Grandvalira)",
+      "summer hiking & mountain biking",
+      "duty-free shopping"
+    ],
+    "stay": [
+      "Soldeu (ski village base)",
+      "Andorra la Vella (capital)"
+    ],
+    "tips": [
+      "Ski season: December–April",
+      "No airport — you arrive by road from France or Spain"
+    ],
+    "overview": "A tiny Pyrenean principality and a winter-sports base: Grandvalira's big ski domain, Andorra la Vella — Europe's highest capital — and tax-free shopping.",
+    "hotels": [
+      {
+        "name": "Soldeu Mountain Hotel",
+        "city": "Soldeu",
+        "area": "Grandvalira",
+        "stars": 3,
+        "price": 120,
+        "rating": 4.1,
+        "airport_mi": 95.0,
+        "excursion_mi": 0.5,
+        "airport": "via L'Hospitalet (Andorra la Vella) or Toulouse",
+        "notes": "typical ski-village property (sample data)"
+      },
+      {
+        "name": "Andorra la Vella City Hotel",
+        "city": "Andorra la Vella",
+        "area": "capital",
+        "stars": 3,
+        "price": 110,
+        "rating": 4.0,
+        "airport_mi": 95.0,
+        "excursion_mi": 2.0,
+        "airport": "via Toulouse or Barcelona",
+        "notes": "typical capital-center property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Austria",
+    "aliases": [
+      "Austria",
+      "Austrian"
+    ],
+    "capital": "Vienna",
+    "destinations": [
+      "Vienna",
+      "Salzburg",
+      "Innsbruck",
+      "Hallstatt",
+      "Graz",
+      "Lake Wolfgang"
+    ],
+    "landmarks": [
+      "Schönbrunn Palace",
+      "St. Stephen's Cathedral (Vienna)",
+      "Hallstatt (UNESCO-adjacent lakeside)",
+      "Hohensalzburg Fortress"
+    ],
+    "dining": [
+      "Sachertorte (chocolate cake)",
+      "Wiener Schnitzel",
+      "Kaiserschmarrn (caramelized pancake)",
+      "Alpine huts & Jausen"
+    ],
+    "activities": [
+      "classical concerts (Vienna)",
+      "Alpine lakes & Hallstatt",
+      "skiing (Innsbruck / St. Anton)",
+      "cycling the Danube"
+    ],
+    "stay": [
+      "Vienna (Innere Stadt / Mariahilfer)",
+      "Salzburg (old town)",
+      "Hallstatt (lake base)"
+    ],
+    "tips": [
+      "Vienna museums are cheap or free on the first Sunday of many months",
+      "Summer: June–September; winter: December–March for skiing"
+    ],
+    "overview": "Vienna's palaces and music, Salzburg's Mozart legacy, and the Alps: Hallstatt's lakeside village, Innsbruck's peaks, and the most famous ski valleys in Europe.",
+    "hotels": [
+      {
+        "name": "Vienna City Center Hotel",
+        "city": "Vienna",
+        "area": "Innere Stadt",
+        "stars": 4,
+        "price": 180,
+        "rating": 4.4,
+        "airport_mi": 20.0,
+        "excursion_mi": 0.5,
+        "airport": "VIE (Vienna Intl)",
+        "notes": "typical center property near the Ring (sample data)"
+      },
+      {
+        "name": "Salzburg Old Town Hotel",
+        "city": "Salzburg",
+        "area": "Altstadt",
+        "stars": 4,
+        "price": 170,
+        "rating": 4.3,
+        "airport_mi": 90.0,
+        "excursion_mi": 0.5,
+        "airport": "VIE (Vienna Intl) + train",
+        "notes": "typical old-town property near the Residenzplatz (sample data)"
+      },
+      {
+        "name": "Hallstatt Alpine Hotel",
+        "city": "Hallstatt",
+        "area": "Hallstatt",
+        "stars": 3,
+        "price": 140,
+        "rating": 4.2,
+        "airport_mi": 150.0,
+        "excursion_mi": 0.3,
+        "airport": "VIE (Vienna Intl) + train/bus",
+        "notes": "typical lakeside property — book early in season (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Belarus",
+    "aliases": [
+      "Belarus",
+      "Byelorussia"
+    ],
+    "capital": "Minsk",
+    "destinations": [
+      "Minsk",
+      "Brest",
+      "Mir",
+      "Nesvizh"
+    ],
+    "landmarks": [
+      "Mir & Nesvizh castles (UNESCO)",
+      "Cathedral Square (Minsk)",
+      "Brest Fortress (UNESCO)"
+    ],
+    "dining": [
+      "draniki (potato pancakes)",
+      "machanka (rich stew)",
+      "kolduny (dumplings)",
+      "honey vodka"
+    ],
+    "activities": [
+      "castles & palaces (Mir, Nesvizh)",
+      "the Minsk–Brest rail trail by bike",
+      "primeval Białowieża forest (shared with Poland)"
+    ],
+    "stay": [
+      "Minsk (center)",
+      "Brest (fortress town)"
+    ],
+    "tips": [
+      "Best: late May–September",
+      "Carry cash — card coverage is patchy in smaller towns"
+    ],
+    "overview": "A quiet, forested corner of Eastern Europe: Minsk's wide boulevards, Brest's storied fortress, and UNESCO castle towns — with primeval forests at the Białowieża border.",
+    "hotels": [
+      {
+        "name": "Minsk City Center Hotel",
+        "city": "Minsk",
+        "area": "Minsk",
+        "stars": 4,
+        "price": 100,
+        "rating": 4.1,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "MSQ (Minsk Intl)",
+        "notes": "typical city property near Cathedral Square (sample data)"
+      },
+      {
+        "name": "Brest Old Town Hotel",
+        "city": "Brest",
+        "area": "Brest",
+        "stars": 3,
+        "price": 80,
+        "rating": 4.0,
+        "airport_mi": 320.0,
+        "excursion_mi": 0.5,
+        "airport": "MSQ (Minsk Intl) + 3.5h drive",
+        "notes": "typical fortress-town property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Belgium",
+    "aliases": [
+      "Belgium",
+      "Belgian"
+    ],
+    "capital": "Brussels",
+    "destinations": [
+      "Brussels",
+      "Bruges",
+      "Ghent",
+      "Antwerp",
+      "the Ardennes"
+    ],
+    "landmarks": [
+      "Bruges belfry & canals (UNESCO)",
+      "Grand-Place (Brussels, UNESCO)",
+      "Atomium",
+      "Ghent's Graslei waterfront"
+    ],
+    "dining": [
+      "mussels & fries",
+      "waterzooi (chicken/vegetable stew)",
+      "Belgian chocolate & waffles",
+      "lamb with mash (waterzooi style)"
+    ],
+    "activities": [
+      "canal cycling (Bruges–Ghent)",
+      "beer tastings & breweries",
+      "chocolate tours",
+      "beaches at Ostend"
+    ],
+    "stay": [
+      "Brussels (Grand-Place / IJssel)",
+      "Bruges (old town)",
+      "Ghent (Graslei)"
+    ],
+    "tips": [
+      "Brussels is best by tram — traffic is heavy",
+      "Many shops close Sundays"
+    ],
+    "overview": "A dense, easy weekend country: Brussels' Grand-Place and waffles, Bruges' canals, Ghent's student charm, and the world's best beer and chocolate — all within a few hours by train.",
+    "hotels": [
+      {
+        "name": "Brussels Grand Place Hotel",
+        "city": "Brussels",
+        "area": "Grand-Place",
+        "stars": 4,
+        "price": 190,
+        "rating": 4.4,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "BRU (Brussels Intl)",
+        "notes": "typical center property within walking distance of the Grand-Place (sample data)"
+      },
+      {
+        "name": "Bruges Old Town Hotel",
+        "city": "Bruges",
+        "area": "Bruges",
+        "stars": 4,
+        "price": 160,
+        "rating": 4.3,
+        "airport_mi": 45.0,
+        "excursion_mi": 0.5,
+        "airport": "BRU (Brussels Intl)",
+        "notes": "typical canal-side old-town property (sample data)"
+      },
+      {
+        "name": "Ghent Riverside Hotel",
+        "city": "Ghent",
+        "area": "Graslei",
+        "stars": 3,
+        "price": 130,
+        "rating": 4.1,
+        "airport_mi": 35.0,
+        "excursion_mi": 0.5,
+        "airport": "BRU (Brussels Intl)",
+        "notes": "typical waterfront property near the Leie (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "aliases": [
+      "Bosnia",
+      "Bosnia & Herzegovina",
+      "Bosnia-Herzegovina"
+    ],
+    "capital": "Sarajevo",
+    "destinations": [
+      "Sarajevo",
+      "Mostar",
+      "Blagaj",
+      "Jajce",
+      "the Una valley"
+    ],
+    "landmarks": [
+      "Stari Most (Old Bridge, UNESCO)",
+      "Blagaj Tekke",
+      "Yellow Fortress (Jajce)",
+      "Baščaršija bazaar (Sarajevo)"
+    ],
+    "dining": [
+      "ćevapi (the national dish)",
+      "burek (cheese/meat pastry)",
+      "Bosnian coffee",
+      "somun bread"
+    ],
+    "activities": [
+      "rafting the Tara river",
+      "the Una river canyon",
+      "Sarajevo's old bazaar & war tunnels",
+      "skiing (Bjelašnica)"
+    ],
+    "stay": [
+      "Sarajevo (center)",
+      "Mostar (old town)",
+      "Jajce (lake town)"
+    ],
+    "tips": [
+      "Best: June–September",
+      "Carry cash — KMark cards are patchy in smaller towns"
+    ],
+    "overview": "The Balkans' most scenic mix: Mostar's rebuilt old bridge, the Blagaj dervish monastery, Sarajevo's bazaar-and-tunnel history, and some of Europe's best rafting canyons.",
+    "hotels": [
+      {
+        "name": "Sarajevo City Center Hotel",
+        "city": "Sarajevo",
+        "area": "Baščaršija",
+        "stars": 4,
+        "price": 95,
+        "rating": 4.2,
+        "airport_mi": 10.0,
+        "excursion_mi": 0.5,
+        "airport": "SJJ (Sarajevo Intl)",
+        "notes": "typical center property near the bazaar (sample data)"
+      },
+      {
+        "name": "Mostar Old Town Hotel",
+        "city": "Mostar",
+        "area": "Mostar",
+        "stars": 3,
+        "price": 80,
+        "rating": 4.1,
+        "airport_mi": 100.0,
+        "excursion_mi": 0.5,
+        "airport": "SJJ (Sarajevo Intl) + 1.5h drive",
+        "notes": "typical stone old-town property near Stari Most (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "aliases": [
+      "Bulgaria",
+      "Bulgarian"
+    ],
+    "capital": "Sofia",
+    "destinations": [
+      "Sofia",
+      "Plovdiv",
+      "Varna",
+      "the Black Sea coast",
+      "Rila",
+      "the Pirin mountains"
+    ],
+    "landmarks": [
+      "Ancient Theatre of Plovdiv (UNESCO)",
+      "Rila Monastery (UNESCO)",
+      "Boyana Chapel (Sofia, UNESCO)",
+      "Balchik Botanical Garden"
+    ],
+    "dining": [
+      "sarmi (vine-leaf rolls)",
+      "banitsa (cheese pastry)",
+      "shop salad",
+      "rakia"
+    ],
+    "activities": [
+      "Rila & Pirin mountain hiking",
+      "Black Sea beaches (Varna / Burgas)",
+      "skiing (Bansko, Borovets)"
+    ],
+    "stay": [
+      "Sofia (center)",
+      "Plovdiv (old town)",
+      "Varna (coast)"
+    ],
+    "tips": [
+      "Best: June–September",
+      "Plovdiv is one of Europe's oldest cities — the old town is a UNESCO site"
+    ],
+    "overview": "A underrated Balkan mix: Plovdiv's 2,000-year-old theater, Rila Monastery's painted halls, Black Sea beaches, and two great Alpine-style mountain parks.",
+    "hotels": [
+      {
+        "name": "Sofia City Center Hotel",
+        "city": "Sofia",
+        "area": "Sofia",
+        "stars": 4,
+        "price": 90,
+        "rating": 4.1,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "SOF (Sofia Intl)",
+        "notes": "typical center property near Alexander Nevsky Cathedral (sample data)"
+      },
+      {
+        "name": "Plovdiv Old Town Hotel",
+        "city": "Plovdiv",
+        "area": "Plovdiv",
+        "stars": 3,
+        "price": 80,
+        "rating": 4.0,
+        "airport_mi": 150.0,
+        "excursion_mi": 0.5,
+        "airport": "SOF (Sofia Intl) + 2h drive",
+        "notes": "typical old-town property near the Roman theater (sample data)"
+      },
+      {
+        "name": "Varna Beach Hotel",
+        "city": "Varna",
+        "area": "Varna",
+        "stars": 3,
+        "price": 85,
+        "rating": 3.9,
+        "airport_mi": 180.0,
+        "excursion_mi": 0.5,
+        "airport": "Varna (Varna Intl)",
+        "notes": "typical Black Sea beach property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Croatia",
+    "aliases": [
+      "Croatia",
+      "Croatian"
+    ],
+    "capital": "Zagreb",
+    "destinations": [
+      "Dubrovnik",
+      "Split",
+      "Zadar",
+      "Plitvice Lakes",
+      "Istria",
+      "Hvar",
+      "Korčula"
+    ],
+    "landmarks": [
+      "Dubrovnik walls (UNESCO)",
+      "Plitvice Lakes (16 cascades, UNESCO)",
+      "Diocletian's Palace (Split)",
+      "St. James's Cathedral (Zadar)"
+    ],
+    "dining": [
+      "black risotto (Dubrovnik)",
+      "peka (slow-baked dish)",
+      "octopus & Adriatic seafood",
+      "pljeskavica (meat cake)"
+    ],
+    "activities": [
+      "kayaking the Krka waterfalls",
+      "island hopping (Hvar, Korčula)",
+      "cycling around Plitvice",
+      "Istrian wine & truffles"
+    ],
+    "stay": [
+      "Dubrovnik (Old Town / Lapad)",
+      "Split (Riva)",
+      "Zadar (coast)"
+    ],
+    "tips": [
+      "July–August is peak — book islands early",
+      "Fast cat ferries connect the islands"
+    ],
+    "overview": "The Adriatic's showpiece: Dubrovnik's walled old town, Plitvice's turquoise lakes, Split's Roman palace, and a hundred islands of pine-scented beaches and stone villages.",
+    "hotels": [
+      {
+        "name": "Dubrovnik Old Town Hotel",
+        "city": "Dubrovnik",
+        "area": "Old Town / Lapad",
+        "stars": 4,
+        "price": 220,
+        "rating": 4.4,
+        "airport_mi": 45.0,
+        "excursion_mi": 0.5,
+        "airport": "Dubrovnik (Dubrovnik Intl)",
+        "notes": "typical old-town or Lapad property — book early in season (sample data)"
+      },
+      {
+        "name": "Split Riva Hotel",
+        "city": "Split",
+        "area": "Riva",
+        "stars": 4,
+        "price": 160,
+        "rating": 4.3,
+        "airport_mi": 95.0,
+        "excursion_mi": 0.5,
+        "airport": "SPU (Split)",
+        "notes": "typical waterfront property on the Riva (sample data)"
+      },
+      {
+        "name": "Zadar Beachfront Hotel",
+        "city": "Zadar",
+        "area": "Zadar",
+        "stars": 3,
+        "price": 120,
+        "rating": 4.1,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "ZAD (Zadar)",
+        "notes": "typical coastal property near the old town (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Cyprus",
+    "aliases": [
+      "Cyprus",
+      "Cypriot"
+    ],
+    "capital": "Nicosia",
+    "destinations": [
+      "Paphos",
+      "Limassol",
+      "Larnaca",
+      "Troodos",
+      "Ayia Napa"
+    ],
+    "landmarks": [
+      "Pafos Rock",
+      "Bellapais Abbey",
+      "Tombs of the Kings (Paphos, UNESCO)",
+      "Troodos painted churches (UNESCO)"
+    ],
+    "dining": [
+      "halloumi",
+      "souvlaki & meze",
+      "fresh seafood",
+      "Cypriot wine (Xynistra)"
+    ],
+    "activities": [
+      "beach hopping (Ayia Napa)",
+      "diving the reefs",
+      "Troodos mountain hiking",
+      "the ghost town of Pyla"
+    ],
+    "stay": [
+      "Limassol (coast)",
+      "Paphos (old town)",
+      "Ayia Napa (beach)"
+    ],
+    "tips": [
+      "May–June and September–October are the sweet spots",
+      "The north side requires a separate entry — plan routes accordingly"
+    ],
+    "overview": "A Mediterranean island of Greek Orthodox painted churches, Pafos' ancient rock and tombs, and long sandy beaches around a warm, wine-rich coast.",
+    "hotels": [
+      {
+        "name": "Limassol Beachfront Hotel",
+        "city": "Limassol",
+        "area": "Limassol",
+        "stars": 4,
+        "price": 150,
+        "rating": 4.2,
+        "airport_mi": 30.0,
+        "excursion_mi": 0.5,
+        "airport": "LCA (Larnaca Intl)",
+        "notes": "typical coastal property near the marina (sample data)"
+      },
+      {
+        "name": "Paphos Old Town Hotel",
+        "city": "Paphos",
+        "area": "Paphos",
+        "stars": 3,
+        "price": 110,
+        "rating": 4.0,
+        "airport_mi": 60.0,
+        "excursion_mi": 0.5,
+        "airport": "PFO (Paphos)",
+        "notes": "typical old-town property near the Archaeological Park (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Czechia",
+    "aliases": [
+      "Czechia",
+      "Czech Republic",
+      "Czech"
+    ],
+    "capital": "Prague",
+    "destinations": [
+      "Prague",
+      "Český Krumlov",
+      "Karlštejn",
+      "Brno",
+      "the spa towns"
+    ],
+    "landmarks": [
+      "Prague Castle & Charles Bridge",
+      "Český Krumlov old town (UNESCO)",
+      "Karlštejn Castle",
+      "Astronomical Clock (Prague)"
+    ],
+    "dining": [
+      "goulash",
+      "svíčková (marinated beef with sour cream)",
+      "trdelník",
+      "Pilsner & craft beer"
+    ],
+    "activities": [
+      "beer halls (Plzeň)",
+      "the spa towns (Karlovy Vary, Mariánské Lázně)",
+      "Vltava cycling",
+      "castle hopping (Karlštejn, Hrádek)"
+    ],
+    "stay": [
+      "Prague (Old Town / Malá Strana)",
+      "Český Krumlov (old town)"
+    ],
+    "tips": [
+      "Summer is peak in Prague's Old Town — the spa towns are quieter and cheaper",
+      "The Czech koruna is not the euro"
+    ],
+    "overview": "Prague's fairy-tale center, Český Krumlov's castle over the Vltava, a world of castles and beer halls — and the great Central European spa towns, still working.",
+    "hotels": [
+      {
+        "name": "Prague Old Town Hotel",
+        "city": "Prague",
+        "area": "Old Town",
+        "stars": 4,
+        "price": 170,
+        "rating": 4.4,
+        "airport_mi": 20.0,
+        "excursion_mi": 0.5,
+        "airport": "PRG (Václav Havel Intl)",
+        "notes": "typical Old Town property near the Astronomical Clock (sample data)"
+      },
+      {
+        "name": "Prague Castle View Hotel",
+        "city": "Prague",
+        "area": "Hradčany",
+        "stars": 4,
+        "price": 190,
+        "rating": 4.4,
+        "airport_mi": 22.0,
+        "excursion_mi": 0.5,
+        "airport": "PRG (Václav Havel Intl)",
+        "notes": "typical Hradčany property with castle views (sample data)"
+      },
+      {
+        "name": "Český Krumlov Riverside Hotel",
+        "city": "Český Krumlov",
+        "area": "Český Krumlov",
+        "stars": 3,
+        "price": 130,
+        "rating": 4.2,
+        "airport_mi": 170.0,
+        "excursion_mi": 0.5,
+        "airport": "PRG (Václav Havel Intl) + 2.5h drive",
+        "notes": "typical old-town property near the castle (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Denmark",
+    "aliases": [
+      "Denmark",
+      "Danish"
+    ],
+    "capital": "Copenhagen",
+    "destinations": [
+      "Copenhagen",
+      "Aarhus",
+      "Odense",
+      "Bornholm",
+      "the Wadden coast (Fanø)"
+    ],
+    "landmarks": [
+      "Little Mermaid (Copenhagen)",
+      "Nyhavn",
+      "Tivoli Gardens",
+      "the Ribe Viking Museum"
+    ],
+    "dining": [
+      "smørrebrød (open-faced rye)",
+      "New Nordic tasting menus",
+      "herring & pickles",
+      "Danish pastries (kanelbolde)"
+    ],
+    "activities": [
+      "cycling everywhere",
+      "a day trip to Malmö (Sweden)",
+      "Bornholm's beaches & granite",
+      "stargazing on Fanø (dark-sky island)"
+    ],
+    "stay": [
+      "Copenhagen (Indre By)",
+      "Aarhus (riverfront)",
+      "Bornholm (Nordre Bornholm)"
+    ],
+    "tips": [
+      "Summer: June–August",
+      "Cycling is the local way to move — rent one in Copenhagen"
+    ],
+    "overview": "Scandinavia's compact classic: Copenhagen's Nyhavn canals, New Nordic food, Tivoli, and the quiet Danish islands — Bornholm, Fanø, and the long, flat beaches of the west coast.",
+    "hotels": [
+      {
+        "name": "Copenhagen City Center Hotel",
+        "city": "Copenhagen",
+        "area": "Indre By",
+        "stars": 4,
+        "price": 200,
+        "rating": 4.4,
+        "airport_mi": 10.0,
+        "excursion_mi": 0.5,
+        "airport": "CPH (Copenhagen)",
+        "notes": "typical center property near Strøget (sample data)"
+      },
+      {
+        "name": "Copenhagen Airport Hotel",
+        "city": "Copenhagen",
+        "area": "Kastrup",
+        "stars": 4,
+        "price": 140,
+        "rating": 4.2,
+        "airport_mi": 0.5,
+        "excursion_mi": 8.0,
+        "airport": "CPH (Copenhagen)",
+        "notes": "typical airport-area property (sample data)"
+      },
+      {
+        "name": "Aarhus Riverside Hotel",
+        "city": "Aarhus",
+        "area": "Aarhus",
+        "stars": 3,
+        "price": 130,
+        "rating": 4.1,
+        "airport_mi": 120.0,
+        "excursion_mi": 0.5,
+        "airport": "CPH (Copenhagen) + train",
+        "notes": "typical riverfront property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Estonia",
+    "aliases": [
+      "Estonia",
+      "Estonian"
+    ],
+    "capital": "Tallinn",
+    "destinations": [
+      "Tallinn",
+      "Saaremaa",
+      "Pärnu",
+      "Lahemaa"
+    ],
+    "landmarks": [
+      "Tallinn old town (UNESCO)",
+      "Toompea castle",
+      "Kuressaare castle (Saaremaa)"
+    ],
+    "dining": [
+      "herring & potato salad",
+      "porridge (kama)",
+      "blueberry pie (mustamajad)",
+      "rye bread"
+    ],
+    "activities": [
+      "sauna culture (Tallinn & the coast)",
+      "coastal cycling (Saaremaa)",
+      "stargazing (dark-sky islands)",
+      "Pärnu beach days"
+    ],
+    "stay": [
+      "Tallinn (old town)",
+      "Kuressaare (Saaremaa)"
+    ],
+    "tips": [
+      "Shoulder season (May, September) is quiet and lovely",
+      "The old town is compact — walk it in a day"
+    ],
+    "overview": "Baltic's digital frontier and old-town gem: Tallinn's Hanseatic walls, the quiet island of Saaremaa, and long, sandy, wind-blown Baltic beaches.",
+    "hotels": [
+      {
+        "name": "Tallinn Old Town Hotel",
+        "city": "Tallinn",
+        "area": "Old Town",
+        "stars": 4,
+        "price": 120,
+        "rating": 4.3,
+        "airport_mi": 8.0,
+        "excursion_mi": 0.5,
+        "airport": "TLL (Tallinn Intl)",
+        "notes": "typical old-town property near Town Hall Square (sample data)"
+      },
+      {
+        "name": "Kuressaare Castle Hotel",
+        "city": "Kuressaare",
+        "area": "Saaremaa",
+        "stars": 3,
+        "price": 90,
+        "rating": 4.1,
+        "airport_mi": 90.0,
+        "excursion_mi": 0.5,
+        "airport": "TLL (Tallinn Intl) + ferry",
+        "notes": "typical island property near the castle (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Finland",
+    "aliases": [
+      "Finland",
+      "Finnish"
+    ],
+    "capital": "Helsinki",
+    "destinations": [
+      "Helsinki",
+      "Lapland (Rovaniemi, Inari)",
+      "the Åland islands",
+      "Tampere",
+      "the thousand lakes"
+    ],
+    "landmarks": [
+      "Helsinki Cathedral (white)",
+      "the wooden churches of South Savo (UNESCO)",
+      "Kakslauttanen glass igloos (Lapland)",
+      "Lake Saimaa"
+    ],
+    "dining": [
+      "karitaima (fish soup)",
+      "porridge",
+      "reindeer",
+      "Finnish sauna & bread"
+    ],
+    "activities": [
+      "northern lights (Sept–March)",
+      "the midnight sun (June–July)",
+      "Lapland hiking & husky safaris",
+      "sauna & swim (everywhere)"
+    ],
+    "stay": [
+      "Helsinki (center)",
+      "Rovaniemi (Lapland)",
+      "Åland (Mariehamn)"
+    ],
+    "tips": [
+      "Northern lights: September–March, away from city lights",
+      "Lapland is best December–March for the snow"
+    ],
+    "overview": "A land of lakes, forests, and design: Helsinki's white cathedral, the midnight sun of Lapland, the northern lights, and the sauna — the national pastime.",
+    "hotels": [
+      {
+        "name": "Helsinki City Center Hotel",
+        "city": "Helsinki",
+        "area": "Kalamaja",
+        "stars": 4,
+        "price": 160,
+        "rating": 4.3,
+        "airport_mi": 35.0,
+        "excursion_mi": 0.5,
+        "airport": "HEL (Helsinki Vantaa)",
+        "notes": "typical center property (sample data)"
+      },
+      {
+        "name": "Helsinki Airport Hotel",
+        "city": "Helsinki",
+        "area": "Vantaa",
+        "stars": 4,
+        "price": 150,
+        "rating": 4.2,
+        "airport_mi": 0.5,
+        "excursion_mi": 30.0,
+        "airport": "HEL (Helsinki Vantaa)",
+        "notes": "typical airport-area property (sample data)"
+      },
+      {
+        "name": "Rovaniemi Arctic Hotel",
+        "city": "Rovaniemi",
+        "area": "Rovaniemi",
+        "stars": 3,
+        "price": 130,
+        "rating": 4.2,
+        "airport_mi": 1.0,
+        "excursion_mi": 0.5,
+        "airport": "IVO (Rovaniemi)",
+        "notes": "typical arctic property on the Arctic Circle (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "France",
+    "aliases": [
+      "France",
+      "French"
+    ],
+    "capital": "Paris",
+    "destinations": [
+      "Paris",
+      "the Côte d'Azur (Nice, Cannes)",
+      "Marseille & Provence",
+      "the Dordogne",
+      "Normandy",
+      "the Alps (Chamonix)"
+    ],
+    "landmarks": [
+      "Eiffel Tower & the Louvre",
+      "Mont Saint-Michel",
+      "the canals of Annecy",
+      "the cliffs of the Calanques (Cassis)"
+    ],
+    "dining": [
+      "croissants & baguettes",
+      "bouillabaisse (Marseille)",
+      "cassoulet",
+      "cheese plates & wine (Bordeaux, Burgundy)"
+    ],
+    "activities": [
+      "Provence markets",
+      "Côte d'Azur beaches & cliff drives",
+      "Loire Valley châteaux",
+      "Alsace cycling"
+    ],
+    "stay": [
+      "Paris (Le Marais / Seine side)",
+      "Nice (Vieux Nice)",
+      "Tours (Loire Valley)"
+    ],
+    "tips": [
+      "Many towns empty in August — the south is quieter",
+      "The TGV train makes day trips easy"
+    ],
+    "overview": "Europe's classic: Paris' museums and cafés, the lavender markets of Provence, Mont Saint-Michel, the Loire châteaux, and the sun-and-cliff drama of the Côte d'Azur.",
+    "hotels": [
+      {
+        "name": "Nice Old Town Hotel",
+        "city": "Nice",
+        "area": "Vieux Nice",
+        "stars": 4,
+        "price": 180,
+        "rating": 4.3,
+        "airport_mi": 7.0,
+        "excursion_mi": 0.5,
+        "airport": "NCE (Nice Côte d'Azur)",
+        "notes": "typical old-town property near the promenade (sample data)"
+      },
+      {
+        "name": "Tours Loire Valley Hotel",
+        "city": "Tours",
+        "area": "Tours",
+        "stars": 3,
+        "price": 130,
+        "rating": 4.1,
+        "airport_mi": 100.0,
+        "excursion_mi": 1.0,
+        "airport": "via Paris or Le Mans",
+        "notes": "typical Loire Valley base for château hopping (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Germany",
+    "aliases": [
+      "Germany",
+      "German"
+    ],
+    "capital": "Berlin",
+    "destinations": [
+      "Berlin",
+      "Munich",
+      "the Rhine valley",
+      "the Bavarian Alps (Garmisch)",
+      "Hamburg",
+      "the Black Forest",
+      "Saxon Switzerland"
+    ],
+    "landmarks": [
+      "Brandenburg Gate (Berlin)",
+      "Neuschwanstein Castle",
+      "Rhine castles (Lorelei)",
+      "Nuremberg old town"
+    ],
+    "dining": [
+      "bratwurst & pretzels",
+      "schnitzel",
+      "currywurst (Berlin)",
+      "beer halls (Munich)"
+    ],
+    "activities": [
+      "Oktoberfest (late August–September)",
+      "Rhine valley cycling",
+      "castle hopping",
+      "Baltic beaches (Usedom)"
+    ],
+    "stay": [
+      "Berlin (Mitte)",
+      "Munich (Altstadt)",
+      "the Rhine valley (Bonn / Cologne area)"
+    ],
+    "tips": [
+      "Regional trains (RE) cover the Rhine valley well",
+      "Oktoberfest is late August–early September"
+    ],
+    "overview": "From Berlin's wall and museums to Bavaria's castles and beer, the Rhine's castle-dotted river, and the Black Forest's quiet lakes — a big, varied, easy-to-train country.",
+    "hotels": [
+      {
+        "name": "Berlin City Center Hotel",
+        "city": "Berlin",
+        "area": "Mitte",
+        "stars": 4,
+        "price": 150,
+        "rating": 4.3,
+        "airport_mi": 25.0,
+        "excursion_mi": 0.5,
+        "airport": "BER (Berlin Brandenburg)",
+        "notes": "typical Mitte property near the Museum Island (sample data)"
+      },
+      {
+        "name": "Munich Old Town Hotel",
+        "city": "Munich",
+        "area": "Altstadt",
+        "stars": 4,
+        "price": 160,
+        "rating": 4.3,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "MUC (Munich Intl)",
+        "notes": "typical Altstadt property near Marienplatz (sample data)"
+      },
+      {
+        "name": "Cologne Riverside Hotel",
+        "city": "Cologne",
+        "area": "Cologne",
+        "stars": 3,
+        "price": 120,
+        "rating": 4.1,
+        "airport_mi": 20.0,
+        "excursion_mi": 0.5,
+        "airport": "CGN (Cologne Bonn)",
+        "notes": "typical riverfront property near the cathedral (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Greece",
+    "aliases": [
+      "Greece",
+      "Greek"
+    ],
+    "capital": "Athens",
+    "destinations": [
+      "Athens",
+      "Santorini",
+      "Crete",
+      "Mykonos",
+      "Meteora",
+      "Corfu",
+      "the Peloponnese"
+    ],
+    "landmarks": [
+      "the Acropolis (Athens)",
+      "Meteora monasteries (UNESCO)",
+      "Santorini's caldera",
+      "Knossos palace (Crete)",
+      "Temple of Poseidon (Cap Sounion)"
+    ],
+    "dining": [
+      "moussaka",
+      "souvlaki",
+      "fresh seafood",
+      "Greek salad & baklava"
+    ],
+    "activities": [
+      "sailing the Cyclades",
+      "beach hopping",
+      "Athens' archaeological sites",
+      "Crete's Samaria gorge hike"
+    ],
+    "stay": [
+      "Athens (Plaka)",
+      "Santorini (Oia / Fira)",
+      "Chania (Crete)"
+    ],
+    "tips": [
+      "High season: June–August — book islands early",
+      "Ferries are the lifeline — check schedules"
+    ],
+    "overview": "The classic Mediterranean: Athens' Acropolis, the white-and-blue caldera of Santorini, Crete's long beaches, the cliff-hung monasteries of Meteora, and the wine islands of the Aegean.",
+    "hotels": [
+      {
+        "name": "Athens Plaka Hotel",
+        "city": "Athens",
+        "area": "Plaka",
+        "stars": 4,
+        "price": 160,
+        "rating": 4.3,
+        "airport_mi": 25.0,
+        "excursion_mi": 0.5,
+        "airport": "ATH (Athens Intl)",
+        "notes": "typical Plaka property near the Acropolis (sample data)"
+      },
+      {
+        "name": "Santorini Caldera View Hotel",
+        "city": "Santorini",
+        "area": "Oia / Fira",
+        "stars": 4,
+        "price": 260,
+        "rating": 4.5,
+        "airport_mi": 1.0,
+        "excursion_mi": 0.5,
+        "airport": "JTR (Santorini / Thira)",
+        "notes": "typical caldera-view property — book early in season (sample data)"
+      },
+      {
+        "name": "Chania Old Town Hotel",
+        "city": "Chania",
+        "area": "Chania",
+        "stars": 3,
+        "price": 130,
+        "rating": 4.2,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "CHQ (Chania)",
+        "notes": "typical old-town harbor property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Hungary",
+    "aliases": [
+      "Hungary",
+      "Hungarian"
+    ],
+    "capital": "Budapest",
+    "destinations": [
+      "Budapest",
+      "Lake Balaton",
+      "Aggtelek caves",
+      "Visegrád",
+      "the Tokaj wine region"
+    ],
+    "landmarks": [
+      "Buda Castle & the thermal baths (UNESCO)",
+      "Szechenyi Bath",
+      "the Danube & Chain Bridge",
+      "Aggtelek caves (UNESCO)"
+    ],
+    "dining": [
+      "goulash",
+      "lángos (fried dough)",
+      "paprikás csirke (paprika chicken)",
+      "Tokaj wine"
+    ],
+    "activities": [
+      "thermal bathing (Szechenyi, Gellért)",
+      "Lake Balaton cycling",
+      "Tokaj wine tasting",
+      "the ruin bars (Budapest)"
+    ],
+    "stay": [
+      "Budapest (Buda side / center)",
+      "Lake Balaton (Balatonfüred)",
+      "Tokaj (wine town)"
+    ],
+    "tips": [
+      "Thermal baths are cheap and local — go early",
+      "Summer is the high season for Balaton"
+    ],
+    "overview": "Budapest's castle, baths, and ruin bars; the big blue lake of Balaton; the wine hills of Tokaj; and the quiet caves of Aggtelek — a compact, affordable, food-rich Central Europe.",
+    "hotels": [
+      {
+        "name": "Budapest City Center Hotel",
+        "city": "Budapest",
+        "area": "Budapest",
+        "stars": 4,
+        "price": 130,
+        "rating": 4.3,
+        "airport_mi": 25.0,
+        "excursion_mi": 0.5,
+        "airport": "BUD (Budapest)",
+        "notes": "typical center property near the Danube (sample data)"
+      },
+      {
+        "name": "Budapest Buda Hill Hotel",
+        "city": "Budapest",
+        "area": "Buda",
+        "stars": 4,
+        "price": 150,
+        "rating": 4.4,
+        "airport_mi": 28.0,
+        "excursion_mi": 0.5,
+        "airport": "BUD (Budapest)",
+        "notes": "typical Buda-side property with Danube views (sample data)"
+      },
+      {
+        "name": "Lake Balaton Resort",
+        "city": "Balatonfüred",
+        "area": "Lake Balaton",
+        "stars": 3,
+        "price": 110,
+        "rating": 4.1,
+        "airport_mi": 65.0,
+        "excursion_mi": 0.5,
+        "airport": "BUD (Budapest)",
+        "notes": "typical lakeside property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Ireland",
+    "aliases": [
+      "Ireland",
+      "Irish",
+      "Republic of Ireland"
+    ],
+    "capital": "Dublin",
+    "destinations": [
+      "Dublin",
+      "the Cliffs of Moher",
+      "the Ring of Kerry",
+      "Dingle",
+      "the Wild Atlantic Way",
+      "the Aran Islands",
+      "Cork"
+    ],
+    "landmarks": [
+      "Cliffs of Moher",
+      "Newgrange (UNESCO)",
+      "the Rock of Cashel",
+      "the Ring of Kerry"
+    ],
+    "dining": [
+      "Irish stew",
+      "seafood (Galway, the west)",
+      "bacon & cabbage",
+      "Guinness & cider"
+    ],
+    "activities": [
+      "hiking the Wild Atlantic Way",
+      "the Aran Islands by boat",
+      "trad pub sessions",
+      "Dingle's beaches"
+    ],
+    "stay": [
+      "Dublin (city center)",
+      "Killarney (Ring of Kerry base)",
+      "Dingle (bay town)"
+    ],
+    "tips": [
+      "Best weather: May–September",
+      "Rent a car — the west is best by road"
+    ],
+    "overview": "The green island: Dublin's pubs, the sheer cliffs of Moher, the Ring of Kerry's looping road, the wild west of Dingle, and the quiet, ancient islands of the Aran.",
+    "hotels": [
+      {
+        "name": "Dublin City Center Hotel",
+        "city": "Dublin",
+        "area": "Dublin",
+        "stars": 4,
+        "price": 170,
+        "rating": 4.3,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "DUB (Dublin)",
+        "notes": "typical city-center property (sample data)"
+      },
+      {
+        "name": "Killarney Lakeside Hotel",
+        "city": "Killarney",
+        "area": "Killarney",
+        "stars": 3,
+        "price": 130,
+        "rating": 4.2,
+        "airport_mi": 170.0,
+        "excursion_mi": 0.5,
+        "airport": "DUB (Dublin) + 2.5h drive",
+        "notes": "typical lakeside base for the Ring of Kerry (sample data)"
+      },
+      {
+        "name": "Dingle Bay Hotel",
+        "city": "Dingle",
+        "area": "Dingle",
+        "stars": 3,
+        "price": 120,
+        "rating": 4.1,
+        "airport_mi": 220.0,
+        "excursion_mi": 0.5,
+        "airport": "DUB (Dublin) + 3.5h drive",
+        "notes": "typical bay-town property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Iceland",
+    "aliases": [
+      "Iceland",
+      "Icelandic"
+    ],
+    "capital": "Reykjavík",
+    "destinations": [
+      "Reykjavík",
+      "the Golden Circle",
+      "the south coast (Vík)",
+      "the Westfjords",
+      "the highlands",
+      "Snæfellsnes"
+    ],
+    "landmarks": [
+      "Gullfoss waterfall",
+      "Jökulsárlón glacier lagoon",
+      "Snæfellsjökull volcano",
+      "Reynisfjara black-sand beach"
+    ],
+    "dining": [
+      "lamb",
+      "skyur (cultured milk)",
+      "seafood (langoustine)",
+      "rye bread (rugbraud)"
+    ],
+    "activities": [
+      "whale watching (Hafnarfjordur)",
+      "northern lights (Sept–March)",
+      "glacier hikes",
+      "hot springs & black-sand beaches"
+    ],
+    "stay": [
+      "Reykjavik (center)",
+      "Vik (south coast)",
+      "Isafjordur (Westfjords)"
+    ],
+    "tips": [
+      "Northern lights: September–March, clear nights",
+      "Weather changes fast — dress in layers"
+    ],
+    "overview": "A volcanic island of waterfalls, black-sand beaches, glacier lagoons, and the northern lights — with Reykjavik's colorful harbor as the base for the ring road.",
+    "hotels": [
+      {
+        "name": "Reykjavik City Center Hotel",
+        "city": "Reykjavik",
+        "area": "Reykjavik",
+        "stars": 4,
+        "price": 180,
+        "rating": 4.3,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "KEF (Keflavik Intl)",
+        "notes": "typical city property near Laugavegur (sample data)"
+      },
+      {
+        "name": "Vik South Coast Hotel",
+        "city": "Vik",
+        "area": "South Coast",
+        "stars": 3,
+        "price": 150,
+        "rating": 4.2,
+        "airport_mi": 170.0,
+        "excursion_mi": 0.5,
+        "airport": "KEF (Keflavik Intl) + 2.5h drive",
+        "notes": "typical south-coast property near Reynisfjara (sample data)"
+      },
+      {
+        "name": "Isafjordur Westfjords Hotel",
+        "city": "Isafjordur",
+        "area": "Westfjords",
+        "stars": 3,
+        "price": 130,
+        "rating": 4.1,
+        "airport_mi": 350.0,
+        "excursion_mi": 0.5,
+        "airport": "KEF (Keflavik Intl) + 4.5h drive",
+        "notes": "typical Westfjords base (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Italy",
+    "aliases": [
+      "Italy",
+      "Italian"
+    ],
+    "capital": "Rome",
+    "destinations": [
+      "Rome",
+      "Florence",
+      "Venice",
+      "the Amalfi Coast",
+      "Sicily",
+      "Tuscany",
+      "Lake Como"
+    ],
+    "landmarks": [
+      "the Colosseum & the Vatican",
+      "the Duomo (Florence)",
+      "the Grand Canal (Venice)",
+      "the Amalfi Coast cliffs (UNESCO)"
+    ],
+    "dining": [
+      "pasta (cacio e pepe, ragú)",
+      "pizza (Naples)",
+      "gelato",
+      "wine (Chianti, Barolo) & aperitivo"
+    ],
+    "activities": [
+      "day trips (Rome → Pompeii)",
+      "the Amalfi & Sicily coasts",
+      "Tuscany's wine & hill towns",
+      "Venice's canals"
+    ],
+    "stay": [
+      "Rome (near the Colosseum)",
+      "Florence (center)",
+      "Positano (Amalfi)"
+    ],
+    "tips": [
+      "Many towns empty in August — the islands and north are quieter",
+      "The train makes day trips easy"
+    ],
+    "overview": "Italy's impossible mix: Rome's ancient center, Florence's art, Venice's canals, the Amalfi Coast's cliffs, and Tuscany's wine and hill towns — a food-and-art trip in every region.",
+    "hotels": [
+      {
+        "name": "Florence Old Town Hotel",
+        "city": "Florence",
+        "area": "Florence",
+        "stars": 4,
+        "price": 180,
+        "rating": 4.4,
+        "airport_mi": 60.0,
+        "excursion_mi": 0.5,
+        "airport": "FCO (Rome Fiumicino) + train",
+        "notes": "typical old-town property near the Duomo (sample data)"
+      },
+      {
+        "name": "Positano Beachfront Hotel",
+        "city": "Positano",
+        "area": "Amalfi Coast",
+        "stars": 4,
+        "price": 280,
+        "rating": 4.5,
+        "airport_mi": 80.0,
+        "excursion_mi": 0.5,
+        "airport": "NAP (Naples)",
+        "notes": "typical cliffside coastal property — book early in season (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Latvia",
+    "aliases": [
+      "Latvia",
+      "Latvian"
+    ],
+    "capital": "Riga",
+    "destinations": [
+      "Riga",
+      "Sigulda",
+      "the Curonian Lagoon",
+      "Jurmala"
+    ],
+    "landmarks": [
+      "Riga's Art Nouveau center (UNESCO)",
+      "the House of the Blackheads",
+      "the Sigulda castle"
+    ],
+    "dining": [
+      "herring & potato",
+      "black bread (melnie maizes)",
+      "meadow (medus) cake",
+      "mead"
+    ],
+    "activities": [
+      "Baltic beaches (Jurmala)",
+      "cycling (Sigulda)",
+      "bird migration at the Curonian Lagoon",
+      "sauna"
+    ],
+    "stay": [
+      "Riga (center)",
+      "Jurmala (seaside)"
+    ],
+    "tips": [
+      "Summer: June–August",
+      "The Art Nouveau walking tour is a Riga classic"
+    ],
+    "overview": "Baltic's Art Nouveau capital: Riga's ornate center, the quiet seaside of Jurmala, the medieval castle of Sigulda, and the long, dune-covered Curonian Lagoon.",
+    "hotels": [
+      {
+        "name": "Riga Old Town Hotel",
+        "city": "Riga",
+        "area": "Riga",
+        "stars": 4,
+        "price": 110,
+        "rating": 4.2,
+        "airport_mi": 10.0,
+        "excursion_mi": 0.5,
+        "airport": "RIX (Riga Intl)",
+        "notes": "typical old-town property near the House of the Blackheads (sample data)"
+      },
+      {
+        "name": "Jurmala Seaside Hotel",
+        "city": "Jurmala",
+        "area": "Jurmala",
+        "stars": 3,
+        "price": 95,
+        "rating": 4.0,
+        "airport_mi": 20.0,
+        "excursion_mi": 0.5,
+        "airport": "RIX (Riga Intl)",
+        "notes": "typical seaside property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Liechtenstein",
+    "aliases": [
+      "Liechtenstein",
+      "Principality of Liechtenstein"
+    ],
+    "capital": "Vaduz",
+    "destinations": [
+      "Vaduz",
+      "Malbun (ski village)",
+      "Schaan",
+      "the Rhine valley"
+    ],
+    "landmarks": [
+      "Vaduz castle",
+      "Malbun (one of the highest ski areas in the Alps)",
+      "the Rhine valley views"
+    ],
+    "dining": [
+      "Alpine cheese",
+      "game (wild boar)",
+      "local wine (Scheiben)"
+    ],
+    "activities": [
+      "skiing (Malbun, Tschaggers)",
+      "hiking the Malbun plateau",
+      "cycling the Rhine valley"
+    ],
+    "stay": [
+      "Vaduz",
+      "Malbun"
+    ],
+    "tips": [
+      "Summer: hiking; winter: skiing (small but excellent)",
+      "It's tiny — a day trip from Switzerland or Austria works"
+    ],
+    "overview": "One of the world's smallest countries, tucked between Switzerland and Austria: the castle of Vaduz, the high ski village of Malbun, and quiet Alpine valleys.",
+    "hotels": [
+      {
+        "name": "Vaduz City Hotel",
+        "city": "Vaduz",
+        "area": "Vaduz",
+        "stars": 4,
+        "price": 130,
+        "rating": 4.2,
+        "airport_mi": 120.0,
+        "excursion_mi": 0.5,
+        "airport": "via Zurich (ZRH) or Innsbruck (INN)",
+        "notes": "typical small-principality property (sample data)"
+      },
+      {
+        "name": "Malbun Alpine Hotel",
+        "city": "Malbun",
+        "area": "Malbun",
+        "stars": 3,
+        "price": 140,
+        "rating": 4.1,
+        "airport_mi": 130.0,
+        "excursion_mi": 0.5,
+        "airport": "via Zurich (ZRH)",
+        "notes": "typical high-village property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "aliases": [
+      "Lithuania",
+      "Lithuanian"
+    ],
+    "capital": "Vilnius",
+    "destinations": [
+      "Vilnius",
+      "the Curonian Spit (Nida)",
+      "Trakai",
+      "Kaunas"
+    ],
+    "landmarks": [
+      "Vilnius old town (UNESCO)",
+      "Trakai Island Castle",
+      "the Curonian Spit dunes (UNESCO)"
+    ],
+    "dining": [
+      "cepeleinai (dumplings with meat)",
+      "herring",
+      "black bread",
+      "honey cakes"
+    ],
+    "activities": [
+      "Baltic beaches (Nida)",
+      "cycling (the Curonian Spit)",
+      "sauna",
+      "the lake (Trakai)"
+    ],
+    "stay": [
+      "Vilnius (center)",
+      "Nida (Curonian Spit)"
+    ],
+    "tips": [
+      "Summer: June–August",
+      "The spit is a UNESCO site — the dunes are a highlight"
+    ],
+    "overview": "Baltic's Baroque capital: Vilnius' old town, the sand dunes of the Curonian Spit, the island castle of Trakai, and the quiet, lake-filled interior.",
+    "hotels": [
+      {
+        "name": "Vilnius Old Town Hotel",
+        "city": "Vilnius",
+        "area": "Vilnius",
+        "stars": 4,
+        "price": 105,
+        "rating": 4.2,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "VNO (Vilnius)",
+        "notes": "typical old-town property near the Cathedral (sample data)"
+      },
+      {
+        "name": "Nida Seaside Hotel",
+        "city": "Nida",
+        "area": "Curonian Spit",
+        "stars": 3,
+        "price": 95,
+        "rating": 4.0,
+        "airport_mi": 250.0,
+        "excursion_mi": 0.5,
+        "airport": "VNO (Vilnius) + 3h drive",
+        "notes": "typical spit property near the dunes (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Luxembourg",
+    "aliases": [
+      "Luxembourg",
+      "Grand Duchy of Luxembourg"
+    ],
+    "capital": "Luxembourg City",
+    "destinations": [
+      "Luxembourg City",
+      "the Mullerthalz ('Little Switzerland')",
+      "Vianden",
+      "Clervaux"
+    ],
+    "landmarks": [
+      "the Bock Casemates (UNESCO)",
+      "Vianden castle (ruin)",
+      "the Grand Ducal Palace"
+    ],
+    "dining": [
+      "Judd mat Boun (beet & bread)",
+      "baeckeoffe (stew)",
+      "eel",
+      "local beer"
+    ],
+    "activities": [
+      "hiking the Mullerthalz",
+      "castle hopping (Vianden)",
+      "cycling the Moselle valley"
+    ],
+    "stay": [
+      "Luxembourg City (center)",
+      "Vianden"
+    ],
+    "tips": [
+      "Summer: hiking; the old town is compact",
+      "A good day-trip base for the Ardennes (Belgium)"
+    ],
+    "overview": "A small, green, castle-dotted country: Luxembourg City's Bock Casemates, the 'Little Switzerland' of the Mullerthalz, and the ruin of Vianden — a quiet, affordable Alpine-adjacent base.",
+    "hotels": [
+      {
+        "name": "Luxembourg City Center Hotel",
+        "city": "Luxembourg City",
+        "area": "Luxembourg City",
+        "stars": 4,
+        "price": 140,
+        "rating": 4.2,
+        "airport_mi": 10.0,
+        "excursion_mi": 0.5,
+        "airport": "LUX (Findel)",
+        "notes": "typical city property near the Grand-Ducal Palace (sample data)"
+      },
+      {
+        "name": "Vianden Castle View Hotel",
+        "city": "Vianden",
+        "area": "Vianden",
+        "stars": 3,
+        "price": 110,
+        "rating": 4.1,
+        "airport_mi": 60.0,
+        "excursion_mi": 0.5,
+        "airport": "LUX (Findel) + 1h drive",
+        "notes": "typical castle-town property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Malta",
+    "aliases": [
+      "Malta",
+      "Maltese"
+    ],
+    "capital": "Valletta",
+    "destinations": [
+      "Valletta",
+      "Sliema",
+      "the Blue Lagoon (Comino)",
+      "Mdina",
+      "Gozo (Cittadella)"
+    ],
+    "landmarks": [
+      "the megalithic temples (Ggantija, UNESCO)",
+      "Valletta's harbor (UNESCO)",
+      "Mdina (the 'Silent City')",
+      "the Blue Lagoon"
+    ],
+    "dining": [
+      "pastizzi (cheese/pea pastry)",
+      "rabbit (fenkata)",
+      "fresh seafood",
+      "Gbejna cheese"
+    ],
+    "activities": [
+      "Gozo by boat",
+      "diving (wrecks)",
+      "beaches (Comino)",
+      "Mdina's old town"
+    ],
+    "stay": [
+      "Sliema (seafront)",
+      "Valletta",
+      "Gozo (Xagħra)"
+    ],
+    "tips": [
+      "Summer is hot — the Blue Lagoon is crowded in July",
+      "Rent a car or use the bus — the islands are small"
+    ],
+    "overview": "A small Mediterranean archipelago of megalithic temples, Valletta's grand harbor, Mdina's quiet old town, and the turquoise Blue Lagoon of Comino.",
+    "hotels": [
+      {
+        "name": "Sliema Seaside Hotel",
+        "city": "Sliema",
+        "area": "Sliema",
+        "stars": 4,
+        "price": 140,
+        "rating": 4.2,
+        "airport_mi": 10.0,
+        "excursion_mi": 0.5,
+        "airport": "MLA (Malta Intl)",
+        "notes": "typical seafront property (sample data)"
+      },
+      {
+        "name": "Valletta Old Town Hotel",
+        "city": "Valletta",
+        "area": "Valletta",
+        "stars": 3,
+        "price": 120,
+        "rating": 4.1,
+        "airport_mi": 12.0,
+        "excursion_mi": 0.5,
+        "airport": "MLA (Malta Intl)",
+        "notes": "typical old-town property (sample data)"
+      },
+      {
+        "name": "Gozo Bay Hotel",
+        "city": "Gozo",
+        "area": "Gozo",
+        "stars": 3,
+        "price": 110,
+        "rating": 4.0,
+        "airport_mi": 30.0,
+        "excursion_mi": 0.5,
+        "airport": "MLA (Malta Intl) + ferry",
+        "notes": "typical island property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Moldova",
+    "aliases": [
+      "Moldova",
+      "Moldovan"
+    ],
+    "capital": "Chisinau",
+    "destinations": [
+      "Chisinau",
+      "Orheiul Vechi (wineries)",
+      "Soroca",
+      "the Cricova wine caves"
+    ],
+    "landmarks": [
+      "Orheiul Vechi (ancient city)",
+      "the Cricova wine caves",
+      "the Soroca fortress"
+    ],
+    "dining": [
+      "mamaliga (corn porridge)",
+      "sarmale (cabbage rolls)",
+      "local wine (Fetesti)",
+      "placinte (pastry)"
+    ],
+    "activities": [
+      "wine tours (Cricova, Milestii Mici)",
+      "the villages",
+      "hiking (Orhei)"
+    ],
+    "stay": [
+      "Chisinau (center)",
+      "Orhei"
+    ],
+    "tips": [
+      "The wine is cheap and good",
+      "Summer: the villages and the wine region"
+    ],
+    "overview": "A quiet, wine-rich country in the heart of Eastern Europe: Chisinau's central plaza, the ancient city of Orheiul Vechi, and some of the world's largest wine caves (Cricova, Milestii Mici).",
+    "hotels": [
+      {
+        "name": "Chisinau City Center Hotel",
+        "city": "Chisinau",
+        "area": "Chisinau",
+        "stars": 3,
+        "price": 75,
+        "rating": 4.0,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "KIV (Chisinau Intl)",
+        "notes": "typical city property near the central plaza (sample data)"
+      },
+      {
+        "name": "Orhei Old Town Hotel",
+        "city": "Orhei",
+        "area": "Orhei",
+        "stars": 3,
+        "price": 65,
+        "rating": 4.0,
+        "airport_mi": 100.0,
+        "excursion_mi": 0.5,
+        "airport": "KIV (Chisinau Intl) + 1.5h drive",
+        "notes": "typical old-town property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Monaco",
+    "aliases": [
+      "Monaco",
+      "Principality of Monaco"
+    ],
+    "capital": "Monaco",
+    "destinations": [
+      "Monte Carlo",
+      "Monaco-Ville (old town)",
+      "the Larvotto",
+      "Menton (France, nearby)"
+    ],
+    "landmarks": [
+      "the Monaco Casino",
+      "the Prince's Palace",
+      "the Oceanographic Museum",
+      "the harbor"
+    ],
+    "dining": [
+      "French Mediterranean (seafood)",
+      "fine dining (three Michelin stars)",
+      "pastel (local pastry)"
+    ],
+    "activities": [
+      "the yachts (the port)",
+      "the casino",
+      "the beach (the Larvotto)",
+      "the Formula 1 (May)"
+    ],
+    "stay": [
+      "Monte Carlo",
+      "Monaco-Ville"
+    ],
+    "tips": [
+      "Summer: the yachts; the high season is July–August",
+      "Parking is hard — the train from Nice is the easiest way in"
+    ],
+    "overview": "The world's most densely populated country: Monaco-Ville's old town, Monte Carlo's casino and yachts, and the Oceanographic Museum — a tiny, glamorous Mediterranean state.",
+    "hotels": [
+      {
+        "name": "Monte Carlo Bay Hotel",
+        "city": "Monaco",
+        "area": "Monte Carlo",
+        "stars": 5,
+        "price": 450,
+        "rating": 4.6,
+        "airport_mi": 20.0,
+        "excursion_mi": 0.5,
+        "airport": "NCE (Nice Côte d'Azur)",
+        "notes": "typical luxury property (sample data)"
+      },
+      {
+        "name": "Monaco Old Town Hotel",
+        "city": "Monaco",
+        "area": "Monaco-Ville",
+        "stars": 4,
+        "price": 380,
+        "rating": 4.5,
+        "airport_mi": 22.0,
+        "excursion_mi": 0.5,
+        "airport": "NCE (Nice Côte d'Azur)",
+        "notes": "typical old-town property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "aliases": [
+      "Montenegro",
+      "Montenegrin"
+    ],
+    "capital": "Podgorica",
+    "destinations": [
+      "Kotor",
+      "Budva",
+      "Sveti Stefan",
+      "the Durmitor National Park",
+      "Perast"
+    ],
+    "landmarks": [
+      "the Bay of Kotor (UNESCO)",
+      "the Durmitor National Park (UNESCO)",
+      "Cetinje",
+      "the Perast & Our Lady of the Rocks"
+    ],
+    "dining": [
+      "black risotto (Kotor)",
+      "prosciutto (prosciutto)",
+      "fresh seafood",
+      "rakia"
+    ],
+    "activities": [
+      "kayaking (the Bay of Kotor)",
+      "skiing (the Durmitor)",
+      "beaches (Budva)",
+      "hiking (the Durmitor)"
+    ],
+    "stay": [
+      "Kotor (old town)",
+      "Budva (beach)",
+      "Zabljak (Durmitor base)"
+    ],
+    "tips": [
+      "Summer: the beaches; winter: the skiing",
+      "The Bay of Kotor is the highlight"
+    ],
+    "overview": "A small Adriatic country of the deep Bay of Kotor, the Durmitor's high peaks and skiing, and the old towns of Kotor, Perast, and Budva — a compact, scenic, affordable base.",
+    "hotels": [
+      {
+        "name": "Kotor Old Town Hotel",
+        "city": "Kotor",
+        "area": "Kotor",
+        "stars": 4,
+        "price": 140,
+        "rating": 4.3,
+        "airport_mi": 20.0,
+        "excursion_mi": 0.5,
+        "airport": "TIV (Tivat)",
+        "notes": "typical old-town property in the bay (sample data)"
+      },
+      {
+        "name": "Budva Beachfront Hotel",
+        "city": "Budva",
+        "area": "Budva",
+        "stars": 3,
+        "price": 110,
+        "rating": 4.1,
+        "airport_mi": 25.0,
+        "excursion_mi": 0.5,
+        "airport": "TIV (Tivat)",
+        "notes": "typical beach property (sample data)"
+      },
+      {
+        "name": "Zabljak Mountain Hotel",
+        "city": "Zabljak",
+        "area": "Durmitor",
+        "stars": 3,
+        "price": 100,
+        "rating": 4.0,
+        "airport_mi": 120.0,
+        "excursion_mi": 0.5,
+        "airport": "TIV (Tivat) + 2h drive",
+        "notes": "typical mountain base for the Durmitor (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "aliases": [
+      "Netherlands",
+      "Dutch",
+      "Holland"
+    ],
+    "capital": "Amsterdam",
+    "destinations": [
+      "Amsterdam",
+      "Utrecht",
+      "Delft",
+      "the Zaanse Schans",
+      "the Veluwe",
+      "the Wadden Sea (Texel)"
+    ],
+    "landmarks": [
+      "Amsterdam's canals (UNESCO)",
+      "the Zaanse Schans (windmills)",
+      "the Rijksmuseum",
+      "Delft's old town"
+    ],
+    "dining": [
+      "bitterballen",
+      "herring",
+      "Dutch cheese",
+      "stroopwafels"
+    ],
+    "activities": [
+      "cycling (Amsterdam & the countryside)",
+      "cheese (the Gouda market)",
+      "windmills (the Zaanse Schans)",
+      "beaches (the Wadden)"
+    ],
+    "stay": [
+      "Amsterdam (center)",
+      "Utrecht",
+      "Texel"
+    ],
+    "tips": [
+      "Summer: June–August",
+      "Cycling is the local way — rent one in Amsterdam"
+    ],
+    "overview": "The flat, canal-dotted, windmill country: Amsterdam's canals and museums, the quiet town of Delft, the Zaanse Schans windmills, and the long, sandy beaches of the Wadden Sea.",
+    "hotels": [
+      {
+        "name": "Amsterdam City Center Hotel",
+        "city": "Amsterdam",
+        "area": "Amsterdam",
+        "stars": 4,
+        "price": 190,
+        "rating": 4.4,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "AMS (Schiphol)",
+        "notes": "typical center property near the canals (sample data)"
+      },
+      {
+        "name": "Amsterdam Airport Hotel",
+        "city": "Amsterdam",
+        "area": "Schiphol",
+        "stars": 4,
+        "price": 160,
+        "rating": 4.2,
+        "airport_mi": 0.5,
+        "excursion_mi": 8.0,
+        "airport": "AMS (Schiphol)",
+        "notes": "typical airport-area property (sample data)"
+      },
+      {
+        "name": "Utrecht Riverside Hotel",
+        "city": "Utrecht",
+        "area": "Utrecht",
+        "stars": 3,
+        "price": 130,
+        "rating": 4.1,
+        "airport_mi": 35.0,
+        "excursion_mi": 0.5,
+        "airport": "AMS (Schiphol)",
+        "notes": "typical riverfront property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "North Macedonia",
+    "aliases": [
+      "North Macedonia",
+      "Macedonia"
+    ],
+    "capital": "Skopje",
+    "destinations": [
+      "Skopje",
+      "Lake Ohrid",
+      "the Matka canyon",
+      "Galicica"
+    ],
+    "landmarks": [
+      "Lake Ohrid (endemic fish)",
+      "the Matka canyon",
+      "the Galicica National Park"
+    ],
+    "dining": [
+      "tavche gravche (beans)",
+      "fresh trout (Ohrid)",
+      "local cheese (kajmak)",
+      "rakija"
+    ],
+    "activities": [
+      "the lake (Ohrid)",
+      "kayaking (the Matka)",
+      "hiking (the Galicica)",
+      "beaches (Ohrid)"
+    ],
+    "stay": [
+      "Ohrid (lakeside)",
+      "Skopje (center)"
+    ],
+    "tips": [
+      "Summer: Lake Ohrid is the highlight",
+      "The lake is the jewel — the beaches are quiet"
+    ],
+    "overview": "A small Balkan country of the deep, clear Lake Ohrid, the Matka canyon, and the Galicica mountains — a quiet, affordable, lake-and-mountain base.",
+    "hotels": [
+      {
+        "name": "Ohrid Lakeside Hotel",
+        "city": "Ohrid",
+        "area": "Ohrid",
+        "stars": 3,
+        "price": 90,
+        "rating": 4.1,
+        "airport_mi": 60.0,
+        "excursion_mi": 0.5,
+        "airport": "SKP (Skopje) + 1h drive",
+        "notes": "typical lakeside property (sample data)"
+      },
+      {
+        "name": "Skopje City Center Hotel",
+        "city": "Skopje",
+        "area": "Skopje",
+        "stars": 3,
+        "price": 80,
+        "rating": 4.0,
+        "airport_mi": 5.0,
+        "excursion_mi": 0.5,
+        "airport": "SKP (Skopje)",
+        "notes": "typical city property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Norway",
+    "aliases": [
+      "Norway",
+      "Norwegian"
+    ],
+    "capital": "Oslo",
+    "destinations": [
+      "Oslo",
+      "the fjords (Bergen, Geiranger)",
+      "the Lofoten",
+      "Tromso",
+      "Stavanger"
+    ],
+    "landmarks": [
+      "the Geirangerfjord (UNESCO)",
+      "the Lofoten",
+      "Bryggen (Bergen, UNESCO)",
+      "the prehistoric stave churches"
+    ],
+    "dining": [
+      "king crab (the Lofoten)",
+      "smorrebrod",
+      "fresh seafood",
+      "cardamom buns (kneipp)"
+    ],
+    "activities": [
+      "the fjords (Geiranger)",
+      "northern lights (Tromso, Sept–March)",
+      "the Lofoten",
+      "the midnight sun (summer)"
+    ],
+    "stay": [
+      "Oslo (center)",
+      "Bergen (Bryggen)",
+      "the Lofoten (Svolvar)"
+    ],
+    "tips": [
+      "Northern lights: September–March",
+      "The fjords are best in the summer"
+    ],
+    "overview": "A long, narrow country of deep fjords, the dramatic Lofoten islands, the northern lights of Tromso, and the quiet, forested interior — a scenic, expensive, unforgettable base.",
+    "hotels": [
+      {
+        "name": "Oslo City Center Hotel",
+        "city": "Oslo",
+        "area": "Oslo",
+        "stars": 4,
+        "price": 170,
+        "rating": 4.3,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "OSL (Gardermoen)",
+        "notes": "typical city property (sample data)"
+      },
+      {
+        "name": "Bergen Harbor Hotel",
+        "city": "Bergen",
+        "area": "Bergen",
+        "stars": 4,
+        "price": 160,
+        "rating": 4.2,
+        "airport_mi": 10.0,
+        "excursion_mi": 0.5,
+        "airport": "BGO (Bergen)",
+        "notes": "typical harbor property near Bryggen (sample data)"
+      },
+      {
+        "name": "Svolvar Lofoten Hotel",
+        "city": "Svolvar",
+        "area": "Lofoten",
+        "stars": 3,
+        "price": 140,
+        "rating": 4.2,
+        "airport_mi": 250.0,
+        "excursion_mi": 0.5,
+        "airport": "via Oslo (OSL) or Bergen (BGO)",
+        "notes": "typical Lofoten base (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Poland",
+    "aliases": [
+      "Poland",
+      "Polish"
+    ],
+    "capital": "Warsaw",
+    "destinations": [
+      "Warsaw",
+      "Krakow",
+      "the Tatra Mountains (Zakopane)",
+      "Wroclaw",
+      "Gdansk",
+      "the Baltyk coast"
+    ],
+    "landmarks": [
+      "the Old Town (Warsaw, UNESCO)",
+      "Wawel Castle (Krakow, UNESCO)",
+      "the Tatra Mountains",
+      "the Hanza old town (Gdansk)"
+    ],
+    "dining": [
+      "pierogi",
+      "bigos (hunter's stew)",
+      "goziki",
+      "vodka & local beer"
+    ],
+    "activities": [
+      "the castles (Krakow)",
+      "the Tatra Mountains (Zakopane)",
+      "the old town (Warsaw)",
+      "the Baltyk coast (Gdansk)"
+    ],
+    "stay": [
+      "Warsaw (center)",
+      "Krakow (old town)",
+      "Zakopane (Tatra base)"
+    ],
+    "tips": [
+      "Summer: June–August",
+      "The old towns are the highlight — walk them"
+    ],
+    "overview": "A big, varied country of the rebuilt old town of Warsaw, the medieval center of Krakow, the Tatra Mountains, and the Hanza old town of Gdansk — a rich, affordable, food-rich base.",
+    "hotels": [
+      {
+        "name": "Warsaw City Center Hotel",
+        "city": "Warsaw",
+        "area": "Warsaw",
+        "stars": 4,
+        "price": 120,
+        "rating": 4.2,
+        "airport_mi": 20.0,
+        "excursion_mi": 0.5,
+        "airport": "WAW (Warsaw Chopin)",
+        "notes": "typical center property (sample data)"
+      },
+      {
+        "name": "Krakow Old Town Hotel",
+        "city": "Krakow",
+        "area": "Krakow",
+        "stars": 4,
+        "price": 130,
+        "rating": 4.3,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "KRK (Krakow Balice)",
+        "notes": "typical old-town property near Wawel (sample data)"
+      },
+      {
+        "name": "Zakopane Tatra Hotel",
+        "city": "Zakopane",
+        "area": "Zakopane",
+        "stars": 3,
+        "price": 110,
+        "rating": 4.1,
+        "airport_mi": 100.0,
+        "excursion_mi": 0.5,
+        "airport": "KRK (Krakow Balice) + 1.5h drive",
+        "notes": "typical Tatra base (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Portugal",
+    "aliases": [
+      "Portugal",
+      "Portuguese"
+    ],
+    "capital": "Lisbon",
+    "destinations": [
+      "Lisbon",
+      "Porto",
+      "the Algarve",
+      "Madeira",
+      "the Azores",
+      "Evora",
+      "Sintra"
+    ],
+    "landmarks": [
+      "Belém Tower (Lisbon)",
+      "the Douro river",
+      "the Algarve cliffs",
+      "the Madeira islands"
+    ],
+    "dining": [
+      "pastel de nata (custard tart)",
+      "bacalhau (cod)",
+      "fresh seafood",
+      "Port wine & local wine"
+    ],
+    "activities": [
+      "the Algarve beaches",
+      "the Madeira islands",
+      "the Azores (volcanoes, whales)",
+      "Lisbon's old town (Alfama)"
+    ],
+    "stay": [
+      "Lisbon (Alfama / Baixa)",
+      "Porto (Ribeira)",
+      "the Algarve (Albufeira)"
+    ],
+    "tips": [
+      "Summer: the Algarve; the high season is July–August",
+      "The train makes day trips easy"
+    ],
+    "overview": "The sun-and-sea country of the Atlantic: Lisbon's tiled old town, Porto's Douro river and Port wine, the cliffs and coves of the Algarve, and the volcanic islands of the Madeira and the Azores.",
+    "hotels": [
+      {
+        "name": "Lisbon Alfama Hotel",
+        "city": "Lisbon",
+        "area": "Alfama",
+        "stars": 4,
+        "price": 150,
+        "rating": 4.3,
+        "airport_mi": 20.0,
+        "excursion_mi": 0.5,
+        "airport": "LIS (Lisbon)",
+        "notes": "typical old-town property (sample data)"
+      },
+      {
+        "name": "Porto Ribeira Hotel",
+        "city": "Porto",
+        "area": "Ribeira",
+        "stars": 4,
+        "price": 140,
+        "rating": 4.2,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "OPO (Porto)",
+        "notes": "typical riverside property (sample data)"
+      },
+      {
+        "name": "Albufeira Beachfront Hotel",
+        "city": "Albufeira",
+        "area": "Algarve",
+        "stars": 4,
+        "price": 160,
+        "rating": 4.3,
+        "airport_mi": 30.0,
+        "excursion_mi": 0.5,
+        "airport": "FAO (Faro)",
+        "notes": "typical Algarve beach property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Romania",
+    "aliases": [
+      "Romania",
+      "Romanian"
+    ],
+    "capital": "Bucharest",
+    "destinations": [
+      "Bucharest",
+      "Transylvania (Sibiu, Brașov)",
+      "the Danube Delta",
+      "the Carpathians",
+      "Sibiu (citadel)"
+    ],
+    "landmarks": [
+      "the Palace of the Parliament (Bucharest)",
+      "Peleș Castle",
+      "the Danube Delta (UNESCO)",
+      "the Saxon fortified churches (UNESCO)"
+    ],
+    "dining": [
+      "sarmale (cabbage rolls)",
+      "mămăligă (corn porridge)",
+      "ciorbă (soup)",
+      "local wine & țuică"
+    ],
+    "activities": [
+      "the castles (Peleș)",
+      "the Danube Delta (birds)",
+      "the Transylvania (Sibiu, Brașov)",
+      "the Carpathians (skiing)"
+    ],
+    "stay": [
+      "Bucharest (center)",
+      "Brașov (Transylvania)",
+      "the Danube Delta (Sulina)"
+    ],
+    "tips": [
+      "Summer: the Danube Delta; winter: the Carpathians",
+      "The castles are the highlight"
+    ],
+    "overview": "A varied country of the big capital of Bucharest, the castles and Saxon towns of the Transylvania, the Danube Delta, and the Carpathian Mountains — a scenic, affordable, food-rich base.",
+    "hotels": [
+      {
+        "name": "Bucharest City Center Hotel",
+        "city": "Bucharest",
+        "area": "Bucharest",
+        "stars": 4,
+        "price": 100,
+        "rating": 4.1,
+        "airport_mi": 20.0,
+        "excursion_mi": 0.5,
+        "airport": "OTP (Bucharest Henri Coandă)",
+        "notes": "typical center property (sample data)"
+      },
+      {
+        "name": "Brașov Transylvania Hotel",
+        "city": "Brașov",
+        "area": "Brașov",
+        "stars": 3,
+        "price": 90,
+        "rating": 4.0,
+        "airport_mi": 120.0,
+        "excursion_mi": 0.5,
+        "airport": "OTP (Bucharest) + 1.5h drive",
+        "notes": "typical Transylvania base (sample data)"
+      },
+      {
+        "name": "Sulina Danube Delta Hotel",
+        "city": "Sulina",
+        "area": "Danube Delta",
+        "stars": 3,
+        "price": 80,
+        "rating": 4.0,
+        "airport_mi": 350.0,
+        "excursion_mi": 0.5,
+        "airport": "OTP (Bucharest) + 4h drive",
+        "notes": "typical delta base (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Russia",
+    "aliases": [
+      "Russia",
+      "Russian",
+      "Russian Federation"
+    ],
+    "capital": "Moscow",
+    "destinations": [
+      "Moscow",
+      "St. Petersburg",
+      "the Golden Ring",
+      "the Baikal",
+      "the Karelia"
+    ],
+    "landmarks": [
+      "the Red Square & the Kremlin (UNESCO)",
+      "the Hermitage (St. Petersburg)",
+      "the Lake Baikal",
+      "the Kizhi Island (UNESCO)"
+    ],
+    "dining": [
+      "borscht",
+      "pelmeni (dumplings)",
+      "blini (crepes)",
+      "vodka & local beer"
+    ],
+    "activities": [
+      "the Hermitage (St. Petersburg)",
+      "the Red Square (Moscow)",
+      "the Lake Baikal",
+      "the Karelia (nature)"
+    ],
+    "stay": [
+      "Moscow (center)",
+      "St. Petersburg (center)",
+      "the Baikal (Listvyanka)"
+    ],
+    "tips": [
+      "Summer: the Baikal; the high season is June–August",
+      "The cities are the highlight — the museums are world-class"
+    ],
+    "overview": "The world's biggest country: Moscow's Red Square and the Kremlin, St. Petersburg's Hermitage and canals, the deep blue of the Lake Baikal, and the quiet, forested interior of the Karelia.",
+    "hotels": [
+      {
+        "name": "Moscow City Center Hotel",
+        "city": "Moscow",
+        "area": "Moscow",
+        "stars": 4,
+        "price": 130,
+        "rating": 4.2,
+        "airport_mi": 25.0,
+        "excursion_mi": 0.5,
+        "airport": "SVO (Sheremetyevo)",
+        "notes": "typical center property (sample data)"
+      },
+      {
+        "name": "St. Petersburg City Center Hotel",
+        "city": "St. Petersburg",
+        "area": "St. Petersburg",
+        "stars": 4,
+        "price": 140,
+        "rating": 4.3,
+        "airport_mi": 20.0,
+        "excursion_mi": 0.5,
+        "airport": "LED (Pulkovo)",
+        "notes": "typical center property near the Hermitage (sample data)"
+      },
+      {
+        "name": "Listvyanka Baikal Hotel",
+        "city": "Listvyanka",
+        "area": "Lake Baikal",
+        "stars": 3,
+        "price": 90,
+        "rating": 4.0,
+        "airport_mi": 700.0,
+        "excursion_mi": 0.5,
+        "airport": "via Irkutsk (IKT)",
+        "notes": "typical Baikal base (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "San Marino",
+    "aliases": [
+      "San Marino",
+      "Republic of San Marino"
+    ],
+    "capital": "City of San Marino",
+    "destinations": [
+      "City of San Marino",
+      "the Titano (mountain)",
+      "the Borgo Maggiore"
+    ],
+    "landmarks": [
+      "the three towers (UNESCO)",
+      "the Titano (mountain)",
+      "the old town"
+    ],
+    "dining": [
+      "local Italian cuisine",
+      "fresh pasta",
+      "the local wine (Vermentino)"
+    ],
+    "activities": [
+      "the three towers",
+      "the Titano (mountain)",
+      "the old town (the center)"
+    ],
+    "stay": [
+      "the City of San Marino",
+      "the Borgo Maggiore"
+    ],
+    "tips": [
+      "A day trip from Italy (Rimini / Urbino) works well",
+      "The old town is compact — walk it in a day"
+    ],
+    "overview": "The world's oldest republic: the three towers of the City of San Marino, the mountain of the Titano, and the quiet, compact old town — a small, historic, Italian-adjacent base.",
+    "hotels": [
+      {
+        "name": "San Marino Old Town Hotel",
+        "city": "San Marino",
+        "area": "City of San Marino",
+        "stars": 3,
+        "price": 130,
+        "rating": 4.1,
+        "airport_mi": 40.0,
+        "excursion_mi": 0.5,
+        "airport": "via Rimini (RMI) or Ancona (AOI)",
+        "notes": "typical old-town property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Serbia",
+    "aliases": [
+      "Serbia",
+      "Serbian"
+    ],
+    "capital": "Belgrade",
+    "destinations": [
+      "Belgrade",
+      "the Danube",
+      "the Fruška Gora",
+      "the Sremska Karlovca",
+      "the castles (Smederevo)"
+    ],
+    "landmarks": [
+      "Belgrade Fortress",
+      "Fruška Gora (national park)",
+      "Smederevo castle",
+      "the Danube"
+    ],
+    "dining": [
+      "goulash",
+      "karađorđeva šnicla (the national schnitzel)",
+      "rakija",
+      "fresh bread"
+    ],
+    "activities": [
+      "the Belgrade Fortress",
+      "the Danube (the river)",
+      "the Fruška Gora (the mountain)",
+      "the wine (the Fruška Gora)"
+    ],
+    "stay": [
+      "Belgrade (center)",
+      "the Fruška Gora (the mountain)"
+    ],
+    "tips": [
+      "Summer: the Danube; the high season is June–August",
+      "The fortress is the highlight"
+    ],
+    "overview": "A small Balkan country of the big capital of Belgrade, the Danube river, the Fruška Gora mountain and wine, and the castles of the Smederevo — a scenic, affordable, food-rich base.",
+    "hotels": [
+      {
+        "name": "Belgrade City Center Hotel",
+        "city": "Belgrade",
+        "area": "Belgrade",
+        "stars": 4,
+        "price": 100,
+        "rating": 4.1,
+        "airport_mi": 20.0,
+        "excursion_mi": 0.5,
+        "airport": "BEG (Belgrade Nikola Tesla)",
+        "notes": "typical center property (sample data)"
+      },
+      {
+        "name": "Fruška Gora Mountain Hotel",
+        "city": "Fruška Gora",
+        "area": "Fruška Gora",
+        "stars": 3,
+        "price": 90,
+        "rating": 4.0,
+        "airport_mi": 100.0,
+        "excursion_mi": 0.5,
+        "airport": "BEG (Belgrade) + 1.5h drive",
+        "notes": "typical mountain base (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "aliases": [
+      "Slovakia",
+      "Slovak"
+    ],
+    "capital": "Bratislava",
+    "destinations": [
+      "Bratislava",
+      "the Tatra Mountains (High Tatras)",
+      "the castles (Bojnice)",
+      "the wine region (Little Carpathians)"
+    ],
+    "landmarks": [
+      "Bratislava Castle",
+      "the High Tatras",
+      "the Bojnice Castle",
+      "the Little Carpathians (wine)"
+    ],
+    "dining": [
+      "bryndzova halushka (cheese & noodles)",
+      "goulash",
+      "local beer",
+      "the local wine (the Little Carpathians)"
+    ],
+    "activities": [
+      "the High Tatras (skiing, hiking)",
+      "Bratislava (the old town)",
+      "the castles (Bojnice)",
+      "the wine (the Little Carpathians)"
+    ],
+    "stay": [
+      "Bratislava (center)",
+      "the High Tatras (Poprad)"
+    ],
+    "tips": [
+      "Summer: the High Tatras; winter: the skiing",
+      "The old town is compact — walk it in a day"
+    ],
+    "overview": "A small, scenic, mountain country: Bratislava's old town and castle, the High Tatras for skiing and hiking, the fairy-tale castle of Bojnice, and the quiet wine of the Little Carpathians.",
+    "hotels": [
+      {
+        "name": "Bratislava City Center Hotel",
+        "city": "Bratislava",
+        "area": "Bratislava",
+        "stars": 4,
+        "price": 110,
+        "rating": 4.2,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "BTS (Bratislava M. R. Štefánik)",
+        "notes": "typical center property (sample data)"
+      },
+      {
+        "name": "Poprad High Tatras Hotel",
+        "city": "Poprad",
+        "area": "High Tatras",
+        "stars": 3,
+        "price": 100,
+        "rating": 4.1,
+        "airport_mi": 150.0,
+        "excursion_mi": 0.5,
+        "airport": "BTS (Bratislava) + 2h drive",
+        "notes": "typical Tatra base (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "aliases": [
+      "Slovenia",
+      "Slovenian"
+    ],
+    "capital": "Ljubljana",
+    "destinations": [
+      "Ljubljana",
+      "Lake Bled",
+      "the Soča valley",
+      "the Piran (coast)",
+      "the castles (the hills)"
+    ],
+    "landmarks": [
+      "Lake Bled (island & castle)",
+      "the Soča valley (turquoise river)",
+      "the Piran (old town)",
+      "the Ljubljana Castle"
+    ],
+    "dining": [
+      "potica (honey cake)",
+      "the local cheese",
+      "fresh seafood (the Piran)",
+      "the local wine (the hills)"
+    ],
+    "activities": [
+      "Lake Bled (the island)",
+      "the Soča valley (kayaking, hiking)",
+      "the Piran (the old town)",
+      "the Ljubljana (the center)"
+    ],
+    "stay": [
+      "Ljubljana (center)",
+      "Lake Bled",
+      "the Piran (coast)"
+    ],
+    "tips": [
+      "Summer: the Soča valley; the high season is June–August",
+      "Lake Bled is the highlight — book early"
+    ],
+    "overview": "A small, scenic, Alpine country: Ljubljana's compact center, the island and castle of Lake Bled, the turquoise Soča valley, and the old town of the Piran on the coast.",
+    "hotels": [
+      {
+        "name": "Ljubljana City Center Hotel",
+        "city": "Ljubljana",
+        "area": "Ljubljana",
+        "stars": 4,
+        "price": 130,
+        "rating": 4.3,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "LJU (Ljubljana Jože Pučnik)",
+        "notes": "typical center property (sample data)"
+      },
+      {
+        "name": "Bled Lake Hotel",
+        "city": "Bled",
+        "area": "Lake Bled",
+        "stars": 4,
+        "price": 160,
+        "rating": 4.4,
+        "airport_mi": 70.0,
+        "excursion_mi": 0.5,
+        "airport": "LJU (Ljubljana) + 1h drive",
+        "notes": "typical lakeside property (sample data)"
+      },
+      {
+        "name": "Piran Old Town Hotel",
+        "city": "Piran",
+        "area": "Piran",
+        "stars": 3,
+        "price": 120,
+        "rating": 4.1,
+        "airport_mi": 90.0,
+        "excursion_mi": 0.5,
+        "airport": "LJU (Ljubljana) + 1.5h drive",
+        "notes": "typical old-town coastal property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Spain",
+    "aliases": [
+      "Spain",
+      "Spanish"
+    ],
+    "capital": "Madrid",
+    "destinations": [
+      "Madrid",
+      "Barcelona",
+      "the Andalusia (Sevilla, Granada)",
+      "the Costa del Sol",
+      "the Basque (Bilbao, San Sebastián)",
+      "the Balearic (Mallorca)",
+      "the Galicia (Santiago)"
+    ],
+    "landmarks": [
+      "the Alhambra (Granada, UNESCO)",
+      "the Sagrada Família (Barcelona)",
+      "the Prado (Madrid)",
+      "the Costa del Sol beaches"
+    ],
+    "dining": [
+      "tapas & paella",
+      "the jamón ibérico",
+      "the churros",
+      "the local wine (Rioja, Ribera)"
+    ],
+    "activities": [
+      "the Alhambra (Granada)",
+      "the Sagrada Família (Barcelona)",
+      "the Costa del Sol (beaches)",
+      "the Basque (food)"
+    ],
+    "stay": [
+      "Madrid (center)",
+      "Barcelona (Eixample)",
+      "Sevilla (old town)"
+    ],
+    "tips": [
+      "Summer: the Andalusia; the high season is June–August",
+      "The tapas are the highlight — go early"
+    ],
+    "overview": "The sun-and-sea, tapas-and-castles country: Madrid's Prado, Barcelona's Sagrada Família, the Alhambra of Granada, the Costa del Sol beaches, and the Basque food of the north.",
+    "hotels": [
+      {
+        "name": "Madrid City Center Hotel",
+        "city": "Madrid",
+        "area": "Madrid",
+        "stars": 4,
+        "price": 160,
+        "rating": 4.3,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "MAD (Madrid-Barajas)",
+        "notes": "typical center property (sample data)"
+      },
+      {
+        "name": "Barcelona Eixample Hotel",
+        "city": "Barcelona",
+        "area": "Eixample",
+        "stars": 4,
+        "price": 170,
+        "rating": 4.4,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "BCN (Barcelona El Prat)",
+        "notes": "typical center property (sample data)"
+      },
+      {
+        "name": "Sevilla Old Town Hotel",
+        "city": "Sevilla",
+        "area": "Sevilla",
+        "stars": 4,
+        "price": 150,
+        "rating": 4.3,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "SVQ (Sevilla)",
+        "notes": "typical old-town property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Sweden",
+    "aliases": [
+      "Sweden",
+      "Swedish"
+    ],
+    "capital": "Stockholm",
+    "destinations": [
+      "Stockholm",
+      "Gothenburg",
+      "the Lapland (Kiruna, Abisko)",
+      "the island of Gotland",
+      "Uppsala"
+    ],
+    "landmarks": [
+      "Stockholm's archipelago",
+      "Gothenburg's harbor",
+      "the Lapland (northern lights)",
+      "the island of Gotland"
+    ],
+    "dining": [
+      "Swedish meatballs",
+      "herring",
+      "cardamom buns",
+      "local beer & cider"
+    ],
+    "activities": [
+      "Stockholm's archipelago",
+      "the Lapland (northern lights, Sept–March)",
+      "Gotland's beaches",
+      "Uppsala's old town"
+    ],
+    "stay": [
+      "Stockholm (center)",
+      "Gothenburg (harbor)",
+      "the Lapland (Abisko)"
+    ],
+    "tips": [
+      "Summer: the Gotland; the high season is June–August",
+      "The northern lights: September–March"
+    ],
+    "overview": "A long, narrow, forested country: Stockholm's archipelago, the Gothenburg harbor, the Lapland for the northern lights, and the quiet, sandy beaches of the Gotland.",
+    "hotels": [
+      {
+        "name": "Stockholm City Center Hotel",
+        "city": "Stockholm",
+        "area": "Stockholm",
+        "stars": 4,
+        "price": 170,
+        "rating": 4.3,
+        "airport_mi": 20.0,
+        "excursion_mi": 0.5,
+        "airport": "ARN (Stockholm Arlanda)",
+        "notes": "typical center property (sample data)"
+      },
+      {
+        "name": "Gothenburg Harbor Hotel",
+        "city": "Gothenburg",
+        "area": "Gothenburg",
+        "stars": 4,
+        "price": 150,
+        "rating": 4.2,
+        "airport_mi": 10.0,
+        "excursion_mi": 0.5,
+        "airport": "GOT (Gothenburg Landvetter)",
+        "notes": "typical harbor property (sample data)"
+      },
+      {
+        "name": "Abisko Lapland Hotel",
+        "city": "Abisko",
+        "area": "Lapland",
+        "stars": 3,
+        "price": 140,
+        "rating": 4.2,
+        "airport_mi": 800.0,
+        "excursion_mi": 0.5,
+        "airport": "via Kiruna (KRN)",
+        "notes": "typical Lapland base (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "aliases": [
+      "Switzerland",
+      "Swiss",
+      "Confederation"
+    ],
+    "capital": "Bern",
+    "destinations": [
+      "Zurich",
+      "Geneva",
+      "the Alps (Interlaken, Zermatt)",
+      "Lucerne",
+      "Basel",
+      "the lakes (Lugano, Geneva)"
+    ],
+    "landmarks": [
+      "the Matterhorn (Zermatt)",
+      "the Chapel Bridge (Lucerne)",
+      "the old town of Bern",
+      "the lakes (Lugano, Geneva)"
+    ],
+    "dining": [
+      "fondue",
+      "rösti",
+      "Swiss chocolate",
+      "local cheese (Emmentaler, Gruyère)"
+    ],
+    "activities": [
+      "the Alps (Interlaken, Zermatt)",
+      "Lucerne's Chapel Bridge",
+      "the lakes (Lugano, Geneva)",
+      "Bern's old town"
+    ],
+    "stay": [
+      "Zurich (center)",
+      "Interlaken (Alps base)",
+      "Zermatt (Matterhorn base)"
+    ],
+    "tips": [
+      "Summer: the Alps; the high season is June–August",
+      "The trains are the best way to move — book the Swiss Travel Pass"
+    ],
+    "overview": "The Alpine country of the Matterhorn, the Lucerne's chapel bridge, the quiet, clean center of the Zurich, and the lakes of the Geneva — a scenic, expensive, unforgettable base.",
+    "hotels": [
+      {
+        "name": "Zurich City Center Hotel",
+        "city": "Zurich",
+        "area": "Zurich",
+        "stars": 4,
+        "price": 200,
+        "rating": 4.4,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "ZRH (Zurich)",
+        "notes": "typical center property (sample data)"
+      },
+      {
+        "name": "Interlaken Alpine Hotel",
+        "city": "Interlaken",
+        "area": "Interlaken",
+        "stars": 4,
+        "price": 180,
+        "rating": 4.3,
+        "airport_mi": 90.0,
+        "excursion_mi": 0.5,
+        "airport": "ZRH (Zurich) + 1.5h drive",
+        "notes": "typical Alps base (sample data)"
+      },
+      {
+        "name": "Zermatt Matterhorn Hotel",
+        "city": "Zermatt",
+        "area": "Zermatt",
+        "stars": 4,
+        "price": 250,
+        "rating": 4.5,
+        "airport_mi": 150.0,
+        "excursion_mi": 0.5,
+        "airport": "ZRH (Zurich) + 2.5h drive",
+        "notes": "typical Matterhorn base (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "aliases": [
+      "Ukraine",
+      "Ukrainian"
+    ],
+    "capital": "Kyiv",
+    "destinations": [
+      "Kyiv",
+      "the Lviv",
+      "the Crimea (note: the status is disputed)",
+      "the Carpathians (Uzhhorod)"
+    ],
+    "landmarks": [
+      "the Saint Sophia Cathedral (Kyiv, UNESCO)",
+      "the Lviv (the old town, UNESCO)",
+      "the Carpathians",
+      "the Crimea (the coast)"
+    ],
+    "dining": [
+      "borscht",
+      "the varenyky (dumplings)",
+      "the local beer",
+      "the local wine (the Crimea)"
+    ],
+    "activities": [
+      "the Kyiv (the center)",
+      "the Lviv (the old town)",
+      "the Carpathians (the mountains)",
+      "the Crimea (the coast)"
+    ],
+    "stay": [
+      "Kyiv (center)",
+      "the Lviv (old town)"
+    ],
+    "tips": [
+      "Summer: the Carpathians; the high season is June–August",
+      "The old towns are the highlight — walk them"
+    ],
+    "overview": "A big, varied country: Kyiv's Saint Sophia Cathedral, the old town of the Lviv, the Carpathian Mountains, and the coast of the Crimea (note: the status is disputed — check the current situation).",
+    "hotels": [
+      {
+        "name": "Kyiv City Center Hotel",
+        "city": "Kyiv",
+        "area": "Kyiv",
+        "stars": 4,
+        "price": 90,
+        "rating": 4.1,
+        "airport_mi": 25.0,
+        "excursion_mi": 0.5,
+        "airport": "IEV (Kyiv Boryspil)",
+        "notes": "typical center property (sample data)"
+      },
+      {
+        "name": "Lviv Old Town Hotel",
+        "city": "Lviv",
+        "area": "Lviv",
+        "stars": 3,
+        "price": 80,
+        "rating": 4.0,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "LWO (Lviv)",
+        "notes": "typical old-town property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "aliases": [
+      "UK",
+      "United Kingdom",
+      "Britain",
+      "Great Britain",
+      "England",
+      "Scotland",
+      "Wales"
+    ],
+    "capital": "London",
+    "destinations": [
+      "London",
+      "Edinburgh",
+      "the Lake District",
+      "Cornwall",
+      "the Scottish Highlands",
+      "Wales (the coast)",
+      "the Cotswolds"
+    ],
+    "landmarks": [
+      "the Tower of London",
+      "Edinburgh Castle",
+      "the Lake District's lakes",
+      "the Cornish coast",
+      "the Scottish Highlands"
+    ],
+    "dining": [
+      "fish & chips",
+      "the Sunday roast",
+      "afternoon tea",
+      "local ale & cider"
+    ],
+    "activities": [
+      "London's museums",
+      "Edinburgh Castle",
+      "the Lake District's lakes",
+      "the Scottish Highlands (Glencoe, Isle of Skye)"
+    ],
+    "stay": [
+      "London (center)",
+      "Edinburgh (center)",
+      "the Lake District (Windermere)"
+    ],
+    "tips": [
+      "Summer: the Lake District; the high season is June–August",
+      "The trains are the best way to move — book the railcard"
+    ],
+    "overview": "The island country of the London's museums, the Edinburgh's castle, the Lake District's lakes, the Scotland's Highlands, and the quiet, green, countryside of the Wales and the Cornwall.",
+    "hotels": [
+      {
+        "name": "London City Center Hotel",
+        "city": "London",
+        "area": "London",
+        "stars": 4,
+        "price": 220,
+        "rating": 4.4,
+        "airport_mi": 20.0,
+        "excursion_mi": 0.5,
+        "airport": "LHR (Heathrow)",
+        "notes": "typical center property (sample data)"
+      },
+      {
+        "name": "Edinburgh Castle View Hotel",
+        "city": "Edinburgh",
+        "area": "Edinburgh",
+        "stars": 4,
+        "price": 180,
+        "rating": 4.3,
+        "airport_mi": 15.0,
+        "excursion_mi": 0.5,
+        "airport": "EDI (Edinburgh)",
+        "notes": "typical castle-view property (sample data)"
+      },
+      {
+        "name": "Lake District Hotel",
+        "city": "Windermere",
+        "area": "Lake District",
+        "stars": 3,
+        "price": 140,
+        "rating": 4.2,
+        "airport_mi": 150.0,
+        "excursion_mi": 0.5,
+        "airport": "via Manchester (MAN) or London (LHR)",
+        "notes": "typical lakeside property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Kosovo",
+    "aliases": [
+      "Kosovo",
+      "Republic of Kosovo"
+    ],
+    "capital": "Pristina",
+    "destinations": [
+      "Pristina",
+      "Prizren",
+      "Gjakova (Gjakovë)",
+      "the Dukagjini highlands",
+      "Uroševac (fortress)"
+    ],
+    "landmarks": [
+      "Prizren's old town",
+      "Gjakova's old town",
+      "the Dukagjini highlands",
+      "Uroševac (the old fortress)"
+    ],
+    "dining": [
+      "the burek",
+      "the ćevapi",
+      "the local coffee",
+      "the local wine (the hills)"
+    ],
+    "activities": [
+      "the Prizren (the old town)",
+      "the Gjakova (the old town)",
+      "the Plav (the lakes)",
+      "the castles (the hills)"
+    ],
+    "stay": [
+      "Pristina (center)",
+      "the Prizren (old town)"
+    ],
+    "tips": [
+      "Summer: the old towns; the high season is June–August",
+      "The old towns are the highlight — walk them"
+    ],
+    "overview": "A small, young country of the old towns of the Prizren and the Gjakova, the quiet lakes of the Plav, and the hills and castles of the interior — a scenic, affordable, food-rich base.",
+    "hotels": [
+      {
+        "name": "Pristina City Center Hotel",
+        "city": "Pristina",
+        "area": "Pristina",
+        "stars": 3,
+        "price": 75,
+        "rating": 4.0,
+        "airport_mi": 10.0,
+        "excursion_mi": 0.5,
+        "airport": "PRN (Pristina)",
+        "notes": "typical city property (sample data)"
+      },
+      {
+        "name": "Prizren Old Town Hotel",
+        "city": "Prizren",
+        "area": "Prizren",
+        "stars": 3,
+        "price": 70,
+        "rating": 4.0,
+        "airport_mi": 60.0,
+        "excursion_mi": 0.5,
+        "airport": "PRN (Pristina) + 1h drive",
+        "notes": "typical old-town property (sample data)"
+      }
+    ]
+  },
+  {
+    "name": "Vatican City",
+    "aliases": [
+      "Vatican",
+      "Vatican City State",
+      "the Vatican"
+    ],
+    "capital": "Vatican City",
+    "destinations": [
+      "St. Peter's Basilica",
+      "the Vatican Museums",
+      "the Sistine Chapel",
+      "the St. Peter's Square"
+    ],
+    "landmarks": [
+      "St. Peter's Basilica",
+      "the Vatican Museums (the Sistine Chapel)",
+      "the St. Peter's Square",
+      "the Vatican Gardens"
+    ],
+    "dining": [
+      "the Italian (the border — Rome)",
+      "the Vatican (the museum café)"
+    ],
+    "activities": [
+      "the Vatican Museums (the Sistine Chapel)",
+      "St. Peter's Basilica",
+      "the St. Peter's Square",
+      "the Vatican Gardens"
+    ],
+    "stay": [
+      "Rome (the border — the hotels are in Rome)"
+    ],
+    "tips": [
+      "The Vatican is inside Rome — the hotels are in Rome",
+      "The museums are the highlight — book early (the Sistine Chapel is crowded)"
+    ],
+    "overview": "The world's smallest country: St. Peter's Basilica, the Vatican Museums and the Sistine Chapel, and the St. Peter's Square — a tiny, historic, religious base inside Rome.",
+    "hotels": [
+      {
+        "name": "Vatican Area Hotel (Rome)",
+        "city": "Rome",
+        "area": "Vatican Area",
+        "stars": 4,
+        "price": 200,
+        "rating": 4.3,
+        "airport_mi": 20.0,
+        "excursion_mi": 0.5,
+        "airport": "FCO (Rome Fiumicino)",
+        "notes": "typical Rome property near the Vatican (sample data)"
+      }
+    ]
+  }
+]
