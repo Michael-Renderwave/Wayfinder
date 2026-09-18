@@ -26,7 +26,7 @@ import re
 import unicodedata
 from typing import Dict, List, Optional, Tuple
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.path.dirname(os.path.abspath(__file__))
 WORLD_PATH = os.path.join(ROOT, "data", "world.json")
 
 # Curated seed destinations (always present, even before the world build).

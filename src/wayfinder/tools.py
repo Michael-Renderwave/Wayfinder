@@ -444,7 +444,7 @@ _world_cache: Optional[Dict[str, Any]] = None    # module cache of data/world.js
 
 
 def _seasons_root() -> str:
-    return os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    return os.path.dirname(os.path.abspath(__file__))
 
 
 def _load_seasons() -> Dict[str, Any]:

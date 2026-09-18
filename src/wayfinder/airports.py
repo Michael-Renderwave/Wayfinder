@@ -31,7 +31,7 @@ import os
 import threading
 from typing import Any, Dict, List, Optional, Tuple
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA_PATH = os.path.join(ROOT, "data", "airports.json")
 WORLD_PATH = os.path.join(ROOT, "data", "world.json")
 
