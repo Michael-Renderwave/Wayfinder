@@ -1,0 +1,15 @@
+[project]
+name = "wayfinder"
+version = "1.0.0"
+description = "Travel research agent — ReAct loop over a cited knowledge base, key-free live tools, and guardrails"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.115.0",
+    "mcp>=2.0.0",
+    "uvicorn>=0.30.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

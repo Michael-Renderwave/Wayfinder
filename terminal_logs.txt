@@ -1,0 +1,85 @@
+micahel@Michael wayfinder % ls
+LICENSE  README.md  claude_conversations  pyproject.toml  src  uv.lock
+
+micahel@Michael wayfinder % uv lock
+Using CPython 3.13.7 interpreter at: C:\Users\mhick\AppData\Local\Programs\Python\Python313\python.exe
+Resolved 14 packages in 525ms
+
+micahel@Michael wayfinder % uv sync
+Using CPython 3.13.7 interpreter at: C:\Users\mhick\AppData\Local\Programs\Python\Python313\python.exe
+Creating virtual environment at: .venv
+Resolved 14 packages in 1ms
+Downloading pydantic-core (1.9MiB)
+ Downloaded pydantic-core
+Prepared 13 packages in 806ms
+Installed 13 packages in 57ms
+ + annotated-doc==0.0.5
+ + annotated-types==0.8.0
+ + anyio==4.15.1
+ + click==8.5.0
+ + fastapi==0.141.1
+ + h11==0.16.0
+ + idna==3.20
+ + pydantic==2.13.5
+ + pydantic-core==2.46.5
+ + starlette==1.6.0
+ + typing-extensions==4.16.0
+ + typing-inspection==0.4.4
+ + uvicorn==0.53.0
+   Building wayfinder @ file:///C:/Users/mhick/.lmstudio/apps/bionic/projects/d49037d8-47f4-5808-9028-c707de117f8f/workspace/wayfinder
+      Built wayfinder @ file:///C:/Users/mhick/.lmstudio/apps/bionic/projects/d49037d8-47f4-5808-9028-c707de117f8f/workspace/wayfinder
+Prepared 1 package in 914ms
+Installed 1 package in 4ms
+ + wayfinder==1.0.0 (from file:///C:/Users/mhick/.lmstudio/apps/bionic/projects/d49037d8-47f4-5808-9028-c707de117f8f/workspace/wayfinder)
+
+micahel@Michael wayfinder % uv run python -m wayfinder
+(serving http://localhost:8000 — first run builds the vector index: 400 docs, 2297 chunks)
+
+micahel@Michael wayfinder % curl -s http://localhost:8000/api/health
+{"ok":true,"mode":"heuristic","llm":"disabled (heuristic planner)","kb":{"documents":400,"chunks":2297,"dimensions":512,"doc_list":[{"id":"01_cayman_george_town_shops.md","title":"George Town, Grand Cayman — Shops & Gift Guide","tier":"primary","date":"2026-06-15","source":"Visit Cayman Islands (o...
+
+micahel@Michael wayfinder % curl -N -X POST http://localhost:8000/api/query \
+     -H "Content-Type: application/json" \
+     -d '{"query":"Plan a 5 day trip to the Cayman Islands from Miami Sep 12 2026, budget $2500, with flights and where to stay","mode":"agent"}'
+data: {"type": "memory", "ts": "22:30:56", "kind": "episodic", "note": "Cache hit: a prior query matched this goal ('Plan a 5 day trip to the Cayman Islands from Miami Sep 12 2026, budget $2500, with flights and where to stay'). Reusing its lookup path and keeping the best results."}
+data: {"type": "memory", "ts": "22:30:56", "kind": "history", "note": "You've asked about Cayman Islands 1× before (most recent: \"Plan a 5 day trip to the Cayman Islands from Miami Sep 12 20\", logged 2026-09-17T22:25:28). Carrying that context forward."}
+data: {"type": "thought", "ts": "22:30:56", "step": 1, "text": "The user wants MIA -> Cayman Islands flight options around 2026-09-12 within a $2500 budget. First act: run SearchFlight() against the schedule."}
+data: {"type": "action", "ts": "22:30:56", "step": 1, "tool": "search_flights", "input": {"origin": "MIA", "destination": "GCM", "date": "2026-09-12"}}
+data: {"type": "observation", "ts": "22:30:56", "step": 1, "tool": "search_flights", "observation": "search_flights(MIA -> GCM, 2026-09-12) -> 1 flights"}
+data: {"type": "thought", "ts": "22:30:56", "step": 2, "text": "I need grounded, traceable facts about Cayman Islands for: flights, hotels, dining, shopping, safety, transport. Act: hard search the vector store (recursive-chunk index) for the best evidence. Episodic memory has a near-duplicate prior query, so I keep this to a single broad pass (beam budget, CP 4.1)."}
+data: {"type": "action", "ts": "22:30:56", "step": 2, "tool": "search_kb", "input": {"query": "Cayman Islands George Town Grand Cayman dining restaurant restaurants shop shops shopping safety safe crime budget prices cost", "k": 8}}
+data: {"type": "observation", "ts": "22:30:56", "step": 2, "tool": "search_kb", "observation": "search_kb('Cayman Islands George Town Grand Cayman dining restaurant restaurants shop shops shopping safety safe crime budget prices cost') -> 3 kept, 127 set aside; best: 'George Town, Grand Cayman — Shops & Gift Guide' (score 0.7225)"}
+… (stream continues: 8 thought→act→observe steps, 127 pruned candidates,
+    then the briefing — the formatted session is in claude_conversations/)
+
+
+# --- MCP server (matches the Agentic-System-Demo .mcp.json pattern) ---
+
+micahel@Michael wayfinder % uv sync
+Using CPython 3.13.7 interpreter at: C:\Users\mhick\AppData\Local\Programs\Python\Python313\python.exe
+Creating virtual environment at: .venv
+Resolved 33 packages in 0.65ms
+Installed 32 packages in 186ms
+ + anyio==4.15.1
+ + fastapi==0.141.1
+ + mcp==2.2.0
+ + mcp-types==2.2.0
+ + pydantic==2.13.5
+ + starlette==1.6.0
+ + uvicorn==0.53.0
+ + wayfinder==1.0.0
+ … (32 packages total — full list in uv.lock)
+
+micahel@Michael wayfinder % uv run python -m wayfinder.mcp
+(stdio MCP server — prints nothing, waits for a client on stdin)
+
+micahel@Michael wayfinder % uv run python mcp_client_test.py
+# throwaway MCP client: connects over stdio, lists tools, calls two tools,
+# asserts the ToolSuccess envelope (script not shipped — see .mcp.json for the real entry point)
+connected: server='wayfinder'
+tools (11): advanced_search, best_time, book_ticket, local_places, luxury_experiences, plan_trip, search_flights, search_hotels, search_kb, travel_safety, web_search
+travel_safety -> travel_safety('Cayman Islands') -> Cayman Islands (KY) Level 1 (Exercise normal precautions) [confirmed]
+  level: 1 | Exercise normal precautions | confirmed
+search_flights MIA->GCM -> 3 options; obs: search_flights(MIA -> GCM, any date) -> 3 flights
+
+MCP END-TO-END TEST PASSED

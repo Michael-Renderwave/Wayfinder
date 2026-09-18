@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "wayfinder": {
+      "command": "uv",
+      "args": [
+        "run",
+        "python",
+        "-m",
+        "wayfinder.mcp"
+      ]
+    }
+  }
+}
